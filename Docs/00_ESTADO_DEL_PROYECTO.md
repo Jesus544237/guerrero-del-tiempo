@@ -74,8 +74,11 @@ AnimationClips + `Ekkar.controller`.
 Construidos por código con parallax, suelo con colisión, props, checkpoints,
 música por era y partículas propias que **se revelan gradualmente**.
 
-- Medieval, Industrial y Futuro: recorrido lateral de 82 unidades, con relevo
-  de telón al final (la ciudad lejana se disuelve y aparece la estructura grande).
+- Medieval, Industrial y Futuro: recorrido lateral de **140 unidades**
+  (`LevelDef.length` en `LevelSceneBuilder.cs`), con relevo de telón al final
+  (la ciudad lejana se disuelve y aparece la estructura grande). Se amplió de 82
+  a 140 para que cupieran los obstáculos ilustrados; ver
+  `Docs/02_Obstaculos_y_Particulas.md`.
 - **Hora Cero:** arena de 58 unidades con los **tres telones fijos uno al lado
   del otro** (x = 9.6, 28.9, 48.2), recorribles a pie.
 
