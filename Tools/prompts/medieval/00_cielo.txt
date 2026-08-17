@@ -1,0 +1,9 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: the far sky layer of a side-scrolling platformer set in a medieval kingdom where time has stopped. A huge blood-red moon caught halfway through an eclipse, its shadow line frozen mid-transit. Torn purple storm clouds that do not move. A scatter of cold stars. Faint cyan aurora ribbons bleeding across the upper sky like cracks in glass. A few golden clock gears drift very far away, tiny, catching the moonlight.
+
+COMPOSITION: pure background plate, empty in the lower third so the terrain layers can sit on top. Nothing in sharp focus, everything atmospheric and distant. Horizontal composition that reads well when scrolled slowly.
+
+Hard requirements: no characters, no creatures, no ground, no buildings, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9.

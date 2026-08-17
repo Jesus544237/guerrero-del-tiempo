@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: cba6178871a84e24babdd1bdf939249e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 364910174425441027
+    second: soldado_hueso_dano_0
+  - first:
+      213: -1122560594249855741
+    second: soldado_hueso_dano_1
+  - first:
+      213: 5974249183920442954
+    second: soldado_hueso_dano_2
+  - first:
+      213: -7345654833791805949
+    second: soldado_hueso_dano_3
+  - first:
+      213: 3490863123230877324
+    second: soldado_hueso_dano_4
+  - first:
+      213: -2167150223507645110
+    second: soldado_hueso_dano_5
+  - first:
+      213: 29584722138631308
+    second: soldado_hueso_dano_6
+  - first:
+      213: -4434776549370004826
+    second: soldado_hueso_dano_7
+  - first:
+      213: 12453296921994656
+    second: soldado_hueso_dano_8
+  - first:
+      213: 1631849946132834614
+    second: soldado_hueso_dano_9
+  - first:
+      213: 6097841637379580407
+    second: soldado_hueso_dano_10
+  - first:
+      213: -8264949146088432879
+    second: soldado_hueso_dano_11
+  - first:
+      213: -1757608385469196701
+    second: soldado_hueso_dano_12
+  - first:
+      213: -8580651483366957028
+    second: soldado_hueso_dano_13
+  - first:
+      213: -2943442461800885472
+    second: soldado_hueso_dano_14
+  - first:
+      213: -2427651544546398470
+    second: soldado_hueso_dano_15
+  - first:
+      213: -2846821979513296040
+    second: soldado_hueso_dano_16
+  - first:
+      213: -3341693911548848376
+    second: soldado_hueso_dano_17
+  - first:
+      213: 6534970766015370829
+    second: soldado_hueso_dano_18
+  - first:
+      213: 4553841667496999206
+    second: soldado_hueso_dano_19
+  - first:
+      213: 243272451491960107
+    second: soldado_hueso_dano_20
+  - first:
+      213: -4087583298898726813
+    second: soldado_hueso_dano_21
+  - first:
+      213: -4364304980100799471
+    second: soldado_hueso_dano_22
+  - first:
+      213: 8868945835296419146
+    second: soldado_hueso_dano_23
+  - first:
+      213: 7763813727351538735
+    second: soldado_hueso_dano_24
+  - first:
+      213: 4503012631329626495
+    second: soldado_hueso_dano_25
+  - first:
+      213: -7902002200260631415
+    second: soldado_hueso_dano_26
+  - first:
+      213: 7162249730959197191
+    second: soldado_hueso_dano_27
+  - first:
+      213: 8574181827488756229
+    second: soldado_hueso_dano_28
+  - first:
+      213: 5291406057502102706
+    second: soldado_hueso_dano_29
+  - first:
+      213: 2326048533836071501
+    second: soldado_hueso_dano_30
+  - first:
+      213: -4126642126960459230
+    second: soldado_hueso_dano_31
+  - first:
+      213: 3461463471854258747
+    second: soldado_hueso_dano_32
+  - first:
+      213: 8194196374329169693
+    second: soldado_hueso_dano_33
+  - first:
+      213: -2608709275701779550
+    second: soldado_hueso_dano_34
+  - first:
+      213: -2256763572664924032
+    second: soldado_hueso_dano_35
+  - first:
+      213: -6805759919500458809
+    second: soldado_hueso_dano_36
+  - first:
+      213: -8351833239674395157
+    second: soldado_hueso_dano_37
+  - first:
+      213: 5153229941705834237
+    second: soldado_hueso_dano_38
+  - first:
+      213: -2711892529382835088
+    second: soldado_hueso_dano_39
+  - first:
+      213: -5693115475952506464
+    second: soldado_hueso_dano_40
+  - first:
+      213: 754859907919488674
+    second: soldado_hueso_dano_41
+  - first:
+      213: 6680518709386865971
+    second: soldado_hueso_dano_42
+  - first:
+      213: -8947394197311690081
+    second: soldado_hueso_dano_43
+  - first:
+      213: 1215389138334022484
+    second: soldado_hueso_dano_44
+  - first:
+      213: 6921876063867586459
+    second: soldado_hueso_dano_45
+  - first:
+      213: 6943891060430244852
+    second: soldado_hueso_dano_46
+  - first:
+      213: -6430772602880512963
+    second: soldado_hueso_dano_47
+  - first:
+      213: -2964154092574737935
+    second: soldado_hueso_dano_48
+  - first:
+      213: 8994861028442908099
+    second: soldado_hueso_dano_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldado_hueso_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 424
+        height: 222
+      alignment: 9
+      pivot: {x: 0.613208, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337cd2de3329c94eae4d9c9bfd1a47a
+      internalID: -374764980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_dano_01
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 424
+        height: 222
+      alignment: 9
+      pivot: {x: 0.613208, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28179647a839d8546ae9d936fa06d284
+      internalID: -2139493064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_dano_02
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 424
+        height: 222
+      alignment: 9
+      pivot: {x: 0.613208, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ef81adffb69e48aa52d2d46f7cb21
+      internalID: -2097566631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_dano_03
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 424
+        height: 222
+      alignment: 9
+      pivot: {x: 0.613208, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c856f709fbc934798f99a73013e75c
+      internalID: -1781387012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_dano_04
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 424
+        height: 222
+      alignment: 9
+      pivot: {x: 0.613208, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec077aabb15355a4f9baa17b11c131f4
+      internalID: -773507852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_dano_05
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 424
+        height: 222
+      alignment: 9
+      pivot: {x: 0.613208, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c85ed2b517ca4dbff87cb4b20270d
+      internalID: -1609645418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d087b4c98d26dbe45a441c351191eb66
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soldado_hueso_dano_00: -374764980
+      soldado_hueso_dano_01: -2139493064
+      soldado_hueso_dano_02: -2097566631
+      soldado_hueso_dano_03: -1781387012
+      soldado_hueso_dano_04: -773507852
+      soldado_hueso_dano_05: -1609645418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

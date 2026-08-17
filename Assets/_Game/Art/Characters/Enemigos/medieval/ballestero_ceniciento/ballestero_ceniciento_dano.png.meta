@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 328f5bcb0b167004f966d9e46569fc80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7562103554266573163
+    second: ballestero_ceniciento_dano_0
+  - first:
+      213: 2405715918027305217
+    second: ballestero_ceniciento_dano_1
+  - first:
+      213: 1177965098576182770
+    second: ballestero_ceniciento_dano_2
+  - first:
+      213: 4816893211046275610
+    second: ballestero_ceniciento_dano_3
+  - first:
+      213: -8512957073023164126
+    second: ballestero_ceniciento_dano_4
+  - first:
+      213: -5647323782596839195
+    second: ballestero_ceniciento_dano_5
+  - first:
+      213: -7396451634253488219
+    second: ballestero_ceniciento_dano_6
+  - first:
+      213: 1313643151665945353
+    second: ballestero_ceniciento_dano_7
+  - first:
+      213: -6196806155043694974
+    second: ballestero_ceniciento_dano_8
+  - first:
+      213: 6595891466954692440
+    second: ballestero_ceniciento_dano_9
+  - first:
+      213: -8190139221544971475
+    second: ballestero_ceniciento_dano_10
+  - first:
+      213: -3825703746882189085
+    second: ballestero_ceniciento_dano_11
+  - first:
+      213: -4390673976337713354
+    second: ballestero_ceniciento_dano_12
+  - first:
+      213: 4807884623908402607
+    second: ballestero_ceniciento_dano_13
+  - first:
+      213: 2708055984315921890
+    second: ballestero_ceniciento_dano_14
+  - first:
+      213: -6305646965432001272
+    second: ballestero_ceniciento_dano_15
+  - first:
+      213: -4354665807111055210
+    second: ballestero_ceniciento_dano_16
+  - first:
+      213: -9094993655274296387
+    second: ballestero_ceniciento_dano_17
+  - first:
+      213: 2446378056561895645
+    second: ballestero_ceniciento_dano_18
+  - first:
+      213: 4517936276202085530
+    second: ballestero_ceniciento_dano_19
+  - first:
+      213: 8991389610087940516
+    second: ballestero_ceniciento_dano_20
+  - first:
+      213: 620280821076887595
+    second: ballestero_ceniciento_dano_21
+  - first:
+      213: 92566208848247947
+    second: ballestero_ceniciento_dano_22
+  - first:
+      213: -8392393888088292187
+    second: ballestero_ceniciento_dano_23
+  - first:
+      213: -4909080333530520881
+    second: ballestero_ceniciento_dano_24
+  - first:
+      213: -6331257329535633356
+    second: ballestero_ceniciento_dano_25
+  - first:
+      213: 9055228922077637019
+    second: ballestero_ceniciento_dano_26
+  - first:
+      213: 7620416707246403786
+    second: ballestero_ceniciento_dano_27
+  - first:
+      213: 3009072870988639133
+    second: ballestero_ceniciento_dano_28
+  - first:
+      213: -5404341992508135487
+    second: ballestero_ceniciento_dano_29
+  - first:
+      213: 7800540831214749303
+    second: ballestero_ceniciento_dano_30
+  - first:
+      213: -8270399886809713833
+    second: ballestero_ceniciento_dano_31
+  - first:
+      213: 1137308827951421261
+    second: ballestero_ceniciento_dano_32
+  - first:
+      213: -5257491181473061501
+    second: ballestero_ceniciento_dano_33
+  - first:
+      213: 5943914296309035570
+    second: ballestero_ceniciento_dano_34
+  - first:
+      213: -6030716526332026817
+    second: ballestero_ceniciento_dano_35
+  - first:
+      213: 4778455261363781702
+    second: ballestero_ceniciento_dano_36
+  - first:
+      213: 8645052276730043100
+    second: ballestero_ceniciento_dano_37
+  - first:
+      213: -8199782266922670239
+    second: ballestero_ceniciento_dano_38
+  - first:
+      213: -7440107107073253635
+    second: ballestero_ceniciento_dano_39
+  - first:
+      213: -2848672399638766630
+    second: ballestero_ceniciento_dano_40
+  - first:
+      213: -7883740530562829068
+    second: ballestero_ceniciento_dano_41
+  - first:
+      213: -412527424246582036
+    second: ballestero_ceniciento_dano_42
+  - first:
+      213: -3206180140029453318
+    second: ballestero_ceniciento_dano_43
+  - first:
+      213: -2662866799923571034
+    second: ballestero_ceniciento_dano_44
+  - first:
+      213: -6564152945042211498
+    second: ballestero_ceniciento_dano_45
+  - first:
+      213: -6892229095160405052
+    second: ballestero_ceniciento_dano_46
+  - first:
+      213: -473814479492913622
+    second: ballestero_ceniciento_dano_47
+  - first:
+      213: 1463148777007232931
+    second: ballestero_ceniciento_dano_48
+  - first:
+      213: -4229336299504260401
+    second: ballestero_ceniciento_dano_49
+  - first:
+      213: 7237803135184900358
+    second: ballestero_ceniciento_dano_50
+  - first:
+      213: -2515910484622148602
+    second: ballestero_ceniciento_dano_51
+  - first:
+      213: -6220866915029195167
+    second: ballestero_ceniciento_dano_52
+  - first:
+      213: 3478767027055983156
+    second: ballestero_ceniciento_dano_53
+  - first:
+      213: -1122034508881526893
+    second: ballestero_ceniciento_dano_54
+  - first:
+      213: -1197984310668246871
+    second: ballestero_ceniciento_dano_55
+  - first:
+      213: 883710843875764858
+    second: ballestero_ceniciento_dano_56
+  - first:
+      213: -4654587868692953574
+    second: ballestero_ceniciento_dano_57
+  - first:
+      213: -7213698118502284307
+    second: ballestero_ceniciento_dano_58
+  - first:
+      213: -605921357838302827
+    second: ballestero_ceniciento_dano_59
+  - first:
+      213: 3998432476310083884
+    second: ballestero_ceniciento_dano_60
+  - first:
+      213: -1828725279565064699
+    second: ballestero_ceniciento_dano_61
+  - first:
+      213: 2997282992213538446
+    second: ballestero_ceniciento_dano_62
+  - first:
+      213: -6206151976454275685
+    second: ballestero_ceniciento_dano_63
+  - first:
+      213: 4318795355570981774
+    second: ballestero_ceniciento_dano_64
+  - first:
+      213: 172172191991010708
+    second: ballestero_ceniciento_dano_65
+  - first:
+      213: 7260202068890217386
+    second: ballestero_ceniciento_dano_66
+  - first:
+      213: -7258945131006048967
+    second: ballestero_ceniciento_dano_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ballestero_ceniciento_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 426
+        height: 244
+      alignment: 9
+      pivot: {x: 0.553991, y: 0.016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf4ec49aecb5d4f849be25e339cd3f
+      internalID: 232299066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_dano_01
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 426
+        height: 244
+      alignment: 9
+      pivot: {x: 0.553991, y: 0.016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd302ebdbd5294c91ad945e3c0b3cf
+      internalID: 523528998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_dano_02
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 426
+        height: 244
+      alignment: 9
+      pivot: {x: 0.553991, y: 0.016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b924cf817d2b46243a288244a11cff8d
+      internalID: 470420968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_dano_03
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 426
+        height: 244
+      alignment: 9
+      pivot: {x: 0.553991, y: 0.016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b18d011015dd54f8da2c356bca252a
+      internalID: 1377465186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_dano_04
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 426
+        height: 244
+      alignment: 9
+      pivot: {x: 0.553991, y: 0.016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d99bf981b996046811d3d1f2833d95
+      internalID: 641731469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_dano_05
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 426
+        height: 244
+      alignment: 9
+      pivot: {x: 0.553991, y: 0.016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327aff55c8a0ee14db1e1a7f13863353
+      internalID: -290518541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 965b6d17070d19c48b86b2d2ea7c9080
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ballestero_ceniciento_dano_00: 232299066
+      ballestero_ceniciento_dano_01: 523528998
+      ballestero_ceniciento_dano_02: 470420968
+      ballestero_ceniciento_dano_03: 1377465186
+      ballestero_ceniciento_dano_04: 641731469
+      ballestero_ceniciento_dano_05: -290518541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/Scenes/00_Intro.unity
+    guid: 6e197aeb81013644cb4d2e0526b0e7b2
+  - enabled: 1
+    path: Assets/_Game/Scenes/MainMenu.unity
+    guid: ac776ca93dbc38240a40d6064ccc50f9
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_Game/Scenes/01_EdadMedia_SitioEterno.unity
+    guid: 5377acd5390177a4e937ae301a256feb
+  - enabled: 1
+    path: Assets/_Game/Scenes/02_EraIndustrial_FundicionDeLasHoras.unity
+    guid: 2faca39b5d3a0f1458719115a55696d5
+  - enabled: 1
+    path: Assets/_Game/Scenes/03_FuturoDigital_NeonSinManana.unity
+    guid: c0affe9f1ea7cce4ea54ecd7cbfe5018
+  - enabled: 1
+    path: Assets/_Game/Scenes/04_HoraCero_VacioEntreSegundos.unity
+    guid: 8a46ffd2c3e9b4b4d95f2e9b1e96decb
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

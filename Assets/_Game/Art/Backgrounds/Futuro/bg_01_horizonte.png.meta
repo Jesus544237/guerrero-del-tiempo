@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: dd641f96268b71440a07a9d4d82fbd48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5135616727669411556
+    second: bg_01_horizonte_0
+  - first:
+      213: 7240106523774180624
+    second: bg_01_horizonte_1
+  - first:
+      213: -2997804061585944735
+    second: bg_01_horizonte_2
+  - first:
+      213: -6100089329125338951
+    second: bg_01_horizonte_3
+  - first:
+      213: 2794155140221399833
+    second: bg_01_horizonte_4
+  - first:
+      213: -3306426622405781494
+    second: bg_01_horizonte_5
+  - first:
+      213: 7610549015493983111
+    second: bg_01_horizonte_6
+  - first:
+      213: -6155806583550163588
+    second: bg_01_horizonte_7
+  - first:
+      213: 3521959383235065173
+    second: bg_01_horizonte_8
+  - first:
+      213: -8896452113992140409
+    second: bg_01_horizonte_9
+  - first:
+      213: -5653575146595607074
+    second: bg_01_horizonte_10
+  - first:
+      213: 3826269254106574558
+    second: bg_01_horizonte_11
+  - first:
+      213: 5062893424865456255
+    second: bg_01_horizonte_12
+  - first:
+      213: -8579518126780779216
+    second: bg_01_horizonte_13
+  - first:
+      213: 7916123799324383637
+    second: bg_01_horizonte_14
+  - first:
+      213: 9117467299212316179
+    second: bg_01_horizonte_15
+  - first:
+      213: 7526493023446042084
+    second: bg_01_horizonte_16
+  - first:
+      213: -2859257740478399263
+    second: bg_01_horizonte_17
+  - first:
+      213: -5321756167648370871
+    second: bg_01_horizonte_18
+  - first:
+      213: -3949180117327931477
+    second: bg_01_horizonte_19
+  - first:
+      213: -2587381459566812284
+    second: bg_01_horizonte_20
+  - first:
+      213: -6963070612259367849
+    second: bg_01_horizonte_21
+  - first:
+      213: 4290989155184260540
+    second: bg_01_horizonte_22
+  - first:
+      213: -6309496900089103826
+    second: bg_01_horizonte_23
+  - first:
+      213: 4094509134321299189
+    second: bg_01_horizonte_24
+  - first:
+      213: -2264810621434802744
+    second: bg_01_horizonte_25
+  - first:
+      213: 7289983257676409356
+    second: bg_01_horizonte_26
+  - first:
+      213: 3219604788808748756
+    second: bg_01_horizonte_27
+  - first:
+      213: -2097187513809552622
+    second: bg_01_horizonte_28
+  - first:
+      213: 1752989999284443946
+    second: bg_01_horizonte_29
+  - first:
+      213: -5630480716254576438
+    second: bg_01_horizonte_30
+  - first:
+      213: 6058329714846489683
+    second: bg_01_horizonte_31
+  - first:
+      213: 5853803035992578717
+    second: bg_01_horizonte_32
+  - first:
+      213: -1475739319839223080
+    second: bg_01_horizonte_33
+  - first:
+      213: -7013003176468451306
+    second: bg_01_horizonte_34
+  - first:
+      213: 4516672780694143189
+    second: bg_01_horizonte_35
+  - first:
+      213: -1458802701413682553
+    second: bg_01_horizonte_36
+  - first:
+      213: -5702123744985074398
+    second: bg_01_horizonte_37
+  - first:
+      213: 2663638454558157464
+    second: bg_01_horizonte_38
+  - first:
+      213: -653077932732987521
+    second: bg_01_horizonte_39
+  - first:
+      213: -8967974095687651634
+    second: bg_01_horizonte_40
+  - first:
+      213: 5334531013840471003
+    second: bg_01_horizonte_41
+  - first:
+      213: 4616049229664411545
+    second: bg_01_horizonte_42
+  - first:
+      213: 486143530690206321
+    second: bg_01_horizonte_43
+  - first:
+      213: -6755478983532192448
+    second: bg_01_horizonte_44
+  - first:
+      213: 5043309251926833743
+    second: bg_01_horizonte_45
+  - first:
+      213: 5234372322187466397
+    second: bg_01_horizonte_46
+  - first:
+      213: -2099820805905367532
+    second: bg_01_horizonte_47
+  - first:
+      213: 6699533658960582861
+    second: bg_01_horizonte_48
+  - first:
+      213: -7028229521219237682
+    second: bg_01_horizonte_49
+  - first:
+      213: 4737751154477006008
+    second: bg_01_horizonte_50
+  - first:
+      213: -8291456089008772116
+    second: bg_01_horizonte_51
+  - first:
+      213: 5403501644141662684
+    second: bg_01_horizonte_52
+  - first:
+      213: -7965559877102702641
+    second: bg_01_horizonte_53
+  - first:
+      213: 7616288065927858582
+    second: bg_01_horizonte_54
+  - first:
+      213: -6528064035431823432
+    second: bg_01_horizonte_55
+  - first:
+      213: 728530080340311094
+    second: bg_01_horizonte_56
+  - first:
+      213: 5694476001330094333
+    second: bg_01_horizonte_57
+  - first:
+      213: 3286238547989516534
+    second: bg_01_horizonte_58
+  - first:
+      213: 7086354332754712
+    second: bg_01_horizonte_59
+  - first:
+      213: 4671290149600857773
+    second: bg_01_horizonte_60
+  - first:
+      213: 2423153136505277003
+    second: bg_01_horizonte_61
+  - first:
+      213: -2546804912718539657
+    second: bg_01_horizonte_62
+  - first:
+      213: 98898635636696377
+    second: bg_01_horizonte_63
+  - first:
+      213: -3194211871187898605
+    second: bg_01_horizonte_64
+  - first:
+      213: 1310189961277974224
+    second: bg_01_horizonte_65
+  - first:
+      213: 4492215492052110107
+    second: bg_01_horizonte_66
+  - first:
+      213: -4767135047915070608
+    second: bg_01_horizonte_67
+  - first:
+      213: 1926690648237601334
+    second: bg_01_horizonte_68
+  - first:
+      213: -3273257214654969937
+    second: bg_01_horizonte_69
+  - first:
+      213: -7017300384100375358
+    second: bg_01_horizonte_70
+  - first:
+      213: -5331727144219568034
+    second: bg_01_horizonte_71
+  - first:
+      213: -379249687638789699
+    second: bg_01_horizonte_72
+  - first:
+      213: -367616110158394276
+    second: bg_01_horizonte_73
+  - first:
+      213: -2720675814216930697
+    second: bg_01_horizonte_74
+  - first:
+      213: -8345908348133824370
+    second: bg_01_horizonte_75
+  - first:
+      213: 6153911784441395940
+    second: bg_01_horizonte_76
+  - first:
+      213: -2149774350823800800
+    second: bg_01_horizonte_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_01_horizonte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 792
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee0a434430654740800000000000000
+      internalID: 5135616727669411556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 83
+        width: 557
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5c8d06860a7460800000000000000
+      internalID: 7240106523774180624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_2
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 482
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f42fac619a566d0800000000000000
+      internalID: -2997804061585944735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_3
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 195
+        width: 607
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b055572311285ba0800000000000000
+      internalID: -6100089329125338951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_4
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 195
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9137a34cb45d6c620800000000000000
+      internalID: 2794155140221399833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_5
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 195
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08db9f41863d12d0800000000000000
+      internalID: -3306426622405781494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_6
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 187
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bb736d10a1e9960800000000000000
+      internalID: 7610549015493983111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_7
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 188
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754b71f68e229aa0800000000000000
+      internalID: -6155806583550163588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 106
+        width: 23
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555741f166380e030800000000000000
+      internalID: 3521959383235065173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 90
+        width: 252
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789b93010f3798480800000000000000
+      internalID: -8896452113992140409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_10
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd113cab577a81b0800000000000000
+      internalID: -5653575146595607074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_11
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 183
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede650a3d93a91530800000000000000
+      internalID: 3826269254106574558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_12
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7034ccdeb2034640800000000000000
+      internalID: 5062893424865456255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_13
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 182
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f43d48bd6fe880800000000000000
+      internalID: -8579518126780779216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_14
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 182
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599deb077a8bbdd60800000000000000
+      internalID: 7916123799324383637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_15
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e4ac4c330c78e70800000000000000
+      internalID: 9117467299212316179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_16
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 83
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e505fa1789737860800000000000000
+      internalID: 7526493023446042084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_17
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 70
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecbf79eb30e158d0800000000000000
+      internalID: -2859257740478399263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_18
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 95
+        width: 135
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f131e16f25526b0800000000000000
+      internalID: -5321756167648370871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 98
+        width: 23
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba712a06b91b139c0800000000000000
+      internalID: -3949180117327931477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_20
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 183
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483a6146546c71cd0800000000000000
+      internalID: -2587381459566812284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_21
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 182
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754915a8b243e5f90800000000000000
+      internalID: -6963070612259367849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_22
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 171
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5bfc9e6e7ac8b30800000000000000
+      internalID: 4290989155184260540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_23
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 170
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ab2ce9ff92078a0800000000000000
+      internalID: -6309496900089103826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_24
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe20d03d5e92d830800000000000000
+      internalID: 4094509134321299189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_25
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 170
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc8d14db6c190e0800000000000000
+      internalID: -2264810621434802744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_26
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 170
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ae85c16293b2560800000000000000
+      internalID: 7289983257676409356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_27
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 171
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de871a4f755eac20800000000000000
+      internalID: 3219604788808748756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_28
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 171
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b3ffb411b45e2e0800000000000000
+      internalID: -2097187513809552622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_29
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b592add1fd35810800000000000000
+      internalID: 1752989999284443946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_30
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac085f0ce938cd1b0800000000000000
+      internalID: -5630480716254576438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_31
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 171
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c5e99f6c2831450800000000000000
+      internalID: 6058329714846489683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_32
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad071b8d2ec3150800000000000000
+      internalID: 5853803035992578717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_33
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 171
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d218eb48ee158be0800000000000000
+      internalID: -1475739319839223080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_34
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 171
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61079e974ceccae90800000000000000
+      internalID: -7013003176468451306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_35
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 158
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d043f3b6f17eae30800000000000000
+      internalID: 4516672780694143189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_36
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 158
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7827bd01caa41cbe0800000000000000
+      internalID: -1458802701413682553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_37
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 158
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22538d24aacfdd0b0800000000000000
+      internalID: -5702123744985074398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_38
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 159
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6206df0527f420800000000000000
+      internalID: 2663638454558157464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_39
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 159
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77cdc0941dcfe6f0800000000000000
+      internalID: -653077932732987521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_40
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 159
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee1a7031b5b8380800000000000000
+      internalID: -8967974095687651634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_41
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 158
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3044b81bf080a40800000000000000
+      internalID: 5334531013840471003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_42
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 159
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fdcd741508f0040800000000000000
+      internalID: 4616049229664411545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_43
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 147
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ad4a827f02fb600800000000000000
+      internalID: 486143530690206321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_44
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 147
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d52f218a7bf32a0800000000000000
+      internalID: -6755478983532192448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_45
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a3a854b0f6df540800000000000000
+      internalID: 5043309251926833743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_46
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96de16e4e934a840800000000000000
+      internalID: 5234372322187466397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 118
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e39043a10fbd2e0800000000000000
+      internalID: -2099820805905367532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_48
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 118
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc85e1ffd5689fc50800000000000000
+      internalID: 6699533658960582861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec840d3dc76b67e90800000000000000
+      internalID: -7028229521219237682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 118
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc7cc4c29fdfb140800000000000000
+      internalID: 4737751154477006008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 118
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebe1e7fd94deec80800000000000000
+      internalID: -8291456089008772116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 118
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd19d4acd181dfa40800000000000000
+      internalID: 5403501644141662684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_53
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 106
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf6030ce75a47190800000000000000
+      internalID: -7965559877102702641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 118
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994da4a4ad72b960800000000000000
+      internalID: 7616288065927858582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 103
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b74511d858a765a0800000000000000
+      internalID: -6528064035431823432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cfed68f324c1a00800000000000000
+      internalID: 728530080340311094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 83
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df06449a0c7d60f40800000000000000
+      internalID: 5694476001330094333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 75
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f05c145c801b9d20800000000000000
+      internalID: 3286238547989516534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_59
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 106
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813a1c0700d291000800000000000000
+      internalID: 7086354332754712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8db934a1c3d040800000000000000
+      internalID: 4671290149600857773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_61
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 94
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a45c170f4c0a120800000000000000
+      internalID: 2423153136505277003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7741139ec6ee7acd0800000000000000
+      internalID: -2546804912718539657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93565edf8cb5f5100800000000000000
+      internalID: 98898635636696377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 94
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f62801a31eba3d0800000000000000
+      internalID: -3194211871187898605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_65
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a14ef3dabe2210800000000000000
+      internalID: 1310189961277974224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_66
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 94
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc542703e875e30800000000000000
+      internalID: 4492215492052110107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_67
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 94
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b15b86eebb7ddb0800000000000000
+      internalID: -4767135047915070608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_68
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 94
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f440cfeafcba10800000000000000
+      internalID: 1926690648237601334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_69
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 94
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7810ed7ed0392d0800000000000000
+      internalID: -3273257214654969937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_70
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 94
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c42c7bda7a8d9e90800000000000000
+      internalID: -7017300384100375358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_71
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 75
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e581c793966e106b0800000000000000
+      internalID: -5331727144219568034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_72
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 75
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1bc1f1b62acbaf0800000000000000
+      internalID: -379249687638789699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_73
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 83
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c4c447817f5eaf0800000000000000
+      internalID: -367616110158394276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_74
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 82
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a6a9003c73e3ad0800000000000000
+      internalID: -2720675814216930697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_75
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 83
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88248d63906d2c80800000000000000
+      internalID: -8345908348133824370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_76
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 63
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea38b2c926176550800000000000000
+      internalID: 6153911784441395940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_01_horizonte_77
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 63
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020c6ef2e977a22e0800000000000000
+      internalID: -2149774350823800800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_01_horizonte_0: 5135616727669411556
+      bg_01_horizonte_1: 7240106523774180624
+      bg_01_horizonte_10: -5653575146595607074
+      bg_01_horizonte_11: 3826269254106574558
+      bg_01_horizonte_12: 5062893424865456255
+      bg_01_horizonte_13: -8579518126780779216
+      bg_01_horizonte_14: 7916123799324383637
+      bg_01_horizonte_15: 9117467299212316179
+      bg_01_horizonte_16: 7526493023446042084
+      bg_01_horizonte_17: -2859257740478399263
+      bg_01_horizonte_18: -5321756167648370871
+      bg_01_horizonte_19: -3949180117327931477
+      bg_01_horizonte_2: -2997804061585944735
+      bg_01_horizonte_20: -2587381459566812284
+      bg_01_horizonte_21: -6963070612259367849
+      bg_01_horizonte_22: 4290989155184260540
+      bg_01_horizonte_23: -6309496900089103826
+      bg_01_horizonte_24: 4094509134321299189
+      bg_01_horizonte_25: -2264810621434802744
+      bg_01_horizonte_26: 7289983257676409356
+      bg_01_horizonte_27: 3219604788808748756
+      bg_01_horizonte_28: -2097187513809552622
+      bg_01_horizonte_29: 1752989999284443946
+      bg_01_horizonte_3: -6100089329125338951
+      bg_01_horizonte_30: -5630480716254576438
+      bg_01_horizonte_31: 6058329714846489683
+      bg_01_horizonte_32: 5853803035992578717
+      bg_01_horizonte_33: -1475739319839223080
+      bg_01_horizonte_34: -7013003176468451306
+      bg_01_horizonte_35: 4516672780694143189
+      bg_01_horizonte_36: -1458802701413682553
+      bg_01_horizonte_37: -5702123744985074398
+      bg_01_horizonte_38: 2663638454558157464
+      bg_01_horizonte_39: -653077932732987521
+      bg_01_horizonte_4: 2794155140221399833
+      bg_01_horizonte_40: -8967974095687651634
+      bg_01_horizonte_41: 5334531013840471003
+      bg_01_horizonte_42: 4616049229664411545
+      bg_01_horizonte_43: 486143530690206321
+      bg_01_horizonte_44: -6755478983532192448
+      bg_01_horizonte_45: 5043309251926833743
+      bg_01_horizonte_46: 5234372322187466397
+      bg_01_horizonte_47: -2099820805905367532
+      bg_01_horizonte_48: 6699533658960582861
+      bg_01_horizonte_49: -7028229521219237682
+      bg_01_horizonte_5: -3306426622405781494
+      bg_01_horizonte_50: 4737751154477006008
+      bg_01_horizonte_51: -8291456089008772116
+      bg_01_horizonte_52: 5403501644141662684
+      bg_01_horizonte_53: -7965559877102702641
+      bg_01_horizonte_54: 7616288065927858582
+      bg_01_horizonte_55: -6528064035431823432
+      bg_01_horizonte_56: 728530080340311094
+      bg_01_horizonte_57: 5694476001330094333
+      bg_01_horizonte_58: 3286238547989516534
+      bg_01_horizonte_59: 7086354332754712
+      bg_01_horizonte_6: 7610549015493983111
+      bg_01_horizonte_60: 4671290149600857773
+      bg_01_horizonte_61: 2423153136505277003
+      bg_01_horizonte_62: -2546804912718539657
+      bg_01_horizonte_63: 98898635636696377
+      bg_01_horizonte_64: -3194211871187898605
+      bg_01_horizonte_65: 1310189961277974224
+      bg_01_horizonte_66: 4492215492052110107
+      bg_01_horizonte_67: -4767135047915070608
+      bg_01_horizonte_68: 1926690648237601334
+      bg_01_horizonte_69: -3273257214654969937
+      bg_01_horizonte_7: -6155806583550163588
+      bg_01_horizonte_70: -7017300384100375358
+      bg_01_horizonte_71: -5331727144219568034
+      bg_01_horizonte_72: -379249687638789699
+      bg_01_horizonte_73: -367616110158394276
+      bg_01_horizonte_74: -2720675814216930697
+      bg_01_horizonte_75: -8345908348133824370
+      bg_01_horizonte_76: 6153911784441395940
+      bg_01_horizonte_77: -2149774350823800800
+      bg_01_horizonte_8: 3521959383235065173
+      bg_01_horizonte_9: -8896452113992140409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

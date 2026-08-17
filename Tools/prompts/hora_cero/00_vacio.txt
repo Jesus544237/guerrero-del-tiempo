@@ -1,0 +1,15 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+Time is broken here: cyan light and floating golden clock gears leak into the scene, and small objects hang frozen in mid-air as if a moment had been paused.
+
+LEVEL: "La Hora Cero".
+
+SUBJECT: the void between seconds. Absolute black emptiness with no ground and no sky, crossed by slow concentric rings of cyan light like ripples on still water, and enormous golden gears turning silently at different depths. One vast cracked clock face floats far behind everything, its hands missing.
+
+COMPOSITION: pure background plate, painted edge to edge, darkest in the centre so a boss fight reads clearly on top of it.
+
+BACKGROUND: fully painted and opaque across the whole image. No transparency and no chroma green anywhere.
+
+Hard requirements: no characters, no creatures, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9, 2752x1536.

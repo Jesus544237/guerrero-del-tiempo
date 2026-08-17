@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 0706e88f3bb37d54882bce7554949a4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4556462544814311517
+    second: caballero_ceniciento_muerte_0
+  - first:
+      213: -8295289221264343565
+    second: caballero_ceniciento_muerte_1
+  - first:
+      213: -197516895475571103
+    second: caballero_ceniciento_muerte_2
+  - first:
+      213: 285929811731070214
+    second: caballero_ceniciento_muerte_3
+  - first:
+      213: -2259015871235699082
+    second: caballero_ceniciento_muerte_4
+  - first:
+      213: 4806469974545665072
+    second: caballero_ceniciento_muerte_5
+  - first:
+      213: 3773815408847773093
+    second: caballero_ceniciento_muerte_6
+  - first:
+      213: -2153277230950651927
+    second: caballero_ceniciento_muerte_7
+  - first:
+      213: -6512910009205144929
+    second: caballero_ceniciento_muerte_8
+  - first:
+      213: -118369719740660
+    second: caballero_ceniciento_muerte_9
+  - first:
+      213: 8928051068968743218
+    second: caballero_ceniciento_muerte_10
+  - first:
+      213: -2455918016914873255
+    second: caballero_ceniciento_muerte_11
+  - first:
+      213: -1899819108982889807
+    second: caballero_ceniciento_muerte_12
+  - first:
+      213: 4660300614776762790
+    second: caballero_ceniciento_muerte_13
+  - first:
+      213: -1422089159725806804
+    second: caballero_ceniciento_muerte_14
+  - first:
+      213: -9176730184402366684
+    second: caballero_ceniciento_muerte_15
+  - first:
+      213: -7309821740880358915
+    second: caballero_ceniciento_muerte_16
+  - first:
+      213: 2609978186348156502
+    second: caballero_ceniciento_muerte_17
+  - first:
+      213: 3838041227929658505
+    second: caballero_ceniciento_muerte_18
+  - first:
+      213: 305026586457831941
+    second: caballero_ceniciento_muerte_19
+  - first:
+      213: -4923144966147658140
+    second: caballero_ceniciento_muerte_20
+  - first:
+      213: 6756153799685042930
+    second: caballero_ceniciento_muerte_21
+  - first:
+      213: 2902366543673091683
+    second: caballero_ceniciento_muerte_22
+  - first:
+      213: -3329531754904654908
+    second: caballero_ceniciento_muerte_23
+  - first:
+      213: -3535082147250719177
+    second: caballero_ceniciento_muerte_24
+  - first:
+      213: 3542178403562932287
+    second: caballero_ceniciento_muerte_25
+  - first:
+      213: -7173154373081593991
+    second: caballero_ceniciento_muerte_26
+  - first:
+      213: -5387007426442384381
+    second: caballero_ceniciento_muerte_27
+  - first:
+      213: -3536916694584530737
+    second: caballero_ceniciento_muerte_28
+  - first:
+      213: -6108095492448075023
+    second: caballero_ceniciento_muerte_29
+  - first:
+      213: 5385893935412640847
+    second: caballero_ceniciento_muerte_30
+  - first:
+      213: 6461088530609093618
+    second: caballero_ceniciento_muerte_31
+  - first:
+      213: -6749385156094696411
+    second: caballero_ceniciento_muerte_32
+  - first:
+      213: 1181442531071887329
+    second: caballero_ceniciento_muerte_33
+  - first:
+      213: 5961065911690204511
+    second: caballero_ceniciento_muerte_34
+  - first:
+      213: -1991474770461982677
+    second: caballero_ceniciento_muerte_35
+  - first:
+      213: -2441410969429333085
+    second: caballero_ceniciento_muerte_36
+  - first:
+      213: -7318371771500682070
+    second: caballero_ceniciento_muerte_37
+  - first:
+      213: 2677555863698306924
+    second: caballero_ceniciento_muerte_38
+  - first:
+      213: -4411022092622474219
+    second: caballero_ceniciento_muerte_39
+  - first:
+      213: -2970887007568535501
+    second: caballero_ceniciento_muerte_40
+  - first:
+      213: 6266804287546285469
+    second: caballero_ceniciento_muerte_41
+  - first:
+      213: 1622493992912351274
+    second: caballero_ceniciento_muerte_42
+  - first:
+      213: -2482834671692320762
+    second: caballero_ceniciento_muerte_43
+  - first:
+      213: 3845564927670183697
+    second: caballero_ceniciento_muerte_44
+  - first:
+      213: -1634987447352680581
+    second: caballero_ceniciento_muerte_45
+  - first:
+      213: 5975706184174895794
+    second: caballero_ceniciento_muerte_46
+  - first:
+      213: 8257944389334968425
+    second: caballero_ceniciento_muerte_47
+  - first:
+      213: -5367740029509258448
+    second: caballero_ceniciento_muerte_48
+  - first:
+      213: -914230723197796990
+    second: caballero_ceniciento_muerte_49
+  - first:
+      213: -4338154123037989639
+    second: caballero_ceniciento_muerte_50
+  - first:
+      213: 7563371719094040709
+    second: caballero_ceniciento_muerte_51
+  - first:
+      213: 1294189428825495567
+    second: caballero_ceniciento_muerte_52
+  - first:
+      213: -7136863688174949009
+    second: caballero_ceniciento_muerte_53
+  - first:
+      213: -2903617893336468864
+    second: caballero_ceniciento_muerte_54
+  - first:
+      213: -6986458652378733023
+    second: caballero_ceniciento_muerte_55
+  - first:
+      213: 1902398766216735453
+    second: caballero_ceniciento_muerte_56
+  - first:
+      213: -5266636631993478673
+    second: caballero_ceniciento_muerte_57
+  - first:
+      213: -3282974100742779433
+    second: caballero_ceniciento_muerte_58
+  - first:
+      213: -3188977646948200420
+    second: caballero_ceniciento_muerte_59
+  - first:
+      213: 911877082141643597
+    second: caballero_ceniciento_muerte_60
+  - first:
+      213: -8003150456734291641
+    second: caballero_ceniciento_muerte_61
+  - first:
+      213: -8923617200598780322
+    second: caballero_ceniciento_muerte_62
+  - first:
+      213: -2268367683557783044
+    second: caballero_ceniciento_muerte_63
+  - first:
+      213: 8921339153736775395
+    second: caballero_ceniciento_muerte_64
+  - first:
+      213: -4525681097943952708
+    second: caballero_ceniciento_muerte_65
+  - first:
+      213: 4471793605476362897
+    second: caballero_ceniciento_muerte_66
+  - first:
+      213: -584505486107757978
+    second: caballero_ceniciento_muerte_67
+  - first:
+      213: 1799394978760238952
+    second: caballero_ceniciento_muerte_68
+  - first:
+      213: -6436163462611732127
+    second: caballero_ceniciento_muerte_69
+  - first:
+      213: 7125466874513207090
+    second: caballero_ceniciento_muerte_70
+  - first:
+      213: 8653732367176772454
+    second: caballero_ceniciento_muerte_71
+  - first:
+      213: -2052462659261623488
+    second: caballero_ceniciento_muerte_72
+  - first:
+      213: -5671160794543865341
+    second: caballero_ceniciento_muerte_73
+  - first:
+      213: 1160408199257750085
+    second: caballero_ceniciento_muerte_74
+  - first:
+      213: -1902044421944215946
+    second: caballero_ceniciento_muerte_75
+  - first:
+      213: -2486223756968420458
+    second: caballero_ceniciento_muerte_76
+  - first:
+      213: -9220608362206834702
+    second: caballero_ceniciento_muerte_77
+  - first:
+      213: 1978369666973997930
+    second: caballero_ceniciento_muerte_78
+  - first:
+      213: -7486363154752548305
+    second: caballero_ceniciento_muerte_79
+  - first:
+      213: -6286443799747637767
+    second: caballero_ceniciento_muerte_80
+  - first:
+      213: 4320414810057139017
+    second: caballero_ceniciento_muerte_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dac72f72880a8468077a80b0e28c94
+      internalID: -814133723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2420d18629ca3a4fa9365b27a208e84
+      internalID: 1473507261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb85f1ed62dcb6544b519b4287b082ad
+      internalID: -2055281131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3bf399d31bb64b93cea5468c7448e
+      internalID: -960153359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa27e1e486756458dab430fca20bca
+      internalID: -1083212270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6392c857dbf8cf0419800b4f66abebae
+      internalID: 566225090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6929efe98ab048a5c89237e8d5786
+      internalID: 1218021315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 318
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13f67af1a46c2a47966ea308e3fe9d2
+      internalID: 1750529453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a643a33edc4204a9323f61f83b5f8b
+      internalID: 835100194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5622f678f7cb24a90543f02b58b863
+      internalID: -481799431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8f7e618c2d6324aa99ab2c3e7bc7f5
+      internalID: 8928051068968743218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 424
+        height: 318
+      alignment: 9
+      pivot: {x: 0.563679, y: 0.012579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c59b2dd894844997934780ab0d0b3
+      internalID: -2455918016914873255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 454af1d5191e6494aab0a024e67a48c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballero_ceniciento_muerte_00: -814133723
+      caballero_ceniciento_muerte_01: 1473507261
+      caballero_ceniciento_muerte_02: -2055281131
+      caballero_ceniciento_muerte_03: -960153359
+      caballero_ceniciento_muerte_04: -1083212270
+      caballero_ceniciento_muerte_05: 566225090
+      caballero_ceniciento_muerte_06: 1218021315
+      caballero_ceniciento_muerte_07: 1750529453
+      caballero_ceniciento_muerte_08: 835100194
+      caballero_ceniciento_muerte_09: -481799431
+      caballero_ceniciento_muerte_10: 8928051068968743218
+      caballero_ceniciento_muerte_11: -2455918016914873255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

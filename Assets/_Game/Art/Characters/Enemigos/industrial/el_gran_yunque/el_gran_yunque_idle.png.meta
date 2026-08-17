@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: ecbe1fec435856b4a9428cbbe1892f44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3177359465319164164
+    second: el_gran_yunque_idle_0
+  - first:
+      213: 6210759931207840231
+    second: el_gran_yunque_idle_1
+  - first:
+      213: 4944858166749288405
+    second: el_gran_yunque_idle_2
+  - first:
+      213: -1526807815436328653
+    second: el_gran_yunque_idle_3
+  - first:
+      213: 126446013295163976
+    second: el_gran_yunque_idle_4
+  - first:
+      213: 588297618542666791
+    second: el_gran_yunque_idle_5
+  - first:
+      213: 2122713285937718582
+    second: el_gran_yunque_idle_6
+  - first:
+      213: 4404159240287742003
+    second: el_gran_yunque_idle_7
+  - first:
+      213: -3983887585043054999
+    second: el_gran_yunque_idle_8
+  - first:
+      213: -4775919586142675527
+    second: el_gran_yunque_idle_9
+  - first:
+      213: 3819240021986425494
+    second: el_gran_yunque_idle_10
+  - first:
+      213: -3275265972397885271
+    second: el_gran_yunque_idle_11
+  - first:
+      213: -3093742611879599225
+    second: el_gran_yunque_idle_12
+  - first:
+      213: 4027326736047593662
+    second: el_gran_yunque_idle_13
+  - first:
+      213: -3461110369345837064
+    second: el_gran_yunque_idle_14
+  - first:
+      213: 8731587503186286111
+    second: el_gran_yunque_idle_15
+  - first:
+      213: -8814159555806853511
+    second: el_gran_yunque_idle_16
+  - first:
+      213: -5882698424696588477
+    second: el_gran_yunque_idle_17
+  - first:
+      213: -4255720292621944327
+    second: el_gran_yunque_idle_18
+  - first:
+      213: 2070667543402717279
+    second: el_gran_yunque_idle_19
+  - first:
+      213: -7531552343783015346
+    second: el_gran_yunque_idle_20
+  - first:
+      213: 891901490006706414
+    second: el_gran_yunque_idle_21
+  - first:
+      213: -8706728798398577558
+    second: el_gran_yunque_idle_22
+  - first:
+      213: -8222967645175524149
+    second: el_gran_yunque_idle_23
+  - first:
+      213: -4715182859274788479
+    second: el_gran_yunque_idle_24
+  - first:
+      213: -2994711708821816636
+    second: el_gran_yunque_idle_25
+  - first:
+      213: 5626782107349996034
+    second: el_gran_yunque_idle_26
+  - first:
+      213: 7062518088878495142
+    second: el_gran_yunque_idle_27
+  - first:
+      213: 2961456142173155954
+    second: el_gran_yunque_idle_28
+  - first:
+      213: -5569672769892847794
+    second: el_gran_yunque_idle_29
+  - first:
+      213: -6993087401392947486
+    second: el_gran_yunque_idle_30
+  - first:
+      213: -2571651548919974421
+    second: el_gran_yunque_idle_31
+  - first:
+      213: 4140287037651946303
+    second: el_gran_yunque_idle_32
+  - first:
+      213: 23321123449782522
+    second: el_gran_yunque_idle_33
+  - first:
+      213: 5087855555704630153
+    second: el_gran_yunque_idle_34
+  - first:
+      213: -7658515733428552376
+    second: el_gran_yunque_idle_35
+  - first:
+      213: 4637376758593407210
+    second: el_gran_yunque_idle_36
+  - first:
+      213: 3395314936062014236
+    second: el_gran_yunque_idle_37
+  - first:
+      213: 8232464097542978577
+    second: el_gran_yunque_idle_38
+  - first:
+      213: 5147496217541161688
+    second: el_gran_yunque_idle_39
+  - first:
+      213: 6770917401140835864
+    second: el_gran_yunque_idle_40
+  - first:
+      213: 965689034541166702
+    second: el_gran_yunque_idle_41
+  - first:
+      213: 156466581316231805
+    second: el_gran_yunque_idle_42
+  - first:
+      213: -5529039445994248964
+    second: el_gran_yunque_idle_43
+  - first:
+      213: 6669041901454293285
+    second: el_gran_yunque_idle_44
+  - first:
+      213: 2693049609298665178
+    second: el_gran_yunque_idle_45
+  - first:
+      213: -562509899722682928
+    second: el_gran_yunque_idle_46
+  - first:
+      213: -2663848865002840417
+    second: el_gran_yunque_idle_47
+  - first:
+      213: 7560103987065014941
+    second: el_gran_yunque_idle_48
+  - first:
+      213: -3543936776697179045
+    second: el_gran_yunque_idle_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943a8739979f4f47a0c08d1738a4ca1
+      internalID: 686047832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_01
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1279e9fd27a846c4b877b5196a841a55
+      internalID: -1310029088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_02
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42f829e59a1dca48814d6746c3ea158
+      internalID: -2012272542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_03
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca468c444968f499ab0dcf9b0d032c
+      internalID: 1549374766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_04
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb40d6cfcbc3e44d92a78b974b6a970
+      internalID: -591143335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_05
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0765c227491dfb4c97d9283580a0760
+      internalID: -524365199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_06
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4812ef6a0add40b10894a55cdc0d1
+      internalID: -1368260084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_idle_07
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 0
+        width: 402
+        height: 352
+      alignment: 9
+      pivot: {x: 0.527363, y: 0.011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7451447c1008f6a42b822510a2209412
+      internalID: 1206418406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f393bd139db013f4798fccc0730c1b52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      el_gran_yunque_idle_00: 686047832
+      el_gran_yunque_idle_01: -1310029088
+      el_gran_yunque_idle_02: -2012272542
+      el_gran_yunque_idle_03: 1549374766
+      el_gran_yunque_idle_04: -591143335
+      el_gran_yunque_idle_05: -524365199
+      el_gran_yunque_idle_06: -1368260084
+      el_gran_yunque_idle_07: 1206418406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 0b786ad9d64f7044fbd0be4d7d1a2c6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8791090723547473720
+    second: ekkar_salto_vertical_carga_mana_0
+  - first:
+      213: 7595783100153227001
+    second: ekkar_salto_vertical_carga_mana_1
+  - first:
+      213: -9090744652295852371
+    second: ekkar_salto_vertical_carga_mana_2
+  - first:
+      213: -3416628880984727205
+    second: ekkar_salto_vertical_carga_mana_3
+  - first:
+      213: 137250969026847718
+    second: ekkar_salto_vertical_carga_mana_4
+  - first:
+      213: -6800746759612915116
+    second: ekkar_salto_vertical_carga_mana_5
+  - first:
+      213: 1367442297658679285
+    second: ekkar_salto_vertical_carga_mana_6
+  - first:
+      213: 3127659669624377535
+    second: ekkar_salto_vertical_carga_mana_7
+  - first:
+      213: 1982187888417810443
+    second: ekkar_salto_vertical_carga_mana_8
+  - first:
+      213: 9131027011134280932
+    second: ekkar_salto_vertical_carga_mana_9
+  - first:
+      213: -7265556285793553567
+    second: ekkar_salto_vertical_carga_mana_10
+  - first:
+      213: -2841583222335741682
+    second: ekkar_salto_vertical_carga_mana_11
+  - first:
+      213: 5770504193663368737
+    second: ekkar_salto_vertical_carga_mana_12
+  - first:
+      213: 372140029816208553
+    second: ekkar_salto_vertical_carga_mana_13
+  - first:
+      213: 8960323283723985600
+    second: ekkar_salto_vertical_carga_mana_14
+  - first:
+      213: -6890779065526433261
+    second: ekkar_salto_vertical_carga_mana_15
+  - first:
+      213: 8882320980751819884
+    second: ekkar_salto_vertical_carga_mana_16
+  - first:
+      213: -5356937183392349993
+    second: ekkar_salto_vertical_carga_mana_17
+  - first:
+      213: 3765797783539990541
+    second: ekkar_salto_vertical_carga_mana_18
+  - first:
+      213: -4562755171256502972
+    second: ekkar_salto_vertical_carga_mana_19
+  - first:
+      213: -3202017333644663702
+    second: ekkar_salto_vertical_carga_mana_20
+  - first:
+      213: -7678808819396317930
+    second: ekkar_salto_vertical_carga_mana_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da495efac7e7cc346a429b4cac93fff8
+      internalID: 964583268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_01
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487151c8781fa548a4cc6671f01d749
+      internalID: -1281102205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_02
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be730a94ca75b8d4f82c637d976f8a9e
+      internalID: -1694266382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_03
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e87056db42404bbf07329fc80606c
+      internalID: -245608942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_04
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68571f11fded85d4d9030f124e4ae286
+      internalID: 1539920579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_05
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348f9044208fdc4db919b15427467f4
+      internalID: 1870644966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_06
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d223eaea621a4e94ac221bf3ec24c
+      internalID: -1365992935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_07
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 444
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3cb69f2d6b44344a1e860e0e7e1c2a
+      internalID: -1111124005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f515e186e0279394a9feed145e6c5342
+      internalID: 255286531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_09
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073f831ffa932348a79c3d18cc5ed1c
+      internalID: -688343765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37de380b05f05e40afcfbb0b4e6794c
+      internalID: -7265556285793553567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef128741fd0054886c3df285c81f76
+      internalID: -2841583222335741682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_12
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661a611a8cdedb4784c71f4d6285b8e
+      internalID: 5770504193663368737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_13
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee89397957911419bdc23f35b69fd9
+      internalID: 372140029816208553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_14
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea00e1174309daf4c94e925d4b55d01c
+      internalID: 8960323283723985600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_15
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936fc54f5efefe4f89ecb34a00a4254
+      internalID: -6890779065526433261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_vertical_carga_mana_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.273973, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3352a85fd828be14d8dc85876f3383ef
+      internalID: 8882320980751819884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 16f1c25be95f9ce4cbc2fb6e0e054220
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_salto_vertical_carga_mana_00: 964583268
+      ekkar_salto_vertical_carga_mana_01: -1281102205
+      ekkar_salto_vertical_carga_mana_02: -1694266382
+      ekkar_salto_vertical_carga_mana_03: -245608942
+      ekkar_salto_vertical_carga_mana_04: 1539920579
+      ekkar_salto_vertical_carga_mana_05: 1870644966
+      ekkar_salto_vertical_carga_mana_06: -1365992935
+      ekkar_salto_vertical_carga_mana_07: -1111124005
+      ekkar_salto_vertical_carga_mana_08: 255286531
+      ekkar_salto_vertical_carga_mana_09: -688343765
+      ekkar_salto_vertical_carga_mana_10: -7265556285793553567
+      ekkar_salto_vertical_carga_mana_11: -2841583222335741682
+      ekkar_salto_vertical_carga_mana_12: 5770504193663368737
+      ekkar_salto_vertical_carga_mana_13: 372140029816208553
+      ekkar_salto_vertical_carga_mana_14: 8960323283723985600
+      ekkar_salto_vertical_carga_mana_15: -6890779065526433261
+      ekkar_salto_vertical_carga_mana_16: 8882320980751819884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

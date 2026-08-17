@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: c6ce9c36a47d5ab44a41dc0961abc39e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3814530644340888984
+    second: automata_fundicion_muerte_0
+  - first:
+      213: -9037758068264778243
+    second: automata_fundicion_muerte_1
+  - first:
+      213: 2731122894443527891
+    second: automata_fundicion_muerte_2
+  - first:
+      213: 8774155188224468652
+    second: automata_fundicion_muerte_3
+  - first:
+      213: -6361337511390264885
+    second: automata_fundicion_muerte_4
+  - first:
+      213: 695475617926790007
+    second: automata_fundicion_muerte_5
+  - first:
+      213: 956290548481835706
+    second: automata_fundicion_muerte_6
+  - first:
+      213: -7172921653467066830
+    second: automata_fundicion_muerte_7
+  - first:
+      213: -8393155131735557783
+    second: automata_fundicion_muerte_8
+  - first:
+      213: -2023121816638200337
+    second: automata_fundicion_muerte_9
+  - first:
+      213: 4809037851246712433
+    second: automata_fundicion_muerte_10
+  - first:
+      213: -4145929695290040884
+    second: automata_fundicion_muerte_11
+  - first:
+      213: -1276044642105910498
+    second: automata_fundicion_muerte_12
+  - first:
+      213: -9004768918141551210
+    second: automata_fundicion_muerte_13
+  - first:
+      213: -803951255471237992
+    second: automata_fundicion_muerte_14
+  - first:
+      213: 1798171247433341755
+    second: automata_fundicion_muerte_15
+  - first:
+      213: 3756409573743673873
+    second: automata_fundicion_muerte_16
+  - first:
+      213: 598719073505054462
+    second: automata_fundicion_muerte_17
+  - first:
+      213: -3862391849724956374
+    second: automata_fundicion_muerte_18
+  - first:
+      213: -2233866401811788808
+    second: automata_fundicion_muerte_19
+  - first:
+      213: 139079602330876473
+    second: automata_fundicion_muerte_20
+  - first:
+      213: 3350731162212347523
+    second: automata_fundicion_muerte_21
+  - first:
+      213: -7883213779227796649
+    second: automata_fundicion_muerte_22
+  - first:
+      213: 5577958835355969729
+    second: automata_fundicion_muerte_23
+  - first:
+      213: -9142962364434535809
+    second: automata_fundicion_muerte_24
+  - first:
+      213: -7288448101567346240
+    second: automata_fundicion_muerte_25
+  - first:
+      213: -6417386122420631016
+    second: automata_fundicion_muerte_26
+  - first:
+      213: -688538912022824732
+    second: automata_fundicion_muerte_27
+  - first:
+      213: -7014469929784007468
+    second: automata_fundicion_muerte_28
+  - first:
+      213: 498012104358072091
+    second: automata_fundicion_muerte_29
+  - first:
+      213: 6729183894906556669
+    second: automata_fundicion_muerte_30
+  - first:
+      213: 5521246354457565891
+    second: automata_fundicion_muerte_31
+  - first:
+      213: -7321671675644972284
+    second: automata_fundicion_muerte_32
+  - first:
+      213: 6568824000372231465
+    second: automata_fundicion_muerte_33
+  - first:
+      213: -6817320212622934912
+    second: automata_fundicion_muerte_34
+  - first:
+      213: 6099060433006004969
+    second: automata_fundicion_muerte_35
+  - first:
+      213: 5017970758637367658
+    second: automata_fundicion_muerte_36
+  - first:
+      213: 6269623022492437763
+    second: automata_fundicion_muerte_37
+  - first:
+      213: 8320260192955206880
+    second: automata_fundicion_muerte_38
+  - first:
+      213: 175337563384478745
+    second: automata_fundicion_muerte_39
+  - first:
+      213: -5831307948862790040
+    second: automata_fundicion_muerte_40
+  - first:
+      213: -4765553337511962924
+    second: automata_fundicion_muerte_41
+  - first:
+      213: 3743943517544542615
+    second: automata_fundicion_muerte_42
+  - first:
+      213: 7886510950003312615
+    second: automata_fundicion_muerte_43
+  - first:
+      213: 3527365455780539885
+    second: automata_fundicion_muerte_44
+  - first:
+      213: 3779225849902699776
+    second: automata_fundicion_muerte_45
+  - first:
+      213: 6447482423376301408
+    second: automata_fundicion_muerte_46
+  - first:
+      213: 683049660198241393
+    second: automata_fundicion_muerte_47
+  - first:
+      213: 8279060631095903644
+    second: automata_fundicion_muerte_48
+  - first:
+      213: -4258563702779565259
+    second: automata_fundicion_muerte_49
+  - first:
+      213: -74394501935249880
+    second: automata_fundicion_muerte_50
+  - first:
+      213: 6020195657136138297
+    second: automata_fundicion_muerte_51
+  - first:
+      213: -4336555549415779962
+    second: automata_fundicion_muerte_52
+  - first:
+      213: 3628499233037768299
+    second: automata_fundicion_muerte_53
+  - first:
+      213: -78402865322332345
+    second: automata_fundicion_muerte_54
+  - first:
+      213: 6499434627337993635
+    second: automata_fundicion_muerte_55
+  - first:
+      213: -2286074258065613321
+    second: automata_fundicion_muerte_56
+  - first:
+      213: -2771687225627242624
+    second: automata_fundicion_muerte_57
+  - first:
+      213: 8957113698817135241
+    second: automata_fundicion_muerte_58
+  - first:
+      213: 5678502363710127383
+    second: automata_fundicion_muerte_59
+  - first:
+      213: 3485320029508707067
+    second: automata_fundicion_muerte_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61cd5e77b7e4284889e9a83a2ada738
+      internalID: 2072162019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a8dae2e4e5cbb429f55046cbf514c0
+      internalID: -183719968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facbbdf601644b84185d9d8fc80fa139
+      internalID: 1087136342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d41eb80fd10247b147788f9f62489
+      internalID: 1983134588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443669bb10a42ec48a7a995b580ef09a
+      internalID: 1494258788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93b1463089df742896d40da41866d1
+      internalID: -124708851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356f237826d77242bf6fc29601a44d4
+      internalID: 310229571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 246
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dde07765098794dbbb594131f8c65e
+      internalID: 1954571364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705268b87aeb72419fe400d7a2ebc20
+      internalID: -826942761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f54368a882f246a8edbe9c45c82d6
+      internalID: -563325093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51eb0a15d07174e91d8e4a44843477
+      internalID: 4809037851246712433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 434
+        height: 246
+      alignment: 9
+      pivot: {x: 0.585253, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd9e1ddce850fd44bb82c5af6cc764a
+      internalID: -4145929695290040884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d19c84f9a7bd1594aaa4de3be7e054af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      automata_fundicion_muerte_00: 2072162019
+      automata_fundicion_muerte_01: -183719968
+      automata_fundicion_muerte_02: 1087136342
+      automata_fundicion_muerte_03: 1983134588
+      automata_fundicion_muerte_04: 1494258788
+      automata_fundicion_muerte_05: -124708851
+      automata_fundicion_muerte_06: 310229571
+      automata_fundicion_muerte_07: 1954571364
+      automata_fundicion_muerte_08: -826942761
+      automata_fundicion_muerte_09: -563325093
+      automata_fundicion_muerte_10: 4809037851246712433
+      automata_fundicion_muerte_11: -4145929695290040884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

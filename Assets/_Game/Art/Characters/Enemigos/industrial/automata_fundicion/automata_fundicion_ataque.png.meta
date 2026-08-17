@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 6828da4295fa12740863adc20cb0cba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6844428693029939977
+    second: automata_fundicion_ataque_0
+  - first:
+      213: 3309877303946517534
+    second: automata_fundicion_ataque_1
+  - first:
+      213: 5857763369993346641
+    second: automata_fundicion_ataque_2
+  - first:
+      213: -2687747330185570335
+    second: automata_fundicion_ataque_3
+  - first:
+      213: -5362605072471218227
+    second: automata_fundicion_ataque_4
+  - first:
+      213: 2421712605865488070
+    second: automata_fundicion_ataque_5
+  - first:
+      213: -7465014395532692503
+    second: automata_fundicion_ataque_6
+  - first:
+      213: 3074876809920159670
+    second: automata_fundicion_ataque_7
+  - first:
+      213: -5328110526499152579
+    second: automata_fundicion_ataque_8
+  - first:
+      213: -244439050559152761
+    second: automata_fundicion_ataque_9
+  - first:
+      213: -4611968126205837583
+    second: automata_fundicion_ataque_10
+  - first:
+      213: 2251749562890859294
+    second: automata_fundicion_ataque_11
+  - first:
+      213: 8860157264200708844
+    second: automata_fundicion_ataque_12
+  - first:
+      213: -6272454656201627275
+    second: automata_fundicion_ataque_13
+  - first:
+      213: 4574001166590178912
+    second: automata_fundicion_ataque_14
+  - first:
+      213: -5483245102533947794
+    second: automata_fundicion_ataque_15
+  - first:
+      213: 3466550544960510473
+    second: automata_fundicion_ataque_16
+  - first:
+      213: -928989455711664313
+    second: automata_fundicion_ataque_17
+  - first:
+      213: -2018773786392264073
+    second: automata_fundicion_ataque_18
+  - first:
+      213: 3300644169917117597
+    second: automata_fundicion_ataque_19
+  - first:
+      213: 2134702627573181795
+    second: automata_fundicion_ataque_20
+  - first:
+      213: -8976182727820749244
+    second: automata_fundicion_ataque_21
+  - first:
+      213: -2029031139748739835
+    second: automata_fundicion_ataque_22
+  - first:
+      213: 6688355915151088452
+    second: automata_fundicion_ataque_23
+  - first:
+      213: 8349323324170227965
+    second: automata_fundicion_ataque_24
+  - first:
+      213: -8421147446471141515
+    second: automata_fundicion_ataque_25
+  - first:
+      213: 8288111377077852959
+    second: automata_fundicion_ataque_26
+  - first:
+      213: -1632471248477691878
+    second: automata_fundicion_ataque_27
+  - first:
+      213: 3381832900886998071
+    second: automata_fundicion_ataque_28
+  - first:
+      213: 6649777914801818181
+    second: automata_fundicion_ataque_29
+  - first:
+      213: 7897498771025464403
+    second: automata_fundicion_ataque_30
+  - first:
+      213: 5660318172906270370
+    second: automata_fundicion_ataque_31
+  - first:
+      213: -7040497885142224353
+    second: automata_fundicion_ataque_32
+  - first:
+      213: 8115568588983757818
+    second: automata_fundicion_ataque_33
+  - first:
+      213: 3107139818568688052
+    second: automata_fundicion_ataque_34
+  - first:
+      213: 5469370281508396186
+    second: automata_fundicion_ataque_35
+  - first:
+      213: 3778459435831852894
+    second: automata_fundicion_ataque_36
+  - first:
+      213: -4536793550976760277
+    second: automata_fundicion_ataque_37
+  - first:
+      213: 3716343583728255801
+    second: automata_fundicion_ataque_38
+  - first:
+      213: 5187930878698285254
+    second: automata_fundicion_ataque_39
+  - first:
+      213: -1295302478813110617
+    second: automata_fundicion_ataque_40
+  - first:
+      213: 1969922739737614683
+    second: automata_fundicion_ataque_41
+  - first:
+      213: 7608037557448715076
+    second: automata_fundicion_ataque_42
+  - first:
+      213: -4096790598549536243
+    second: automata_fundicion_ataque_43
+  - first:
+      213: -3726105250800157869
+    second: automata_fundicion_ataque_44
+  - first:
+      213: 3757744947979242502
+    second: automata_fundicion_ataque_45
+  - first:
+      213: 2028382622991996305
+    second: automata_fundicion_ataque_46
+  - first:
+      213: -4003168082918516938
+    second: automata_fundicion_ataque_47
+  - first:
+      213: -6860640562137828110
+    second: automata_fundicion_ataque_48
+  - first:
+      213: 414958942675304922
+    second: automata_fundicion_ataque_49
+  - first:
+      213: 1165133770452121693
+    second: automata_fundicion_ataque_50
+  - first:
+      213: 9049430493228065447
+    second: automata_fundicion_ataque_51
+  - first:
+      213: -8490597106426332049
+    second: automata_fundicion_ataque_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a14a325877454c9607cc4efd541c2
+      internalID: 200338060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b351e05ab7ac77647bacc83428fcae02
+      internalID: 419016286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5ffd9d431bed8418136ae7d3cdd38a
+      internalID: -2127245686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098a64456bf39b343b554dda7e13a747
+      internalID: -513590628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6899c61598e542aaa9164a0bdad08
+      internalID: -1792353856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428707fcc4daf59469007b9e2d117f5a
+      internalID: -1016985631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03de45cf731326f4e8c7cd70e1473506
+      internalID: -1918949117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 232
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9b1613f0214864b9eeb549b1e7fe8b
+      internalID: -1488947128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26294d17f07655a4ab92cca9e21233bf
+      internalID: 894555983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 378
+        height: 232
+      alignment: 9
+      pivot: {x: 0.666667, y: 0.017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383818711466b14ba5710705f2ad011
+      internalID: 1223162776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c8bd78e984acdf848a87be20a493a6a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      automata_fundicion_ataque_00: 200338060
+      automata_fundicion_ataque_01: 419016286
+      automata_fundicion_ataque_02: -2127245686
+      automata_fundicion_ataque_03: -513590628
+      automata_fundicion_ataque_04: -1792353856
+      automata_fundicion_ataque_05: -1016985631
+      automata_fundicion_ataque_06: -1918949117
+      automata_fundicion_ataque_07: -1488947128
+      automata_fundicion_ataque_08: 894555983
+      automata_fundicion_ataque_09: 1223162776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

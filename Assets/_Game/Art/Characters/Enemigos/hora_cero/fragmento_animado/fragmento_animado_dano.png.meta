@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: d6c1e69ade6e88b4abc572307a8f1468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6601502063013769652
+    second: fragmento_animado_dano_0
+  - first:
+      213: 5620228431582116585
+    second: fragmento_animado_dano_1
+  - first:
+      213: 9166160699847293170
+    second: fragmento_animado_dano_2
+  - first:
+      213: -9057744135407747720
+    second: fragmento_animado_dano_3
+  - first:
+      213: -6949786800777023358
+    second: fragmento_animado_dano_4
+  - first:
+      213: 9034619274475601317
+    second: fragmento_animado_dano_5
+  - first:
+      213: -6739100217304493827
+    second: fragmento_animado_dano_6
+  - first:
+      213: -8441760881853571660
+    second: fragmento_animado_dano_7
+  - first:
+      213: -1932081452626230958
+    second: fragmento_animado_dano_8
+  - first:
+      213: -5499118146049163375
+    second: fragmento_animado_dano_9
+  - first:
+      213: -7258632606757826481
+    second: fragmento_animado_dano_10
+  - first:
+      213: 7087908944546801162
+    second: fragmento_animado_dano_11
+  - first:
+      213: -8264254909061900948
+    second: fragmento_animado_dano_12
+  - first:
+      213: -7939884675336413391
+    second: fragmento_animado_dano_13
+  - first:
+      213: -6619447104436972890
+    second: fragmento_animado_dano_14
+  - first:
+      213: -2788808633326950165
+    second: fragmento_animado_dano_15
+  - first:
+      213: 7695725311923304365
+    second: fragmento_animado_dano_16
+  - first:
+      213: 8510274909656364251
+    second: fragmento_animado_dano_17
+  - first:
+      213: -4192743900503982725
+    second: fragmento_animado_dano_18
+  - first:
+      213: 6993362394991013986
+    second: fragmento_animado_dano_19
+  - first:
+      213: 8731827041861952952
+    second: fragmento_animado_dano_20
+  - first:
+      213: 190179545070198696
+    second: fragmento_animado_dano_21
+  - first:
+      213: -8116636330388945265
+    second: fragmento_animado_dano_22
+  - first:
+      213: -450701186574153830
+    second: fragmento_animado_dano_23
+  - first:
+      213: -7339475755545454490
+    second: fragmento_animado_dano_24
+  - first:
+      213: 594284627999327558
+    second: fragmento_animado_dano_25
+  - first:
+      213: -4915515644657699486
+    second: fragmento_animado_dano_26
+  - first:
+      213: -7603981817912224606
+    second: fragmento_animado_dano_27
+  - first:
+      213: -7742356288524699777
+    second: fragmento_animado_dano_28
+  - first:
+      213: 699982012210052126
+    second: fragmento_animado_dano_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fragmento_animado_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 276
+        height: 168
+      alignment: 9
+      pivot: {x: 0.648551, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc26c4c4db01dec47b882c3659f637c0
+      internalID: 1013159270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_dano_01
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 276
+        height: 168
+      alignment: 9
+      pivot: {x: 0.648551, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e67ef3691513459303f2d382b9e7d
+      internalID: 1860775256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_dano_02
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 276
+        height: 168
+      alignment: 9
+      pivot: {x: 0.648551, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630c3a2d7a28d344b03f77ae2f41d13
+      internalID: -1503574928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_dano_03
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 276
+        height: 168
+      alignment: 9
+      pivot: {x: 0.648551, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa415410231a34cae70547e11012e9
+      internalID: 996501448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_dano_04
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 276
+        height: 168
+      alignment: 9
+      pivot: {x: 0.648551, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b68c23dbb312274183365c1da795a68
+      internalID: -932857535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_dano_05
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 276
+        height: 168
+      alignment: 9
+      pivot: {x: 0.648551, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21159ac1e14678e4eae3a8aaa159e1d5
+      internalID: 204812539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bcfd0cddc1d35874a871b44e377e15cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fragmento_animado_dano_00: 1013159270
+      fragmento_animado_dano_01: 1860775256
+      fragmento_animado_dano_02: -1503574928
+      fragmento_animado_dano_03: 996501448
+      fragmento_animado_dano_04: -932857535
+      fragmento_animado_dano_05: 204812539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

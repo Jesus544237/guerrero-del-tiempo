@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: fdc5efbf8fb193148929ebe0fd70edb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3199936947220999331
+    second: nemesis_digital_ataque_0
+  - first:
+      213: 6421282194364681642
+    second: nemesis_digital_ataque_1
+  - first:
+      213: -3588340990881548389
+    second: nemesis_digital_ataque_2
+  - first:
+      213: 7697240114599768798
+    second: nemesis_digital_ataque_3
+  - first:
+      213: 3580678634623068884
+    second: nemesis_digital_ataque_4
+  - first:
+      213: 2205172546943326344
+    second: nemesis_digital_ataque_5
+  - first:
+      213: 3706555317288669277
+    second: nemesis_digital_ataque_6
+  - first:
+      213: -7209148845328331725
+    second: nemesis_digital_ataque_7
+  - first:
+      213: -8718274508435957535
+    second: nemesis_digital_ataque_8
+  - first:
+      213: 8080584741330427468
+    second: nemesis_digital_ataque_9
+  - first:
+      213: 3710006403464067314
+    second: nemesis_digital_ataque_10
+  - first:
+      213: -1738602773857727264
+    second: nemesis_digital_ataque_11
+  - first:
+      213: 8601296024599098635
+    second: nemesis_digital_ataque_12
+  - first:
+      213: -7292546300606863909
+    second: nemesis_digital_ataque_13
+  - first:
+      213: 7457737397574372481
+    second: nemesis_digital_ataque_14
+  - first:
+      213: -3286936433006031574
+    second: nemesis_digital_ataque_15
+  - first:
+      213: 510024038121362628
+    second: nemesis_digital_ataque_16
+  - first:
+      213: 262083297007809822
+    second: nemesis_digital_ataque_17
+  - first:
+      213: -5860278412937045042
+    second: nemesis_digital_ataque_18
+  - first:
+      213: -6015585600333268172
+    second: nemesis_digital_ataque_19
+  - first:
+      213: -4368385300608565469
+    second: nemesis_digital_ataque_20
+  - first:
+      213: 5546699787343883639
+    second: nemesis_digital_ataque_21
+  - first:
+      213: 2448374617941842337
+    second: nemesis_digital_ataque_22
+  - first:
+      213: 8110903677238993255
+    second: nemesis_digital_ataque_23
+  - first:
+      213: -9043398978284658666
+    second: nemesis_digital_ataque_24
+  - first:
+      213: -3947896264358053469
+    second: nemesis_digital_ataque_25
+  - first:
+      213: 8148297688496119105
+    second: nemesis_digital_ataque_26
+  - first:
+      213: 41766872281361275
+    second: nemesis_digital_ataque_27
+  - first:
+      213: -1584071879102796886
+    second: nemesis_digital_ataque_28
+  - first:
+      213: -15593367344275386
+    second: nemesis_digital_ataque_29
+  - first:
+      213: 8585794063091247756
+    second: nemesis_digital_ataque_30
+  - first:
+      213: 3144932124927078385
+    second: nemesis_digital_ataque_31
+  - first:
+      213: -6867915312464083135
+    second: nemesis_digital_ataque_32
+  - first:
+      213: -4694840073312526591
+    second: nemesis_digital_ataque_33
+  - first:
+      213: -9002240143485403945
+    second: nemesis_digital_ataque_34
+  - first:
+      213: -4410451730004359148
+    second: nemesis_digital_ataque_35
+  - first:
+      213: -401801692671651134
+    second: nemesis_digital_ataque_36
+  - first:
+      213: 5892252903215496792
+    second: nemesis_digital_ataque_37
+  - first:
+      213: -4519452641989606060
+    second: nemesis_digital_ataque_38
+  - first:
+      213: 6824100393583289395
+    second: nemesis_digital_ataque_39
+  - first:
+      213: 3130449074762245854
+    second: nemesis_digital_ataque_40
+  - first:
+      213: 5040436659964476486
+    second: nemesis_digital_ataque_41
+  - first:
+      213: -5671763258893573533
+    second: nemesis_digital_ataque_42
+  - first:
+      213: 8593429518157067257
+    second: nemesis_digital_ataque_43
+  - first:
+      213: -6202968600313368471
+    second: nemesis_digital_ataque_44
+  - first:
+      213: -7790393411182276925
+    second: nemesis_digital_ataque_45
+  - first:
+      213: 4528763031552758133
+    second: nemesis_digital_ataque_46
+  - first:
+      213: 1820483157570282453
+    second: nemesis_digital_ataque_47
+  - first:
+      213: 5138305594695745811
+    second: nemesis_digital_ataque_48
+  - first:
+      213: -6220318268935379676
+    second: nemesis_digital_ataque_49
+  - first:
+      213: -6500014952400726952
+    second: nemesis_digital_ataque_50
+  - first:
+      213: -4743320441954160923
+    second: nemesis_digital_ataque_51
+  - first:
+      213: -4338919345755407054
+    second: nemesis_digital_ataque_52
+  - first:
+      213: -4891046750666477970
+    second: nemesis_digital_ataque_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13946fdbeff8aa64983d6c571a0f8c2b
+      internalID: 1854450533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1e890e9e03dd4096798f3e8dd0a80
+      internalID: 129033253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e31592bd169644faea8128e4ba4c0f
+      internalID: -772228392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870113645a658648a3e5fdd986a90a4
+      internalID: -384642672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9c0d4341bc54244a36c38c93e78f77
+      internalID: 334863605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d3f5b13405a64aa7d363c61c488e7
+      internalID: -1139510998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a0b0eba9e78ca40b773433a0f716b0
+      internalID: -969095296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 180
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919669fc888d72d45b9ebf363fbc5eae
+      internalID: 1476771846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1293d8d4385324494881b01d45674c
+      internalID: 1460442830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 294
+        height: 180
+      alignment: 9
+      pivot: {x: 0.377551, y: 0.022222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6967dfdeda91a2941b06f4a80a635024
+      internalID: 1117076445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd1b831a018166842a358950d285034e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nemesis_digital_ataque_00: 1854450533
+      nemesis_digital_ataque_01: 129033253
+      nemesis_digital_ataque_02: -772228392
+      nemesis_digital_ataque_03: -384642672
+      nemesis_digital_ataque_04: 334863605
+      nemesis_digital_ataque_05: -1139510998
+      nemesis_digital_ataque_06: -969095296
+      nemesis_digital_ataque_07: 1476771846
+      nemesis_digital_ataque_08: 1460442830
+      nemesis_digital_ataque_09: 1117076445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

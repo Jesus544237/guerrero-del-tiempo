@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: db582656e5556be4cb9e0af45af97564
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1777698987887855037
+    second: el_gran_yunque_dano_0
+  - first:
+      213: 7269834282567322108
+    second: el_gran_yunque_dano_1
+  - first:
+      213: -6261490335032093517
+    second: el_gran_yunque_dano_2
+  - first:
+      213: -3948131421016770357
+    second: el_gran_yunque_dano_3
+  - first:
+      213: -5516153285449145366
+    second: el_gran_yunque_dano_4
+  - first:
+      213: 1276211174449642674
+    second: el_gran_yunque_dano_5
+  - first:
+      213: 1316765626234946315
+    second: el_gran_yunque_dano_6
+  - first:
+      213: -3321320198421054972
+    second: el_gran_yunque_dano_7
+  - first:
+      213: 5366238054159116017
+    second: el_gran_yunque_dano_8
+  - first:
+      213: 5827351066088234285
+    second: el_gran_yunque_dano_9
+  - first:
+      213: -2507856808452210257
+    second: el_gran_yunque_dano_10
+  - first:
+      213: 3635460906033492383
+    second: el_gran_yunque_dano_11
+  - first:
+      213: 338591392646719718
+    second: el_gran_yunque_dano_12
+  - first:
+      213: 5331155492091480371
+    second: el_gran_yunque_dano_13
+  - first:
+      213: 6692751124585018247
+    second: el_gran_yunque_dano_14
+  - first:
+      213: 4384631279522461194
+    second: el_gran_yunque_dano_15
+  - first:
+      213: 4623676928929694301
+    second: el_gran_yunque_dano_16
+  - first:
+      213: 3705287018876655093
+    second: el_gran_yunque_dano_17
+  - first:
+      213: 9221737493774868037
+    second: el_gran_yunque_dano_18
+  - first:
+      213: 869709523249152603
+    second: el_gran_yunque_dano_19
+  - first:
+      213: 6502624716071317067
+    second: el_gran_yunque_dano_20
+  - first:
+      213: -7233613663424591792
+    second: el_gran_yunque_dano_21
+  - first:
+      213: -2514910318630587971
+    second: el_gran_yunque_dano_22
+  - first:
+      213: 137014354184845677
+    second: el_gran_yunque_dano_23
+  - first:
+      213: -1910155638207013718
+    second: el_gran_yunque_dano_24
+  - first:
+      213: 5842392649712344232
+    second: el_gran_yunque_dano_25
+  - first:
+      213: 7872570352545748926
+    second: el_gran_yunque_dano_26
+  - first:
+      213: -2216384039863112775
+    second: el_gran_yunque_dano_27
+  - first:
+      213: -91554072959041461
+    second: el_gran_yunque_dano_28
+  - first:
+      213: 7714193738169746008
+    second: el_gran_yunque_dano_29
+  - first:
+      213: 7877911107477614389
+    second: el_gran_yunque_dano_30
+  - first:
+      213: 927735934143068808
+    second: el_gran_yunque_dano_31
+  - first:
+      213: -1522803057349985879
+    second: el_gran_yunque_dano_32
+  - first:
+      213: 4904143248802099147
+    second: el_gran_yunque_dano_33
+  - first:
+      213: 6591814172566059626
+    second: el_gran_yunque_dano_34
+  - first:
+      213: -3211101706533730369
+    second: el_gran_yunque_dano_35
+  - first:
+      213: 4659243023072753087
+    second: el_gran_yunque_dano_36
+  - first:
+      213: 2646012745482843177
+    second: el_gran_yunque_dano_37
+  - first:
+      213: 8194838592332725994
+    second: el_gran_yunque_dano_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: el_gran_yunque_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 534
+        height: 360
+      alignment: 9
+      pivot: {x: 0.550562, y: 0.011111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70283edb0a00d684bae160525d27b2be
+      internalID: 630695096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_dano_01
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 534
+        height: 360
+      alignment: 9
+      pivot: {x: 0.550562, y: 0.011111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d779c623714fe4db491159fb29b1fb
+      internalID: 435552007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_dano_02
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 534
+        height: 360
+      alignment: 9
+      pivot: {x: 0.550562, y: 0.011111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1056699516d2f4698d63e20737d833
+      internalID: 1806861617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_dano_03
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 0
+        width: 534
+        height: 360
+      alignment: 9
+      pivot: {x: 0.550562, y: 0.011111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1f0c75f119fa43873332a1130e269
+      internalID: 1006303275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_dano_04
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 0
+        width: 534
+        height: 360
+      alignment: 9
+      pivot: {x: 0.550562, y: 0.011111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd30e69a9cc43b4b8752d211386595f
+      internalID: 337891283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_dano_05
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 0
+        width: 534
+        height: 360
+      alignment: 9
+      pivot: {x: 0.550562, y: 0.011111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd236678e9e8a334b88eb12fb999045f
+      internalID: -2008568588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b76906b3a52d094dbd1cd8d14a83ab7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      el_gran_yunque_dano_00: 630695096
+      el_gran_yunque_dano_01: 435552007
+      el_gran_yunque_dano_02: 1806861617
+      el_gran_yunque_dano_03: 1006303275
+      el_gran_yunque_dano_04: 337891283
+      el_gran_yunque_dano_05: -2008568588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 7e2a89b528dcc6547aa2d1457870b626
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -836513270109435200
+    second: automata_fundicion_dano_0
+  - first:
+      213: 2522352915324298855
+    second: automata_fundicion_dano_1
+  - first:
+      213: 8275855405553685759
+    second: automata_fundicion_dano_2
+  - first:
+      213: -4698172234402120712
+    second: automata_fundicion_dano_3
+  - first:
+      213: 6956667732029611327
+    second: automata_fundicion_dano_4
+  - first:
+      213: 3400029306295262329
+    second: automata_fundicion_dano_5
+  - first:
+      213: 8566276029078554413
+    second: automata_fundicion_dano_6
+  - first:
+      213: 7083877288553695513
+    second: automata_fundicion_dano_7
+  - first:
+      213: 2166541671207531874
+    second: automata_fundicion_dano_8
+  - first:
+      213: -81918043299680758
+    second: automata_fundicion_dano_9
+  - first:
+      213: -66042775563081365
+    second: automata_fundicion_dano_10
+  - first:
+      213: 4282690561399745040
+    second: automata_fundicion_dano_11
+  - first:
+      213: 8544098417627071621
+    second: automata_fundicion_dano_12
+  - first:
+      213: 2448705504505485274
+    second: automata_fundicion_dano_13
+  - first:
+      213: 6306806281388032769
+    second: automata_fundicion_dano_14
+  - first:
+      213: 2601701440942574303
+    second: automata_fundicion_dano_15
+  - first:
+      213: -6849606721511300051
+    second: automata_fundicion_dano_16
+  - first:
+      213: -5950015200351802661
+    second: automata_fundicion_dano_17
+  - first:
+      213: 1109484768665038216
+    second: automata_fundicion_dano_18
+  - first:
+      213: -2706170660177708916
+    second: automata_fundicion_dano_19
+  - first:
+      213: -3691683329167908983
+    second: automata_fundicion_dano_20
+  - first:
+      213: -2705766687621655943
+    second: automata_fundicion_dano_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: automata_fundicion_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 396
+        height: 242
+      alignment: 9
+      pivot: {x: 0.664141, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc23f38b61b6283439adfefba76dd556
+      internalID: -1518233901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_dano_01
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 396
+        height: 242
+      alignment: 9
+      pivot: {x: 0.664141, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50797fb37f0594488d2f89f8aa12fb6
+      internalID: -119752774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_dano_02
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 396
+        height: 242
+      alignment: 9
+      pivot: {x: 0.664141, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb85869ca0c6cb4eacca9eca2abee94
+      internalID: -265463155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_dano_03
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 396
+        height: 242
+      alignment: 9
+      pivot: {x: 0.664141, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c329180ea59f4ab4f910d21572104578
+      internalID: 42352062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_dano_04
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 396
+        height: 242
+      alignment: 9
+      pivot: {x: 0.664141, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce36af739baaad49acaaa9160a48932
+      internalID: -1392108204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_dano_05
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 396
+        height: 242
+      alignment: 9
+      pivot: {x: 0.664141, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc39d19dcfa914a8c09fd8805cdcea
+      internalID: 864203807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 434a11e9bbe71544cbaa2071a0fcbbf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      automata_fundicion_dano_00: -1518233901
+      automata_fundicion_dano_01: -119752774
+      automata_fundicion_dano_02: -265463155
+      automata_fundicion_dano_03: 42352062
+      automata_fundicion_dano_04: -1392108204
+      automata_fundicion_dano_05: 864203807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

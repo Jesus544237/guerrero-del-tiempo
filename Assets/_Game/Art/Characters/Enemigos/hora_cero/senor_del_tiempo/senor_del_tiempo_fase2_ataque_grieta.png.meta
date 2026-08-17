@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: e839a683fece58642bff6f6b415eecd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 861212769724363883
+    second: senor_del_tiempo_fase2_ataque_grieta_0
+  - first:
+      213: 1591004997163602784
+    second: senor_del_tiempo_fase2_ataque_grieta_1
+  - first:
+      213: 7430218616876275196
+    second: senor_del_tiempo_fase2_ataque_grieta_2
+  - first:
+      213: 1866042223713637464
+    second: senor_del_tiempo_fase2_ataque_grieta_3
+  - first:
+      213: 6272825085397750194
+    second: senor_del_tiempo_fase2_ataque_grieta_4
+  - first:
+      213: -2871103003328785419
+    second: senor_del_tiempo_fase2_ataque_grieta_5
+  - first:
+      213: 155291660752438029
+    second: senor_del_tiempo_fase2_ataque_grieta_6
+  - first:
+      213: 4660127859326453922
+    second: senor_del_tiempo_fase2_ataque_grieta_7
+  - first:
+      213: 1744796812343505453
+    second: senor_del_tiempo_fase2_ataque_grieta_8
+  - first:
+      213: -3416443584876577331
+    second: senor_del_tiempo_fase2_ataque_grieta_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31796417c441f47b841d4d12a5bb89
+      internalID: -413089484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_01
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212d9a14e262194b81165452d667905
+      internalID: 983019087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_02
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e98d95d09b33249ac3ee4fd3afe9f8
+      internalID: 2107309098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_03
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7730d53aaeb0f0544a3de8895a7512bb
+      internalID: 691749995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_04
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512f2d728b6de5946a8107bea3867105
+      internalID: -1904839506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_05
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e093d900b8ddd42a8f0329d7adee85
+      internalID: -2121550671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_06
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee349151f3beaa4e8995c6e484e565c
+      internalID: -339585518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_07
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 542
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f59b398a170c45b0fa2884237a703
+      internalID: 796390919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400e1ac55f8e3848b97dd95eb63b5ff
+      internalID: 1787000614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_grieta_09
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 714
+        height: 542
+      alignment: 9
+      pivot: {x: 0.497199, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9e8a12dd27854f83cbefe5f527c2b
+      internalID: 1685661099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0ade38611fe63b4d8f69916b21ec35a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_fase2_ataque_grieta_00: -413089484
+      senor_del_tiempo_fase2_ataque_grieta_01: 983019087
+      senor_del_tiempo_fase2_ataque_grieta_02: 2107309098
+      senor_del_tiempo_fase2_ataque_grieta_03: 691749995
+      senor_del_tiempo_fase2_ataque_grieta_04: -1904839506
+      senor_del_tiempo_fase2_ataque_grieta_05: -2121550671
+      senor_del_tiempo_fase2_ataque_grieta_06: -339585518
+      senor_del_tiempo_fase2_ataque_grieta_07: 796390919
+      senor_del_tiempo_fase2_ataque_grieta_08: 1787000614
+      senor_del_tiempo_fase2_ataque_grieta_09: 1685661099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: a4de9c864f48cb24aae83c295b04155a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -633328454342400320
+    second: el_gran_yunque_caminar_0
+  - first:
+      213: -6994289447171526086
+    second: el_gran_yunque_caminar_1
+  - first:
+      213: 3730342802954636600
+    second: el_gran_yunque_caminar_2
+  - first:
+      213: 3177605940240722851
+    second: el_gran_yunque_caminar_3
+  - first:
+      213: -2538470724768069866
+    second: el_gran_yunque_caminar_4
+  - first:
+      213: 3813494011546901595
+    second: el_gran_yunque_caminar_5
+  - first:
+      213: -4330684086689735111
+    second: el_gran_yunque_caminar_6
+  - first:
+      213: 7401128007293991722
+    second: el_gran_yunque_caminar_7
+  - first:
+      213: -4569618386386349421
+    second: el_gran_yunque_caminar_8
+  - first:
+      213: 7234764732641459863
+    second: el_gran_yunque_caminar_9
+  - first:
+      213: -807160297988944748
+    second: el_gran_yunque_caminar_10
+  - first:
+      213: -1865511986210525181
+    second: el_gran_yunque_caminar_11
+  - first:
+      213: -9187937855277355277
+    second: el_gran_yunque_caminar_12
+  - first:
+      213: 1287533356975624397
+    second: el_gran_yunque_caminar_13
+  - first:
+      213: 4827895673654393165
+    second: el_gran_yunque_caminar_14
+  - first:
+      213: 9059460943621260594
+    second: el_gran_yunque_caminar_15
+  - first:
+      213: -527021945721730545
+    second: el_gran_yunque_caminar_16
+  - first:
+      213: -346884849269763927
+    second: el_gran_yunque_caminar_17
+  - first:
+      213: -1641797978111778441
+    second: el_gran_yunque_caminar_18
+  - first:
+      213: 6386857544697027665
+    second: el_gran_yunque_caminar_19
+  - first:
+      213: 7401993505224186496
+    second: el_gran_yunque_caminar_20
+  - first:
+      213: -7213315692099128711
+    second: el_gran_yunque_caminar_21
+  - first:
+      213: -5078038221845769167
+    second: el_gran_yunque_caminar_22
+  - first:
+      213: 1327517914311916316
+    second: el_gran_yunque_caminar_23
+  - first:
+      213: -5947469626430882631
+    second: el_gran_yunque_caminar_24
+  - first:
+      213: -8703056049676257082
+    second: el_gran_yunque_caminar_25
+  - first:
+      213: -8412789430268537310
+    second: el_gran_yunque_caminar_26
+  - first:
+      213: 8942999819387432352
+    second: el_gran_yunque_caminar_27
+  - first:
+      213: -8572784493840491790
+    second: el_gran_yunque_caminar_28
+  - first:
+      213: 6386494623420703537
+    second: el_gran_yunque_caminar_29
+  - first:
+      213: -2364795294194230792
+    second: el_gran_yunque_caminar_30
+  - first:
+      213: 9048178113228695227
+    second: el_gran_yunque_caminar_31
+  - first:
+      213: 3293953208872343132
+    second: el_gran_yunque_caminar_32
+  - first:
+      213: 7791621344305922605
+    second: el_gran_yunque_caminar_33
+  - first:
+      213: 494884470417210974
+    second: el_gran_yunque_caminar_34
+  - first:
+      213: -4075645578542175146
+    second: el_gran_yunque_caminar_35
+  - first:
+      213: -5177333838830867420
+    second: el_gran_yunque_caminar_36
+  - first:
+      213: 2266258623322045198
+    second: el_gran_yunque_caminar_37
+  - first:
+      213: -8487405538867907945
+    second: el_gran_yunque_caminar_38
+  - first:
+      213: 3360127272660462547
+    second: el_gran_yunque_caminar_39
+  - first:
+      213: -1244261642339156612
+    second: el_gran_yunque_caminar_40
+  - first:
+      213: 7006714788017883200
+    second: el_gran_yunque_caminar_41
+  - first:
+      213: 5346409919497021787
+    second: el_gran_yunque_caminar_42
+  - first:
+      213: 3431689438634970596
+    second: el_gran_yunque_caminar_43
+  - first:
+      213: 2319979538684709716
+    second: el_gran_yunque_caminar_44
+  - first:
+      213: -598498949868940416
+    second: el_gran_yunque_caminar_45
+  - first:
+      213: -7499308835422835200
+    second: el_gran_yunque_caminar_46
+  - first:
+      213: -7015022592945024832
+    second: el_gran_yunque_caminar_47
+  - first:
+      213: -3740449491733224180
+    second: el_gran_yunque_caminar_48
+  - first:
+      213: -5523480970484546169
+    second: el_gran_yunque_caminar_49
+  - first:
+      213: 394651107426075004
+    second: el_gran_yunque_caminar_50
+  - first:
+      213: 4073876055350750379
+    second: el_gran_yunque_caminar_51
+  - first:
+      213: 24317076443119806
+    second: el_gran_yunque_caminar_52
+  - first:
+      213: -6810991227878869507
+    second: el_gran_yunque_caminar_53
+  - first:
+      213: -7183625440319082782
+    second: el_gran_yunque_caminar_54
+  - first:
+      213: 5110329912734279919
+    second: el_gran_yunque_caminar_55
+  - first:
+      213: 3830735726032353173
+    second: el_gran_yunque_caminar_56
+  - first:
+      213: 5023509129241035477
+    second: el_gran_yunque_caminar_57
+  - first:
+      213: 3264672291375580182
+    second: el_gran_yunque_caminar_58
+  - first:
+      213: -5541841201264896457
+    second: el_gran_yunque_caminar_59
+  - first:
+      213: 755926845362930368
+    second: el_gran_yunque_caminar_60
+  - first:
+      213: 1697688156458844216
+    second: el_gran_yunque_caminar_61
+  - first:
+      213: -2881908345414816687
+    second: el_gran_yunque_caminar_62
+  - first:
+      213: 381127581491487492
+    second: el_gran_yunque_caminar_63
+  - first:
+      213: 3227817195703625466
+    second: el_gran_yunque_caminar_64
+  - first:
+      213: -5603011233859606038
+    second: el_gran_yunque_caminar_65
+  - first:
+      213: -9192579995082068554
+    second: el_gran_yunque_caminar_66
+  - first:
+      213: 3371391923752966658
+    second: el_gran_yunque_caminar_67
+  - first:
+      213: -3695876310070235680
+    second: el_gran_yunque_caminar_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2ee1bf2d3daa4e9dd2aa43acee22d
+      internalID: -1391068752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_01
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e1c3a516b2344487d656859df0c4a
+      internalID: -2058991602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_02
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ab3b47e286c214fb4d181932d613b1
+      internalID: 404860987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_03
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1379eab2bebc6d46a07265620bf0961
+      internalID: 178000226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_04
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22506e91060fba14c8760f87525aab7b
+      internalID: 4136244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_05
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6d7e46b102457409953f9d04d9ee3d
+      internalID: 1061259421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_06
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042cce9c76a0d74392b1d13d7d47d93
+      internalID: 1855600965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_caminar_07
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 0
+        width: 490
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34898, y: 0.010638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26310aee4ccf825488a17bdcd4680d24
+      internalID: 1251477449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c344a8166db685245a2a717f3bbba079
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      el_gran_yunque_caminar_00: -1391068752
+      el_gran_yunque_caminar_01: -2058991602
+      el_gran_yunque_caminar_02: 404860987
+      el_gran_yunque_caminar_03: 178000226
+      el_gran_yunque_caminar_04: 4136244
+      el_gran_yunque_caminar_05: 1061259421
+      el_gran_yunque_caminar_06: 1855600965
+      el_gran_yunque_caminar_07: 1251477449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

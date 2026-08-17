@@ -1,0 +1,13 @@
+RENDERING: 2D pixel art, 16-bit era style, crisp hard pixel edges and subtle dithering, drawn as a side-view game sprite. NO motion blur, NO anti-aliasing smear, NO film grain, NO lens flare, NO depth of field, NO cinematic colour grading, NO 3D render look. It must look like a sprite cut out of a 2D platformer sprite sheet.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: A medieval wooden siege ladder, tall and narrow, its rails scorched black and its rungs splintered, with iron hooks at the top and a torn blood-red banner scrap tied near the middle. Ash clings to the wood.
+
+SCALE: the hero of this game is 240 pixels tall on screen. Draw this object so that it reads at 430 pixels tall and roughly 150 pixels wide next to him, with the level of pixel detail that size allows.
+
+FRAMING: exactly ONE object, seen from a strict SIDE VIEW, centred in the image with a little empty green margin all around it. Nothing is cut off by the edges of the image. Do not draw a scene, do not draw a character, do not draw the same object twice.
+
+BACKGROUND: pure flat solid chroma green #00FF00 filling the entire image, absolutely uniform. No gradient, no vignette, no ground line, no floor, no shadow cast on the background, no scenery, no props other than the object itself. Chroma green must never appear anywhere on the object itself or in its glow.
+
+Hard requirements: one single object, no characters, no creatures, no hands, no other props, no text, no letters, no numbers, no user interface, no logos, no watermark, no frame, no border, no drop shadow on the background.

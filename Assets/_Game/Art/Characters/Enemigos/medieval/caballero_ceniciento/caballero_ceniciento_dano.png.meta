@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: d40e727cef521f346bb600f909a96706
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6890706328035283890
+    second: caballero_ceniciento_dano_0
+  - first:
+      213: 4931984466375967457
+    second: caballero_ceniciento_dano_1
+  - first:
+      213: 3662957893876998508
+    second: caballero_ceniciento_dano_2
+  - first:
+      213: -4353994399256068863
+    second: caballero_ceniciento_dano_3
+  - first:
+      213: 5119557872888680017
+    second: caballero_ceniciento_dano_4
+  - first:
+      213: -2905898897501199694
+    second: caballero_ceniciento_dano_5
+  - first:
+      213: -3255390780839910380
+    second: caballero_ceniciento_dano_6
+  - first:
+      213: 62732814040442844
+    second: caballero_ceniciento_dano_7
+  - first:
+      213: 4485015193436146891
+    second: caballero_ceniciento_dano_8
+  - first:
+      213: -1441494313591068824
+    second: caballero_ceniciento_dano_9
+  - first:
+      213: -3520161050048473258
+    second: caballero_ceniciento_dano_10
+  - first:
+      213: 311997146830673024
+    second: caballero_ceniciento_dano_11
+  - first:
+      213: -5933936075448800461
+    second: caballero_ceniciento_dano_12
+  - first:
+      213: -9074118667970313602
+    second: caballero_ceniciento_dano_13
+  - first:
+      213: -6350580148094907761
+    second: caballero_ceniciento_dano_14
+  - first:
+      213: -4716801325562370802
+    second: caballero_ceniciento_dano_15
+  - first:
+      213: -3906202656361835859
+    second: caballero_ceniciento_dano_16
+  - first:
+      213: -1000163998853409641
+    second: caballero_ceniciento_dano_17
+  - first:
+      213: -2512869652281537278
+    second: caballero_ceniciento_dano_18
+  - first:
+      213: 727750979394578013
+    second: caballero_ceniciento_dano_19
+  - first:
+      213: -2562579342055649879
+    second: caballero_ceniciento_dano_20
+  - first:
+      213: 8827442595221941131
+    second: caballero_ceniciento_dano_21
+  - first:
+      213: -177605212826800301
+    second: caballero_ceniciento_dano_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballero_ceniciento_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 526
+        height: 382
+      alignment: 9
+      pivot: {x: 0.458175, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c179538117a1f64e9d3c4c79c418759
+      internalID: 980647587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_dano_01
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 526
+        height: 382
+      alignment: 9
+      pivot: {x: 0.458175, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6a7466655a4642b8d41bdd15ba6dd
+      internalID: 410430353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_dano_02
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 526
+        height: 382
+      alignment: 9
+      pivot: {x: 0.458175, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9915a12cb17aeec419d6df4de09cb9ee
+      internalID: -546620891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_dano_03
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 0
+        width: 526
+        height: 382
+      alignment: 9
+      pivot: {x: 0.458175, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221eab2cee00d34e8bce1186a5d399d
+      internalID: 892505891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_dano_04
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 0
+        width: 526
+        height: 382
+      alignment: 9
+      pivot: {x: 0.458175, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a85a24cf1c34c44790afe488c4b755c
+      internalID: -1822669897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_dano_05
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 0
+        width: 526
+        height: 382
+      alignment: 9
+      pivot: {x: 0.458175, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c259bf555414974686f3b4e2a0b5559
+      internalID: 2136153902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd477074101447747a99c22030c14a6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballero_ceniciento_dano_00: 980647587
+      caballero_ceniciento_dano_01: 410430353
+      caballero_ceniciento_dano_02: -546620891
+      caballero_ceniciento_dano_03: 892505891
+      caballero_ceniciento_dano_04: -1822669897
+      caballero_ceniciento_dano_05: 2136153902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

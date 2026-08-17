@@ -1,0 +1,13 @@
+RENDERING: 2D pixel art, 16-bit era style, crisp hard pixel edges and subtle dithering, drawn as a side-view game sprite. NO motion blur, NO anti-aliasing smear, NO film grain, NO lens flare, NO depth of field, NO cinematic colour grading, NO 3D render look. It must look like a sprite cut out of a 2D platformer sprite sheet.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: a scattering of gold clock gear teeth, small gold cogs, splinters of cyan crystal, motes of gold dust and tiny chips of black obsidian with cyan cracks. Everything looks like a broken clock coming apart in the dark.
+
+LAYOUT, and this part matters more than anything else: draw between 18 and 24 of these small pieces, spread out across the image, each one COMPLETELY SEPARATE from the others. No two pieces may touch, overlap, connect, or be joined by a trail, a streak or a glow. Leave a clear band of empty green between every piece and its neighbours, at least as wide as the pieces themselves. They are going to be cut out one by one by a program, so anything that touches becomes a single broken sprite.
+
+Vary them: some big, some tiny, different shapes and different angles. Each piece must be between 8 and 40 pixels across. Do not arrange them in a grid, a line, a circle or any pattern; scatter them irregularly.
+
+BACKGROUND: pure flat solid chroma green #00FF00 filling the entire image, absolutely uniform. No gradient, no vignette, no ground line, no floor, no shadow cast on the background, no scenery, no props other than the object itself. Chroma green must never appear anywhere on the object itself or in its glow.
+
+Hard requirements: one single object, no characters, no creatures, no hands, no other props, no text, no letters, no numbers, no user interface, no logos, no watermark, no frame, no border, no drop shadow on the background.

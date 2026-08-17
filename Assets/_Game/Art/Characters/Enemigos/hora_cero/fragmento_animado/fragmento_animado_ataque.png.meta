@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 56457de962e436a4c9b9ad25aeddaac8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4389918823618932596
+    second: fragmento_animado_ataque_0
+  - first:
+      213: -2842144405005086565
+    second: fragmento_animado_ataque_1
+  - first:
+      213: 8088456667574533636
+    second: fragmento_animado_ataque_2
+  - first:
+      213: 5679997129156513809
+    second: fragmento_animado_ataque_3
+  - first:
+      213: 1511587070463587230
+    second: fragmento_animado_ataque_4
+  - first:
+      213: 1222076292588396816
+    second: fragmento_animado_ataque_5
+  - first:
+      213: 1142202332606753155
+    second: fragmento_animado_ataque_6
+  - first:
+      213: -2897920239818170293
+    second: fragmento_animado_ataque_7
+  - first:
+      213: 5236966472947842550
+    second: fragmento_animado_ataque_8
+  - first:
+      213: -4470661371753309115
+    second: fragmento_animado_ataque_9
+  - first:
+      213: 6576402948270869981
+    second: fragmento_animado_ataque_10
+  - first:
+      213: -3033742961252453023
+    second: fragmento_animado_ataque_11
+  - first:
+      213: -6079522623133851902
+    second: fragmento_animado_ataque_12
+  - first:
+      213: 7504740646895288657
+    second: fragmento_animado_ataque_13
+  - first:
+      213: 8267620551346835421
+    second: fragmento_animado_ataque_14
+  - first:
+      213: -7031239986095566532
+    second: fragmento_animado_ataque_15
+  - first:
+      213: 7190483237656221999
+    second: fragmento_animado_ataque_16
+  - first:
+      213: -4851648573194969334
+    second: fragmento_animado_ataque_17
+  - first:
+      213: -868376826204860539
+    second: fragmento_animado_ataque_18
+  - first:
+      213: 8587847715357097255
+    second: fragmento_animado_ataque_19
+  - first:
+      213: -1732235078869450956
+    second: fragmento_animado_ataque_20
+  - first:
+      213: 2013127034345877382
+    second: fragmento_animado_ataque_21
+  - first:
+      213: -4053212811986096224
+    second: fragmento_animado_ataque_22
+  - first:
+      213: -6563190338636436740
+    second: fragmento_animado_ataque_23
+  - first:
+      213: -2335965545346575416
+    second: fragmento_animado_ataque_24
+  - first:
+      213: -2430238900424203650
+    second: fragmento_animado_ataque_25
+  - first:
+      213: -1774076765719336234
+    second: fragmento_animado_ataque_26
+  - first:
+      213: 2012261039985226474
+    second: fragmento_animado_ataque_27
+  - first:
+      213: 509106884025748952
+    second: fragmento_animado_ataque_28
+  - first:
+      213: 6412808911773859689
+    second: fragmento_animado_ataque_29
+  - first:
+      213: 1790103630740233094
+    second: fragmento_animado_ataque_30
+  - first:
+      213: -8494395911972666274
+    second: fragmento_animado_ataque_31
+  - first:
+      213: 3223398911639722273
+    second: fragmento_animado_ataque_32
+  - first:
+      213: 28791388245656796
+    second: fragmento_animado_ataque_33
+  - first:
+      213: 5795486590254881654
+    second: fragmento_animado_ataque_34
+  - first:
+      213: -4735646525306186483
+    second: fragmento_animado_ataque_35
+  - first:
+      213: -8135008911990137130
+    second: fragmento_animado_ataque_36
+  - first:
+      213: 7189860291678457292
+    second: fragmento_animado_ataque_37
+  - first:
+      213: 5222989543612101528
+    second: fragmento_animado_ataque_38
+  - first:
+      213: -2653560975252105335
+    second: fragmento_animado_ataque_39
+  - first:
+      213: -8359142329450670578
+    second: fragmento_animado_ataque_40
+  - first:
+      213: -1218267603268836893
+    second: fragmento_animado_ataque_41
+  - first:
+      213: -3247022310732182093
+    second: fragmento_animado_ataque_42
+  - first:
+      213: 5290487197002303837
+    second: fragmento_animado_ataque_43
+  - first:
+      213: -2623100659446978868
+    second: fragmento_animado_ataque_44
+  - first:
+      213: -656988353285252097
+    second: fragmento_animado_ataque_45
+  - first:
+      213: 693099855099983488
+    second: fragmento_animado_ataque_46
+  - first:
+      213: 4208941447604449836
+    second: fragmento_animado_ataque_47
+  - first:
+      213: 7340872901186778145
+    second: fragmento_animado_ataque_48
+  - first:
+      213: 3035036083532947795
+    second: fragmento_animado_ataque_49
+  - first:
+      213: -8812605235499874982
+    second: fragmento_animado_ataque_50
+  - first:
+      213: -7932235671299077897
+    second: fragmento_animado_ataque_51
+  - first:
+      213: 985289357774430072
+    second: fragmento_animado_ataque_52
+  - first:
+      213: -8358818122380778242
+    second: fragmento_animado_ataque_53
+  - first:
+      213: -3848328412906259441
+    second: fragmento_animado_ataque_54
+  - first:
+      213: 3868303356460927511
+    second: fragmento_animado_ataque_55
+  - first:
+      213: 978533483449438274
+    second: fragmento_animado_ataque_56
+  - first:
+      213: -3954753852844393306
+    second: fragmento_animado_ataque_57
+  - first:
+      213: 1094364052530430508
+    second: fragmento_animado_ataque_58
+  - first:
+      213: -2859571428337241088
+    second: fragmento_animado_ataque_59
+  - first:
+      213: -4197740697872422973
+    second: fragmento_animado_ataque_60
+  - first:
+      213: 8286182055866992310
+    second: fragmento_animado_ataque_61
+  - first:
+      213: -6982514665961638084
+    second: fragmento_animado_ataque_62
+  - first:
+      213: 4595399042569586186
+    second: fragmento_animado_ataque_63
+  - first:
+      213: 8922505835240908478
+    second: fragmento_animado_ataque_64
+  - first:
+      213: 7878725218464030284
+    second: fragmento_animado_ataque_65
+  - first:
+      213: -5975346959570898901
+    second: fragmento_animado_ataque_66
+  - first:
+      213: -1815612982076509700
+    second: fragmento_animado_ataque_67
+  - first:
+      213: 7508031851480930772
+    second: fragmento_animado_ataque_68
+  - first:
+      213: -3741088025738581980
+    second: fragmento_animado_ataque_69
+  - first:
+      213: 3959573965573577835
+    second: fragmento_animado_ataque_70
+  - first:
+      213: -4603453540076901428
+    second: fragmento_animado_ataque_71
+  - first:
+      213: -7077494891793983882
+    second: fragmento_animado_ataque_72
+  - first:
+      213: -2822159092781448294
+    second: fragmento_animado_ataque_73
+  - first:
+      213: 373573213054868090
+    second: fragmento_animado_ataque_74
+  - first:
+      213: 3969026072134726569
+    second: fragmento_animado_ataque_75
+  - first:
+      213: 808406374949293359
+    second: fragmento_animado_ataque_76
+  - first:
+      213: 6989011602510979864
+    second: fragmento_animado_ataque_77
+  - first:
+      213: -7426639356310612799
+    second: fragmento_animado_ataque_78
+  - first:
+      213: -6291666567509757369
+    second: fragmento_animado_ataque_79
+  - first:
+      213: -8490619111751989222
+    second: fragmento_animado_ataque_80
+  - first:
+      213: 2937099744130146541
+    second: fragmento_animado_ataque_81
+  - first:
+      213: 2654733970820605250
+    second: fragmento_animado_ataque_82
+  - first:
+      213: 969242338998367806
+    second: fragmento_animado_ataque_83
+  - first:
+      213: -3447285912920612526
+    second: fragmento_animado_ataque_84
+  - first:
+      213: 2420349821467224443
+    second: fragmento_animado_ataque_85
+  - first:
+      213: -6587435958868765773
+    second: fragmento_animado_ataque_86
+  - first:
+      213: -5740819583808810167
+    second: fragmento_animado_ataque_87
+  - first:
+      213: -3218256014028695195
+    second: fragmento_animado_ataque_88
+  - first:
+      213: -404614230719932578
+    second: fragmento_animado_ataque_89
+  - first:
+      213: 2901157860228751892
+    second: fragmento_animado_ataque_90
+  - first:
+      213: -8592486742906345472
+    second: fragmento_animado_ataque_91
+  - first:
+      213: 8098679782054901583
+    second: fragmento_animado_ataque_92
+  - first:
+      213: -829728634790058610
+    second: fragmento_animado_ataque_93
+  - first:
+      213: 560900210762919665
+    second: fragmento_animado_ataque_94
+  - first:
+      213: -6296403658864293895
+    second: fragmento_animado_ataque_95
+  - first:
+      213: 6680343841497869952
+    second: fragmento_animado_ataque_96
+  - first:
+      213: -6728883124482161853
+    second: fragmento_animado_ataque_97
+  - first:
+      213: 8533216303243219976
+    second: fragmento_animado_ataque_98
+  - first:
+      213: -6278809437347951281
+    second: fragmento_animado_ataque_99
+  - first:
+      213: -6146477016006040051
+    second: fragmento_animado_ataque_100
+  - first:
+      213: 6771910335165313065
+    second: fragmento_animado_ataque_101
+  - first:
+      213: 3617393373562173224
+    second: fragmento_animado_ataque_102
+  - first:
+      213: -3085196295827585016
+    second: fragmento_animado_ataque_103
+  - first:
+      213: 2348158946736272584
+    second: fragmento_animado_ataque_104
+  - first:
+      213: 307609501634158601
+    second: fragmento_animado_ataque_105
+  - first:
+      213: 8887297607743574357
+    second: fragmento_animado_ataque_106
+  - first:
+      213: 2377760302271539239
+    second: fragmento_animado_ataque_107
+  - first:
+      213: -2756850502056660114
+    second: fragmento_animado_ataque_108
+  - first:
+      213: 9137921594845729730
+    second: fragmento_animado_ataque_109
+  - first:
+      213: -2785218747215351373
+    second: fragmento_animado_ataque_110
+  - first:
+      213: 3955714089663033596
+    second: fragmento_animado_ataque_111
+  - first:
+      213: -7274571295418547339
+    second: fragmento_animado_ataque_112
+  - first:
+      213: 5391217951259509653
+    second: fragmento_animado_ataque_113
+  - first:
+      213: 1790629131622913503
+    second: fragmento_animado_ataque_114
+  - first:
+      213: -373920130277259382
+    second: fragmento_animado_ataque_115
+  - first:
+      213: 5339528391174739379
+    second: fragmento_animado_ataque_116
+  - first:
+      213: 5780012645761643441
+    second: fragmento_animado_ataque_117
+  - first:
+      213: -5798733903975828534
+    second: fragmento_animado_ataque_118
+  - first:
+      213: 592015857693245397
+    second: fragmento_animado_ataque_119
+  - first:
+      213: -5081101355997069618
+    second: fragmento_animado_ataque_120
+  - first:
+      213: -3933045364429453694
+    second: fragmento_animado_ataque_121
+  - first:
+      213: 1718638147856484242
+    second: fragmento_animado_ataque_122
+  - first:
+      213: 3111822877067618378
+    second: fragmento_animado_ataque_123
+  - first:
+      213: 7930978929122072618
+    second: fragmento_animado_ataque_124
+  - first:
+      213: 7977422142943918908
+    second: fragmento_animado_ataque_125
+  - first:
+      213: 1930979832805945409
+    second: fragmento_animado_ataque_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a94766269ee574bb6e2b509323a475
+      internalID: 1060046826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e7f7b673803e468381bcef0d508f5
+      internalID: 1639040860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e0652ee09d0b4d89c7741cab64f06
+      internalID: 50167350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016fefb25d0a9a4e8e13308eb0fb181
+      internalID: -28601288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf3533af5c1f64e82161421307f11e
+      internalID: -1399859620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac6d0e3aac1b454bbb644257276bae7
+      internalID: -1905961957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5466c5bf0477c23458024d2918ba5c9a
+      internalID: 1907420914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 160
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c6b970df4e59a4bb08ac353cc7b7f7
+      internalID: -587492194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc05bfda4f4a9404c91906354057171c
+      internalID: 2048602141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 280
+        height: 160
+      alignment: 9
+      pivot: {x: 0.657143, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdeddf74e2ae7646aebcc2bdeeb9dd8
+      internalID: -1346654633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 601f0ed04fb9ea04cb629b76c39ff965
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fragmento_animado_ataque_00: 1060046826
+      fragmento_animado_ataque_01: 1639040860
+      fragmento_animado_ataque_02: 50167350
+      fragmento_animado_ataque_03: -28601288
+      fragmento_animado_ataque_04: -1399859620
+      fragmento_animado_ataque_05: -1905961957
+      fragmento_animado_ataque_06: 1907420914
+      fragmento_animado_ataque_07: -587492194
+      fragmento_animado_ataque_08: 2048602141
+      fragmento_animado_ataque_09: -1346654633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

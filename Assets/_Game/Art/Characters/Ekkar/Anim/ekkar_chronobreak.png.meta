@@ -1,0 +1,2109 @@
+fileFormatVersion: 2
+guid: 3e4871043429b19438bc489b4c787b1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2984183983303915308
+    second: ekkar_chronobreak_0
+  - first:
+      213: -6220321246987644265
+    second: ekkar_chronobreak_1
+  - first:
+      213: 7846569975482244170
+    second: ekkar_chronobreak_2
+  - first:
+      213: -7761082653088145755
+    second: ekkar_chronobreak_3
+  - first:
+      213: 1232157813871956901
+    second: ekkar_chronobreak_4
+  - first:
+      213: 6483933595077156516
+    second: ekkar_chronobreak_5
+  - first:
+      213: 5239544143193097565
+    second: ekkar_chronobreak_6
+  - first:
+      213: 5100089657508660431
+    second: ekkar_chronobreak_7
+  - first:
+      213: -8956087421624946889
+    second: ekkar_chronobreak_8
+  - first:
+      213: 6809883249429173902
+    second: ekkar_chronobreak_9
+  - first:
+      213: 3853115218003680113
+    second: ekkar_chronobreak_10
+  - first:
+      213: 7602881301830895102
+    second: ekkar_chronobreak_11
+  - first:
+      213: -5216765359214065054
+    second: ekkar_chronobreak_12
+  - first:
+      213: -7751057223642282117
+    second: ekkar_chronobreak_13
+  - first:
+      213: 2248930879760375885
+    second: ekkar_chronobreak_14
+  - first:
+      213: 3434307924998513002
+    second: ekkar_chronobreak_15
+  - first:
+      213: 544952077830828157
+    second: ekkar_chronobreak_16
+  - first:
+      213: -622626757776121296
+    second: ekkar_chronobreak_17
+  - first:
+      213: -8183863016118186276
+    second: ekkar_chronobreak_18
+  - first:
+      213: 2318576712231574692
+    second: ekkar_chronobreak_19
+  - first:
+      213: 7855883226272656293
+    second: ekkar_chronobreak_20
+  - first:
+      213: 5850170686840832956
+    second: ekkar_chronobreak_21
+  - first:
+      213: 5360029379441875900
+    second: ekkar_chronobreak_22
+  - first:
+      213: -5493304299357927860
+    second: ekkar_chronobreak_23
+  - first:
+      213: 4404323937178171788
+    second: ekkar_chronobreak_24
+  - first:
+      213: -1514857438558983178
+    second: ekkar_chronobreak_25
+  - first:
+      213: -7335902375261247311
+    second: ekkar_chronobreak_26
+  - first:
+      213: -277744652750379279
+    second: ekkar_chronobreak_27
+  - first:
+      213: -9001970627089855558
+    second: ekkar_chronobreak_28
+  - first:
+      213: -5018896894624870232
+    second: ekkar_chronobreak_29
+  - first:
+      213: 7079223441483939066
+    second: ekkar_chronobreak_30
+  - first:
+      213: 2533601305199099586
+    second: ekkar_chronobreak_31
+  - first:
+      213: 7164934127078885708
+    second: ekkar_chronobreak_32
+  - first:
+      213: -5956356763735849138
+    second: ekkar_chronobreak_33
+  - first:
+      213: 6480864742616518898
+    second: ekkar_chronobreak_34
+  - first:
+      213: -489893344409468000
+    second: ekkar_chronobreak_35
+  - first:
+      213: -9102695937305463007
+    second: ekkar_chronobreak_36
+  - first:
+      213: -2912900381437858117
+    second: ekkar_chronobreak_37
+  - first:
+      213: 3927888869192024721
+    second: ekkar_chronobreak_38
+  - first:
+      213: -2262145757112652482
+    second: ekkar_chronobreak_39
+  - first:
+      213: 5094423619531096546
+    second: ekkar_chronobreak_40
+  - first:
+      213: -1240860059515915890
+    second: ekkar_chronobreak_41
+  - first:
+      213: 7478576259213151617
+    second: ekkar_chronobreak_42
+  - first:
+      213: 4776484358995985577
+    second: ekkar_chronobreak_43
+  - first:
+      213: 2965647766664542075
+    second: ekkar_chronobreak_44
+  - first:
+      213: -8016060090382518667
+    second: ekkar_chronobreak_45
+  - first:
+      213: -4235220933759374064
+    second: ekkar_chronobreak_46
+  - first:
+      213: -2743454927849936378
+    second: ekkar_chronobreak_47
+  - first:
+      213: -9142408880568963510
+    second: ekkar_chronobreak_48
+  - first:
+      213: 9187930738185367549
+    second: ekkar_chronobreak_49
+  - first:
+      213: 9004302449133238249
+    second: ekkar_chronobreak_50
+  - first:
+      213: -6091488218185888860
+    second: ekkar_chronobreak_51
+  - first:
+      213: -7114604640423241904
+    second: ekkar_chronobreak_52
+  - first:
+      213: 8536565565645186525
+    second: ekkar_chronobreak_53
+  - first:
+      213: -4252796827220128212
+    second: ekkar_chronobreak_54
+  - first:
+      213: 6723943269642374301
+    second: ekkar_chronobreak_55
+  - first:
+      213: -6939760936711724437
+    second: ekkar_chronobreak_56
+  - first:
+      213: -3243332406486805734
+    second: ekkar_chronobreak_57
+  - first:
+      213: 4912338367124403262
+    second: ekkar_chronobreak_58
+  - first:
+      213: 8277207525359425698
+    second: ekkar_chronobreak_59
+  - first:
+      213: -1545240996663504979
+    second: ekkar_chronobreak_60
+  - first:
+      213: 1172693296939825276
+    second: ekkar_chronobreak_61
+  - first:
+      213: 1351971666908878045
+    second: ekkar_chronobreak_62
+  - first:
+      213: -2373762787682385789
+    second: ekkar_chronobreak_63
+  - first:
+      213: -6318419127674795257
+    second: ekkar_chronobreak_64
+  - first:
+      213: 8614941834044122769
+    second: ekkar_chronobreak_65
+  - first:
+      213: -8011569456227722105
+    second: ekkar_chronobreak_66
+  - first:
+      213: 428592866236939459
+    second: ekkar_chronobreak_67
+  - first:
+      213: -974222954300554518
+    second: ekkar_chronobreak_68
+  - first:
+      213: 8658201038774068756
+    second: ekkar_chronobreak_69
+  - first:
+      213: 5976373338513112041
+    second: ekkar_chronobreak_70
+  - first:
+      213: -5969980374959588777
+    second: ekkar_chronobreak_71
+  - first:
+      213: 7590306719353412688
+    second: ekkar_chronobreak_72
+  - first:
+      213: -4892962417424767687
+    second: ekkar_chronobreak_73
+  - first:
+      213: -5972777520980798959
+    second: ekkar_chronobreak_74
+  - first:
+      213: -8147678522909617506
+    second: ekkar_chronobreak_75
+  - first:
+      213: -9171168623738280713
+    second: ekkar_chronobreak_76
+  - first:
+      213: 3263099697445481828
+    second: ekkar_chronobreak_77
+  - first:
+      213: -5563977902913546881
+    second: ekkar_chronobreak_78
+  - first:
+      213: 2991674804032714388
+    second: ekkar_chronobreak_79
+  - first:
+      213: -6339823621400954901
+    second: ekkar_chronobreak_80
+  - first:
+      213: -3992421992063287123
+    second: ekkar_chronobreak_81
+  - first:
+      213: -3114951256565979331
+    second: ekkar_chronobreak_82
+  - first:
+      213: 6507936061535698836
+    second: ekkar_chronobreak_83
+  - first:
+      213: -3170725368421977391
+    second: ekkar_chronobreak_84
+  - first:
+      213: -8524338253111760613
+    second: ekkar_chronobreak_85
+  - first:
+      213: 7882697271046441863
+    second: ekkar_chronobreak_86
+  - first:
+      213: -3276670032751630687
+    second: ekkar_chronobreak_87
+  - first:
+      213: 7136549599667871556
+    second: ekkar_chronobreak_88
+  - first:
+      213: -2893415512657939173
+    second: ekkar_chronobreak_89
+  - first:
+      213: -7510613199545005601
+    second: ekkar_chronobreak_90
+  - first:
+      213: -3036779328847812681
+    second: ekkar_chronobreak_91
+  - first:
+      213: 2313740841611308693
+    second: ekkar_chronobreak_92
+  - first:
+      213: 4627844708791324455
+    second: ekkar_chronobreak_93
+  - first:
+      213: -4114706613973613122
+    second: ekkar_chronobreak_94
+  - first:
+      213: 4651701097520738260
+    second: ekkar_chronobreak_95
+  - first:
+      213: -8319543465994313731
+    second: ekkar_chronobreak_96
+  - first:
+      213: -6665552692929933959
+    second: ekkar_chronobreak_97
+  - first:
+      213: -2615763327409290747
+    second: ekkar_chronobreak_98
+  - first:
+      213: 990846008622285507
+    second: ekkar_chronobreak_99
+  - first:
+      213: -1881769833464426549
+    second: ekkar_chronobreak_100
+  - first:
+      213: 7043159388292638154
+    second: ekkar_chronobreak_101
+  - first:
+      213: -6113211043492844333
+    second: ekkar_chronobreak_102
+  - first:
+      213: 7696643988284042522
+    second: ekkar_chronobreak_103
+  - first:
+      213: -4154417597237309953
+    second: ekkar_chronobreak_104
+  - first:
+      213: -4657688031383729649
+    second: ekkar_chronobreak_105
+  - first:
+      213: -4652379052969447647
+    second: ekkar_chronobreak_106
+  - first:
+      213: -4538005958508859033
+    second: ekkar_chronobreak_107
+  - first:
+      213: 7964509519663992814
+    second: ekkar_chronobreak_108
+  - first:
+      213: -978481532493093576
+    second: ekkar_chronobreak_109
+  - first:
+      213: -979433953615979126
+    second: ekkar_chronobreak_110
+  - first:
+      213: -6069516340115092375
+    second: ekkar_chronobreak_111
+  - first:
+      213: -6792785074903161271
+    second: ekkar_chronobreak_112
+  - first:
+      213: 1206196557651491779
+    second: ekkar_chronobreak_113
+  - first:
+      213: -1317866310580670469
+    second: ekkar_chronobreak_114
+  - first:
+      213: -7859143270146685494
+    second: ekkar_chronobreak_115
+  - first:
+      213: -1075045899155677613
+    second: ekkar_chronobreak_116
+  - first:
+      213: -9062670653650386759
+    second: ekkar_chronobreak_117
+  - first:
+      213: 2281406980565774125
+    second: ekkar_chronobreak_118
+  - first:
+      213: 5518356585751924424
+    second: ekkar_chronobreak_119
+  - first:
+      213: -753527798018721829
+    second: ekkar_chronobreak_120
+  - first:
+      213: -447518669165025584
+    second: ekkar_chronobreak_121
+  - first:
+      213: -6418546593550197021
+    second: ekkar_chronobreak_122
+  - first:
+      213: -2757141645013749114
+    second: ekkar_chronobreak_123
+  - first:
+      213: -5478738000604479376
+    second: ekkar_chronobreak_124
+  - first:
+      213: -8101626016826193318
+    second: ekkar_chronobreak_125
+  - first:
+      213: -1486280063815310621
+    second: ekkar_chronobreak_126
+  - first:
+      213: -7765602558650074261
+    second: ekkar_chronobreak_127
+  - first:
+      213: -4431328592487343086
+    second: ekkar_chronobreak_128
+  - first:
+      213: 973252551223650127
+    second: ekkar_chronobreak_129
+  - first:
+      213: -4529655095906360177
+    second: ekkar_chronobreak_130
+  - first:
+      213: 2280810650611057340
+    second: ekkar_chronobreak_131
+  - first:
+      213: -670915945161713334
+    second: ekkar_chronobreak_132
+  - first:
+      213: -2810405860010159103
+    second: ekkar_chronobreak_133
+  - first:
+      213: -6911513321016589937
+    second: ekkar_chronobreak_134
+  - first:
+      213: -4538892542182531133
+    second: ekkar_chronobreak_135
+  - first:
+      213: 992744322864036092
+    second: ekkar_chronobreak_136
+  - first:
+      213: -7455652958989048784
+    second: ekkar_chronobreak_137
+  - first:
+      213: 8242826537591450838
+    second: ekkar_chronobreak_138
+  - first:
+      213: -3918650713176284472
+    second: ekkar_chronobreak_139
+  - first:
+      213: 8839858573322545203
+    second: ekkar_chronobreak_140
+  - first:
+      213: -5520482541906630351
+    second: ekkar_chronobreak_141
+  - first:
+      213: -5267285749997836123
+    second: ekkar_chronobreak_142
+  - first:
+      213: 3846784119746617224
+    second: ekkar_chronobreak_143
+  - first:
+      213: -283814314038488337
+    second: ekkar_chronobreak_144
+  - first:
+      213: -3382249462611501925
+    second: ekkar_chronobreak_145
+  - first:
+      213: 4336250069755263713
+    second: ekkar_chronobreak_146
+  - first:
+      213: -252032684933850391
+    second: ekkar_chronobreak_147
+  - first:
+      213: 4309760566479109312
+    second: ekkar_chronobreak_148
+  - first:
+      213: -1081619800224607455
+    second: ekkar_chronobreak_149
+  - first:
+      213: 3080087050165182136
+    second: ekkar_chronobreak_150
+  - first:
+      213: 757738184378033343
+    second: ekkar_chronobreak_151
+  - first:
+      213: 2035954297674351826
+    second: ekkar_chronobreak_152
+  - first:
+      213: -1287063175079881334
+    second: ekkar_chronobreak_153
+  - first:
+      213: -787874097340415887
+    second: ekkar_chronobreak_154
+  - first:
+      213: -8145541940445824957
+    second: ekkar_chronobreak_155
+  - first:
+      213: -6565283973231412707
+    second: ekkar_chronobreak_156
+  - first:
+      213: 3848009738968487774
+    second: ekkar_chronobreak_157
+  - first:
+      213: 276832529503375389
+    second: ekkar_chronobreak_158
+  - first:
+      213: -1656641689012315631
+    second: ekkar_chronobreak_159
+  - first:
+      213: -1831072488506733915
+    second: ekkar_chronobreak_160
+  - first:
+      213: -2226054191425516381
+    second: ekkar_chronobreak_161
+  - first:
+      213: 8598950265635163020
+    second: ekkar_chronobreak_162
+  - first:
+      213: 7306011309558086537
+    second: ekkar_chronobreak_163
+  - first:
+      213: 8705670777248949353
+    second: ekkar_chronobreak_164
+  - first:
+      213: 5305197691469167176
+    second: ekkar_chronobreak_165
+  - first:
+      213: -1488395509158819593
+    second: ekkar_chronobreak_166
+  - first:
+      213: 4310900606940898227
+    second: ekkar_chronobreak_167
+  - first:
+      213: 2302309174038445468
+    second: ekkar_chronobreak_168
+  - first:
+      213: 3637782385129238144
+    second: ekkar_chronobreak_169
+  - first:
+      213: -3010350743446019715
+    second: ekkar_chronobreak_170
+  - first:
+      213: -5766838206972806378
+    second: ekkar_chronobreak_171
+  - first:
+      213: 8847453849057565588
+    second: ekkar_chronobreak_172
+  - first:
+      213: 2576240274883087777
+    second: ekkar_chronobreak_173
+  - first:
+      213: -6074753071864269176
+    second: ekkar_chronobreak_174
+  - first:
+      213: 4826783003760124877
+    second: ekkar_chronobreak_175
+  - first:
+      213: 2090705310730334033
+    second: ekkar_chronobreak_176
+  - first:
+      213: 7611468586717461253
+    second: ekkar_chronobreak_177
+  - first:
+      213: 1360678507720773318
+    second: ekkar_chronobreak_178
+  - first:
+      213: -6517831273716494594
+    second: ekkar_chronobreak_179
+  - first:
+      213: 5195065579719407289
+    second: ekkar_chronobreak_180
+  - first:
+      213: -7334920112385598913
+    second: ekkar_chronobreak_181
+  - first:
+      213: -2677731771074272742
+    second: ekkar_chronobreak_182
+  - first:
+      213: 1663908536415826476
+    second: ekkar_chronobreak_183
+  - first:
+      213: 3152077915111240032
+    second: ekkar_chronobreak_184
+  - first:
+      213: 308620170242550499
+    second: ekkar_chronobreak_185
+  - first:
+      213: -1565615968704273158
+    second: ekkar_chronobreak_186
+  - first:
+      213: 5895170357985547198
+    second: ekkar_chronobreak_187
+  - first:
+      213: -7698576990557290551
+    second: ekkar_chronobreak_188
+  - first:
+      213: 4630755310529789993
+    second: ekkar_chronobreak_189
+  - first:
+      213: -4765344252385585654
+    second: ekkar_chronobreak_190
+  - first:
+      213: -4341538830303179210
+    second: ekkar_chronobreak_191
+  - first:
+      213: -455756712029820697
+    second: ekkar_chronobreak_192
+  - first:
+      213: 6632269505901395440
+    second: ekkar_chronobreak_193
+  - first:
+      213: 7695774940462344130
+    second: ekkar_chronobreak_194
+  - first:
+      213: -8548745045060516356
+    second: ekkar_chronobreak_195
+  - first:
+      213: 6514624075580096367
+    second: ekkar_chronobreak_196
+  - first:
+      213: 610958595619710998
+    second: ekkar_chronobreak_197
+  - first:
+      213: -4598541016528733451
+    second: ekkar_chronobreak_198
+  - first:
+      213: -6338793792307102908
+    second: ekkar_chronobreak_199
+  - first:
+      213: 2156555923160258216
+    second: ekkar_chronobreak_200
+  - first:
+      213: -6089314183958096199
+    second: ekkar_chronobreak_201
+  - first:
+      213: 3336432643848068921
+    second: ekkar_chronobreak_202
+  - first:
+      213: 6261289919925539945
+    second: ekkar_chronobreak_203
+  - first:
+      213: 641638906808608054
+    second: ekkar_chronobreak_204
+  - first:
+      213: 1905618819570647734
+    second: ekkar_chronobreak_205
+  - first:
+      213: -1988688354115203887
+    second: ekkar_chronobreak_206
+  - first:
+      213: 3104964573826620564
+    second: ekkar_chronobreak_207
+  - first:
+      213: -8250344248558723989
+    second: ekkar_chronobreak_208
+  - first:
+      213: 5936597630973651889
+    second: ekkar_chronobreak_209
+  - first:
+      213: 6316026021802269050
+    second: ekkar_chronobreak_210
+  - first:
+      213: -6282721895884557999
+    second: ekkar_chronobreak_211
+  - first:
+      213: -6125666532645819998
+    second: ekkar_chronobreak_212
+  - first:
+      213: 5790241967837694937
+    second: ekkar_chronobreak_213
+  - first:
+      213: 2861342496456036256
+    second: ekkar_chronobreak_214
+  - first:
+      213: -7909308418281289805
+    second: ekkar_chronobreak_215
+  - first:
+      213: 1870372049589716372
+    second: ekkar_chronobreak_216
+  - first:
+      213: -8897863092808691005
+    second: ekkar_chronobreak_217
+  - first:
+      213: -545225943833125710
+    second: ekkar_chronobreak_218
+  - first:
+      213: 1738500917570073713
+    second: ekkar_chronobreak_219
+  - first:
+      213: -381817192446653196
+    second: ekkar_chronobreak_220
+  - first:
+      213: -7007463097456688355
+    second: ekkar_chronobreak_221
+  - first:
+      213: -6150671369102542922
+    second: ekkar_chronobreak_222
+  - first:
+      213: 3004861966621931456
+    second: ekkar_chronobreak_223
+  - first:
+      213: 8515369105582811915
+    second: ekkar_chronobreak_224
+  - first:
+      213: -1399792555223850676
+    second: ekkar_chronobreak_225
+  - first:
+      213: -990198408942900553
+    second: ekkar_chronobreak_226
+  - first:
+      213: 1847287071198583174
+    second: ekkar_chronobreak_227
+  - first:
+      213: -8423175778365586958
+    second: ekkar_chronobreak_228
+  - first:
+      213: 8205662869889483777
+    second: ekkar_chronobreak_229
+  - first:
+      213: -8279146439437799376
+    second: ekkar_chronobreak_230
+  - first:
+      213: 7949849953922895859
+    second: ekkar_chronobreak_231
+  - first:
+      213: -322446314736656086
+    second: ekkar_chronobreak_232
+  - first:
+      213: 2909817961128054149
+    second: ekkar_chronobreak_233
+  - first:
+      213: 4713517788945331843
+    second: ekkar_chronobreak_234
+  - first:
+      213: -8773524364335694621
+    second: ekkar_chronobreak_235
+  - first:
+      213: 7502100761910320589
+    second: ekkar_chronobreak_236
+  - first:
+      213: 9093113733741738038
+    second: ekkar_chronobreak_237
+  - first:
+      213: -6015767693566656567
+    second: ekkar_chronobreak_238
+  - first:
+      213: 4690801602373448591
+    second: ekkar_chronobreak_239
+  - first:
+      213: 5713749481341780703
+    second: ekkar_chronobreak_240
+  - first:
+      213: 4569807898546514601
+    second: ekkar_chronobreak_241
+  - first:
+      213: -9040011933660472646
+    second: ekkar_chronobreak_242
+  - first:
+      213: -7328115907380241222
+    second: ekkar_chronobreak_243
+  - first:
+      213: 2511955508680206348
+    second: ekkar_chronobreak_244
+  - first:
+      213: -8354520383180855341
+    second: ekkar_chronobreak_245
+  - first:
+      213: 6984139951385448706
+    second: ekkar_chronobreak_246
+  - first:
+      213: 391953476674893591
+    second: ekkar_chronobreak_247
+  - first:
+      213: -4362410557784518785
+    second: ekkar_chronobreak_248
+  - first:
+      213: 3141125591922234876
+    second: ekkar_chronobreak_249
+  - first:
+      213: 8355914870773742427
+    second: ekkar_chronobreak_250
+  - first:
+      213: -7197113292229678622
+    second: ekkar_chronobreak_251
+  - first:
+      213: 8413860906589306472
+    second: ekkar_chronobreak_252
+  - first:
+      213: -1307844483388280757
+    second: ekkar_chronobreak_253
+  - first:
+      213: -966068337109729215
+    second: ekkar_chronobreak_254
+  - first:
+      213: -5407113865893850903
+    second: ekkar_chronobreak_255
+  - first:
+      213: 4775264612471849236
+    second: ekkar_chronobreak_256
+  - first:
+      213: -5607264478824119726
+    second: ekkar_chronobreak_257
+  - first:
+      213: 5612728993399581843
+    second: ekkar_chronobreak_258
+  - first:
+      213: 6263649820579223473
+    second: ekkar_chronobreak_259
+  - first:
+      213: -1026719871005560118
+    second: ekkar_chronobreak_260
+  - first:
+      213: -673580936993337918
+    second: ekkar_chronobreak_261
+  - first:
+      213: -2682891044935862590
+    second: ekkar_chronobreak_262
+  - first:
+      213: 5129326401999561663
+    second: ekkar_chronobreak_263
+  - first:
+      213: -631267631115703421
+    second: ekkar_chronobreak_264
+  - first:
+      213: -8375075220334880979
+    second: ekkar_chronobreak_265
+  - first:
+      213: 3600550111472965960
+    second: ekkar_chronobreak_266
+  - first:
+      213: 1506520391390823716
+    second: ekkar_chronobreak_267
+  - first:
+      213: -6467599001300324590
+    second: ekkar_chronobreak_268
+  - first:
+      213: -3888442087070061657
+    second: ekkar_chronobreak_269
+  - first:
+      213: 1694239775036750570
+    second: ekkar_chronobreak_270
+  - first:
+      213: 5481278740970031180
+    second: ekkar_chronobreak_271
+  - first:
+      213: 1816119204582214620
+    second: ekkar_chronobreak_272
+  - first:
+      213: -5577813208004799475
+    second: ekkar_chronobreak_273
+  - first:
+      213: -4222342873452629510
+    second: ekkar_chronobreak_274
+  - first:
+      213: -3775401099658651502
+    second: ekkar_chronobreak_275
+  - first:
+      213: 6779249451681211802
+    second: ekkar_chronobreak_276
+  - first:
+      213: 5852591115765923139
+    second: ekkar_chronobreak_277
+  - first:
+      213: -5871563977979971651
+    second: ekkar_chronobreak_278
+  - first:
+      213: 2011733931828253258
+    second: ekkar_chronobreak_279
+  - first:
+      213: -1716955406783039135
+    second: ekkar_chronobreak_280
+  - first:
+      213: -6194623884122153704
+    second: ekkar_chronobreak_281
+  - first:
+      213: 4500324031417505794
+    second: ekkar_chronobreak_282
+  - first:
+      213: 4214515846514188107
+    second: ekkar_chronobreak_283
+  - first:
+      213: -1844109256692596285
+    second: ekkar_chronobreak_284
+  - first:
+      213: -4118903934695278033
+    second: ekkar_chronobreak_285
+  - first:
+      213: -971686179179035899
+    second: ekkar_chronobreak_286
+  - first:
+      213: -5993835082325755112
+    second: ekkar_chronobreak_287
+  - first:
+      213: -5524070222407063865
+    second: ekkar_chronobreak_288
+  - first:
+      213: 8360151126373837892
+    second: ekkar_chronobreak_289
+  - first:
+      213: 2750956116452609497
+    second: ekkar_chronobreak_290
+  - first:
+      213: -7950403396829988980
+    second: ekkar_chronobreak_291
+  - first:
+      213: -3432966005011056211
+    second: ekkar_chronobreak_292
+  - first:
+      213: -6804269384366040865
+    second: ekkar_chronobreak_293
+  - first:
+      213: 6645183688575218404
+    second: ekkar_chronobreak_294
+  - first:
+      213: -2336539666972637276
+    second: ekkar_chronobreak_295
+  - first:
+      213: -2873200013719554985
+    second: ekkar_chronobreak_296
+  - first:
+      213: -9087854220917164488
+    second: ekkar_chronobreak_297
+  - first:
+      213: 6224508314728958639
+    second: ekkar_chronobreak_298
+  - first:
+      213: 7184878844561017750
+    second: ekkar_chronobreak_299
+  - first:
+      213: -7468262354690896124
+    second: ekkar_chronobreak_300
+  - first:
+      213: 4765904679979571280
+    second: ekkar_chronobreak_301
+  - first:
+      213: -2667824043340377254
+    second: ekkar_chronobreak_302
+  - first:
+      213: -6773958176961385947
+    second: ekkar_chronobreak_303
+  - first:
+      213: -1822353623038721901
+    second: ekkar_chronobreak_304
+  - first:
+      213: 6344279746063456822
+    second: ekkar_chronobreak_305
+  - first:
+      213: -9183905869062083008
+    second: ekkar_chronobreak_306
+  - first:
+      213: 7656967673038862989
+    second: ekkar_chronobreak_307
+  - first:
+      213: 487131062176648483
+    second: ekkar_chronobreak_308
+  - first:
+      213: -1204111261174813122
+    second: ekkar_chronobreak_309
+  - first:
+      213: -796972754944979429
+    second: ekkar_chronobreak_310
+  - first:
+      213: 385821219119473346
+    second: ekkar_chronobreak_311
+  - first:
+      213: 8676083623461175182
+    second: ekkar_chronobreak_312
+  - first:
+      213: 8193785231734456682
+    second: ekkar_chronobreak_313
+  - first:
+      213: -6856854080725795109
+    second: ekkar_chronobreak_314
+  - first:
+      213: -8704859581993135565
+    second: ekkar_chronobreak_315
+  - first:
+      213: 7147755763651648371
+    second: ekkar_chronobreak_316
+  - first:
+      213: 6360527965886475546
+    second: ekkar_chronobreak_317
+  - first:
+      213: 2787048280681017548
+    second: ekkar_chronobreak_318
+  - first:
+      213: -7181303794319499011
+    second: ekkar_chronobreak_319
+  - first:
+      213: -1506136411706181737
+    second: ekkar_chronobreak_320
+  - first:
+      213: -3209361660506975438
+    second: ekkar_chronobreak_321
+  - first:
+      213: -3710492668907395438
+    second: ekkar_chronobreak_322
+  - first:
+      213: -7596324176995984477
+    second: ekkar_chronobreak_323
+  - first:
+      213: 9209236355591132568
+    second: ekkar_chronobreak_324
+  - first:
+      213: 1899910967657306257
+    second: ekkar_chronobreak_325
+  - first:
+      213: 4192594092621448337
+    second: ekkar_chronobreak_326
+  - first:
+      213: 7356467389767669906
+    second: ekkar_chronobreak_327
+  - first:
+      213: -4496239641242492014
+    second: ekkar_chronobreak_328
+  - first:
+      213: 8667726420358595394
+    second: ekkar_chronobreak_329
+  - first:
+      213: -8980557737054212823
+    second: ekkar_chronobreak_330
+  - first:
+      213: -8974961709161302963
+    second: ekkar_chronobreak_331
+  - first:
+      213: 2451989431257680753
+    second: ekkar_chronobreak_332
+  - first:
+      213: -16572090204794270
+    second: ekkar_chronobreak_333
+  - first:
+      213: 5186965296185710235
+    second: ekkar_chronobreak_334
+  - first:
+      213: 946652432945376699
+    second: ekkar_chronobreak_335
+  - first:
+      213: -2019654560065876961
+    second: ekkar_chronobreak_336
+  - first:
+      213: 7465943945496456920
+    second: ekkar_chronobreak_337
+  - first:
+      213: -1786676902371613369
+    second: ekkar_chronobreak_338
+  - first:
+      213: 2131477288034121917
+    second: ekkar_chronobreak_339
+  - first:
+      213: -3323028583244888221
+    second: ekkar_chronobreak_340
+  - first:
+      213: -8915819458910295977
+    second: ekkar_chronobreak_341
+  - first:
+      213: 8607607492435643820
+    second: ekkar_chronobreak_342
+  - first:
+      213: 8865308471579550082
+    second: ekkar_chronobreak_343
+  - first:
+      213: -5386213169007535737
+    second: ekkar_chronobreak_344
+  - first:
+      213: -4217560098562212227
+    second: ekkar_chronobreak_345
+  - first:
+      213: -8772149958278967582
+    second: ekkar_chronobreak_346
+  - first:
+      213: -7243191402765576379
+    second: ekkar_chronobreak_347
+  - first:
+      213: -7365762983111652457
+    second: ekkar_chronobreak_348
+  - first:
+      213: -5051771623942524766
+    second: ekkar_chronobreak_349
+  - first:
+      213: 2858110879309515389
+    second: ekkar_chronobreak_350
+  - first:
+      213: -2464712983500185592
+    second: ekkar_chronobreak_351
+  - first:
+      213: 7751579646774287547
+    second: ekkar_chronobreak_352
+  - first:
+      213: 3921021150200529288
+    second: ekkar_chronobreak_353
+  - first:
+      213: 3425313437091004073
+    second: ekkar_chronobreak_354
+  - first:
+      213: -8109951940851929792
+    second: ekkar_chronobreak_355
+  - first:
+      213: -1980461245700224092
+    second: ekkar_chronobreak_356
+  - first:
+      213: 338729084771271174
+    second: ekkar_chronobreak_357
+  - first:
+      213: -6781627062751817361
+    second: ekkar_chronobreak_358
+  - first:
+      213: 4410718989217593889
+    second: ekkar_chronobreak_359
+  - first:
+      213: -619428722569614616
+    second: ekkar_chronobreak_360
+  - first:
+      213: 3229366286091594722
+    second: ekkar_chronobreak_361
+  - first:
+      213: -3896637250996430634
+    second: ekkar_chronobreak_362
+  - first:
+      213: 2529108362186894163
+    second: ekkar_chronobreak_363
+  - first:
+      213: 4040736162371381100
+    second: ekkar_chronobreak_364
+  - first:
+      213: -503977216595986330
+    second: ekkar_chronobreak_365
+  - first:
+      213: -7954719397132896143
+    second: ekkar_chronobreak_366
+  - first:
+      213: -655678621841395870
+    second: ekkar_chronobreak_367
+  - first:
+      213: 130203263950244317
+    second: ekkar_chronobreak_368
+  - first:
+      213: 1777333750144658641
+    second: ekkar_chronobreak_369
+  - first:
+      213: -6056734525214059322
+    second: ekkar_chronobreak_370
+  - first:
+      213: 7556975720659798738
+    second: ekkar_chronobreak_371
+  - first:
+      213: 276841070105140404
+    second: ekkar_chronobreak_372
+  - first:
+      213: 2759730699743260148
+    second: ekkar_chronobreak_373
+  - first:
+      213: -7268737667982365099
+    second: ekkar_chronobreak_374
+  - first:
+      213: 6159835588615503089
+    second: ekkar_chronobreak_375
+  - first:
+      213: 1750177512957640372
+    second: ekkar_chronobreak_376
+  - first:
+      213: 3741409130286476799
+    second: ekkar_chronobreak_377
+  - first:
+      213: 8926396079545189989
+    second: ekkar_chronobreak_378
+  - first:
+      213: -4057407824144396444
+    second: ekkar_chronobreak_379
+  - first:
+      213: 7053064517582006950
+    second: ekkar_chronobreak_380
+  - first:
+      213: 5320100717616759873
+    second: ekkar_chronobreak_381
+  - first:
+      213: -3780286295914319873
+    second: ekkar_chronobreak_382
+  - first:
+      213: 6144576586663621528
+    second: ekkar_chronobreak_383
+  - first:
+      213: 1738668426089270062
+    second: ekkar_chronobreak_384
+  - first:
+      213: 8431787927859160685
+    second: ekkar_chronobreak_385
+  - first:
+      213: -5020765107998213338
+    second: ekkar_chronobreak_386
+  - first:
+      213: -8651916675028654154
+    second: ekkar_chronobreak_387
+  - first:
+      213: 5622531281933695410
+    second: ekkar_chronobreak_388
+  - first:
+      213: 3112640234299972773
+    second: ekkar_chronobreak_389
+  - first:
+      213: 6936927130267435526
+    second: ekkar_chronobreak_390
+  - first:
+      213: -3947299078145795010
+    second: ekkar_chronobreak_391
+  - first:
+      213: 1664902159737598614
+    second: ekkar_chronobreak_392
+  - first:
+      213: -6680910550105014490
+    second: ekkar_chronobreak_393
+  - first:
+      213: -1394215699860867331
+    second: ekkar_chronobreak_394
+  - first:
+      213: -5771208742525119574
+    second: ekkar_chronobreak_395
+  - first:
+      213: 6400490217575379626
+    second: ekkar_chronobreak_396
+  - first:
+      213: 1010514674740104680
+    second: ekkar_chronobreak_397
+  - first:
+      213: -787705673486390751
+    second: ekkar_chronobreak_398
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_chronobreak_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee909240ddb3447a33980398f9e673
+      internalID: -413356383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_01
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c064e4e14be6814488fa75b78decad0
+      internalID: 1235717857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_02
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f10b95378b3c6d45a61dc73c0ba7fcf
+      internalID: 97702672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_03
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe40921e6af90a48ae856df20251b09
+      internalID: -1290516001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_04
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e435b32b48b2ec54e86577fbdf6fe998
+      internalID: 537774609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_05
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc8ab872a49ad43800de1748f5ec75
+      internalID: 619553527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_06
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08f93ceb124df469679abff586751b
+      internalID: -1914609501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_07
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 968
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb96861671dd0ef41ac9c0fd8d204160
+      internalID: 1250761984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2bd6fa4e1b5749bd9494b6c554f29
+      internalID: -1378506081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_09
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018321daee5328c40a4c21985d3e5c6f
+      internalID: -1847961065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_10
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34323180a4023d144aba8dab677e4060
+      internalID: 3853115218003680113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_11
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68315686259d3134c946e44b2bc6dd59
+      internalID: 7602881301830895102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_12
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a292d3f0ffba04468e41194bb164916
+      internalID: -5216765359214065054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_13
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb5323d7a1eb240a233354e8e71a4c
+      internalID: -7751057223642282117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_14
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a40a217b809774a9f63cd2fe3c93b5
+      internalID: 2248930879760375885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_15
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 726
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f608a58cab6347bec06d66b3749c1
+      internalID: 3434307924998513002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4803e5f389d27f468028938336e20b7
+      internalID: 544952077830828157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0135f6920fb440834cfbe4106e3a7
+      internalID: -622626757776121296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_18
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c377ca9d143b3146a59a19cd8c31c14
+      internalID: -8183863016118186276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_19
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a7547d978b46498b616c6794a150d
+      internalID: 2318576712231574692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_20
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba479062e3016419c0e76e7351b133
+      internalID: 7855883226272656293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_21
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a60f15d92c1824bb0ece2bb9ed941b
+      internalID: 5850170686840832956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_22
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81d32ac7e17fa4492585e29948a651
+      internalID: 5360029379441875900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_23
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 484
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a9d8da0230214b9cbb279ed971b01
+      internalID: -5493304299357927860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c55bba6830724997f50429d1732ff
+      internalID: 4404323937178171788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_25
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad7b7042d0aa145af0526db2ad752b
+      internalID: -1514857438558983178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_26
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f353f13b62fdec4784758d83b748454
+      internalID: -7335902375261247311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_27
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2c9434d99a1b4c948d3e36f3b58a8
+      internalID: -277744652750379279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_28
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365fcb3964502704f896d3d2d60c331e
+      internalID: -9001970627089855558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_29
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c1dd072533fb845a868464a10cd24a
+      internalID: -5018896894624870232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_30
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af7e2235db627419e5c871a1831c43
+      internalID: 7079223441483939066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_31
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 242
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b9219ee597f3b46985985936bdda0e
+      internalID: 2533601305199099586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ace933c73bdb4ea4a13322f0f6017
+      internalID: 7164934127078885708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_chronobreak_33
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 478
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48954, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fb21c5d4b32c47821ed65dfab4fc6
+      internalID: -5956356763735849138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9ceec8367888cd74fb949caf3b1e2d56
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_chronobreak_00: -413356383
+      ekkar_chronobreak_01: 1235717857
+      ekkar_chronobreak_02: 97702672
+      ekkar_chronobreak_03: -1290516001
+      ekkar_chronobreak_04: 537774609
+      ekkar_chronobreak_05: 619553527
+      ekkar_chronobreak_06: -1914609501
+      ekkar_chronobreak_07: 1250761984
+      ekkar_chronobreak_08: -1378506081
+      ekkar_chronobreak_09: -1847961065
+      ekkar_chronobreak_10: 3853115218003680113
+      ekkar_chronobreak_11: 7602881301830895102
+      ekkar_chronobreak_12: -5216765359214065054
+      ekkar_chronobreak_13: -7751057223642282117
+      ekkar_chronobreak_14: 2248930879760375885
+      ekkar_chronobreak_15: 3434307924998513002
+      ekkar_chronobreak_16: 544952077830828157
+      ekkar_chronobreak_17: -622626757776121296
+      ekkar_chronobreak_18: -8183863016118186276
+      ekkar_chronobreak_19: 2318576712231574692
+      ekkar_chronobreak_20: 7855883226272656293
+      ekkar_chronobreak_21: 5850170686840832956
+      ekkar_chronobreak_22: 5360029379441875900
+      ekkar_chronobreak_23: -5493304299357927860
+      ekkar_chronobreak_24: 4404323937178171788
+      ekkar_chronobreak_25: -1514857438558983178
+      ekkar_chronobreak_26: -7335902375261247311
+      ekkar_chronobreak_27: -277744652750379279
+      ekkar_chronobreak_28: -9001970627089855558
+      ekkar_chronobreak_29: -5018896894624870232
+      ekkar_chronobreak_30: 7079223441483939066
+      ekkar_chronobreak_31: 2533601305199099586
+      ekkar_chronobreak_32: 7164934127078885708
+      ekkar_chronobreak_33: -5956356763735849138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

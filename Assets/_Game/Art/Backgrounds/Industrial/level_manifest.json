@@ -1,0 +1,119 @@
+{
+  "artScale": 0.7,
+  "layers": [
+    {
+      "key": "00_cielo",
+      "file": "bg_00_cielo.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 0,
+      "contentBottom": 1075
+    },
+    {
+      "key": "01_horizonte",
+      "file": "bg_01_horizonte.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 226,
+      "contentBottom": 1075
+    },
+    {
+      "key": "02_fabrica",
+      "file": "bg_02_fabrica.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 195,
+      "contentBottom": 962
+    },
+    {
+      "key": "03_suelo",
+      "file": "bg_03_suelo.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 517,
+      "contentBottom": 1025,
+      "groundTopPixel": 517,
+      "groundSolidBottom": 1021
+    }
+  ],
+  "props": [
+    {
+      "file": "prop_00.png",
+      "width": 301,
+      "height": 547
+    },
+    {
+      "file": "prop_01.png",
+      "width": 385,
+      "height": 201
+    },
+    {
+      "file": "prop_02.png",
+      "width": 326,
+      "height": 419
+    },
+    {
+      "file": "prop_03.png",
+      "width": 423,
+      "height": 251
+    },
+    {
+      "file": "prop_04.png",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "file": "prop_05.png",
+      "width": 246,
+      "height": 158
+    },
+    {
+      "file": "prop_06.png",
+      "width": 80,
+      "height": 82
+    },
+    {
+      "file": "prop_07.png",
+      "width": 115,
+      "height": 118
+    },
+    {
+      "file": "prop_08.png",
+      "width": 331,
+      "height": 271
+    },
+    {
+      "file": "prop_09.png",
+      "width": 72,
+      "height": 72
+    },
+    {
+      "file": "prop_10.png",
+      "width": 115,
+      "height": 115
+    },
+    {
+      "file": "prop_11.png",
+      "width": 185,
+      "height": 163
+    },
+    {
+      "file": "prop_12.png",
+      "width": 136,
+      "height": 56
+    },
+    {
+      "file": "prop_13.png",
+      "width": 510,
+      "height": 259
+    },
+    {
+      "file": "prop_14.png",
+      "width": 450,
+      "height": 538
+    }
+  ],
+  "groundTopPixel": 517,
+  "groundHeight": 1075,
+  "groundSolidBottom": 1021
+}

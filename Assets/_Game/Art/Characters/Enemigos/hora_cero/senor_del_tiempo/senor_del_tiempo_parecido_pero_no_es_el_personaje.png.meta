@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d49da7d5bf8e5b942bebbe05341c145d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3117907745184498591
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_0
+  - first:
+      213: 6360416121441182287
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_1
+  - first:
+      213: -6252991849175052015
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_2
+  - first:
+      213: 6218046409030535961
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_3
+  - first:
+      213: -7324593141910185396
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_4
+  - first:
+      213: -3439691241444460456
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_5
+  - first:
+      213: -8469880759675296832
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_6
+  - first:
+      213: 8771286435582081958
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_7
+  - first:
+      213: -387900355361410728
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_8
+  - first:
+      213: 6381505397440082092
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_9
+  - first:
+      213: 843476013503526194
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_10
+  - first:
+      213: 2059683005040287263
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_11
+  - first:
+      213: -2445933774558808056
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_12
+  - first:
+      213: -9084792484273803943
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_13
+  - first:
+      213: 1689040190585324398
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_14
+  - first:
+      213: -2054046390722520865
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_15
+  - first:
+      213: -582732083156410683
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_16
+  - first:
+      213: 8846133027439937103
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_17
+  - first:
+      213: -6500386530404582643
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_18
+  - first:
+      213: 1402503613822099208
+    second: senor_del_tiempo_parecido_pero_no_es_el_personaje_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 355
+        width: 429
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93492a2398054b20800000000000000
+      internalID: 3117907745184498591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 580
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f426b2673ccb44850800000000000000
+      internalID: 6360416121441182287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 355
+        width: 424
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111128efa09e839a0800000000000000
+      internalID: -6252991849175052015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b882fa340fa4650800000000000000
+      internalID: 6218046409030535961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_4
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 355
+        width: 426
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5e244851d95a90800000000000000
+      internalID: -7324593141910185396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8583ea84a03c340d0800000000000000
+      internalID: -3439691241444460456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 355
+        width: 429
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c363ad0350f47a80800000000000000
+      internalID: -8469880759675296832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_7
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab72187a8ed9b970800000000000000
+      internalID: 8771286435582081958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_8
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 355
+        width: 431
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517f669ea6ed9af0800000000000000
+      internalID: -387900355361410728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_9
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca077aa2959af8850800000000000000
+      internalID: 6381505397440082092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_10
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 356
+        width: 433
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235b07127f0a4bb00800000000000000
+      internalID: 843476013503526194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_11
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed559c7c6759c10800000000000000
+      internalID: 2059683005040287263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_12
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 356
+        width: 434
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808ba4fe03c4e0ed0800000000000000
+      internalID: -2445933774558808056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_13
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95da8bc6e555ce180800000000000000
+      internalID: -9084792484273803943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_14
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 356
+        width: 435
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63423bba1da07710800000000000000
+      internalID: 1689040190585324398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_15
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd89fc0c0bf8e73e0800000000000000
+      internalID: -2054046390722520865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 435
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce1d300248b9e7f0800000000000000
+      internalID: -582732083156410683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 229
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f468860ae17c3ca70800000000000000
+      internalID: 8846133027439937103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_18
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 5
+        width: 435
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b308024ecf9c5a0800000000000000
+      internalID: -6500386530404582643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_parecido_pero_no_es_el_personaje_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 229
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f51122b91b67310800000000000000
+      internalID: 1402503613822099208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_0: 3117907745184498591
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_1: 6360416121441182287
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_10: 843476013503526194
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_11: 2059683005040287263
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_12: -2445933774558808056
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_13: -9084792484273803943
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_14: 1689040190585324398
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_15: -2054046390722520865
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_16: -582732083156410683
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_17: 8846133027439937103
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_18: -6500386530404582643
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_19: 1402503613822099208
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_2: -6252991849175052015
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_3: 6218046409030535961
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_4: -7324593141910185396
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_5: -3439691241444460456
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_6: -8469880759675296832
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_7: 8771286435582081958
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_8: -387900355361410728
+      senor_del_tiempo_parecido_pero_no_es_el_personaje_9: 6381505397440082092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

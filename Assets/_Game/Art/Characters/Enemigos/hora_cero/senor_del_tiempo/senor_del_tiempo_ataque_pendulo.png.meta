@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 7c3b3f833baf4204ab0bed09ea4a5bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6244194538650256101
+    second: senor_del_tiempo_ataque_pendulo_0
+  - first:
+      213: 5892862847822612708
+    second: senor_del_tiempo_ataque_pendulo_1
+  - first:
+      213: 6278950758898257009
+    second: senor_del_tiempo_ataque_pendulo_2
+  - first:
+      213: 7958296869574995263
+    second: senor_del_tiempo_ataque_pendulo_3
+  - first:
+      213: 3046188533498295109
+    second: senor_del_tiempo_ataque_pendulo_4
+  - first:
+      213: -7458469106117510924
+    second: senor_del_tiempo_ataque_pendulo_5
+  - first:
+      213: -3807933661178412544
+    second: senor_del_tiempo_ataque_pendulo_6
+  - first:
+      213: 1029879286105298810
+    second: senor_del_tiempo_ataque_pendulo_7
+  - first:
+      213: 3466117796866118477
+    second: senor_del_tiempo_ataque_pendulo_8
+  - first:
+      213: -8141262569459271805
+    second: senor_del_tiempo_ataque_pendulo_9
+  - first:
+      213: -1379546765252519843
+    second: senor_del_tiempo_ataque_pendulo_10
+  - first:
+      213: 816924772584696107
+    second: senor_del_tiempo_ataque_pendulo_11
+  - first:
+      213: 1930732949199680762
+    second: senor_del_tiempo_ataque_pendulo_12
+  - first:
+      213: -7424228758882400031
+    second: senor_del_tiempo_ataque_pendulo_13
+  - first:
+      213: 3862946928537023360
+    second: senor_del_tiempo_ataque_pendulo_14
+  - first:
+      213: -7482554390489695843
+    second: senor_del_tiempo_ataque_pendulo_15
+  - first:
+      213: 6057091811724453094
+    second: senor_del_tiempo_ataque_pendulo_16
+  - first:
+      213: -8984489446746729752
+    second: senor_del_tiempo_ataque_pendulo_17
+  - first:
+      213: -5070733801685276142
+    second: senor_del_tiempo_ataque_pendulo_18
+  - first:
+      213: -7499041428081427621
+    second: senor_del_tiempo_ataque_pendulo_19
+  - first:
+      213: -1178832327457577587
+    second: senor_del_tiempo_ataque_pendulo_20
+  - first:
+      213: -237943788980683794
+    second: senor_del_tiempo_ataque_pendulo_21
+  - first:
+      213: -4519875559346214311
+    second: senor_del_tiempo_ataque_pendulo_22
+  - first:
+      213: -8731794924981323771
+    second: senor_del_tiempo_ataque_pendulo_23
+  - first:
+      213: 1253041361855799280
+    second: senor_del_tiempo_ataque_pendulo_24
+  - first:
+      213: -6839579184953051162
+    second: senor_del_tiempo_ataque_pendulo_25
+  - first:
+      213: -5236989547488533031
+    second: senor_del_tiempo_ataque_pendulo_26
+  - first:
+      213: 1558353364686686327
+    second: senor_del_tiempo_ataque_pendulo_27
+  - first:
+      213: -7328176248376162618
+    second: senor_del_tiempo_ataque_pendulo_28
+  - first:
+      213: -179325558763413108
+    second: senor_del_tiempo_ataque_pendulo_29
+  - first:
+      213: 2503763510330779004
+    second: senor_del_tiempo_ataque_pendulo_30
+  - first:
+      213: 753760328325658807
+    second: senor_del_tiempo_ataque_pendulo_31
+  - first:
+      213: 9029341285623388778
+    second: senor_del_tiempo_ataque_pendulo_32
+  - first:
+      213: -5328125931734346173
+    second: senor_del_tiempo_ataque_pendulo_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ad64b1d5943a438d61f40079e0bf1
+      internalID: -1384064195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fdcb675dfd5114a9bdf67123b88e27
+      internalID: -490882797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_02
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de720749a99724f4ba1ce6b72e4fbec3
+      internalID: -1220015865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_03
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df1ea9cafd8c84191a90427dc46fe2
+      internalID: 1907130007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_04
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e589836d1de3a42bbc18a4fe8fb894
+      internalID: 808450371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_05
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577417480cba5a74aa0a188f243f00b0
+      internalID: -393580236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_06
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2589cd197e48840ae1e71a14c6108f
+      internalID: -687905446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_07
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 542
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e4237c8dad7741a92155e29d21344
+      internalID: 1195440651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be13ae5b6fceb34d9c70acc252c135f
+      internalID: -679889297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_pendulo_09
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 768
+        height: 542
+      alignment: 9
+      pivot: {x: 0.466146, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb8fb19fbf9874479066c34e0c300e2
+      internalID: 1805284858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6344f97ac9549ed46a994377d16ec502
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_ataque_pendulo_00: -1384064195
+      senor_del_tiempo_ataque_pendulo_01: -490882797
+      senor_del_tiempo_ataque_pendulo_02: -1220015865
+      senor_del_tiempo_ataque_pendulo_03: 1907130007
+      senor_del_tiempo_ataque_pendulo_04: 808450371
+      senor_del_tiempo_ataque_pendulo_05: -393580236
+      senor_del_tiempo_ataque_pendulo_06: -687905446
+      senor_del_tiempo_ataque_pendulo_07: 1195440651
+      senor_del_tiempo_ataque_pendulo_08: -679889297
+      senor_del_tiempo_ataque_pendulo_09: 1805284858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

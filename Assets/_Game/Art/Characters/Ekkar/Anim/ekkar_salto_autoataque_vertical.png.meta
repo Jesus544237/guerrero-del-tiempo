@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 1f320662940701c4eaed43f63e5ee622
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6054902407416309399
+    second: ekkar_salto_autoataque_vertical_0
+  - first:
+      213: 7956037975261887404
+    second: ekkar_salto_autoataque_vertical_1
+  - first:
+      213: -7443029142428638770
+    second: ekkar_salto_autoataque_vertical_2
+  - first:
+      213: 186685675865717336
+    second: ekkar_salto_autoataque_vertical_3
+  - first:
+      213: -5356012357973830445
+    second: ekkar_salto_autoataque_vertical_4
+  - first:
+      213: 5709178507110057168
+    second: ekkar_salto_autoataque_vertical_5
+  - first:
+      213: 9021239904500181657
+    second: ekkar_salto_autoataque_vertical_6
+  - first:
+      213: -2282230603743860568
+    second: ekkar_salto_autoataque_vertical_7
+  - first:
+      213: 2872641623729122997
+    second: ekkar_salto_autoataque_vertical_8
+  - first:
+      213: 839585739810649052
+    second: ekkar_salto_autoataque_vertical_9
+  - first:
+      213: 3691997076248636473
+    second: ekkar_salto_autoataque_vertical_10
+  - first:
+      213: 2307508896484298318
+    second: ekkar_salto_autoataque_vertical_11
+  - first:
+      213: 4386305466804920959
+    second: ekkar_salto_autoataque_vertical_12
+  - first:
+      213: 1927946831295624290
+    second: ekkar_salto_autoataque_vertical_13
+  - first:
+      213: 6950228463768861863
+    second: ekkar_salto_autoataque_vertical_14
+  - first:
+      213: 3093273113055006434
+    second: ekkar_salto_autoataque_vertical_15
+  - first:
+      213: -1896595233437207660
+    second: ekkar_salto_autoataque_vertical_16
+  - first:
+      213: 642692972171204592
+    second: ekkar_salto_autoataque_vertical_17
+  - first:
+      213: 86581720413109444
+    second: ekkar_salto_autoataque_vertical_18
+  - first:
+      213: 2133693127977439386
+    second: ekkar_salto_autoataque_vertical_19
+  - first:
+      213: 4542360271609541670
+    second: ekkar_salto_autoataque_vertical_20
+  - first:
+      213: -8596532718031288687
+    second: ekkar_salto_autoataque_vertical_21
+  - first:
+      213: -4908372781196618408
+    second: ekkar_salto_autoataque_vertical_22
+  - first:
+      213: 1297071938522447658
+    second: ekkar_salto_autoataque_vertical_23
+  - first:
+      213: -2148489453037846194
+    second: ekkar_salto_autoataque_vertical_24
+  - first:
+      213: 772591847035999836
+    second: ekkar_salto_autoataque_vertical_25
+  - first:
+      213: -8577370252443053577
+    second: ekkar_salto_autoataque_vertical_26
+  - first:
+      213: 2868328076849549016
+    second: ekkar_salto_autoataque_vertical_27
+  - first:
+      213: 4394925493139658220
+    second: ekkar_salto_autoataque_vertical_28
+  - first:
+      213: -8144198879662540048
+    second: ekkar_salto_autoataque_vertical_29
+  - first:
+      213: -6548137553342106013
+    second: ekkar_salto_autoataque_vertical_30
+  - first:
+      213: 8631077048013788194
+    second: ekkar_salto_autoataque_vertical_31
+  - first:
+      213: -2577156606477016798
+    second: ekkar_salto_autoataque_vertical_32
+  - first:
+      213: -4117796813371327074
+    second: ekkar_salto_autoataque_vertical_33
+  - first:
+      213: -807254581968730835
+    second: ekkar_salto_autoataque_vertical_34
+  - first:
+      213: 4453004148751240929
+    second: ekkar_salto_autoataque_vertical_35
+  - first:
+      213: 6407171335646406658
+    second: ekkar_salto_autoataque_vertical_36
+  - first:
+      213: 741838671909136719
+    second: ekkar_salto_autoataque_vertical_37
+  - first:
+      213: 503488664488586609
+    second: ekkar_salto_autoataque_vertical_38
+  - first:
+      213: -7818515846420333627
+    second: ekkar_salto_autoataque_vertical_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c661099ce921449891396045043c3
+      internalID: 664529789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_01
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8448888187c2cb44eac56e6b0ff1c752
+      internalID: -1189568163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_02
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb04d94ffbe57429b08b13b4d1c4fc
+      internalID: 1104897617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_03
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ee3dee54e73a48a919e1974573168
+      internalID: -424420878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_04
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a756bc8508d895d4f847d60bc8329b9a
+      internalID: -537492370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_05
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5baeeb863d6840b37397cab147d67
+      internalID: 963654788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_06
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb59dccba36da374b8e1fffefb02a1e3
+      internalID: -889077727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_07
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 226
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a44dea3c4df5c489c37b71c975754a
+      internalID: -1792722124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65791e292718054aae067847c8ca687
+      internalID: 620849419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_09
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e7641191f6c646aff8e91237744c5
+      internalID: -917126401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6071c3c0f5d354a84c931bd72b6f23
+      internalID: 3691997076248636473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_11
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3867d134caa5d6f44abeee5031a71990
+      internalID: 2307508896484298318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_12
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 0
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d9742cf7498eb46b3dc84fd76f28fc
+      internalID: 4386305466804920959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_autoataque_vertical_13
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 0
+        width: 394
+        height: 226
+      alignment: 9
+      pivot: {x: 0.236041, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a5c14363835e44b105213bb9e4bdb
+      internalID: 1927946831295624290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 98efffb2f41236b4685d5e5e524037c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_salto_autoataque_vertical_00: 664529789
+      ekkar_salto_autoataque_vertical_01: -1189568163
+      ekkar_salto_autoataque_vertical_02: 1104897617
+      ekkar_salto_autoataque_vertical_03: -424420878
+      ekkar_salto_autoataque_vertical_04: -537492370
+      ekkar_salto_autoataque_vertical_05: 963654788
+      ekkar_salto_autoataque_vertical_06: -889077727
+      ekkar_salto_autoataque_vertical_07: -1792722124
+      ekkar_salto_autoataque_vertical_08: 620849419
+      ekkar_salto_autoataque_vertical_09: -917126401
+      ekkar_salto_autoataque_vertical_10: 3691997076248636473
+      ekkar_salto_autoataque_vertical_11: 2307508896484298318
+      ekkar_salto_autoataque_vertical_12: 4386305466804920959
+      ekkar_salto_autoataque_vertical_13: 1927946831295624290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

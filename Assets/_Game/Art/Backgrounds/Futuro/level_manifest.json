@@ -1,0 +1,104 @@
+{
+  "artScale": 0.7,
+  "layers": [
+    {
+      "key": "00_cielo",
+      "file": "bg_00_cielo.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 0,
+      "contentBottom": 1075
+    },
+    {
+      "key": "01_horizonte",
+      "file": "bg_01_horizonte.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 326,
+      "contentBottom": 1011
+    },
+    {
+      "key": "02_servidor",
+      "file": "bg_02_servidor.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 98,
+      "contentBottom": 986
+    },
+    {
+      "key": "03_suelo",
+      "file": "bg_03_suelo.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 433,
+      "contentBottom": 1075,
+      "groundTopPixel": 433,
+      "groundSolidBottom": 1074
+    }
+  ],
+  "props": [
+    {
+      "file": "prop_00.png",
+      "width": 206,
+      "height": 295
+    },
+    {
+      "file": "prop_01.png",
+      "width": 287,
+      "height": 131
+    },
+    {
+      "file": "prop_02.png",
+      "width": 71,
+      "height": 70
+    },
+    {
+      "file": "prop_03.png",
+      "width": 206,
+      "height": 163
+    },
+    {
+      "file": "prop_04.png",
+      "width": 75,
+      "height": 97
+    },
+    {
+      "file": "prop_05.png",
+      "width": 259,
+      "height": 459
+    },
+    {
+      "file": "prop_06.png",
+      "width": 208,
+      "height": 227
+    },
+    {
+      "file": "prop_07.png",
+      "width": 73,
+      "height": 69
+    },
+    {
+      "file": "prop_08.png",
+      "width": 228,
+      "height": 318
+    },
+    {
+      "file": "prop_09.png",
+      "width": 224,
+      "height": 199
+    },
+    {
+      "file": "prop_10.png",
+      "width": 70,
+      "height": 70
+    },
+    {
+      "file": "prop_11.png",
+      "width": 180,
+      "height": 116
+    }
+  ],
+  "groundTopPixel": 433,
+  "groundHeight": 1075,
+  "groundSolidBottom": 1074
+}

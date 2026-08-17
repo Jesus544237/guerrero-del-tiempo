@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: f1854fe5037dd1d47b9b3cc76574b59b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2134548419251586922
+    second: senor_del_tiempo_ataque_agujas_0
+  - first:
+      213: -4526034839646736921
+    second: senor_del_tiempo_ataque_agujas_1
+  - first:
+      213: 4159041359712924817
+    second: senor_del_tiempo_ataque_agujas_2
+  - first:
+      213: 3079333905265728400
+    second: senor_del_tiempo_ataque_agujas_3
+  - first:
+      213: 7545250081672054044
+    second: senor_del_tiempo_ataque_agujas_4
+  - first:
+      213: -4365256182631919122
+    second: senor_del_tiempo_ataque_agujas_5
+  - first:
+      213: -7433724709874267918
+    second: senor_del_tiempo_ataque_agujas_6
+  - first:
+      213: 7581177605100569130
+    second: senor_del_tiempo_ataque_agujas_7
+  - first:
+      213: -8220591808827324236
+    second: senor_del_tiempo_ataque_agujas_8
+  - first:
+      213: -346190123882409670
+    second: senor_del_tiempo_ataque_agujas_9
+  - first:
+      213: -6824140547151907605
+    second: senor_del_tiempo_ataque_agujas_10
+  - first:
+      213: -1284228405219136818
+    second: senor_del_tiempo_ataque_agujas_11
+  - first:
+      213: 6572528990073269951
+    second: senor_del_tiempo_ataque_agujas_12
+  - first:
+      213: -6139295911853010879
+    second: senor_del_tiempo_ataque_agujas_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae0875f79e3af7429a0d901a98956c0
+      internalID: 1866838611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_01
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5921ed15035c144f9813671763acd65
+      internalID: -941430687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_02
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedacfb206a577c468311a5df70286ab
+      internalID: -230740351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_03
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b869f914bcf24b83c55f9a797307e
+      internalID: -297804783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_04
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69382539688ed4b98dc3f543989afc
+      internalID: -2058984201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_05
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a00cd1d06de154c8ce468d2bd2ebd3
+      internalID: 1082588021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_06
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4594b1cf207d9d64080181ec13d09318
+      internalID: 1870013534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_07
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed3ea048b62d94590b4527cf4dce91
+      internalID: 513046204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa9d1a803a7a845811a87413e1b1c4
+      internalID: -1577611448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_agujas_09
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423dd9d383af9e4baaebb0aae757e1b
+      internalID: -1742008209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8f1722594400aa34686704ec0660d7b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_ataque_agujas_00: 1866838611
+      senor_del_tiempo_ataque_agujas_01: -941430687
+      senor_del_tiempo_ataque_agujas_02: -230740351
+      senor_del_tiempo_ataque_agujas_03: -297804783
+      senor_del_tiempo_ataque_agujas_04: -2058984201
+      senor_del_tiempo_ataque_agujas_05: 1082588021
+      senor_del_tiempo_ataque_agujas_06: 1870013534
+      senor_del_tiempo_ataque_agujas_07: 513046204
+      senor_del_tiempo_ataque_agujas_08: -1577611448
+      senor_del_tiempo_ataque_agujas_09: -1742008209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

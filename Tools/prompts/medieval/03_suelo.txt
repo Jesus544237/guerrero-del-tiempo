@@ -1,0 +1,9 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: a horizontal ground strip for a side-scrolling platformer, seen straight from the side, flat orthographic view with NO perspective. Cracked battlefield earth over old stone foundations: churned mud, broken cobblestone, spent arrows stuck in the dirt, shattered shields, and cracked gravestones half sunk into the ground. Thin cyan light seeps out of the cracks in the soil as if time itself were leaking. Tufts of dead grass along the top edge catch a rim of cold moonlight.
+
+COMPOSITION: a wide horizontal band that fills the whole image from left to right. The TOP EDGE MUST BE FLAT, STRAIGHT AND UNBROKEN across the entire width so the player can walk on it, and the surface detail sits just below that line. The left and right edges must match each other so the strip can be repeated seamlessly. Everything below the walkable line is solid dark rock and dirt.
+
+Hard requirements: no characters, no creatures, no sky, no buildings in the distance, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9.

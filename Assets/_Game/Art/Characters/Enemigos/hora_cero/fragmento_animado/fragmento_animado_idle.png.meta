@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: c9841e69f92571741921d4be867697a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -937741000674851342
+    second: fragmento_animado_idle_0
+  - first:
+      213: -1287034888789180824
+    second: fragmento_animado_idle_1
+  - first:
+      213: -1749056812216851174
+    second: fragmento_animado_idle_2
+  - first:
+      213: -3309619731969427295
+    second: fragmento_animado_idle_3
+  - first:
+      213: 4783740870843599258
+    second: fragmento_animado_idle_4
+  - first:
+      213: 2440354814910609662
+    second: fragmento_animado_idle_5
+  - first:
+      213: 2680136337096880413
+    second: fragmento_animado_idle_6
+  - first:
+      213: -8435119610019030199
+    second: fragmento_animado_idle_7
+  - first:
+      213: -4048652465454503308
+    second: fragmento_animado_idle_8
+  - first:
+      213: -2844365277592313457
+    second: fragmento_animado_idle_9
+  - first:
+      213: 1856071711803819447
+    second: fragmento_animado_idle_10
+  - first:
+      213: 722186142870044517
+    second: fragmento_animado_idle_11
+  - first:
+      213: -188631853158418120
+    second: fragmento_animado_idle_12
+  - first:
+      213: -5721478559907213276
+    second: fragmento_animado_idle_13
+  - first:
+      213: 7248326858942854886
+    second: fragmento_animado_idle_14
+  - first:
+      213: 4086069358328700577
+    second: fragmento_animado_idle_15
+  - first:
+      213: -7769788038694812271
+    second: fragmento_animado_idle_16
+  - first:
+      213: -3026089035532444158
+    second: fragmento_animado_idle_17
+  - first:
+      213: -4195905812113966186
+    second: fragmento_animado_idle_18
+  - first:
+      213: -8539718606256749274
+    second: fragmento_animado_idle_19
+  - first:
+      213: 4141058728192406550
+    second: fragmento_animado_idle_20
+  - first:
+      213: -2884689135690754762
+    second: fragmento_animado_idle_21
+  - first:
+      213: 493055005282921056
+    second: fragmento_animado_idle_22
+  - first:
+      213: -1624798216446506950
+    second: fragmento_animado_idle_23
+  - first:
+      213: 5203719755109692630
+    second: fragmento_animado_idle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fragmento_animado_idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d9415a33ee45d42a03a82eab592290
+      internalID: -2025596500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_idle_01
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb351086475550448eb72f82380b211
+      internalID: -1742973869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_idle_02
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15344aeb5f48891438da998228845690
+      internalID: -198912650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_idle_03
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f52d2f55826b4c46b4d03d1ae420eb0
+      internalID: -1220324087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_idle_04
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e05cec4865051348b1918d9c3f0806f
+      internalID: 1523489786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_idle_05
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bfc95775cd19140a90d97c7ea40d46
+      internalID: -2027558868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_idle_06
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b19e6a3d0ee54a4b9cd1b2f5e96580f
+      internalID: 1914462159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_idle_07
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 236
+        height: 126
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eefd0c48d805544a3b03bcffb6b22a
+      internalID: 3404556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64637de0a8d3ea04ab77a3e2be044b66
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fragmento_animado_idle_00: -2025596500
+      fragmento_animado_idle_01: -1742973869
+      fragmento_animado_idle_02: -198912650
+      fragmento_animado_idle_03: -1220324087
+      fragmento_animado_idle_04: 1523489786
+      fragmento_animado_idle_05: -2027558868
+      fragmento_animado_idle_06: 1914462159
+      fragmento_animado_idle_07: 3404556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

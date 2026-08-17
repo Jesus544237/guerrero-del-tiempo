@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: e313d98da540c694684cea613693b97a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3607689756700300108
+    second: ekkar_run_0
+  - first:
+      213: -8801428176436958847
+    second: ekkar_run_1
+  - first:
+      213: -2716039965090384105
+    second: ekkar_run_2
+  - first:
+      213: -4921683976446245200
+    second: ekkar_run_3
+  - first:
+      213: -7308069813095162112
+    second: ekkar_run_4
+  - first:
+      213: -121189015478348224
+    second: ekkar_run_5
+  - first:
+      213: 5190184634733093889
+    second: ekkar_run_6
+  - first:
+      213: 6224003918216322475
+    second: ekkar_run_7
+  - first:
+      213: 3635659662213578397
+    second: ekkar_run_8
+  - first:
+      213: 8760372139944250370
+    second: ekkar_run_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_run_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284026d1818f8a14b82d91c9105cd360
+      internalID: -1814743239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_01
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c1d5547484114e8aad69a6a139372
+      internalID: -196437303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_02
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6659c0ef2a345741bf27e93d71ae502
+      internalID: -2097622579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_03
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb87c4a2c291b499896356b3722a12
+      internalID: 1797627761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_04
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d7a4457abd8d5468ecb630cd80a2d0
+      internalID: 1365039380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_05
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a000ceed5e0254ca48ead5e8d2a7fe
+      internalID: 774846631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_06
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5f58a639cead44bdf896e5e83f8c2
+      internalID: 543388566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_07
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 206
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404021619e68709469dc98fe10e601bd
+      internalID: 543225276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc9062d4304fb64a8e336e93bfd68e1
+      internalID: -2062714090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_run_09
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 206
+      alignment: 9
+      pivot: {x: 0.676471, y: 0.019417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e781f904fcbc49894e5553d1f63a5
+      internalID: -1521975404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7991ae58357dae4081a9d137fb4f080
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_run_00: -1814743239
+      ekkar_run_01: -196437303
+      ekkar_run_02: -2097622579
+      ekkar_run_03: 1797627761
+      ekkar_run_04: 1365039380
+      ekkar_run_05: 774846631
+      ekkar_run_06: 543388566
+      ekkar_run_07: 543225276
+      ekkar_run_08: -2062714090
+      ekkar_run_09: -1521975404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

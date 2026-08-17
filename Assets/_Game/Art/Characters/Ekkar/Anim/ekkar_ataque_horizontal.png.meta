@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: e72d0e9f3640b6f488e5d87760d39b13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1058887932429694635
+    second: ekkar_ataque_horizontal_0
+  - first:
+      213: -6263781631114634749
+    second: ekkar_ataque_horizontal_1
+  - first:
+      213: 8798687271385011890
+    second: ekkar_ataque_horizontal_2
+  - first:
+      213: -1154816097432427208
+    second: ekkar_ataque_horizontal_3
+  - first:
+      213: 872294632743389631
+    second: ekkar_ataque_horizontal_4
+  - first:
+      213: 4503869479405697916
+    second: ekkar_ataque_horizontal_5
+  - first:
+      213: -3488954908576907847
+    second: ekkar_ataque_horizontal_6
+  - first:
+      213: -3653081159200879847
+    second: ekkar_ataque_horizontal_7
+  - first:
+      213: -8210926564294177803
+    second: ekkar_ataque_horizontal_8
+  - first:
+      213: 7818638799153681196
+    second: ekkar_ataque_horizontal_9
+  - first:
+      213: -3765746850142971179
+    second: ekkar_ataque_horizontal_10
+  - first:
+      213: -2816327223648197850
+    second: ekkar_ataque_horizontal_11
+  - first:
+      213: 7887183163460447226
+    second: ekkar_ataque_horizontal_12
+  - first:
+      213: -8758133760552993429
+    second: ekkar_ataque_horizontal_13
+  - first:
+      213: 1803218174103454808
+    second: ekkar_ataque_horizontal_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4579726c8a01c4c821a27cb4677ce1
+      internalID: 861571742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_01
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4196c93f7ef87594da688d5261532162
+      internalID: 1965173443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_02
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf8fe062c857244986eeb63e958154
+      internalID: 1636227650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_03
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81101ce5d145fd740b7dd9ff16537af8
+      internalID: 1168828326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_04
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2139c95a281af604b90b171f6c7db863
+      internalID: 391042940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_05
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a4252121a5894db9fd5277febef56
+      internalID: 1150676052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_06
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a6c2e2e383c0242bfde66dd29d9e8a
+      internalID: -892995867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_07
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 214
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5b36632fd36f488c1beece2f69247
+      internalID: 723073307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529fb4bc45ed77468b54b1e32eb59cf
+      internalID: -191922443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_09
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a4453d933448b459116cb42800a634
+      internalID: -1371058852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319fd4b57802d44596a1b668b143978
+      internalID: -3765746850142971179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414cdafb1d2568428b2efab9eee6295
+      internalID: -2816327223648197850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_12
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edce7c011558d9e4c8d762b1264709d8
+      internalID: 7887183163460447226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_13
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27f859ec484b849b7282b43f552ffc
+      internalID: -8758133760552993429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_ataque_horizontal_14
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.308176, y: 0.018692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00353d82c2f174485b68c4398a84b4
+      internalID: 1803218174103454808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 01f652ca8d83d19459cd414819ced756
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_ataque_horizontal_00: 861571742
+      ekkar_ataque_horizontal_01: 1965173443
+      ekkar_ataque_horizontal_02: 1636227650
+      ekkar_ataque_horizontal_03: 1168828326
+      ekkar_ataque_horizontal_04: 391042940
+      ekkar_ataque_horizontal_05: 1150676052
+      ekkar_ataque_horizontal_06: -892995867
+      ekkar_ataque_horizontal_07: 723073307
+      ekkar_ataque_horizontal_08: -191922443
+      ekkar_ataque_horizontal_09: -1371058852
+      ekkar_ataque_horizontal_10: -3765746850142971179
+      ekkar_ataque_horizontal_11: -2816327223648197850
+      ekkar_ataque_horizontal_12: 7887183163460447226
+      ekkar_ataque_horizontal_13: -8758133760552993429
+      ekkar_ataque_horizontal_14: 1803218174103454808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

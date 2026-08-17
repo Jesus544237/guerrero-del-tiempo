@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: bfe46f7bb63254c43803623976cd5d34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6106340840741129919
+    second: capataz_oxidado_ataque_0
+  - first:
+      213: -7898081141899538102
+    second: capataz_oxidado_ataque_1
+  - first:
+      213: -6721330018231031209
+    second: capataz_oxidado_ataque_2
+  - first:
+      213: -1892699177888746796
+    second: capataz_oxidado_ataque_3
+  - first:
+      213: 6148955631501836149
+    second: capataz_oxidado_ataque_4
+  - first:
+      213: 114095055648279699
+    second: capataz_oxidado_ataque_5
+  - first:
+      213: -1343713403500072498
+    second: capataz_oxidado_ataque_6
+  - first:
+      213: 2995938139443303592
+    second: capataz_oxidado_ataque_7
+  - first:
+      213: 6100785641216494925
+    second: capataz_oxidado_ataque_8
+  - first:
+      213: -3336172815258197812
+    second: capataz_oxidado_ataque_9
+  - first:
+      213: 3439980600590848637
+    second: capataz_oxidado_ataque_10
+  - first:
+      213: 3565827920945385529
+    second: capataz_oxidado_ataque_11
+  - first:
+      213: 7895366822848052030
+    second: capataz_oxidado_ataque_12
+  - first:
+      213: -9050995120344002700
+    second: capataz_oxidado_ataque_13
+  - first:
+      213: 6743810726797679855
+    second: capataz_oxidado_ataque_14
+  - first:
+      213: 6008359148880725397
+    second: capataz_oxidado_ataque_15
+  - first:
+      213: -5189985771320827566
+    second: capataz_oxidado_ataque_16
+  - first:
+      213: 1311557687144094766
+    second: capataz_oxidado_ataque_17
+  - first:
+      213: 5050119354548066042
+    second: capataz_oxidado_ataque_18
+  - first:
+      213: 4859784175645199863
+    second: capataz_oxidado_ataque_19
+  - first:
+      213: 2777609488612296127
+    second: capataz_oxidado_ataque_20
+  - first:
+      213: 1869848905915021700
+    second: capataz_oxidado_ataque_21
+  - first:
+      213: 3669768688265598947
+    second: capataz_oxidado_ataque_22
+  - first:
+      213: -7627421974280599613
+    second: capataz_oxidado_ataque_23
+  - first:
+      213: 392020299347444576
+    second: capataz_oxidado_ataque_24
+  - first:
+      213: -5372353583171316609
+    second: capataz_oxidado_ataque_25
+  - first:
+      213: 2649719523551750049
+    second: capataz_oxidado_ataque_26
+  - first:
+      213: 2132717219415726375
+    second: capataz_oxidado_ataque_27
+  - first:
+      213: -7858087915946659907
+    second: capataz_oxidado_ataque_28
+  - first:
+      213: 4237651417383254910
+    second: capataz_oxidado_ataque_29
+  - first:
+      213: 7701160486803887030
+    second: capataz_oxidado_ataque_30
+  - first:
+      213: 5175442241584295331
+    second: capataz_oxidado_ataque_31
+  - first:
+      213: -6192284438963342215
+    second: capataz_oxidado_ataque_32
+  - first:
+      213: -7413152548429649562
+    second: capataz_oxidado_ataque_33
+  - first:
+      213: -7208382197637762551
+    second: capataz_oxidado_ataque_34
+  - first:
+      213: 6172578737372242847
+    second: capataz_oxidado_ataque_35
+  - first:
+      213: -9183203372742960034
+    second: capataz_oxidado_ataque_36
+  - first:
+      213: -7952679296672217433
+    second: capataz_oxidado_ataque_37
+  - first:
+      213: -1218088909788091759
+    second: capataz_oxidado_ataque_38
+  - first:
+      213: 2722220104313487528
+    second: capataz_oxidado_ataque_39
+  - first:
+      213: 9037192394352680636
+    second: capataz_oxidado_ataque_40
+  - first:
+      213: -2401058048496168588
+    second: capataz_oxidado_ataque_41
+  - first:
+      213: -3190769600109521607
+    second: capataz_oxidado_ataque_42
+  - first:
+      213: -6415122553383450049
+    second: capataz_oxidado_ataque_43
+  - first:
+      213: 6667435257365663711
+    second: capataz_oxidado_ataque_44
+  - first:
+      213: 6439006643115604049
+    second: capataz_oxidado_ataque_45
+  - first:
+      213: -2346724432820231580
+    second: capataz_oxidado_ataque_46
+  - first:
+      213: -3379863254306399673
+    second: capataz_oxidado_ataque_47
+  - first:
+      213: -8514772118461968762
+    second: capataz_oxidado_ataque_48
+  - first:
+      213: -5371661562644122327
+    second: capataz_oxidado_ataque_49
+  - first:
+      213: 5584998340728119087
+    second: capataz_oxidado_ataque_50
+  - first:
+      213: -6209998531443620368
+    second: capataz_oxidado_ataque_51
+  - first:
+      213: 9150339047285995041
+    second: capataz_oxidado_ataque_52
+  - first:
+      213: -8963543721888946244
+    second: capataz_oxidado_ataque_53
+  - first:
+      213: -5553607002963579979
+    second: capataz_oxidado_ataque_54
+  - first:
+      213: 8734731455604823712
+    second: capataz_oxidado_ataque_55
+  - first:
+      213: -7305473774077731168
+    second: capataz_oxidado_ataque_56
+  - first:
+      213: 8138313021822485558
+    second: capataz_oxidado_ataque_57
+  - first:
+      213: 8441270605342639826
+    second: capataz_oxidado_ataque_58
+  - first:
+      213: -3040341854549799350
+    second: capataz_oxidado_ataque_59
+  - first:
+      213: -7119345074748463079
+    second: capataz_oxidado_ataque_60
+  - first:
+      213: 4008397138466728353
+    second: capataz_oxidado_ataque_61
+  - first:
+      213: 1045115809851802248
+    second: capataz_oxidado_ataque_62
+  - first:
+      213: -3522642484867511323
+    second: capataz_oxidado_ataque_63
+  - first:
+      213: 7175970470613417232
+    second: capataz_oxidado_ataque_64
+  - first:
+      213: -7254554528689176152
+    second: capataz_oxidado_ataque_65
+  - first:
+      213: -5217106482716528791
+    second: capataz_oxidado_ataque_66
+  - first:
+      213: -8151658980849047092
+    second: capataz_oxidado_ataque_67
+  - first:
+      213: 9055975364759136597
+    second: capataz_oxidado_ataque_68
+  - first:
+      213: 9104090024016222119
+    second: capataz_oxidado_ataque_69
+  - first:
+      213: -5611888923355580542
+    second: capataz_oxidado_ataque_70
+  - first:
+      213: 2311074837624396619
+    second: capataz_oxidado_ataque_71
+  - first:
+      213: 1293866370633456733
+    second: capataz_oxidado_ataque_72
+  - first:
+      213: 5068067631042710683
+    second: capataz_oxidado_ataque_73
+  - first:
+      213: -3638344728199009517
+    second: capataz_oxidado_ataque_74
+  - first:
+      213: 6366882466113052449
+    second: capataz_oxidado_ataque_75
+  - first:
+      213: 5673680261132861205
+    second: capataz_oxidado_ataque_76
+  - first:
+      213: -4831779156930930573
+    second: capataz_oxidado_ataque_77
+  - first:
+      213: -1434695539385806992
+    second: capataz_oxidado_ataque_78
+  - first:
+      213: 787747569319979855
+    second: capataz_oxidado_ataque_79
+  - first:
+      213: -3431105488032799295
+    second: capataz_oxidado_ataque_80
+  - first:
+      213: -231560924974140610
+    second: capataz_oxidado_ataque_81
+  - first:
+      213: 2111042181737203813
+    second: capataz_oxidado_ataque_82
+  - first:
+      213: -4948441496968194745
+    second: capataz_oxidado_ataque_83
+  - first:
+      213: 7357273014921052648
+    second: capataz_oxidado_ataque_84
+  - first:
+      213: -5665716019113050364
+    second: capataz_oxidado_ataque_85
+  - first:
+      213: 989781953566131236
+    second: capataz_oxidado_ataque_86
+  - first:
+      213: -408591231417894215
+    second: capataz_oxidado_ataque_87
+  - first:
+      213: 3453525043724171816
+    second: capataz_oxidado_ataque_88
+  - first:
+      213: 5971651171782071303
+    second: capataz_oxidado_ataque_89
+  - first:
+      213: -5504955815776434822
+    second: capataz_oxidado_ataque_90
+  - first:
+      213: -8282235223722255748
+    second: capataz_oxidado_ataque_91
+  - first:
+      213: -6142106984361892945
+    second: capataz_oxidado_ataque_92
+  - first:
+      213: -3718342844257415455
+    second: capataz_oxidado_ataque_93
+  - first:
+      213: -7254882135976427473
+    second: capataz_oxidado_ataque_94
+  - first:
+      213: -8581397172292046858
+    second: capataz_oxidado_ataque_95
+  - first:
+      213: 724282848925765808
+    second: capataz_oxidado_ataque_96
+  - first:
+      213: 20766685252513877
+    second: capataz_oxidado_ataque_97
+  - first:
+      213: -2107439290431583556
+    second: capataz_oxidado_ataque_98
+  - first:
+      213: 5451415083658229061
+    second: capataz_oxidado_ataque_99
+  - first:
+      213: 2408247054103457886
+    second: capataz_oxidado_ataque_100
+  - first:
+      213: -8340816708972711802
+    second: capataz_oxidado_ataque_101
+  - first:
+      213: 8833105182928849821
+    second: capataz_oxidado_ataque_102
+  - first:
+      213: -3760036951839638336
+    second: capataz_oxidado_ataque_103
+  - first:
+      213: -8150853481646755192
+    second: capataz_oxidado_ataque_104
+  - first:
+      213: 5230111691502293157
+    second: capataz_oxidado_ataque_105
+  - first:
+      213: -2710814935166043130
+    second: capataz_oxidado_ataque_106
+  - first:
+      213: 4337778466765052260
+    second: capataz_oxidado_ataque_107
+  - first:
+      213: 7678754474755636917
+    second: capataz_oxidado_ataque_108
+  - first:
+      213: -1349258748769045616
+    second: capataz_oxidado_ataque_109
+  - first:
+      213: 3521758058430760187
+    second: capataz_oxidado_ataque_110
+  - first:
+      213: -6104087948612174458
+    second: capataz_oxidado_ataque_111
+  - first:
+      213: -1416105241636034235
+    second: capataz_oxidado_ataque_112
+  - first:
+      213: -5706494400982771718
+    second: capataz_oxidado_ataque_113
+  - first:
+      213: -1528566352497629002
+    second: capataz_oxidado_ataque_114
+  - first:
+      213: 8096979719110847971
+    second: capataz_oxidado_ataque_115
+  - first:
+      213: 6301975185994961504
+    second: capataz_oxidado_ataque_116
+  - first:
+      213: -5758766440288522108
+    second: capataz_oxidado_ataque_117
+  - first:
+      213: -6313364947041155230
+    second: capataz_oxidado_ataque_118
+  - first:
+      213: -2388755128079746642
+    second: capataz_oxidado_ataque_119
+  - first:
+      213: 3123811095359859382
+    second: capataz_oxidado_ataque_120
+  - first:
+      213: 7337406731639059798
+    second: capataz_oxidado_ataque_121
+  - first:
+      213: -5175109049877910580
+    second: capataz_oxidado_ataque_122
+  - first:
+      213: -8997307207003698926
+    second: capataz_oxidado_ataque_123
+  - first:
+      213: 529380489564913664
+    second: capataz_oxidado_ataque_124
+  - first:
+      213: -7823629935410651137
+    second: capataz_oxidado_ataque_125
+  - first:
+      213: 4464277002288182127
+    second: capataz_oxidado_ataque_126
+  - first:
+      213: 3549843782380282147
+    second: capataz_oxidado_ataque_127
+  - first:
+      213: -1221103442817309344
+    second: capataz_oxidado_ataque_128
+  - first:
+      213: 6694028092151109650
+    second: capataz_oxidado_ataque_129
+  - first:
+      213: 3122984867156048774
+    second: capataz_oxidado_ataque_130
+  - first:
+      213: -9130997156042290488
+    second: capataz_oxidado_ataque_131
+  - first:
+      213: 5583466723171349342
+    second: capataz_oxidado_ataque_132
+  - first:
+      213: -363135479396337883
+    second: capataz_oxidado_ataque_133
+  - first:
+      213: -6727470458351145710
+    second: capataz_oxidado_ataque_134
+  - first:
+      213: -4885802689357692658
+    second: capataz_oxidado_ataque_135
+  - first:
+      213: 3298780376627606197
+    second: capataz_oxidado_ataque_136
+  - first:
+      213: 8910597515399412499
+    second: capataz_oxidado_ataque_137
+  - first:
+      213: 4371422489584471328
+    second: capataz_oxidado_ataque_138
+  - first:
+      213: -1383323573858086969
+    second: capataz_oxidado_ataque_139
+  - first:
+      213: 8271913075340850153
+    second: capataz_oxidado_ataque_140
+  - first:
+      213: 2732117602026132630
+    second: capataz_oxidado_ataque_141
+  - first:
+      213: -7382514056005783832
+    second: capataz_oxidado_ataque_142
+  - first:
+      213: 6307830955677163697
+    second: capataz_oxidado_ataque_143
+  - first:
+      213: 5513701755422126847
+    second: capataz_oxidado_ataque_144
+  - first:
+      213: 1664775702301480919
+    second: capataz_oxidado_ataque_145
+  - first:
+      213: -8151456602692075384
+    second: capataz_oxidado_ataque_146
+  - first:
+      213: -3517917362051850258
+    second: capataz_oxidado_ataque_147
+  - first:
+      213: -2175568946407929301
+    second: capataz_oxidado_ataque_148
+  - first:
+      213: -5114244892290169024
+    second: capataz_oxidado_ataque_149
+  - first:
+      213: -2596581241223779345
+    second: capataz_oxidado_ataque_150
+  - first:
+      213: -3277184609417764331
+    second: capataz_oxidado_ataque_151
+  - first:
+      213: -1922013158680248965
+    second: capataz_oxidado_ataque_152
+  - first:
+      213: 8484567631215651679
+    second: capataz_oxidado_ataque_153
+  - first:
+      213: -5746297705352552712
+    second: capataz_oxidado_ataque_154
+  - first:
+      213: -363839473923871647
+    second: capataz_oxidado_ataque_155
+  - first:
+      213: 8613274569581468511
+    second: capataz_oxidado_ataque_156
+  - first:
+      213: -8468502123439119868
+    second: capataz_oxidado_ataque_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c52a047f73eff4ab3a7a1cb5bb7a37
+      internalID: -938739792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8330e3b93dd54eb02a0ff40e21524
+      internalID: -498338363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63986800d48c21240aed5b535fe9f806
+      internalID: 594879348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f891bf10e8824409501db45836fc27
+      internalID: -1860129750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0154d31dcee6844c894479efdd871fc
+      internalID: -1656195648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23211f3d6e448e24984186b9f861d720
+      internalID: 1410750490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e23c5170297d429a004f01d659a4a
+      internalID: -1748564235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 280
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b0b21741291040adb33aa42f7ede6
+      internalID: -745259843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7ee18a977580469f08bc1583f166f
+      internalID: 143570054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 488
+        height: 280
+      alignment: 9
+      pivot: {x: 0.680328, y: 0.014286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b870a6c3c9a37e3409aa9b7d796ce228
+      internalID: 1509769293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6bd5f1c07e0c9974d8363ee360eeea44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capataz_oxidado_ataque_00: -938739792
+      capataz_oxidado_ataque_01: -498338363
+      capataz_oxidado_ataque_02: 594879348
+      capataz_oxidado_ataque_03: -1860129750
+      capataz_oxidado_ataque_04: -1656195648
+      capataz_oxidado_ataque_05: 1410750490
+      capataz_oxidado_ataque_06: -1748564235
+      capataz_oxidado_ataque_07: -745259843
+      capataz_oxidado_ataque_08: 143570054
+      capataz_oxidado_ataque_09: 1509769293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

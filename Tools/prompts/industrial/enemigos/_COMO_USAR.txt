@@ -1,0 +1,47 @@
+COMO USAR ESTOS PROMPTS
+=======================
+
+Son prompts de VIDEO, pensados para Gemini Video / Flow. Cada uno da un clip
+del que luego se sacan los fotogramas para montar el sprite sheet.
+
+1. Genera el clip con el prompt tal cual. Adjunta SIEMPRE la imagen de
+   referencia que toque:
+      - enemigos y mini-jefes  ->  Tools/refs/ekkar.png
+      - Senor del Tiempo       ->  Tools/refs/senor_del_tiempo.png
+
+2. Guarda el video en la subcarpeta 'videos' de ese enemigo, con el mismo
+   nombre que el prompt:
+      medieval/enemigos/soldado_hueso/videos/03_ataque.mp4
+
+3. Monta las hojas:
+      python Tools/build_enemy_sheets.py --enemigo soldado_hueso
+
+   Saca los fotogramas, recorta el verde, se salta la esquina de la marca,
+   elige el trozo util del clip (un ciclo si es bucle, una repeticion si es un
+   golpe), reancla por los pies y arma la hoja + el manifiesto, igual que con
+   las animaciones de Ekkar.
+
+   Antes de nada, 'python Tools/build_enemy_sheets.py --listar' dice que clips
+   ve. Para revisar como quedo, mira Tools/out/preview_enemigos/<enemigo>/:
+   la "cebolla" ensena si el anclaje baila y la "tira" ensena los fotogramas
+   elegidos sobre un cuadriculado.
+
+   Si un clip sale mal cortado, se le dice a mano el trozo bueno:
+      python Tools/build_enemy_sheets.py --enemigo soldado_hueso --anim 03_ataque --desde 3.5 --hasta 4.6 --fotogramas 12
+
+POR QUE LOS PROMPTS SON TAN ESTRICTOS
+-------------------------------------
+Para poder cortar fotogramas utiles hacen falta cuatro cosas, y todas van
+escritas en cada prompt:
+  - camara completamente fija (si la camara se mueve, el sprite se desplaza)
+  - nada de desenfoque de movimiento (arruina el pixel art)
+  - el personaje animando en el sitio, sin cruzar el encuadre
+  - fondo verde plano identico en todos los fotogramas
+
+LA MARCA DE AGUA
+----------------
+Gemini estampa su marca en la esquina inferior derecha y no se puede quitar
+desde el prompt. Por eso todos los prompts obligan a dejar esa esquina vacia
+en verde: asi la marca nunca cae encima del personaje y no estorba al recortar
+el encuadre. Ten en cuenta que las condiciones de uso de Google piden no
+retirar esa marca, asi que decide tu que haces con el clip final.

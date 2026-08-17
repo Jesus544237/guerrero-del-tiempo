@@ -1,0 +1,27 @@
+IMAGE TO VIDEO. The attached image 'senor_del_tiempo_de_pie_verde_sin_portal.jpg' is the FIRST FRAME of this clip, and the character in it is final and correct. Animate exactly that image. Do not redraw him, do not redesign him, do not restyle him, do not clean him up, do not change his proportions, his armour, his helm, his face, his colours or the number of his limbs. Where a detail is unclear, copy it from the image instead of inventing it.
+
+THE CHARACTER, so that he is not reinvented: one single humanoid figure in heavy dark blue-steel plate armour with gold trim, floating upright and facing the camera. He has TWO ARMS and TWO LEGS and nothing else: two long segmented armoured arms ending in clawed gauntlets, and two armoured legs hanging slightly bent, because he never touches the ground. Horned helm, and under it a bone-pale grinning face with a wide fanged mouth and two burning cyan eyes. Huge shoulder plates. Cyan light burns in the seams of his armour and across his chest.
+
+Two things move around him and NEITHER of them is a limb:
+  - thin dark tendrils of his own stretched flesh, growing out of his head, his shoulders, his back and his legs. They pull out longer and curl back on themselves, as if he were slowly being drawn out of shape. He is coming apart in time, and this is how it shows.
+  - wide flat golden ribbons with a pale cyan edge, looping around him through the air, together with gold clock gears of several sizes turning in orbit.
+
+THE TENDRILS ARE ALREADY DRAWN IN THE ATTACHED IMAGE AND THEY ARE ALL THE TENDRILS HE HAS. Move them, curl them, let them stretch and shorten, but never add a single new one. Do not multiply them, do not branch them, do not grow them out of new places, do not let them fill the frame, do not turn them into a mass, a nest or a swarm. Count them in the attached image: there must be the same number in every frame of the clip.
+
+He never grows extra arms. The tendrils and the ribbons never become arms, wings, hair or creatures with a life of their own.
+
+ANIMATION: He brings both hands together in front of his chest and a sphere of pale cyan light collapses inward between them, then bursts outward as an expanding ring that washes over the whole frame. As the ring passes, everything about him freezes completely still except his eyes, which keep burning, and his tendrils, which hang frozen mid-stretch. He holds frozen for a full second, then motion returns and he resumes floating.
+
+RENDERING: keep the exact pixel art of the attached image: same pixel size, same hard edges, same outlines, same palette. NO motion blur, NO smearing, NO anti-aliasing wash, NO depth of field, NO film grain, NO relighting, NO cinematic colour grading, NO change of art style. Every single frame must look like a hand-drawn sprite frame that could be cut straight out of a sprite sheet.
+
+CAMERA: absolutely locked off. No panning, no zooming, no tilting, no camera shake, no parallax. The camera does not move for a single frame of the clip.
+
+SUBJECT PLACEMENT: exactly one character, seen from the FRONT, floating in the middle of the frame at the same size and in the same place as in the attached image. He animates in place: he must never drift across the frame, never change scale, never turn around and never leave the frame.
+
+The BOTTOM-RIGHT CORNER of the frame must stay completely empty green, with no part of the character, no tendril, no ribbon, no gear and no glow reaching into it.
+
+BACKGROUND: the flat chroma green #00FF00 of the attached image stays exactly as it is, filling the whole frame behind him, absolutely uniform and the exact same shade in every frame. No gradient, no shadow, no vignette, no light spill onto the green, no ground, no floor, no scenery, no props. Chroma green must never appear on the character himself, on his tendrils, on his ribbons or in his effects.
+
+TIMING: this is a one-shot action, not a loop. The character starts in its neutral standing pose, performs the action, and returns to the neutral pose. Perform the whole action 2 times in a row, with a short still beat in the neutral pose between repetitions, at a steady even speed with no speed ramps.
+
+Hard requirements: only this one character, never a second copy of him, no extra arms, no extra legs, NO EXTRA TENDRILS AND NO NEW TENDRILS OF ANY KIND, no other creatures, no redesign, no text, no letters, no numbers, no user interface, no health bars, no logos, no frame, no border, no background elements of any kind.

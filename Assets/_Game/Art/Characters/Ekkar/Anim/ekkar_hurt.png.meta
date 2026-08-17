@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 9401ccc7100fdef44932cf50b6eddfff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5400563599535536763
+    second: ekkar_hurt_0
+  - first:
+      213: -7067826331544993338
+    second: ekkar_hurt_1
+  - first:
+      213: -5354128952775585901
+    second: ekkar_hurt_2
+  - first:
+      213: 3475380489817408074
+    second: ekkar_hurt_3
+  - first:
+      213: -6410631911799549796
+    second: ekkar_hurt_4
+  - first:
+      213: 6558015903317324273
+    second: ekkar_hurt_5
+  - first:
+      213: -1757744071539746557
+    second: ekkar_hurt_6
+  - first:
+      213: -3632091444237335523
+    second: ekkar_hurt_7
+  - first:
+      213: 4806243374870789862
+    second: ekkar_hurt_8
+  - first:
+      213: 3475996612444750240
+    second: ekkar_hurt_9
+  - first:
+      213: -2756002779114606409
+    second: ekkar_hurt_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_hurt_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cb30e3c2011e643ad9091ea7ee8fad
+      internalID: -2011465993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c2de1c937703459110e0d0eba0086
+      internalID: -317087350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_02
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04cded7a9486b04d8777340f0068389
+      internalID: 954041013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_03
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d31e7ebeb5f6840bd3e38c8e73b22f
+      internalID: 565275485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_04
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059cb4efb1d96784eaee7ac6bdc2adce
+      internalID: -267131517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_05
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454851e55ed4c1b4e82d156e1c765669
+      internalID: 388422350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_06
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92123c2e7b96fc439a52cdcd39b9eba
+      internalID: 1777289146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_07
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 198
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5fae7ed483bed4b98fc7c807571910
+      internalID: -463513368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_hurt_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.478261, y: 0.020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f91b3d85c78540885781993fc8a16
+      internalID: -238353429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1bf5e49d1885b2241a704373136772b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_hurt_00: -2011465993
+      ekkar_hurt_01: -317087350
+      ekkar_hurt_02: 954041013
+      ekkar_hurt_03: 565275485
+      ekkar_hurt_04: -267131517
+      ekkar_hurt_05: 388422350
+      ekkar_hurt_06: 1777289146
+      ekkar_hurt_07: -463513368
+      ekkar_hurt_08: -238353429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

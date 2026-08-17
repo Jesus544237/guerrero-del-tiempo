@@ -1,0 +1,865 @@
+fileFormatVersion: 2
+guid: f96fe7206ab9750409dcdc432d3fb0a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8931432279097127801
+    second: nemesis_digital_muerte_0
+  - first:
+      213: -6775199893840120262
+    second: nemesis_digital_muerte_1
+  - first:
+      213: -3689661228672642655
+    second: nemesis_digital_muerte_2
+  - first:
+      213: 1332188776955561878
+    second: nemesis_digital_muerte_3
+  - first:
+      213: -3112621230214446822
+    second: nemesis_digital_muerte_4
+  - first:
+      213: 3275211977956739343
+    second: nemesis_digital_muerte_5
+  - first:
+      213: -1524718608441312582
+    second: nemesis_digital_muerte_6
+  - first:
+      213: 2274262642103858501
+    second: nemesis_digital_muerte_7
+  - first:
+      213: -4124647348584352565
+    second: nemesis_digital_muerte_8
+  - first:
+      213: -4949180954819082752
+    second: nemesis_digital_muerte_9
+  - first:
+      213: -6393093565400232177
+    second: nemesis_digital_muerte_10
+  - first:
+      213: -4131669943056969475
+    second: nemesis_digital_muerte_11
+  - first:
+      213: -3142030552720476449
+    second: nemesis_digital_muerte_12
+  - first:
+      213: -8287116008134224085
+    second: nemesis_digital_muerte_13
+  - first:
+      213: -2563944360393648093
+    second: nemesis_digital_muerte_14
+  - first:
+      213: -5794199543455842853
+    second: nemesis_digital_muerte_15
+  - first:
+      213: 5727200233187272992
+    second: nemesis_digital_muerte_16
+  - first:
+      213: -2764296002714439230
+    second: nemesis_digital_muerte_17
+  - first:
+      213: 5511831290016826359
+    second: nemesis_digital_muerte_18
+  - first:
+      213: -8766265791394289592
+    second: nemesis_digital_muerte_19
+  - first:
+      213: 3397542054701177451
+    second: nemesis_digital_muerte_20
+  - first:
+      213: 4777744999746940250
+    second: nemesis_digital_muerte_21
+  - first:
+      213: -8168964115371305227
+    second: nemesis_digital_muerte_22
+  - first:
+      213: -1094031087151111193
+    second: nemesis_digital_muerte_23
+  - first:
+      213: -6299470119101907394
+    second: nemesis_digital_muerte_24
+  - first:
+      213: 2371640250493524229
+    second: nemesis_digital_muerte_25
+  - first:
+      213: -7183931604738108124
+    second: nemesis_digital_muerte_26
+  - first:
+      213: -3184030541519116974
+    second: nemesis_digital_muerte_27
+  - first:
+      213: 4122600207650877169
+    second: nemesis_digital_muerte_28
+  - first:
+      213: 8036691394509939383
+    second: nemesis_digital_muerte_29
+  - first:
+      213: 2345798515514731235
+    second: nemesis_digital_muerte_30
+  - first:
+      213: -8125208549557839658
+    second: nemesis_digital_muerte_31
+  - first:
+      213: -1965680128385887243
+    second: nemesis_digital_muerte_32
+  - first:
+      213: 5497496893370346884
+    second: nemesis_digital_muerte_33
+  - first:
+      213: -2639603607286730392
+    second: nemesis_digital_muerte_34
+  - first:
+      213: 3373881309381645561
+    second: nemesis_digital_muerte_35
+  - first:
+      213: 6653488152423615384
+    second: nemesis_digital_muerte_36
+  - first:
+      213: 485087839293320411
+    second: nemesis_digital_muerte_37
+  - first:
+      213: 7886484576999655254
+    second: nemesis_digital_muerte_38
+  - first:
+      213: -1337257871465695228
+    second: nemesis_digital_muerte_39
+  - first:
+      213: -7582384917616396695
+    second: nemesis_digital_muerte_40
+  - first:
+      213: 1348271322268892868
+    second: nemesis_digital_muerte_41
+  - first:
+      213: 8810854232517403283
+    second: nemesis_digital_muerte_42
+  - first:
+      213: -1892121997280627556
+    second: nemesis_digital_muerte_43
+  - first:
+      213: 3106057230097663241
+    second: nemesis_digital_muerte_44
+  - first:
+      213: 1282640161144972657
+    second: nemesis_digital_muerte_45
+  - first:
+      213: 3567772922436610870
+    second: nemesis_digital_muerte_46
+  - first:
+      213: 8972781624892870432
+    second: nemesis_digital_muerte_47
+  - first:
+      213: -303565519721056883
+    second: nemesis_digital_muerte_48
+  - first:
+      213: 2396722208150517857
+    second: nemesis_digital_muerte_49
+  - first:
+      213: 8417665386960729696
+    second: nemesis_digital_muerte_50
+  - first:
+      213: -2836987028638142805
+    second: nemesis_digital_muerte_51
+  - first:
+      213: -5192076757368358155
+    second: nemesis_digital_muerte_52
+  - first:
+      213: -155021364218064045
+    second: nemesis_digital_muerte_53
+  - first:
+      213: -5378386755389875205
+    second: nemesis_digital_muerte_54
+  - first:
+      213: 1165061817157827930
+    second: nemesis_digital_muerte_55
+  - first:
+      213: -5328180921245450953
+    second: nemesis_digital_muerte_56
+  - first:
+      213: -8521652087903536565
+    second: nemesis_digital_muerte_57
+  - first:
+      213: -8609386172558687372
+    second: nemesis_digital_muerte_58
+  - first:
+      213: -7931899275698535242
+    second: nemesis_digital_muerte_59
+  - first:
+      213: -8114365369380338548
+    second: nemesis_digital_muerte_60
+  - first:
+      213: 7943291168929657213
+    second: nemesis_digital_muerte_61
+  - first:
+      213: -7131605473553356973
+    second: nemesis_digital_muerte_62
+  - first:
+      213: 4622580094424911493
+    second: nemesis_digital_muerte_63
+  - first:
+      213: -4457340517758961622
+    second: nemesis_digital_muerte_64
+  - first:
+      213: 2259977745736272675
+    second: nemesis_digital_muerte_65
+  - first:
+      213: -5864617858519301478
+    second: nemesis_digital_muerte_66
+  - first:
+      213: 8255057749494104263
+    second: nemesis_digital_muerte_67
+  - first:
+      213: -1064127967760543352
+    second: nemesis_digital_muerte_68
+  - first:
+      213: 6874811881456023719
+    second: nemesis_digital_muerte_69
+  - first:
+      213: 4451124331688445068
+    second: nemesis_digital_muerte_70
+  - first:
+      213: 7000991188024085825
+    second: nemesis_digital_muerte_71
+  - first:
+      213: -8947898583325625243
+    second: nemesis_digital_muerte_72
+  - first:
+      213: -1891391224378634266
+    second: nemesis_digital_muerte_73
+  - first:
+      213: -3233557814926577115
+    second: nemesis_digital_muerte_74
+  - first:
+      213: 7520013233934620568
+    second: nemesis_digital_muerte_75
+  - first:
+      213: 3163781718141324963
+    second: nemesis_digital_muerte_76
+  - first:
+      213: -5731930531487891218
+    second: nemesis_digital_muerte_77
+  - first:
+      213: 8107116038773799877
+    second: nemesis_digital_muerte_78
+  - first:
+      213: -3973268000991753433
+    second: nemesis_digital_muerte_79
+  - first:
+      213: -1014070604105278883
+    second: nemesis_digital_muerte_80
+  - first:
+      213: 4582711601845103273
+    second: nemesis_digital_muerte_81
+  - first:
+      213: -6767908416445028091
+    second: nemesis_digital_muerte_82
+  - first:
+      213: -3586081998715388079
+    second: nemesis_digital_muerte_83
+  - first:
+      213: 3788186392312349050
+    second: nemesis_digital_muerte_84
+  - first:
+      213: -5560557683454880614
+    second: nemesis_digital_muerte_85
+  - first:
+      213: 2753254831845520162
+    second: nemesis_digital_muerte_86
+  - first:
+      213: -9130187667186577218
+    second: nemesis_digital_muerte_87
+  - first:
+      213: -1840504643342346249
+    second: nemesis_digital_muerte_88
+  - first:
+      213: -8763644053433927268
+    second: nemesis_digital_muerte_89
+  - first:
+      213: -6423193234242613817
+    second: nemesis_digital_muerte_90
+  - first:
+      213: 3668176879944554306
+    second: nemesis_digital_muerte_91
+  - first:
+      213: 6411186411908965774
+    second: nemesis_digital_muerte_92
+  - first:
+      213: -197620473165794337
+    second: nemesis_digital_muerte_93
+  - first:
+      213: 7714211536618710756
+    second: nemesis_digital_muerte_94
+  - first:
+      213: 2374194173828107946
+    second: nemesis_digital_muerte_95
+  - first:
+      213: 2981351839789937349
+    second: nemesis_digital_muerte_96
+  - first:
+      213: -3508486214183642253
+    second: nemesis_digital_muerte_97
+  - first:
+      213: 2990890668918476346
+    second: nemesis_digital_muerte_98
+  - first:
+      213: 7868657586864760057
+    second: nemesis_digital_muerte_99
+  - first:
+      213: -1020485182784180559
+    second: nemesis_digital_muerte_100
+  - first:
+      213: -1275233988848229181
+    second: nemesis_digital_muerte_101
+  - first:
+      213: 5224330197385122563
+    second: nemesis_digital_muerte_102
+  - first:
+      213: 8712051475478000134
+    second: nemesis_digital_muerte_103
+  - first:
+      213: 355694182545818284
+    second: nemesis_digital_muerte_104
+  - first:
+      213: -5362960119966935361
+    second: nemesis_digital_muerte_105
+  - first:
+      213: -533788466821891311
+    second: nemesis_digital_muerte_106
+  - first:
+      213: 8020150627894469841
+    second: nemesis_digital_muerte_107
+  - first:
+      213: 3289366419217039394
+    second: nemesis_digital_muerte_108
+  - first:
+      213: -975842134261639547
+    second: nemesis_digital_muerte_109
+  - first:
+      213: -3817689029820309873
+    second: nemesis_digital_muerte_110
+  - first:
+      213: -4497684097864139804
+    second: nemesis_digital_muerte_111
+  - first:
+      213: 693832095670178711
+    second: nemesis_digital_muerte_112
+  - first:
+      213: -2167252910617497567
+    second: nemesis_digital_muerte_113
+  - first:
+      213: 1210348877685058395
+    second: nemesis_digital_muerte_114
+  - first:
+      213: -410601326758276998
+    second: nemesis_digital_muerte_115
+  - first:
+      213: -8439011344060955764
+    second: nemesis_digital_muerte_116
+  - first:
+      213: -7573584475550175119
+    second: nemesis_digital_muerte_117
+  - first:
+      213: 1956333313930734957
+    second: nemesis_digital_muerte_118
+  - first:
+      213: -7185148256887884951
+    second: nemesis_digital_muerte_119
+  - first:
+      213: 965248022950167958
+    second: nemesis_digital_muerte_120
+  - first:
+      213: -5883911561840165121
+    second: nemesis_digital_muerte_121
+  - first:
+      213: -9099631437436418131
+    second: nemesis_digital_muerte_122
+  - first:
+      213: 7826962668565468830
+    second: nemesis_digital_muerte_123
+  - first:
+      213: 1555204897692814931
+    second: nemesis_digital_muerte_124
+  - first:
+      213: 8760641984771223534
+    second: nemesis_digital_muerte_125
+  - first:
+      213: 5450564517158228627
+    second: nemesis_digital_muerte_126
+  - first:
+      213: 1087107823239674633
+    second: nemesis_digital_muerte_127
+  - first:
+      213: 3433242130208137118
+    second: nemesis_digital_muerte_128
+  - first:
+      213: -4044525804943196185
+    second: nemesis_digital_muerte_129
+  - first:
+      213: 657249959877096087
+    second: nemesis_digital_muerte_130
+  - first:
+      213: -3815976463449806730
+    second: nemesis_digital_muerte_131
+  - first:
+      213: -8102991187347839316
+    second: nemesis_digital_muerte_132
+  - first:
+      213: -1929535647299455680
+    second: nemesis_digital_muerte_133
+  - first:
+      213: -5930052443018696763
+    second: nemesis_digital_muerte_134
+  - first:
+      213: 8819255615793102083
+    second: nemesis_digital_muerte_135
+  - first:
+      213: -6062401727563068281
+    second: nemesis_digital_muerte_136
+  - first:
+      213: 3553547801881926009
+    second: nemesis_digital_muerte_137
+  - first:
+      213: 9154910232995665142
+    second: nemesis_digital_muerte_138
+  - first:
+      213: 6610223772773025199
+    second: nemesis_digital_muerte_139
+  - first:
+      213: 237288193453370980
+    second: nemesis_digital_muerte_140
+  - first:
+      213: 2532876558940305815
+    second: nemesis_digital_muerte_141
+  - first:
+      213: 8271433528938431754
+    second: nemesis_digital_muerte_142
+  - first:
+      213: 7926254243194086637
+    second: nemesis_digital_muerte_143
+  - first:
+      213: -2046587156023991419
+    second: nemesis_digital_muerte_144
+  - first:
+      213: -495495440985291795
+    second: nemesis_digital_muerte_145
+  - first:
+      213: 594816961015820960
+    second: nemesis_digital_muerte_146
+  - first:
+      213: -2914195696955609612
+    second: nemesis_digital_muerte_147
+  - first:
+      213: 732150984807429000
+    second: nemesis_digital_muerte_148
+  - first:
+      213: 8620169903959626151
+    second: nemesis_digital_muerte_149
+  - first:
+      213: 8642640996825924994
+    second: nemesis_digital_muerte_150
+  - first:
+      213: -2059952956863018884
+    second: nemesis_digital_muerte_151
+  - first:
+      213: -900431407133807077
+    second: nemesis_digital_muerte_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd163cb713e1f38459aaa0b477899b18
+      internalID: 626488210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2f013ef724b3b4292596c30350229d
+      internalID: -1828365691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d2cdefd9982b40b66ceb852f4c528
+      internalID: 49726466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd7df48296ca014697721470b0d1142
+      internalID: -912985311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a1840552b62f4e91bded61309171b
+      internalID: -1899707007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba0243d65515149b243f9ebee2b733
+      internalID: -1076462827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88750ee129ca74084befc58229c4c1
+      internalID: -878233080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 166
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2902ca571c4fcf14fb9c89342674dfbc
+      internalID: -1638736597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319ad324f6e35e4eb8f61b2ba341491
+      internalID: -727966367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b27dca8017e44289846d7d3be8b2b
+      internalID: 1310215920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe704d77ee976142ab4d2e536fae6e4
+      internalID: -6393093565400232177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 166
+      alignment: 9
+      pivot: {x: 0.475, y: 0.024096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1665c7601c92eb4e94ce86a759f7315
+      internalID: -4131669943056969475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca96961b24c84b34bb178b616d4859ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nemesis_digital_muerte_00: 626488210
+      nemesis_digital_muerte_01: -1828365691
+      nemesis_digital_muerte_02: 49726466
+      nemesis_digital_muerte_03: -912985311
+      nemesis_digital_muerte_04: -1899707007
+      nemesis_digital_muerte_05: -1076462827
+      nemesis_digital_muerte_06: -878233080
+      nemesis_digital_muerte_07: -1638736597
+      nemesis_digital_muerte_08: -727966367
+      nemesis_digital_muerte_09: 1310215920
+      nemesis_digital_muerte_10: -6393093565400232177
+      nemesis_digital_muerte_11: -4131669943056969475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

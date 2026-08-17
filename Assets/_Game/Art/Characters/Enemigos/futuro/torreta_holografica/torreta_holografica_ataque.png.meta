@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 54bc9d6461fd634409f0efeb23f240e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5536934464719287349
+    second: torreta_holografica_ataque_0
+  - first:
+      213: 2604675837674752966
+    second: torreta_holografica_ataque_1
+  - first:
+      213: 5833004403364238688
+    second: torreta_holografica_ataque_2
+  - first:
+      213: 1723463446438682556
+    second: torreta_holografica_ataque_3
+  - first:
+      213: 329582564663008766
+    second: torreta_holografica_ataque_4
+  - first:
+      213: -2444249218406275045
+    second: torreta_holografica_ataque_5
+  - first:
+      213: -5019832013574440091
+    second: torreta_holografica_ataque_6
+  - first:
+      213: 2245360811920750449
+    second: torreta_holografica_ataque_7
+  - first:
+      213: -8141619298728004585
+    second: torreta_holografica_ataque_8
+  - first:
+      213: -537819608856056181
+    second: torreta_holografica_ataque_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f036e1603eed95049bc73164474dbcfc
+      internalID: 1412778396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88a1f4516487340926c1b55d0eaa3f
+      internalID: 1810810104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cfc09cd7ad15341a8dc9d5f1b5501e
+      internalID: 76536303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524fe8419903054794f342a2069d8b6
+      internalID: 2048868324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7eb1bd1682738469b97ae989b19d02
+      internalID: 1294656004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d84a6bd12d83014ba1a80c7a1faf0ff
+      internalID: 1102329948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217590811a79a34190bc25ae2b34525
+      internalID: -268030837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 170
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf379e34dd17fb41a2b9a0722f8db27
+      internalID: 1863186939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399068e8e4035d45b8926668f102854
+      internalID: 1398191583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.445736, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6a034e440d204ebcd6dcfd4f39c47
+      internalID: -1016011405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e899bacc4e326340bc4ab52b168daac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      torreta_holografica_ataque_00: 1412778396
+      torreta_holografica_ataque_01: 1810810104
+      torreta_holografica_ataque_02: 76536303
+      torreta_holografica_ataque_03: 2048868324
+      torreta_holografica_ataque_04: 1294656004
+      torreta_holografica_ataque_05: 1102329948
+      torreta_holografica_ataque_06: -268030837
+      torreta_holografica_ataque_07: 1863186939
+      torreta_holografica_ataque_08: 1398191583
+      torreta_holografica_ataque_09: -1016011405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

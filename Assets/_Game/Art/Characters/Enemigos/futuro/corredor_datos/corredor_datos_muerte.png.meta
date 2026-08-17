@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: a43ed3c4f4adb62478b300f8d33d91ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3617518789059659364
+    second: corredor_datos_muerte_0
+  - first:
+      213: 5961145474032063711
+    second: corredor_datos_muerte_1
+  - first:
+      213: -7147052592502167100
+    second: corredor_datos_muerte_2
+  - first:
+      213: 7023238646023262697
+    second: corredor_datos_muerte_3
+  - first:
+      213: 6202418784102874572
+    second: corredor_datos_muerte_4
+  - first:
+      213: 5201893576961633477
+    second: corredor_datos_muerte_5
+  - first:
+      213: -4946644097991546537
+    second: corredor_datos_muerte_6
+  - first:
+      213: 2884254693647557765
+    second: corredor_datos_muerte_7
+  - first:
+      213: 6542702119506325011
+    second: corredor_datos_muerte_8
+  - first:
+      213: 3772587676122006201
+    second: corredor_datos_muerte_9
+  - first:
+      213: -1881764297668789592
+    second: corredor_datos_muerte_10
+  - first:
+      213: 2096724235376299902
+    second: corredor_datos_muerte_11
+  - first:
+      213: -7080833140118501998
+    second: corredor_datos_muerte_12
+  - first:
+      213: -4425806760415859095
+    second: corredor_datos_muerte_13
+  - first:
+      213: 6605412719654477234
+    second: corredor_datos_muerte_14
+  - first:
+      213: 7670068315950233382
+    second: corredor_datos_muerte_15
+  - first:
+      213: 6607385648709243144
+    second: corredor_datos_muerte_16
+  - first:
+      213: -199195921097853302
+    second: corredor_datos_muerte_17
+  - first:
+      213: -1852460519860957757
+    second: corredor_datos_muerte_18
+  - first:
+      213: -1566698054581466283
+    second: corredor_datos_muerte_19
+  - first:
+      213: -581870006284338233
+    second: corredor_datos_muerte_20
+  - first:
+      213: -3871215223666006745
+    second: corredor_datos_muerte_21
+  - first:
+      213: -4527996479241696958
+    second: corredor_datos_muerte_22
+  - first:
+      213: -7770037988469113606
+    second: corredor_datos_muerte_23
+  - first:
+      213: 1124432800888567500
+    second: corredor_datos_muerte_24
+  - first:
+      213: 9131531101035722216
+    second: corredor_datos_muerte_25
+  - first:
+      213: 4249258133984722943
+    second: corredor_datos_muerte_26
+  - first:
+      213: -8039035533187365027
+    second: corredor_datos_muerte_27
+  - first:
+      213: 1937586207324449862
+    second: corredor_datos_muerte_28
+  - first:
+      213: 8147044573748247334
+    second: corredor_datos_muerte_29
+  - first:
+      213: 3047105829701515672
+    second: corredor_datos_muerte_30
+  - first:
+      213: -3967055163487957612
+    second: corredor_datos_muerte_31
+  - first:
+      213: 4236772767036114454
+    second: corredor_datos_muerte_32
+  - first:
+      213: -4118913998709979282
+    second: corredor_datos_muerte_33
+  - first:
+      213: 726998803869258407
+    second: corredor_datos_muerte_34
+  - first:
+      213: 8512018839204089199
+    second: corredor_datos_muerte_35
+  - first:
+      213: -4861463028296037804
+    second: corredor_datos_muerte_36
+  - first:
+      213: -3526531214787388066
+    second: corredor_datos_muerte_37
+  - first:
+      213: -2060263058192794272
+    second: corredor_datos_muerte_38
+  - first:
+      213: 7700571938567931213
+    second: corredor_datos_muerte_39
+  - first:
+      213: -1805856920173119456
+    second: corredor_datos_muerte_40
+  - first:
+      213: 1930190241664863263
+    second: corredor_datos_muerte_41
+  - first:
+      213: -3106341219040369500
+    second: corredor_datos_muerte_42
+  - first:
+      213: 3250906078199653041
+    second: corredor_datos_muerte_43
+  - first:
+      213: 3068904085287227846
+    second: corredor_datos_muerte_44
+  - first:
+      213: -3740660398502029472
+    second: corredor_datos_muerte_45
+  - first:
+      213: 6153477934532704687
+    second: corredor_datos_muerte_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corredor_datos_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6343c9106de2ad4b8c1adc3de812523
+      internalID: -1010841490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37517029d427341bc31878add5c8af
+      internalID: -1178025209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db03213408a6d64cba668bc15895937
+      internalID: -647438153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e82d9f3455da24bbb20b65b23d0cdb
+      internalID: 2143405096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501c3ab1213dde948bf1457bfb56cccb
+      internalID: 81017867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b2d6ed115d60469d120e1d54a4695
+      internalID: 38672063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c1d44bf088f08459e6e19f8c6850de
+      internalID: -381544248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 250
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53a9a5031c1cf438b6180a1a140082
+      internalID: 820093695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e9e5803d87a04db950f7c537955a9
+      internalID: 599514426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d954f3842ec04c8058001e4c4f99c
+      internalID: -296344493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b8b61d65799074993a42bf1db15594
+      internalID: -1881764297668789592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 0
+        width: 454
+        height: 250
+      alignment: 9
+      pivot: {x: 0.676211, y: 0.016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2cc3227bed91948a9e0b8493b8f742
+      internalID: 2096724235376299902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d3bbfca9069b0f4ca11fd018c79a474
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      corredor_datos_muerte_00: -1010841490
+      corredor_datos_muerte_01: -1178025209
+      corredor_datos_muerte_02: -647438153
+      corredor_datos_muerte_03: 2143405096
+      corredor_datos_muerte_04: 81017867
+      corredor_datos_muerte_05: 38672063
+      corredor_datos_muerte_06: -381544248
+      corredor_datos_muerte_07: 820093695
+      corredor_datos_muerte_08: 599514426
+      corredor_datos_muerte_09: -296344493
+      corredor_datos_muerte_10: -1881764297668789592
+      corredor_datos_muerte_11: 2096724235376299902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

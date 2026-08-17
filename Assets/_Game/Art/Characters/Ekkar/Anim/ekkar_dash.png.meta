@@ -1,0 +1,1790 @@
+fileFormatVersion: 2
+guid: 7b82080840da45c4cbf25b3641ef5877
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4652674336189808747
+    second: ekkar_dash_0
+  - first:
+      213: -7006404502349451469
+    second: ekkar_dash_1
+  - first:
+      213: 6286496736461564188
+    second: ekkar_dash_2
+  - first:
+      213: 1935962459746511758
+    second: ekkar_dash_3
+  - first:
+      213: 1301817555491122251
+    second: ekkar_dash_4
+  - first:
+      213: 3251098299479578484
+    second: ekkar_dash_5
+  - first:
+      213: -5076975448628133674
+    second: ekkar_dash_6
+  - first:
+      213: -6468985072579666449
+    second: ekkar_dash_7
+  - first:
+      213: 8660471040629237600
+    second: ekkar_dash_8
+  - first:
+      213: -4412367574926654829
+    second: ekkar_dash_9
+  - first:
+      213: -418588183212532654
+    second: ekkar_dash_10
+  - first:
+      213: 1845404991070460692
+    second: ekkar_dash_11
+  - first:
+      213: -2147172318346556008
+    second: ekkar_dash_12
+  - first:
+      213: -2916566379945125364
+    second: ekkar_dash_13
+  - first:
+      213: -369473610603596132
+    second: ekkar_dash_14
+  - first:
+      213: 6415143179357761340
+    second: ekkar_dash_15
+  - first:
+      213: -4751183547578790594
+    second: ekkar_dash_16
+  - first:
+      213: -428835892362734518
+    second: ekkar_dash_17
+  - first:
+      213: 6632577008061108851
+    second: ekkar_dash_18
+  - first:
+      213: -8964882259620708982
+    second: ekkar_dash_19
+  - first:
+      213: 596766419454345201
+    second: ekkar_dash_20
+  - first:
+      213: 3653032009830761768
+    second: ekkar_dash_21
+  - first:
+      213: -1247653130439112916
+    second: ekkar_dash_22
+  - first:
+      213: -7514666072996528006
+    second: ekkar_dash_23
+  - first:
+      213: -1582136161959622214
+    second: ekkar_dash_24
+  - first:
+      213: 1005031372626020079
+    second: ekkar_dash_25
+  - first:
+      213: -4091173129553382161
+    second: ekkar_dash_26
+  - first:
+      213: -4435865360636146721
+    second: ekkar_dash_27
+  - first:
+      213: -4688732651661569206
+    second: ekkar_dash_28
+  - first:
+      213: 8270915198275720349
+    second: ekkar_dash_29
+  - first:
+      213: 1824287682765680904
+    second: ekkar_dash_30
+  - first:
+      213: -7393152789078201532
+    second: ekkar_dash_31
+  - first:
+      213: -570977467644316994
+    second: ekkar_dash_32
+  - first:
+      213: 8167755367532834347
+    second: ekkar_dash_33
+  - first:
+      213: 8997416239583055104
+    second: ekkar_dash_34
+  - first:
+      213: 7313614942546672729
+    second: ekkar_dash_35
+  - first:
+      213: 6768142201896134075
+    second: ekkar_dash_36
+  - first:
+      213: 4849036111052184683
+    second: ekkar_dash_37
+  - first:
+      213: -8455528376676797742
+    second: ekkar_dash_38
+  - first:
+      213: -8398358071260547376
+    second: ekkar_dash_39
+  - first:
+      213: 8820551932345973026
+    second: ekkar_dash_40
+  - first:
+      213: 1121877883581438748
+    second: ekkar_dash_41
+  - first:
+      213: -1684953210356687566
+    second: ekkar_dash_42
+  - first:
+      213: 149040840857985892
+    second: ekkar_dash_43
+  - first:
+      213: 5930233228257167210
+    second: ekkar_dash_44
+  - first:
+      213: -1024315628626052035
+    second: ekkar_dash_45
+  - first:
+      213: 1607761965955349459
+    second: ekkar_dash_46
+  - first:
+      213: -6780701049496514440
+    second: ekkar_dash_47
+  - first:
+      213: 7945624935073580755
+    second: ekkar_dash_48
+  - first:
+      213: -763178143980599509
+    second: ekkar_dash_49
+  - first:
+      213: 5882704864365497805
+    second: ekkar_dash_50
+  - first:
+      213: 7955324303827293483
+    second: ekkar_dash_51
+  - first:
+      213: 3405946335582709423
+    second: ekkar_dash_52
+  - first:
+      213: 896538122658298672
+    second: ekkar_dash_53
+  - first:
+      213: -9182783099702065276
+    second: ekkar_dash_54
+  - first:
+      213: 4300588575537115829
+    second: ekkar_dash_55
+  - first:
+      213: 8401272173464463001
+    second: ekkar_dash_56
+  - first:
+      213: -2403385477226157860
+    second: ekkar_dash_57
+  - first:
+      213: 914449088233672712
+    second: ekkar_dash_58
+  - first:
+      213: 4412594063866597823
+    second: ekkar_dash_59
+  - first:
+      213: -7148012624476405934
+    second: ekkar_dash_60
+  - first:
+      213: -209689244220845827
+    second: ekkar_dash_61
+  - first:
+      213: -8616443701921328137
+    second: ekkar_dash_62
+  - first:
+      213: 672763814526789234
+    second: ekkar_dash_63
+  - first:
+      213: 1880260222547215015
+    second: ekkar_dash_64
+  - first:
+      213: -2758912228590602646
+    second: ekkar_dash_65
+  - first:
+      213: -623154131093471769
+    second: ekkar_dash_66
+  - first:
+      213: 2648107246410786648
+    second: ekkar_dash_67
+  - first:
+      213: -1935739274770730709
+    second: ekkar_dash_68
+  - first:
+      213: -9168631285047784800
+    second: ekkar_dash_69
+  - first:
+      213: -7539580278930969916
+    second: ekkar_dash_70
+  - first:
+      213: 2943033943463294094
+    second: ekkar_dash_71
+  - first:
+      213: -8134547643204009241
+    second: ekkar_dash_72
+  - first:
+      213: 5561702664293166799
+    second: ekkar_dash_73
+  - first:
+      213: -2010787771673618546
+    second: ekkar_dash_74
+  - first:
+      213: -3742384895299280918
+    second: ekkar_dash_75
+  - first:
+      213: -2574708485625496026
+    second: ekkar_dash_76
+  - first:
+      213: -6146076489020954218
+    second: ekkar_dash_77
+  - first:
+      213: -6284973852948737011
+    second: ekkar_dash_78
+  - first:
+      213: 2503679946435861805
+    second: ekkar_dash_79
+  - first:
+      213: 7865907587391707547
+    second: ekkar_dash_80
+  - first:
+      213: -9181610604502130471
+    second: ekkar_dash_81
+  - first:
+      213: -7874262759767603442
+    second: ekkar_dash_82
+  - first:
+      213: -568213190165134814
+    second: ekkar_dash_83
+  - first:
+      213: 8220867809705503380
+    second: ekkar_dash_84
+  - first:
+      213: -4856107074291041197
+    second: ekkar_dash_85
+  - first:
+      213: -6571610940031185477
+    second: ekkar_dash_86
+  - first:
+      213: 2848088445913496620
+    second: ekkar_dash_87
+  - first:
+      213: -1272156110317066145
+    second: ekkar_dash_88
+  - first:
+      213: 1256745232411298669
+    second: ekkar_dash_89
+  - first:
+      213: -8669398165751552314
+    second: ekkar_dash_90
+  - first:
+      213: -3158151218499690810
+    second: ekkar_dash_91
+  - first:
+      213: -70809135030411710
+    second: ekkar_dash_92
+  - first:
+      213: 3012539880031169786
+    second: ekkar_dash_93
+  - first:
+      213: -1169471207881778211
+    second: ekkar_dash_94
+  - first:
+      213: -1486283888073932965
+    second: ekkar_dash_95
+  - first:
+      213: -1328363718524170720
+    second: ekkar_dash_96
+  - first:
+      213: 7489499348336002129
+    second: ekkar_dash_97
+  - first:
+      213: 8464307595696829696
+    second: ekkar_dash_98
+  - first:
+      213: -241436343235781006
+    second: ekkar_dash_99
+  - first:
+      213: -3627585661011013642
+    second: ekkar_dash_100
+  - first:
+      213: 2300901036999312444
+    second: ekkar_dash_101
+  - first:
+      213: -8244413926193395876
+    second: ekkar_dash_102
+  - first:
+      213: 237263679414324590
+    second: ekkar_dash_103
+  - first:
+      213: -1823724053979218739
+    second: ekkar_dash_104
+  - first:
+      213: -2380944472391713334
+    second: ekkar_dash_105
+  - first:
+      213: 6499546360233841995
+    second: ekkar_dash_106
+  - first:
+      213: 2638516535467748891
+    second: ekkar_dash_107
+  - first:
+      213: -4633875939722971892
+    second: ekkar_dash_108
+  - first:
+      213: -6116466880349445822
+    second: ekkar_dash_109
+  - first:
+      213: -3592331173215385155
+    second: ekkar_dash_110
+  - first:
+      213: 1195053186432901654
+    second: ekkar_dash_111
+  - first:
+      213: -1460247797940745859
+    second: ekkar_dash_112
+  - first:
+      213: 5478305882171687844
+    second: ekkar_dash_113
+  - first:
+      213: 2043719427324258338
+    second: ekkar_dash_114
+  - first:
+      213: -8185220228408608526
+    second: ekkar_dash_115
+  - first:
+      213: -7491317790542461498
+    second: ekkar_dash_116
+  - first:
+      213: -6629430707602180133
+    second: ekkar_dash_117
+  - first:
+      213: -6578254264912388166
+    second: ekkar_dash_118
+  - first:
+      213: 3681092291202552113
+    second: ekkar_dash_119
+  - first:
+      213: 8078083960234294395
+    second: ekkar_dash_120
+  - first:
+      213: -3513266945895664425
+    second: ekkar_dash_121
+  - first:
+      213: 656087042255069971
+    second: ekkar_dash_122
+  - first:
+      213: -6349035367239581167
+    second: ekkar_dash_123
+  - first:
+      213: 5780688619002505145
+    second: ekkar_dash_124
+  - first:
+      213: -7784715090796424584
+    second: ekkar_dash_125
+  - first:
+      213: -8620823862488728525
+    second: ekkar_dash_126
+  - first:
+      213: -1849010259805385140
+    second: ekkar_dash_127
+  - first:
+      213: -3911153318236938060
+    second: ekkar_dash_128
+  - first:
+      213: -874102064846212729
+    second: ekkar_dash_129
+  - first:
+      213: -4128587374621554960
+    second: ekkar_dash_130
+  - first:
+      213: -5909932205253648240
+    second: ekkar_dash_131
+  - first:
+      213: -9192373185482438514
+    second: ekkar_dash_132
+  - first:
+      213: -5278256743079684351
+    second: ekkar_dash_133
+  - first:
+      213: 7002780121426189382
+    second: ekkar_dash_134
+  - first:
+      213: 8754599722294240770
+    second: ekkar_dash_135
+  - first:
+      213: -820107707914789650
+    second: ekkar_dash_136
+  - first:
+      213: 4704976277748929929
+    second: ekkar_dash_137
+  - first:
+      213: -821220689443569045
+    second: ekkar_dash_138
+  - first:
+      213: -575639035686613233
+    second: ekkar_dash_139
+  - first:
+      213: 6239795888854043165
+    second: ekkar_dash_140
+  - first:
+      213: 269892224713640091
+    second: ekkar_dash_141
+  - first:
+      213: 1365581017172420890
+    second: ekkar_dash_142
+  - first:
+      213: -6716495754935223280
+    second: ekkar_dash_143
+  - first:
+      213: 6249214591884150489
+    second: ekkar_dash_144
+  - first:
+      213: 4061506694697537377
+    second: ekkar_dash_145
+  - first:
+      213: -449723233413959241
+    second: ekkar_dash_146
+  - first:
+      213: 3694733187804401566
+    second: ekkar_dash_147
+  - first:
+      213: -2255546111314133539
+    second: ekkar_dash_148
+  - first:
+      213: 4839655449579619112
+    second: ekkar_dash_149
+  - first:
+      213: -7477838969800708571
+    second: ekkar_dash_150
+  - first:
+      213: -905023243792197550
+    second: ekkar_dash_151
+  - first:
+      213: -126937062026021424
+    second: ekkar_dash_152
+  - first:
+      213: 2370152508304557871
+    second: ekkar_dash_153
+  - first:
+      213: -8661319214336362627
+    second: ekkar_dash_154
+  - first:
+      213: 5668866015329666475
+    second: ekkar_dash_155
+  - first:
+      213: 560647257394179103
+    second: ekkar_dash_156
+  - first:
+      213: -2043981333592144702
+    second: ekkar_dash_157
+  - first:
+      213: 6554141312707426312
+    second: ekkar_dash_158
+  - first:
+      213: 8599869532209022637
+    second: ekkar_dash_159
+  - first:
+      213: 1691208692499704291
+    second: ekkar_dash_160
+  - first:
+      213: 1808684694239395468
+    second: ekkar_dash_161
+  - first:
+      213: 5686973264156114763
+    second: ekkar_dash_162
+  - first:
+      213: 78217170843034443
+    second: ekkar_dash_163
+  - first:
+      213: 2426508925494827388
+    second: ekkar_dash_164
+  - first:
+      213: -2602769709267899742
+    second: ekkar_dash_165
+  - first:
+      213: -2071003529284000019
+    second: ekkar_dash_166
+  - first:
+      213: -8858352788307880727
+    second: ekkar_dash_167
+  - first:
+      213: -3152862073853857020
+    second: ekkar_dash_168
+  - first:
+      213: -4738220978709221307
+    second: ekkar_dash_169
+  - first:
+      213: 1677421126246377119
+    second: ekkar_dash_170
+  - first:
+      213: 3231070616557715919
+    second: ekkar_dash_171
+  - first:
+      213: 7026241913881414924
+    second: ekkar_dash_172
+  - first:
+      213: 2147515146251725635
+    second: ekkar_dash_173
+  - first:
+      213: -4334834076083893514
+    second: ekkar_dash_174
+  - first:
+      213: 878212301849763592
+    second: ekkar_dash_175
+  - first:
+      213: 6532647200900873358
+    second: ekkar_dash_176
+  - first:
+      213: 5536988249910488285
+    second: ekkar_dash_177
+  - first:
+      213: -2285574641038978627
+    second: ekkar_dash_178
+  - first:
+      213: 1380918120597121256
+    second: ekkar_dash_179
+  - first:
+      213: 8012611612556134462
+    second: ekkar_dash_180
+  - first:
+      213: 7934641827975149966
+    second: ekkar_dash_181
+  - first:
+      213: 6760434240836883795
+    second: ekkar_dash_182
+  - first:
+      213: -3452866845127122528
+    second: ekkar_dash_183
+  - first:
+      213: -165087112113378725
+    second: ekkar_dash_184
+  - first:
+      213: 8529669930681782755
+    second: ekkar_dash_185
+  - first:
+      213: -181795030674805157
+    second: ekkar_dash_186
+  - first:
+      213: 6813596253689456388
+    second: ekkar_dash_187
+  - first:
+      213: -9070980462232086495
+    second: ekkar_dash_188
+  - first:
+      213: -5445689159357814236
+    second: ekkar_dash_189
+  - first:
+      213: 3309331917010816564
+    second: ekkar_dash_190
+  - first:
+      213: 2600143593053491702
+    second: ekkar_dash_191
+  - first:
+      213: 571324180398109518
+    second: ekkar_dash_192
+  - first:
+      213: 6324790620602145313
+    second: ekkar_dash_193
+  - first:
+      213: -8026154832678506839
+    second: ekkar_dash_194
+  - first:
+      213: 7326514378345869311
+    second: ekkar_dash_195
+  - first:
+      213: 7464954269227589388
+    second: ekkar_dash_196
+  - first:
+      213: 2955777945419587560
+    second: ekkar_dash_197
+  - first:
+      213: -7754577949278142734
+    second: ekkar_dash_198
+  - first:
+      213: -4568207675447156225
+    second: ekkar_dash_199
+  - first:
+      213: -122863532697043071
+    second: ekkar_dash_200
+  - first:
+      213: 280430854598522691
+    second: ekkar_dash_201
+  - first:
+      213: 2145831136314473632
+    second: ekkar_dash_202
+  - first:
+      213: 1765307219531329052
+    second: ekkar_dash_203
+  - first:
+      213: -6384338970869573108
+    second: ekkar_dash_204
+  - first:
+      213: -8686323705561018956
+    second: ekkar_dash_205
+  - first:
+      213: 4188707562245699219
+    second: ekkar_dash_206
+  - first:
+      213: 2486759566270022951
+    second: ekkar_dash_207
+  - first:
+      213: 4038636399160752951
+    second: ekkar_dash_208
+  - first:
+      213: 1619641927955865272
+    second: ekkar_dash_209
+  - first:
+      213: 1147792673013200291
+    second: ekkar_dash_210
+  - first:
+      213: 7387723931665130974
+    second: ekkar_dash_211
+  - first:
+      213: -4686516784020468777
+    second: ekkar_dash_212
+  - first:
+      213: 1571455242658684912
+    second: ekkar_dash_213
+  - first:
+      213: -5964622993154261419
+    second: ekkar_dash_214
+  - first:
+      213: -1106464882122288946
+    second: ekkar_dash_215
+  - first:
+      213: -8722413639655155347
+    second: ekkar_dash_216
+  - first:
+      213: -1121317381048968580
+    second: ekkar_dash_217
+  - first:
+      213: -3600926881576826591
+    second: ekkar_dash_218
+  - first:
+      213: 4276621631725415624
+    second: ekkar_dash_219
+  - first:
+      213: 5193504641878763293
+    second: ekkar_dash_220
+  - first:
+      213: 4700947431811816066
+    second: ekkar_dash_221
+  - first:
+      213: 1050682904211404336
+    second: ekkar_dash_222
+  - first:
+      213: 8199110360293731568
+    second: ekkar_dash_223
+  - first:
+      213: 7812663643648510978
+    second: ekkar_dash_224
+  - first:
+      213: 4032198280633248819
+    second: ekkar_dash_225
+  - first:
+      213: 5202558839544296490
+    second: ekkar_dash_226
+  - first:
+      213: 7382047212870468369
+    second: ekkar_dash_227
+  - first:
+      213: -5262575873128011140
+    second: ekkar_dash_228
+  - first:
+      213: 6798798525043470188
+    second: ekkar_dash_229
+  - first:
+      213: 4647154066370983821
+    second: ekkar_dash_230
+  - first:
+      213: 3744366862025933345
+    second: ekkar_dash_231
+  - first:
+      213: -8566657658564768308
+    second: ekkar_dash_232
+  - first:
+      213: -6334134610757346387
+    second: ekkar_dash_233
+  - first:
+      213: 3686649625728281469
+    second: ekkar_dash_234
+  - first:
+      213: 717402145425415101
+    second: ekkar_dash_235
+  - first:
+      213: -517193260705323238
+    second: ekkar_dash_236
+  - first:
+      213: -1177450172696475332
+    second: ekkar_dash_237
+  - first:
+      213: -5645287423165509872
+    second: ekkar_dash_238
+  - first:
+      213: 5377047122309415198
+    second: ekkar_dash_239
+  - first:
+      213: 840421819969628429
+    second: ekkar_dash_240
+  - first:
+      213: -7143819755984064047
+    second: ekkar_dash_241
+  - first:
+      213: 2697778399709846760
+    second: ekkar_dash_242
+  - first:
+      213: -3719832114992787068
+    second: ekkar_dash_243
+  - first:
+      213: -2779137956616015677
+    second: ekkar_dash_244
+  - first:
+      213: -6482372673271098667
+    second: ekkar_dash_245
+  - first:
+      213: 6708436652612630028
+    second: ekkar_dash_246
+  - first:
+      213: 413751034534029844
+    second: ekkar_dash_247
+  - first:
+      213: 4684287890239205761
+    second: ekkar_dash_248
+  - first:
+      213: 6335957714708208368
+    second: ekkar_dash_249
+  - first:
+      213: 751113503174447197
+    second: ekkar_dash_250
+  - first:
+      213: 4141844982323164493
+    second: ekkar_dash_251
+  - first:
+      213: 5044777409461712806
+    second: ekkar_dash_252
+  - first:
+      213: 1790475079189905146
+    second: ekkar_dash_253
+  - first:
+      213: 3258095184694895754
+    second: ekkar_dash_254
+  - first:
+      213: 4787526059310571754
+    second: ekkar_dash_255
+  - first:
+      213: 2630619988436557949
+    second: ekkar_dash_256
+  - first:
+      213: -5934194874095717186
+    second: ekkar_dash_257
+  - first:
+      213: 4093085906213655975
+    second: ekkar_dash_258
+  - first:
+      213: -8025486547629445117
+    second: ekkar_dash_259
+  - first:
+      213: 1803524616635156908
+    second: ekkar_dash_260
+  - first:
+      213: 6154874255575919224
+    second: ekkar_dash_261
+  - first:
+      213: 1490945375674801211
+    second: ekkar_dash_262
+  - first:
+      213: 2093463679689222554
+    second: ekkar_dash_263
+  - first:
+      213: -3447369038623195699
+    second: ekkar_dash_264
+  - first:
+      213: 6362672355191916531
+    second: ekkar_dash_265
+  - first:
+      213: 83207686176421885
+    second: ekkar_dash_266
+  - first:
+      213: -773399283896763345
+    second: ekkar_dash_267
+  - first:
+      213: -6820482924507579436
+    second: ekkar_dash_268
+  - first:
+      213: 3153855917155583824
+    second: ekkar_dash_269
+  - first:
+      213: 440306479676583613
+    second: ekkar_dash_270
+  - first:
+      213: -3644597474276464207
+    second: ekkar_dash_271
+  - first:
+      213: 7480199556577088491
+    second: ekkar_dash_272
+  - first:
+      213: -7972811431352008744
+    second: ekkar_dash_273
+  - first:
+      213: -9200801504609686694
+    second: ekkar_dash_274
+  - first:
+      213: 4468422631409168435
+    second: ekkar_dash_275
+  - first:
+      213: 7528043452266727498
+    second: ekkar_dash_276
+  - first:
+      213: 6213065803355868703
+    second: ekkar_dash_277
+  - first:
+      213: 5551212348861799147
+    second: ekkar_dash_278
+  - first:
+      213: 436731855367870079
+    second: ekkar_dash_279
+  - first:
+      213: 3080633983659132294
+    second: ekkar_dash_280
+  - first:
+      213: 3736578736857283809
+    second: ekkar_dash_281
+  - first:
+      213: -9169004453320741502
+    second: ekkar_dash_282
+  - first:
+      213: 1518975709393972176
+    second: ekkar_dash_283
+  - first:
+      213: 4482041328860026196
+    second: ekkar_dash_284
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_dash_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37599939c5d30fa4ba8a3ef8f4ab94bb
+      internalID: 2119774389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_01
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e59df7997b4654aa3564cb04134445
+      internalID: 1886270939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_02
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c317836f2f914590c6779d5325101
+      internalID: 1593119104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_03
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb6012379745d54fa2157d4ccf30e0d
+      internalID: -815515919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_04
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c043151e3a6074b940e275237d0dc4
+      internalID: -1473392654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_05
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5361df5e04244d994a9bece648f4f
+      internalID: 1636830014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_06
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf22e398cef7946a13ab6d7ea2860a
+      internalID: -2054667772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_07
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 968
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a322b0167b589640ad120ef462a874b
+      internalID: -2048424837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20cd6d98b6fdf144be28cb3393d2153
+      internalID: 1446791065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_09
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f31ee7b2d82fc4aaa05f9d4d02bc27
+      internalID: 565937340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_10
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d2d273ad2df846b72652be8b3b6f2
+      internalID: -418588183212532654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_11
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910e4b024301c642a1ae1935c99d5d3
+      internalID: 1845404991070460692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_12
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c151d488c7eb9cd4fbf780e0ddf0bc98
+      internalID: -2147172318346556008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_13
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138bcfc923023d54f81d892bce94a0b8
+      internalID: -2916566379945125364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_14
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3718530cde28438bc9e3293358d5a
+      internalID: -369473610603596132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_15
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 726
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6256e797db262af499192566e406269c
+      internalID: 6415143179357761340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ac3c213572e745b284fad070d9cf6
+      internalID: -4751183547578790594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df8000b10d11b49b3a600b32e81f14
+      internalID: -428835892362734518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_18
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205cbcccaf340d4796a5d30aa51603b
+      internalID: 6632577008061108851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_19
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4dcea11cf987841a8324530323adcf
+      internalID: -8964882259620708982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_20
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba0ef979022a9c4ba291e9ae89f5fbd
+      internalID: 596766419454345201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_21
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5b7bd30052ff4c8cff8eadaf058f1
+      internalID: 3653032009830761768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_22
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0ff62cb4e37f44acc562cad866303
+      internalID: -1247653130439112916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_23
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 484
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af178c2be775f4e92bbfcd8c96de93
+      internalID: -7514666072996528006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdbe318ddc3b4a4596ddf3efcb753e6
+      internalID: -1582136161959622214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1315f6a2b221b7478264cfd8b919b1f
+      internalID: 1005031372626020079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_26
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e94e181bbfe0547b2a9ffcc0abfe52
+      internalID: -4091173129553382161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf23de14a191864587f196aa1a30e66
+      internalID: -4435865360636146721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_28
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2385ef0e105464d975d2d97d5900f2
+      internalID: -4688732651661569206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_29
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eb7651d5281ed438103bc9596df1cb
+      internalID: 8270915198275720349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_30
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813fce9fdbdff7148aba597b40ef4613
+      internalID: 1824287682765680904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_31
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 242
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f55183fd7b9f649b3ecba109208261
+      internalID: -7393152789078201532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74b86e9bf56dc48a694789fd3eff74
+      internalID: -570977467644316994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e087bec88a17a04da3fc40dc0312377
+      internalID: 8167755367532834347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_dash_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 520
+        height: 242
+      alignment: 9
+      pivot: {x: 0.407692, y: 0.016529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2466e073e1054ba57520cfa4d1dbc
+      internalID: 8997416239583055104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4352403214fac1f4b95565acc2ad964f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_dash_00: 2119774389
+      ekkar_dash_01: 1886270939
+      ekkar_dash_02: 1593119104
+      ekkar_dash_03: -815515919
+      ekkar_dash_04: -1473392654
+      ekkar_dash_05: 1636830014
+      ekkar_dash_06: -2054667772
+      ekkar_dash_07: -2048424837
+      ekkar_dash_08: 1446791065
+      ekkar_dash_09: 565937340
+      ekkar_dash_10: -418588183212532654
+      ekkar_dash_11: 1845404991070460692
+      ekkar_dash_12: -2147172318346556008
+      ekkar_dash_13: -2916566379945125364
+      ekkar_dash_14: -369473610603596132
+      ekkar_dash_15: 6415143179357761340
+      ekkar_dash_16: -4751183547578790594
+      ekkar_dash_17: -428835892362734518
+      ekkar_dash_18: 6632577008061108851
+      ekkar_dash_19: -8964882259620708982
+      ekkar_dash_20: 596766419454345201
+      ekkar_dash_21: 3653032009830761768
+      ekkar_dash_22: -1247653130439112916
+      ekkar_dash_23: -7514666072996528006
+      ekkar_dash_24: -1582136161959622214
+      ekkar_dash_25: 1005031372626020079
+      ekkar_dash_26: -4091173129553382161
+      ekkar_dash_27: -4435865360636146721
+      ekkar_dash_28: -4688732651661569206
+      ekkar_dash_29: 8270915198275720349
+      ekkar_dash_30: 1824287682765680904
+      ekkar_dash_31: -7393152789078201532
+      ekkar_dash_32: -570977467644316994
+      ekkar_dash_33: 8167755367532834347
+      ekkar_dash_34: 8997416239583055104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

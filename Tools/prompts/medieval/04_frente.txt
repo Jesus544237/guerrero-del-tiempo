@@ -1,0 +1,9 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: a sheet of separate foreground props for a side-scrolling platformer, arranged in a single row with clear empty space between them, all standing on the same invisible ground line. From left to right: a dead twisted tree, a leaning wooden siege ladder, a cracked stone statue of a kneeling knight, a broken catapult wheel, a bundle of tall dead grass, a torn blood-red banner on a spear planted in the ground, a pile of shields and helmets, a small stone archway in ruins. Every prop is very dark, almost a silhouette, with only a thin cold cyan rim light on its left side, because these sit closest to the camera.
+
+BACKGROUND: pure flat solid chroma green #00FF00, absolutely uniform, no gradient, no shadow, no glow spilling onto it. The green must be visible all around and between every prop so they can be cut out.
+
+Hard requirements: no characters, no creatures, no ground line, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9.

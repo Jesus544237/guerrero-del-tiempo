@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: d7858d9579772a74dbc11f5b06447b2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6004681088621986512
+    second: torreta_holografica_muerte_0
+  - first:
+      213: 1868696809173064226
+    second: torreta_holografica_muerte_1
+  - first:
+      213: 2346961043336486132
+    second: torreta_holografica_muerte_2
+  - first:
+      213: -622894424110235207
+    second: torreta_holografica_muerte_3
+  - first:
+      213: 8298618552820381096
+    second: torreta_holografica_muerte_4
+  - first:
+      213: 5562250077823200328
+    second: torreta_holografica_muerte_5
+  - first:
+      213: -4656213385709699200
+    second: torreta_holografica_muerte_6
+  - first:
+      213: -5927149851038923476
+    second: torreta_holografica_muerte_7
+  - first:
+      213: 3968096879931175212
+    second: torreta_holografica_muerte_8
+  - first:
+      213: -4579452687378610116
+    second: torreta_holografica_muerte_9
+  - first:
+      213: 5908654945888752259
+    second: torreta_holografica_muerte_10
+  - first:
+      213: 8744769833169412031
+    second: torreta_holografica_muerte_11
+  - first:
+      213: -485198617074375837
+    second: torreta_holografica_muerte_12
+  - first:
+      213: 3712608888567220620
+    second: torreta_holografica_muerte_13
+  - first:
+      213: 5951110978841297393
+    second: torreta_holografica_muerte_14
+  - first:
+      213: 4831249584886037821
+    second: torreta_holografica_muerte_15
+  - first:
+      213: -7608891661831782843
+    second: torreta_holografica_muerte_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f69b5d1a8da964991eb60e951c626c
+      internalID: 1898062130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e47c809a2a7a34694141c20229459d
+      internalID: -1672390876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830741fcc3bbfd1429d5c223cc83266a
+      internalID: -399619446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c41cd8278286408a836b3894bef0e
+      internalID: 1260346457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f304cca1f59c84a99c1cade7370754
+      internalID: 1848440081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80107fda22419704c8cb9de09d244185
+      internalID: -1673923720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa6adb908c75c46aafc5ec0692767e
+      internalID: -783715418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 172
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9c3b89381e414682d6f9038d5c489
+      internalID: -1446465186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf61367c18ee7146917dde09a41c69a
+      internalID: -1769368202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a099127df6c55cd469e3a7efa27f1c2c
+      internalID: -900398677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6cebb8d8262e4abac51bac24a012f
+      internalID: 5908654945888752259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torreta_holografica_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 284
+        height: 172
+      alignment: 9
+      pivot: {x: 0.443662, y: 0.023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3027ce3c13a8cb740aca8797a4a124a0
+      internalID: 8744769833169412031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d87b059c976e1aa41ace205410b13b34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      torreta_holografica_muerte_00: 1898062130
+      torreta_holografica_muerte_01: -1672390876
+      torreta_holografica_muerte_02: -399619446
+      torreta_holografica_muerte_03: 1260346457
+      torreta_holografica_muerte_04: 1848440081
+      torreta_holografica_muerte_05: -1673923720
+      torreta_holografica_muerte_06: -783715418
+      torreta_holografica_muerte_07: -1446465186
+      torreta_holografica_muerte_08: -1769368202
+      torreta_holografica_muerte_09: -900398677
+      torreta_holografica_muerte_10: 5908654945888752259
+      torreta_holografica_muerte_11: 8744769833169412031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

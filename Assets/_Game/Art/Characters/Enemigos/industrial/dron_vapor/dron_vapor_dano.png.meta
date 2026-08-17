@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: ef8bde22bf4e58d4692c9eb155350aef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7659752398575049620
+    second: dron_vapor_dano_0
+  - first:
+      213: -1159481550024768953
+    second: dron_vapor_dano_1
+  - first:
+      213: 7112259720083638520
+    second: dron_vapor_dano_2
+  - first:
+      213: 4596691373522519010
+    second: dron_vapor_dano_3
+  - first:
+      213: 3984748521091161205
+    second: dron_vapor_dano_4
+  - first:
+      213: 3991669452093723562
+    second: dron_vapor_dano_5
+  - first:
+      213: 4932364015451154753
+    second: dron_vapor_dano_6
+  - first:
+      213: -4825110022440834941
+    second: dron_vapor_dano_7
+  - first:
+      213: -5116223076989469523
+    second: dron_vapor_dano_8
+  - first:
+      213: 2413682168758375737
+    second: dron_vapor_dano_9
+  - first:
+      213: -345578899191737271
+    second: dron_vapor_dano_10
+  - first:
+      213: 4661224788617395353
+    second: dron_vapor_dano_11
+  - first:
+      213: -3428247837936268237
+    second: dron_vapor_dano_12
+  - first:
+      213: 1730316592410567877
+    second: dron_vapor_dano_13
+  - first:
+      213: 4448413102119865031
+    second: dron_vapor_dano_14
+  - first:
+      213: -6074306002755262527
+    second: dron_vapor_dano_15
+  - first:
+      213: 7216380795758433804
+    second: dron_vapor_dano_16
+  - first:
+      213: 7821693846038428887
+    second: dron_vapor_dano_17
+  - first:
+      213: 1059432556774354899
+    second: dron_vapor_dano_18
+  - first:
+      213: -4505919413630610490
+    second: dron_vapor_dano_19
+  - first:
+      213: 505553261668312202
+    second: dron_vapor_dano_20
+  - first:
+      213: 8382930328035121698
+    second: dron_vapor_dano_21
+  - first:
+      213: 5761938447534365975
+    second: dron_vapor_dano_22
+  - first:
+      213: -935595640374804501
+    second: dron_vapor_dano_23
+  - first:
+      213: 2236326472383006787
+    second: dron_vapor_dano_24
+  - first:
+      213: 3556984430519748647
+    second: dron_vapor_dano_25
+  - first:
+      213: 4597280280588043852
+    second: dron_vapor_dano_26
+  - first:
+      213: -8919665667231633204
+    second: dron_vapor_dano_27
+  - first:
+      213: -4383444342677028090
+    second: dron_vapor_dano_28
+  - first:
+      213: -5471763766111895710
+    second: dron_vapor_dano_29
+  - first:
+      213: -1639474496905646412
+    second: dron_vapor_dano_30
+  - first:
+      213: -345062490481134220
+    second: dron_vapor_dano_31
+  - first:
+      213: -7318973686168908113
+    second: dron_vapor_dano_32
+  - first:
+      213: 7529666180510113946
+    second: dron_vapor_dano_33
+  - first:
+      213: -2290654428643617193
+    second: dron_vapor_dano_34
+  - first:
+      213: -3166712774578545185
+    second: dron_vapor_dano_35
+  - first:
+      213: 1687725591907483116
+    second: dron_vapor_dano_36
+  - first:
+      213: -3635775338490358716
+    second: dron_vapor_dano_37
+  - first:
+      213: -7666702136676032327
+    second: dron_vapor_dano_38
+  - first:
+      213: 6621944067618186654
+    second: dron_vapor_dano_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_vapor_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 210
+        height: 162
+      alignment: 9
+      pivot: {x: 0.542857, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c055b20d4cb54e8a0c6abc9699e49
+      internalID: 283289441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_dano_01
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 210
+        height: 162
+      alignment: 9
+      pivot: {x: 0.542857, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38541221a7cb9f845ad1a03fc0ac2053
+      internalID: -1410010657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_dano_02
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 210
+        height: 162
+      alignment: 9
+      pivot: {x: 0.542857, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208b1bed53c2b564a93c0ee334b106b3
+      internalID: -1282266106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_dano_03
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 210
+        height: 162
+      alignment: 9
+      pivot: {x: 0.542857, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d90c6d855390e48840b7603cf8890c
+      internalID: 1547067065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_dano_04
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 210
+        height: 162
+      alignment: 9
+      pivot: {x: 0.542857, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac9b3d5fbfe2f4c8c3db88da6ca928
+      internalID: -1035657248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_dano_05
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 210
+        height: 162
+      alignment: 9
+      pivot: {x: 0.542857, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90bdb3e51cf9dc4d9231c0f001dd226
+      internalID: 1526106142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0dab763495933594eb87ab3472c6d2e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dron_vapor_dano_00: 283289441
+      dron_vapor_dano_01: -1410010657
+      dron_vapor_dano_02: -1282266106
+      dron_vapor_dano_03: 1547067065
+      dron_vapor_dano_04: -1035657248
+      dron_vapor_dano_05: 1526106142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

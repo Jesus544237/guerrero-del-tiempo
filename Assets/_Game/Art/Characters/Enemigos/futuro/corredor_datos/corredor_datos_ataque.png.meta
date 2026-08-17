@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 8922d49ce3093e14aabdc3a2cdde4583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -51930027170664450
+    second: corredor_datos_ataque_0
+  - first:
+      213: 8475166590706863312
+    second: corredor_datos_ataque_1
+  - first:
+      213: 3833310323536122437
+    second: corredor_datos_ataque_2
+  - first:
+      213: -5849075206879047507
+    second: corredor_datos_ataque_3
+  - first:
+      213: 4860689563436597788
+    second: corredor_datos_ataque_4
+  - first:
+      213: -7111272946724838572
+    second: corredor_datos_ataque_5
+  - first:
+      213: 7991062975664797587
+    second: corredor_datos_ataque_6
+  - first:
+      213: -5548755105315519191
+    second: corredor_datos_ataque_7
+  - first:
+      213: -860016929435633379
+    second: corredor_datos_ataque_8
+  - first:
+      213: 3475563985201442700
+    second: corredor_datos_ataque_9
+  - first:
+      213: 7961136957701661454
+    second: corredor_datos_ataque_10
+  - first:
+      213: 3227119561144719548
+    second: corredor_datos_ataque_11
+  - first:
+      213: -2352250061888416903
+    second: corredor_datos_ataque_12
+  - first:
+      213: -4831545682269473713
+    second: corredor_datos_ataque_13
+  - first:
+      213: -2866245805014077399
+    second: corredor_datos_ataque_14
+  - first:
+      213: 1035226715545382160
+    second: corredor_datos_ataque_15
+  - first:
+      213: 7076275051389866002
+    second: corredor_datos_ataque_16
+  - first:
+      213: 5385557227025066376
+    second: corredor_datos_ataque_17
+  - first:
+      213: -1101249773681371406
+    second: corredor_datos_ataque_18
+  - first:
+      213: -4991499963583174089
+    second: corredor_datos_ataque_19
+  - first:
+      213: 1303499878571707148
+    second: corredor_datos_ataque_20
+  - first:
+      213: 8950083814785421132
+    second: corredor_datos_ataque_21
+  - first:
+      213: 7859253279212970698
+    second: corredor_datos_ataque_22
+  - first:
+      213: -5372611005706273664
+    second: corredor_datos_ataque_23
+  - first:
+      213: -8112965172429597305
+    second: corredor_datos_ataque_24
+  - first:
+      213: 4445064915789258896
+    second: corredor_datos_ataque_25
+  - first:
+      213: 6240386721150224976
+    second: corredor_datos_ataque_26
+  - first:
+      213: -1603311370320256931
+    second: corredor_datos_ataque_27
+  - first:
+      213: -9137704204696215359
+    second: corredor_datos_ataque_28
+  - first:
+      213: 8078039987094835391
+    second: corredor_datos_ataque_29
+  - first:
+      213: 306884139234044126
+    second: corredor_datos_ataque_30
+  - first:
+      213: 8299547069931736522
+    second: corredor_datos_ataque_31
+  - first:
+      213: 7727750300232199060
+    second: corredor_datos_ataque_32
+  - first:
+      213: 8843093881213442775
+    second: corredor_datos_ataque_33
+  - first:
+      213: 5165003923221375060
+    second: corredor_datos_ataque_34
+  - first:
+      213: -3190706746892854750
+    second: corredor_datos_ataque_35
+  - first:
+      213: -4698095368484283821
+    second: corredor_datos_ataque_36
+  - first:
+      213: -1300069610483383732
+    second: corredor_datos_ataque_37
+  - first:
+      213: -1576131968161414119
+    second: corredor_datos_ataque_38
+  - first:
+      213: 1800177615595082806
+    second: corredor_datos_ataque_39
+  - first:
+      213: -2865946551487106361
+    second: corredor_datos_ataque_40
+  - first:
+      213: 5407447137868518012
+    second: corredor_datos_ataque_41
+  - first:
+      213: -2863574218346451491
+    second: corredor_datos_ataque_42
+  - first:
+      213: 1600496712036394274
+    second: corredor_datos_ataque_43
+  - first:
+      213: 5696444984939023459
+    second: corredor_datos_ataque_44
+  - first:
+      213: 8563457732045600769
+    second: corredor_datos_ataque_45
+  - first:
+      213: 3795703681234829998
+    second: corredor_datos_ataque_46
+  - first:
+      213: 6797529172467473178
+    second: corredor_datos_ataque_47
+  - first:
+      213: 3460648847754823813
+    second: corredor_datos_ataque_48
+  - first:
+      213: 1436400741417131151
+    second: corredor_datos_ataque_49
+  - first:
+      213: 5630927452827311311
+    second: corredor_datos_ataque_50
+  - first:
+      213: -4086729542979541124
+    second: corredor_datos_ataque_51
+  - first:
+      213: 4262875051250307288
+    second: corredor_datos_ataque_52
+  - first:
+      213: -5320634640385410049
+    second: corredor_datos_ataque_53
+  - first:
+      213: 4864261915565992895
+    second: corredor_datos_ataque_54
+  - first:
+      213: -5824108475334971432
+    second: corredor_datos_ataque_55
+  - first:
+      213: 8218953586542271809
+    second: corredor_datos_ataque_56
+  - first:
+      213: 6534582223475976567
+    second: corredor_datos_ataque_57
+  - first:
+      213: 528780326845744171
+    second: corredor_datos_ataque_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corredor_datos_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6634899ef2904397f96aa7bb475d8
+      internalID: 1898077191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc802760597e34e9db8d291db815f0
+      internalID: 94804628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff881f1a0573eb4984913e02f676f9a
+      internalID: -889256392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264daddf108d8d34fbc37d0c41a5ce4f
+      internalID: 374630936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f363caf04673d4c817a96a2df5033b
+      internalID: 128353774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58931047a8fe4041a47e60dee882bd2
+      internalID: 2068332528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e4d7c4e9fbae648a7b0902218743fc
+      internalID: 1587372649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 256
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2cc1bcd356bd4fa3e04dbe3fae3cf
+      internalID: 213836153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508453e805246d94ebe88e54331aaa03
+      internalID: -1162053407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_datos_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 408
+        height: 256
+      alignment: 9
+      pivot: {x: 0.428922, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a5fcfdb256d334dba3d243903a17cf
+      internalID: 764720882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c092b9c234445ac4fac954e31a7cac47
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      corredor_datos_ataque_00: 1898077191
+      corredor_datos_ataque_01: 94804628
+      corredor_datos_ataque_02: -889256392
+      corredor_datos_ataque_03: 374630936
+      corredor_datos_ataque_04: 128353774
+      corredor_datos_ataque_05: 2068332528
+      corredor_datos_ataque_06: 1587372649
+      corredor_datos_ataque_07: 213836153
+      corredor_datos_ataque_08: -1162053407
+      corredor_datos_ataque_09: 764720882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

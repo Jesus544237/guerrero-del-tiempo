@@ -1,0 +1,112 @@
+{
+  "artScale": 0.7,
+  "layers": [
+    {
+      "key": "00_vacio",
+      "file": "bg_00_vacio.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 0,
+      "contentBottom": 1075
+    },
+    {
+      "key": "01_ecos",
+      "file": "bg_01_ecos.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 149,
+      "contentBottom": 939
+    },
+    {
+      "key": "01_2_ecos",
+      "file": "bg_01_2_ecos.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 112,
+      "contentBottom": 975
+    },
+    {
+      "key": "02_trono",
+      "file": "bg_02_trono.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 0,
+      "contentBottom": 1075
+    },
+    {
+      "key": "03_suelo",
+      "file": "bg_03_suelo.png",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 610,
+      "contentBottom": 1075,
+      "groundTopPixel": 610,
+      "groundSolidBottom": 1074
+    }
+  ],
+  "props": [
+    {
+      "file": "prop_00.png",
+      "width": 318,
+      "height": 635
+    },
+    {
+      "file": "prop_01.png",
+      "width": 163,
+      "height": 386
+    },
+    {
+      "file": "prop_02.png",
+      "width": 74,
+      "height": 74
+    },
+    {
+      "file": "prop_03.png",
+      "width": 259,
+      "height": 570
+    },
+    {
+      "file": "prop_04.png",
+      "width": 147,
+      "height": 539
+    },
+    {
+      "file": "prop_05.png",
+      "width": 186,
+      "height": 410
+    },
+    {
+      "file": "prop_06.png",
+      "width": 67,
+      "height": 67
+    },
+    {
+      "file": "prop_07.png",
+      "width": 70,
+      "height": 123
+    },
+    {
+      "file": "prop_08.png",
+      "width": 222,
+      "height": 152
+    },
+    {
+      "file": "prop_09.png",
+      "width": 226,
+      "height": 250
+    },
+    {
+      "file": "prop_10.png",
+      "width": 227,
+      "height": 475
+    },
+    {
+      "file": "prop_11.png",
+      "width": 196,
+      "height": 641
+    }
+  ],
+  "groundTopPixel": 610,
+  "groundHeight": 1075,
+  "groundSolidBottom": 1074
+}

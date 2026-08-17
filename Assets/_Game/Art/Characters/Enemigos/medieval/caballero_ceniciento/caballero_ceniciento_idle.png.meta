@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: b0191990e70ee914c825a3d9f034c739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7855896901423927509
+    second: caballero_ceniciento_idle_0
+  - first:
+      213: -8668408271534273395
+    second: caballero_ceniciento_idle_1
+  - first:
+      213: 4340942576510161915
+    second: caballero_ceniciento_idle_2
+  - first:
+      213: -7613191435933158412
+    second: caballero_ceniciento_idle_3
+  - first:
+      213: -2743581041322020110
+    second: caballero_ceniciento_idle_4
+  - first:
+      213: 2206061385067212016
+    second: caballero_ceniciento_idle_5
+  - first:
+      213: 6137113032875028014
+    second: caballero_ceniciento_idle_6
+  - first:
+      213: -8137983732449970012
+    second: caballero_ceniciento_idle_7
+  - first:
+      213: 2826012220509356370
+    second: caballero_ceniciento_idle_8
+  - first:
+      213: -3700063272277064542
+    second: caballero_ceniciento_idle_9
+  - first:
+      213: -9031613600654603417
+    second: caballero_ceniciento_idle_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa701226716afd469c35bffcb7e00c9
+      internalID: 1840795028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_01
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638ccac092dc564c9d4eff3b93e387d
+      internalID: -433862147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_02
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea4a34672b0ac40a74aaa123304e36
+      internalID: 1491725513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_03
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f185f68eacdce044b904ee274f1ce692
+      internalID: -617296941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_04
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fa1306a884e5c4e94645b5b49fa341
+      internalID: -147898817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_05
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0f5e15c237ca46b428068713891a8
+      internalID: -1829606253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_06
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b859cf381a634a74aa10078bcc1ebe7c
+      internalID: -1763719202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_idle_07
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 0
+        width: 490
+        height: 358
+      alignment: 9
+      pivot: {x: 0.616327, y: 0.011173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f458755958d25f4ba5f6e9b1a8467a4
+      internalID: 969304214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8018fbd0a12326f48b5b419a633d215b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballero_ceniciento_idle_00: 1840795028
+      caballero_ceniciento_idle_01: -433862147
+      caballero_ceniciento_idle_02: 1491725513
+      caballero_ceniciento_idle_03: -617296941
+      caballero_ceniciento_idle_04: -147898817
+      caballero_ceniciento_idle_05: -1829606253
+      caballero_ceniciento_idle_06: -1763719202
+      caballero_ceniciento_idle_07: 969304214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

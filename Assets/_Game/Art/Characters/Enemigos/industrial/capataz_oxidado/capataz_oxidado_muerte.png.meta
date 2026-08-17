@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: b191e1db552d01147a90921feaf7e634
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3174936757847964434
+    second: capataz_oxidado_muerte_0
+  - first:
+      213: 1153911429654958928
+    second: capataz_oxidado_muerte_1
+  - first:
+      213: -8656620630323431590
+    second: capataz_oxidado_muerte_2
+  - first:
+      213: 6001889280816837037
+    second: capataz_oxidado_muerte_3
+  - first:
+      213: 1828620148948257190
+    second: capataz_oxidado_muerte_4
+  - first:
+      213: 7916087901542447182
+    second: capataz_oxidado_muerte_5
+  - first:
+      213: -3036539594092222995
+    second: capataz_oxidado_muerte_6
+  - first:
+      213: -7895503801622733693
+    second: capataz_oxidado_muerte_7
+  - first:
+      213: 6645198637840479487
+    second: capataz_oxidado_muerte_8
+  - first:
+      213: -3442641931040604156
+    second: capataz_oxidado_muerte_9
+  - first:
+      213: 6443487852105946462
+    second: capataz_oxidado_muerte_10
+  - first:
+      213: -4543837614694397751
+    second: capataz_oxidado_muerte_11
+  - first:
+      213: 7921118046152437905
+    second: capataz_oxidado_muerte_12
+  - first:
+      213: -1301280269330889993
+    second: capataz_oxidado_muerte_13
+  - first:
+      213: -8398784027818608747
+    second: capataz_oxidado_muerte_14
+  - first:
+      213: 7610762349331962290
+    second: capataz_oxidado_muerte_15
+  - first:
+      213: 6392126173647183586
+    second: capataz_oxidado_muerte_16
+  - first:
+      213: -1164915185649248555
+    second: capataz_oxidado_muerte_17
+  - first:
+      213: -5662604539702061542
+    second: capataz_oxidado_muerte_18
+  - first:
+      213: 1488929185727792180
+    second: capataz_oxidado_muerte_19
+  - first:
+      213: 3837008218585360223
+    second: capataz_oxidado_muerte_20
+  - first:
+      213: 2648760757252203920
+    second: capataz_oxidado_muerte_21
+  - first:
+      213: 1310814392861536197
+    second: capataz_oxidado_muerte_22
+  - first:
+      213: -3422735536148042788
+    second: capataz_oxidado_muerte_23
+  - first:
+      213: -7928105190081188730
+    second: capataz_oxidado_muerte_24
+  - first:
+      213: 4553085013267014694
+    second: capataz_oxidado_muerte_25
+  - first:
+      213: -2439792388825768063
+    second: capataz_oxidado_muerte_26
+  - first:
+      213: 552519101629973425
+    second: capataz_oxidado_muerte_27
+  - first:
+      213: -3543395772207143492
+    second: capataz_oxidado_muerte_28
+  - first:
+      213: -160829979718669686
+    second: capataz_oxidado_muerte_29
+  - first:
+      213: 7247777014560839008
+    second: capataz_oxidado_muerte_30
+  - first:
+      213: 4520986794030397621
+    second: capataz_oxidado_muerte_31
+  - first:
+      213: 2328064851645478681
+    second: capataz_oxidado_muerte_32
+  - first:
+      213: 7624135907893988242
+    second: capataz_oxidado_muerte_33
+  - first:
+      213: 7410683010335532290
+    second: capataz_oxidado_muerte_34
+  - first:
+      213: -8237351826562206928
+    second: capataz_oxidado_muerte_35
+  - first:
+      213: 2123706794705727784
+    second: capataz_oxidado_muerte_36
+  - first:
+      213: 2798042499978284049
+    second: capataz_oxidado_muerte_37
+  - first:
+      213: 3481358009167814277
+    second: capataz_oxidado_muerte_38
+  - first:
+      213: 1688776657284380341
+    second: capataz_oxidado_muerte_39
+  - first:
+      213: 4087475526467270003
+    second: capataz_oxidado_muerte_40
+  - first:
+      213: -51044709842621482
+    second: capataz_oxidado_muerte_41
+  - first:
+      213: -103179225311489718
+    second: capataz_oxidado_muerte_42
+  - first:
+      213: 736013608068876535
+    second: capataz_oxidado_muerte_43
+  - first:
+      213: 6793002519179134975
+    second: capataz_oxidado_muerte_44
+  - first:
+      213: 5445889409460478874
+    second: capataz_oxidado_muerte_45
+  - first:
+      213: 6679471952335881670
+    second: capataz_oxidado_muerte_46
+  - first:
+      213: 1674155566443588924
+    second: capataz_oxidado_muerte_47
+  - first:
+      213: -3792451859634110970
+    second: capataz_oxidado_muerte_48
+  - first:
+      213: -4113462176951343891
+    second: capataz_oxidado_muerte_49
+  - first:
+      213: -4322922280398226801
+    second: capataz_oxidado_muerte_50
+  - first:
+      213: -3365057923652481235
+    second: capataz_oxidado_muerte_51
+  - first:
+      213: -6906187922892554564
+    second: capataz_oxidado_muerte_52
+  - first:
+      213: 4977546124603496582
+    second: capataz_oxidado_muerte_53
+  - first:
+      213: -7672178992610488826
+    second: capataz_oxidado_muerte_54
+  - first:
+      213: -5536148233493889424
+    second: capataz_oxidado_muerte_55
+  - first:
+      213: 2737256292934021899
+    second: capataz_oxidado_muerte_56
+  - first:
+      213: 5007752633457204808
+    second: capataz_oxidado_muerte_57
+  - first:
+      213: -658635081957227394
+    second: capataz_oxidado_muerte_58
+  - first:
+      213: 8935477031334700704
+    second: capataz_oxidado_muerte_59
+  - first:
+      213: -6069436509293270785
+    second: capataz_oxidado_muerte_60
+  - first:
+      213: -1513463121616092556
+    second: capataz_oxidado_muerte_61
+  - first:
+      213: -2392145431887531413
+    second: capataz_oxidado_muerte_62
+  - first:
+      213: 4686773388007621457
+    second: capataz_oxidado_muerte_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b74786a689504b95133af3dd8874e
+      internalID: 1555053409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f84476e87a22ae42b88edc832b5e22e
+      internalID: 1385879925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ac3cae5dab26439b4e46bdfde3aad
+      internalID: 2107000636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6c4da1db8517d45ad6de5eb7d82a9a
+      internalID: -203129008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a8a3ee4330e049a18dca959e6947b
+      internalID: -944847465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf95f998d9985468491f1583f206ac
+      internalID: 279584882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c51933f8f9ac4bbc58318c1376b7f
+      internalID: -829438665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 268
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b5e851226cd2c43890197aa2495c04
+      internalID: 505908383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723e0ca1c5de0e48ba80f3d848b87a2
+      internalID: -1273835707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b3c7b880949947b06dfdaf4d0c300
+      internalID: 119863198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 0
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b631e2bd656f1c2459f3e8c0d8a1bb19
+      internalID: 6443487852105946462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 0
+        width: 466
+        height: 268
+      alignment: 9
+      pivot: {x: 0.637339, y: 0.014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336be45511c88746900f83fc7c6368f
+      internalID: -4543837614694397751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b5db7f757e3481441affd01049c941ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capataz_oxidado_muerte_00: 1555053409
+      capataz_oxidado_muerte_01: 1385879925
+      capataz_oxidado_muerte_02: 2107000636
+      capataz_oxidado_muerte_03: -203129008
+      capataz_oxidado_muerte_04: -944847465
+      capataz_oxidado_muerte_05: 279584882
+      capataz_oxidado_muerte_06: -829438665
+      capataz_oxidado_muerte_07: 505908383
+      capataz_oxidado_muerte_08: -1273835707
+      capataz_oxidado_muerte_09: 119863198
+      capataz_oxidado_muerte_10: 6443487852105946462
+      capataz_oxidado_muerte_11: -4543837614694397751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

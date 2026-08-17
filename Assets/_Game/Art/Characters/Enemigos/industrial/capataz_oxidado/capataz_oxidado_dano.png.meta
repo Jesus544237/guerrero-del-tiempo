@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: b062ec270ed57e147818f9ccd4dfee6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3797899198523648538
+    second: capataz_oxidado_dano_0
+  - first:
+      213: 2561146938535007826
+    second: capataz_oxidado_dano_1
+  - first:
+      213: 8995579654392343158
+    second: capataz_oxidado_dano_2
+  - first:
+      213: -5548045502851124585
+    second: capataz_oxidado_dano_3
+  - first:
+      213: 4675147391885944478
+    second: capataz_oxidado_dano_4
+  - first:
+      213: 4409534950310786802
+    second: capataz_oxidado_dano_5
+  - first:
+      213: 189918768923938174
+    second: capataz_oxidado_dano_6
+  - first:
+      213: 7629807762354301016
+    second: capataz_oxidado_dano_7
+  - first:
+      213: 5919191563588592035
+    second: capataz_oxidado_dano_8
+  - first:
+      213: -7899120555474429418
+    second: capataz_oxidado_dano_9
+  - first:
+      213: 5006525389577922626
+    second: capataz_oxidado_dano_10
+  - first:
+      213: -4971556983850406999
+    second: capataz_oxidado_dano_11
+  - first:
+      213: 3122100618605662246
+    second: capataz_oxidado_dano_12
+  - first:
+      213: 8948084190795523580
+    second: capataz_oxidado_dano_13
+  - first:
+      213: 244246617987881828
+    second: capataz_oxidado_dano_14
+  - first:
+      213: -2448547225466896013
+    second: capataz_oxidado_dano_15
+  - first:
+      213: -2188362417633057693
+    second: capataz_oxidado_dano_16
+  - first:
+      213: 2299293186300712677
+    second: capataz_oxidado_dano_17
+  - first:
+      213: 2670226485795130839
+    second: capataz_oxidado_dano_18
+  - first:
+      213: 3767732391849756447
+    second: capataz_oxidado_dano_19
+  - first:
+      213: -696944501533052570
+    second: capataz_oxidado_dano_20
+  - first:
+      213: 8318361981418807577
+    second: capataz_oxidado_dano_21
+  - first:
+      213: 3322190300418339219
+    second: capataz_oxidado_dano_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capataz_oxidado_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.577922, y: 0.014599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c2526586c6af47883ce2a1c06a57e
+      internalID: -1603714731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_dano_01
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.577922, y: 0.014599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5c919fd0e9db74b8191c1027b865c3
+      internalID: 1295173946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_dano_02
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.577922, y: 0.014599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3970dbec2c111d14d986cc8c03b0a08a
+      internalID: 56437699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_dano_03
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.577922, y: 0.014599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f336f78ecddb0cf43891ba579405d261
+      internalID: 1313998273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_dano_04
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.577922, y: 0.014599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62dff5dfa7b365439aebdfd1b4c1ef9
+      internalID: -1449918369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_dano_05
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.577922, y: 0.014599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446bb79b6b0924144a32346070ae65ce
+      internalID: 1871273056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 46f40c13826fe224ba94c58144f96cf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capataz_oxidado_dano_00: -1603714731
+      capataz_oxidado_dano_01: 1295173946
+      capataz_oxidado_dano_02: 56437699
+      capataz_oxidado_dano_03: 1313998273
+      capataz_oxidado_dano_04: -1449918369
+      capataz_oxidado_dano_05: 1871273056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

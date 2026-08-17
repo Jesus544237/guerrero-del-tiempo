@@ -1,0 +1,15 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+Time is broken here: cyan light and floating golden clock gears leak into the scene, and small objects hang frozen in mid-air as if a moment had been paused.
+
+LEVEL: "La Fundicion de las Horas".
+
+SUBJECT: the distant silhouette of an endless industrial skyline: blast furnaces, cooling towers, chimney stacks, gantry cranes and riveted iron bridges, flat and dark. Amber furnace light in the vents. Smoke rises from the stacks and stops dead halfway up, frozen.
+
+COMPOSITION: a LOW HORIZONTAL BAND of city filling only the bottom third; the entire upper area is empty.
+
+BACKGROUND: everything that is NOT the subject must be pure flat solid chroma green #00FF00, absolutely uniform, no gradient, no shadow, no glow spilling onto it. Chroma green must not appear anywhere on the subject itself, so it can be cut out cleanly.
+
+Hard requirements: no characters, no creatures, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9, 2752x1536.

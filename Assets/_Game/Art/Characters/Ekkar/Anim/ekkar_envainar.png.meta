@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: fc973d5dc82055449bbbb87b95e122af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8469497508773211185
+    second: ekkar_envainar_0
+  - first:
+      213: 4721253932702587490
+    second: ekkar_envainar_1
+  - first:
+      213: 7096144602617638134
+    second: ekkar_envainar_2
+  - first:
+      213: -5787269731421820935
+    second: ekkar_envainar_3
+  - first:
+      213: 4099699972650811878
+    second: ekkar_envainar_4
+  - first:
+      213: -1708560983636357661
+    second: ekkar_envainar_5
+  - first:
+      213: 2069570996204763932
+    second: ekkar_envainar_6
+  - first:
+      213: -3329843652694900330
+    second: ekkar_envainar_7
+  - first:
+      213: 3292434659452167938
+    second: ekkar_envainar_8
+  - first:
+      213: -46555170875609047
+    second: ekkar_envainar_9
+  - first:
+      213: 3643872812578080481
+    second: ekkar_envainar_10
+  - first:
+      213: -4586222865942333982
+    second: ekkar_envainar_11
+  - first:
+      213: -5317279715220300461
+    second: ekkar_envainar_12
+  - first:
+      213: -3128411553281848633
+    second: ekkar_envainar_13
+  - first:
+      213: 4937936569893063895
+    second: ekkar_envainar_14
+  - first:
+      213: 5772911815603337772
+    second: ekkar_envainar_15
+  - first:
+      213: 7597660420270383162
+    second: ekkar_envainar_16
+  - first:
+      213: 8779270428043444933
+    second: ekkar_envainar_17
+  - first:
+      213: -4324838919532664535
+    second: ekkar_envainar_18
+  - first:
+      213: 8954751058418291044
+    second: ekkar_envainar_19
+  - first:
+      213: 654816294966276167
+    second: ekkar_envainar_20
+  - first:
+      213: -3282170550359385722
+    second: ekkar_envainar_21
+  - first:
+      213: -8504174994657378372
+    second: ekkar_envainar_22
+  - first:
+      213: 4468332623031770219
+    second: ekkar_envainar_23
+  - first:
+      213: 558757809075300900
+    second: ekkar_envainar_24
+  - first:
+      213: 1454410666845448003
+    second: ekkar_envainar_25
+  - first:
+      213: -2542984538150810000
+    second: ekkar_envainar_26
+  - first:
+      213: -1311251147659621608
+    second: ekkar_envainar_27
+  - first:
+      213: -5265016329295748351
+    second: ekkar_envainar_28
+  - first:
+      213: 2841491816930853883
+    second: ekkar_envainar_29
+  - first:
+      213: 622052034235859180
+    second: ekkar_envainar_30
+  - first:
+      213: 357874897234950582
+    second: ekkar_envainar_31
+  - first:
+      213: 3718809274907067002
+    second: ekkar_envainar_32
+  - first:
+      213: -5590556036176543649
+    second: ekkar_envainar_33
+  - first:
+      213: -70270728352932329
+    second: ekkar_envainar_34
+  - first:
+      213: -5385872370037790531
+    second: ekkar_envainar_35
+  - first:
+      213: 4688748971893560823
+    second: ekkar_envainar_36
+  - first:
+      213: -8017197741873310864
+    second: ekkar_envainar_37
+  - first:
+      213: -2418257813665742765
+    second: ekkar_envainar_38
+  - first:
+      213: -4386537507709773892
+    second: ekkar_envainar_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_envainar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdad8aebb1503747b0da2aee3d082df
+      internalID: 529979779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_01
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae0193bc9834b4593380921ceb58d8
+      internalID: 187027593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_02
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbb5c7c7a8e3d049959cd2a8262ec70
+      internalID: 1681117735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_03
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec855e1ca00c05b4c81b53449b9627f8
+      internalID: 2133585975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_04
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad086ad847f7e5c46919df22f40b3cef
+      internalID: 913579783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_05
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbf9f2a689adf41bd14f4b89121f38
+      internalID: 998047937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_06
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f7e0b0b0fbaf74abb6f98ed86b488a
+      internalID: 811064807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_07
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 444
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e3ee14162857478bdc0a91899c6eb
+      internalID: -401049849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec328aaa0939b44aa81cf4103d35f43
+      internalID: -384300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_09
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057e1b7f0b16964a8990c54704f36db
+      internalID: -677836932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952e3ccba784554fb0325f9938bcc3f
+      internalID: 3643872812578080481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a6a8cf1a580d4b8d370d932b1b4ca
+      internalID: -4586222865942333982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48999140921ce3c4886e8e21301115f4
+      internalID: -5317279715220300461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c75dcf678a194bb9d9f3d50dbe10a
+      internalID: -3128411553281848633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf162db42f5db4d905997bce50f881
+      internalID: 4937936569893063895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_15
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 222
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd1afb34469604f9ae38859c6aa0d0
+      internalID: 5772911815603337772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904da202a18fdb4429a6530ee195bf9e
+      internalID: 7597660420270383162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbf011e3b02e54a8b13f2f89d70d6a
+      internalID: 8779270428043444933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d133419f7616d448db48ff1f835971
+      internalID: -4324838919532664535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030821602e35ce943a8618d40fbbd0cd
+      internalID: 8954751058418291044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_20
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902016290b72290469de12d43450c686
+      internalID: 654816294966276167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_21
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc176b21051fb49895a43fc73566cb
+      internalID: -3282170550359385722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31af2f11dcabed4e83fe1087cf55034
+      internalID: -8504174994657378372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_envainar_23
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 0
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.52809, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea31c0d16d9fc479d550bd44367b79
+      internalID: 4468332623031770219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bee33edac6c218f4ebd14bc5455e7f9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_envainar_00: 529979779
+      ekkar_envainar_01: 187027593
+      ekkar_envainar_02: 1681117735
+      ekkar_envainar_03: 2133585975
+      ekkar_envainar_04: 913579783
+      ekkar_envainar_05: 998047937
+      ekkar_envainar_06: 811064807
+      ekkar_envainar_07: -401049849
+      ekkar_envainar_08: -384300350
+      ekkar_envainar_09: -677836932
+      ekkar_envainar_10: 3643872812578080481
+      ekkar_envainar_11: -4586222865942333982
+      ekkar_envainar_12: -5317279715220300461
+      ekkar_envainar_13: -3128411553281848633
+      ekkar_envainar_14: 4937936569893063895
+      ekkar_envainar_15: 5772911815603337772
+      ekkar_envainar_16: 7597660420270383162
+      ekkar_envainar_17: 8779270428043444933
+      ekkar_envainar_18: -4324838919532664535
+      ekkar_envainar_19: 8954751058418291044
+      ekkar_envainar_20: 654816294966276167
+      ekkar_envainar_21: -3282170550359385722
+      ekkar_envainar_22: -8504174994657378372
+      ekkar_envainar_23: 4468332623031770219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

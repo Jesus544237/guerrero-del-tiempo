@@ -1,0 +1,9 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: the mid-ground layer of a side-scrolling platformer. A gothic castle caught in the exact instant of its fall, and held there forever. Broken curtain walls and a collapsing keep with a tall bell tower on the right. Catapult boulders and burning arrows hang MOTIONLESS in the air, each wrapped in a thin cyan halo, with their debris and sparks frozen in expanding clouds. A siege ramp and toppled ladders lean against the wall. Torn heraldic banners in blood red, stopped mid-flap. Golden clock gears the size of cartwheels are embedded in the masonry and in the air around the tower. Warm gold firelight from inside the arrow slits fights against the cold cyan of stopped time.
+
+COMPOSITION: buildings occupy the middle band of the image. The bottom edge must be simple and dark so a ground layer can overlap it. Upper area mostly empty flat void colour #0A0515 so the sky and horizon layers show through. Deep silhouettes, high contrast, cinematic.
+
+Hard requirements: no characters, no creatures, no soldiers, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9.

@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 2811c9673957fa14a85815deec25debf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7789770258197052670
+    second: caballero_ceniciento_ataque_especial_0
+  - first:
+      213: -4835600999323645114
+    second: caballero_ceniciento_ataque_especial_1
+  - first:
+      213: -6602400535008332586
+    second: caballero_ceniciento_ataque_especial_2
+  - first:
+      213: -2143001025211463994
+    second: caballero_ceniciento_ataque_especial_3
+  - first:
+      213: 5136462728375990026
+    second: caballero_ceniciento_ataque_especial_4
+  - first:
+      213: -8912159917462617304
+    second: caballero_ceniciento_ataque_especial_5
+  - first:
+      213: 7632510885862149760
+    second: caballero_ceniciento_ataque_especial_6
+  - first:
+      213: -9059433068804729146
+    second: caballero_ceniciento_ataque_especial_7
+  - first:
+      213: 1392909095683401766
+    second: caballero_ceniciento_ataque_especial_8
+  - first:
+      213: 5834676810790430821
+    second: caballero_ceniciento_ataque_especial_9
+  - first:
+      213: -3338541915842876772
+    second: caballero_ceniciento_ataque_especial_10
+  - first:
+      213: 2397531361101321579
+    second: caballero_ceniciento_ataque_especial_11
+  - first:
+      213: -3560752768652827376
+    second: caballero_ceniciento_ataque_especial_12
+  - first:
+      213: 4911242751327197454
+    second: caballero_ceniciento_ataque_especial_13
+  - first:
+      213: -6503871505089587966
+    second: caballero_ceniciento_ataque_especial_14
+  - first:
+      213: 723172178141015941
+    second: caballero_ceniciento_ataque_especial_15
+  - first:
+      213: 7559322295609225124
+    second: caballero_ceniciento_ataque_especial_16
+  - first:
+      213: 2785863364461530091
+    second: caballero_ceniciento_ataque_especial_17
+  - first:
+      213: -5626081053843300397
+    second: caballero_ceniciento_ataque_especial_18
+  - first:
+      213: 2754989570903959174
+    second: caballero_ceniciento_ataque_especial_19
+  - first:
+      213: -2961440003365798408
+    second: caballero_ceniciento_ataque_especial_20
+  - first:
+      213: -7072332506002711457
+    second: caballero_ceniciento_ataque_especial_21
+  - first:
+      213: -511290738734729414
+    second: caballero_ceniciento_ataque_especial_22
+  - first:
+      213: 5187261245684054297
+    second: caballero_ceniciento_ataque_especial_23
+  - first:
+      213: 1129039561584009271
+    second: caballero_ceniciento_ataque_especial_24
+  - first:
+      213: 8775420280883566183
+    second: caballero_ceniciento_ataque_especial_25
+  - first:
+      213: 2256803048673069509
+    second: caballero_ceniciento_ataque_especial_26
+  - first:
+      213: 700690087286874666
+    second: caballero_ceniciento_ataque_especial_27
+  - first:
+      213: 4866310805212585430
+    second: caballero_ceniciento_ataque_especial_28
+  - first:
+      213: 3092920949045706192
+    second: caballero_ceniciento_ataque_especial_29
+  - first:
+      213: 5224374568409955421
+    second: caballero_ceniciento_ataque_especial_30
+  - first:
+      213: 8624504099684125080
+    second: caballero_ceniciento_ataque_especial_31
+  - first:
+      213: -6506493211031905239
+    second: caballero_ceniciento_ataque_especial_32
+  - first:
+      213: 659215801048427157
+    second: caballero_ceniciento_ataque_especial_33
+  - first:
+      213: -6022880277504263660
+    second: caballero_ceniciento_ataque_especial_34
+  - first:
+      213: -6792944052933563698
+    second: caballero_ceniciento_ataque_especial_35
+  - first:
+      213: 4908994775457170753
+    second: caballero_ceniciento_ataque_especial_36
+  - first:
+      213: -5887566020711909072
+    second: caballero_ceniciento_ataque_especial_37
+  - first:
+      213: 3370870422137850983
+    second: caballero_ceniciento_ataque_especial_38
+  - first:
+      213: 7261724188422781814
+    second: caballero_ceniciento_ataque_especial_39
+  - first:
+      213: -4661713262281418405
+    second: caballero_ceniciento_ataque_especial_40
+  - first:
+      213: 1600843646509386959
+    second: caballero_ceniciento_ataque_especial_41
+  - first:
+      213: -8993632225559868055
+    second: caballero_ceniciento_ataque_especial_42
+  - first:
+      213: 2754706796614946315
+    second: caballero_ceniciento_ataque_especial_43
+  - first:
+      213: 8218080100195936660
+    second: caballero_ceniciento_ataque_especial_44
+  - first:
+      213: 4378178684619288363
+    second: caballero_ceniciento_ataque_especial_45
+  - first:
+      213: 6766917590592749399
+    second: caballero_ceniciento_ataque_especial_46
+  - first:
+      213: -635229506344695047
+    second: caballero_ceniciento_ataque_especial_47
+  - first:
+      213: 5549160216819271026
+    second: caballero_ceniciento_ataque_especial_48
+  - first:
+      213: 2986106487014049194
+    second: caballero_ceniciento_ataque_especial_49
+  - first:
+      213: 4578277310184371088
+    second: caballero_ceniciento_ataque_especial_50
+  - first:
+      213: -7193898773839944015
+    second: caballero_ceniciento_ataque_especial_51
+  - first:
+      213: -3809648062681107613
+    second: caballero_ceniciento_ataque_especial_52
+  - first:
+      213: 2715550814457345189
+    second: caballero_ceniciento_ataque_especial_53
+  - first:
+      213: -1192530047695701292
+    second: caballero_ceniciento_ataque_especial_54
+  - first:
+      213: -2195711612089955647
+    second: caballero_ceniciento_ataque_especial_55
+  - first:
+      213: -2667753761943182395
+    second: caballero_ceniciento_ataque_especial_56
+  - first:
+      213: -6387683780310081463
+    second: caballero_ceniciento_ataque_especial_57
+  - first:
+      213: 8626091566938756362
+    second: caballero_ceniciento_ataque_especial_58
+  - first:
+      213: -7017971233094156959
+    second: caballero_ceniciento_ataque_especial_59
+  - first:
+      213: -3304152749501554538
+    second: caballero_ceniciento_ataque_especial_60
+  - first:
+      213: -6136711964742267268
+    second: caballero_ceniciento_ataque_especial_61
+  - first:
+      213: 6631549416114540680
+    second: caballero_ceniciento_ataque_especial_62
+  - first:
+      213: 1755958411412583291
+    second: caballero_ceniciento_ataque_especial_63
+  - first:
+      213: 123224987044974471
+    second: caballero_ceniciento_ataque_especial_64
+  - first:
+      213: -7655568458120157631
+    second: caballero_ceniciento_ataque_especial_65
+  - first:
+      213: -2308103124080923701
+    second: caballero_ceniciento_ataque_especial_66
+  - first:
+      213: -685720409758904715
+    second: caballero_ceniciento_ataque_especial_67
+  - first:
+      213: 3621522421212129928
+    second: caballero_ceniciento_ataque_especial_68
+  - first:
+      213: -5311291760913533032
+    second: caballero_ceniciento_ataque_especial_69
+  - first:
+      213: -6764530159109352464
+    second: caballero_ceniciento_ataque_especial_70
+  - first:
+      213: 2505894916226013302
+    second: caballero_ceniciento_ataque_especial_71
+  - first:
+      213: 7069379810095727113
+    second: caballero_ceniciento_ataque_especial_72
+  - first:
+      213: -4752864200134057590
+    second: caballero_ceniciento_ataque_especial_73
+  - first:
+      213: 7754082147824699357
+    second: caballero_ceniciento_ataque_especial_74
+  - first:
+      213: -5099368797438615851
+    second: caballero_ceniciento_ataque_especial_75
+  - first:
+      213: 6771256000794851789
+    second: caballero_ceniciento_ataque_especial_76
+  - first:
+      213: 6756135854078592831
+    second: caballero_ceniciento_ataque_especial_77
+  - first:
+      213: 78140130758319279
+    second: caballero_ceniciento_ataque_especial_78
+  - first:
+      213: 5786935053380470880
+    second: caballero_ceniciento_ataque_especial_79
+  - first:
+      213: -2828773434329498499
+    second: caballero_ceniciento_ataque_especial_80
+  - first:
+      213: 3747552616794401861
+    second: caballero_ceniciento_ataque_especial_81
+  - first:
+      213: 2939815593465909274
+    second: caballero_ceniciento_ataque_especial_82
+  - first:
+      213: 8987349553089311738
+    second: caballero_ceniciento_ataque_especial_83
+  - first:
+      213: 7204864628676262939
+    second: caballero_ceniciento_ataque_especial_84
+  - first:
+      213: 3708693097609805778
+    second: caballero_ceniciento_ataque_especial_85
+  - first:
+      213: 3708064539672973155
+    second: caballero_ceniciento_ataque_especial_86
+  - first:
+      213: 7239261392168596454
+    second: caballero_ceniciento_ataque_especial_87
+  - first:
+      213: 4422716155351861503
+    second: caballero_ceniciento_ataque_especial_88
+  - first:
+      213: 6554454773541914616
+    second: caballero_ceniciento_ataque_especial_89
+  - first:
+      213: -2023979228837062786
+    second: caballero_ceniciento_ataque_especial_90
+  - first:
+      213: -6687439416265939647
+    second: caballero_ceniciento_ataque_especial_91
+  - first:
+      213: -8725334012360689162
+    second: caballero_ceniciento_ataque_especial_92
+  - first:
+      213: 123644984579095158
+    second: caballero_ceniciento_ataque_especial_93
+  - first:
+      213: -7825296422368308364
+    second: caballero_ceniciento_ataque_especial_94
+  - first:
+      213: -7944700916889482792
+    second: caballero_ceniciento_ataque_especial_95
+  - first:
+      213: 1309034844040357241
+    second: caballero_ceniciento_ataque_especial_96
+  - first:
+      213: 6591969658401288204
+    second: caballero_ceniciento_ataque_especial_97
+  - first:
+      213: -1198992915702890538
+    second: caballero_ceniciento_ataque_especial_98
+  - first:
+      213: -3652795479236864595
+    second: caballero_ceniciento_ataque_especial_99
+  - first:
+      213: -1326853310752922439
+    second: caballero_ceniciento_ataque_especial_100
+  - first:
+      213: 8844403270928125366
+    second: caballero_ceniciento_ataque_especial_101
+  - first:
+      213: -7800177923984722422
+    second: caballero_ceniciento_ataque_especial_102
+  - first:
+      213: 1064597650266348506
+    second: caballero_ceniciento_ataque_especial_103
+  - first:
+      213: 6323002194973381202
+    second: caballero_ceniciento_ataque_especial_104
+  - first:
+      213: -1142138733923823024
+    second: caballero_ceniciento_ataque_especial_105
+  - first:
+      213: -298697337862079932
+    second: caballero_ceniciento_ataque_especial_106
+  - first:
+      213: 3183339535777252669
+    second: caballero_ceniciento_ataque_especial_107
+  - first:
+      213: -1312891665271838771
+    second: caballero_ceniciento_ataque_especial_108
+  - first:
+      213: 6763264534279128199
+    second: caballero_ceniciento_ataque_especial_109
+  - first:
+      213: 5060705720975504285
+    second: caballero_ceniciento_ataque_especial_110
+  - first:
+      213: -2769628241955863246
+    second: caballero_ceniciento_ataque_especial_111
+  - first:
+      213: 5675741336394812179
+    second: caballero_ceniciento_ataque_especial_112
+  - first:
+      213: -5628692806438290795
+    second: caballero_ceniciento_ataque_especial_113
+  - first:
+      213: 5490420362088720956
+    second: caballero_ceniciento_ataque_especial_114
+  - first:
+      213: -6277778141834463285
+    second: caballero_ceniciento_ataque_especial_115
+  - first:
+      213: 611007325113582592
+    second: caballero_ceniciento_ataque_especial_116
+  - first:
+      213: -862953464781940403
+    second: caballero_ceniciento_ataque_especial_117
+  - first:
+      213: 8597740272958066072
+    second: caballero_ceniciento_ataque_especial_118
+  - first:
+      213: 3561026978294427853
+    second: caballero_ceniciento_ataque_especial_119
+  - first:
+      213: -2085986437298643163
+    second: caballero_ceniciento_ataque_especial_120
+  - first:
+      213: -5128037300610817795
+    second: caballero_ceniciento_ataque_especial_121
+  - first:
+      213: 4094460680919138691
+    second: caballero_ceniciento_ataque_especial_122
+  - first:
+      213: -8455964053216676307
+    second: caballero_ceniciento_ataque_especial_123
+  - first:
+      213: 2434588151763461678
+    second: caballero_ceniciento_ataque_especial_124
+  - first:
+      213: 5801413707524985523
+    second: caballero_ceniciento_ataque_especial_125
+  - first:
+      213: 5564501871712531852
+    second: caballero_ceniciento_ataque_especial_126
+  - first:
+      213: 3714896066836868495
+    second: caballero_ceniciento_ataque_especial_127
+  - first:
+      213: -7803171097686863984
+    second: caballero_ceniciento_ataque_especial_128
+  - first:
+      213: -6528196206908898225
+    second: caballero_ceniciento_ataque_especial_129
+  - first:
+      213: 618976954031813541
+    second: caballero_ceniciento_ataque_especial_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8709e1f95f79f41881e1e22f7b3255
+      internalID: -1938270092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_01
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b112d61308034ca6c0a136eab1564
+      internalID: 1960874484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_02
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8aff0c27d4c5b49a7e88c99e3f61a9
+      internalID: -1447715697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_03
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7169c27eb3eeb2b40b445750dc43dc35
+      internalID: -763240612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_04
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce2e48f24bcff148982a1cf7652f305
+      internalID: -1660315944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_05
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f23d51faba08e4da1f47b43f953518
+      internalID: 544653483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_06
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d123abdd4d5cec479c16c2ef25e125e
+      internalID: 1587156095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_07
+      rect:
+        serializedVersion: 2
+        x: 5222
+        y: 382
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9597f9036f2f244a01cd64302f27b6
+      internalID: -161339851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d1ab31f84a0d4a9f9a71d7740eac9
+      internalID: 1408173858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_09
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 0
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb8d0c02d10b54eb49ab197977eaa7
+      internalID: -1330046195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_10
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 0
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f54aecb679aa44790f596fc1866671
+      internalID: -3338541915842876772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_especial_11
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 0
+        width: 746
+        height: 382
+      alignment: 9
+      pivot: {x: 0.469169, y: 0.010471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58315fc8e7c8154f9eb732fc13bbf8f
+      internalID: 2397531361101321579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4d893004e6e6b464a9fac00c438bf683
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballero_ceniciento_ataque_especial_00: -1938270092
+      caballero_ceniciento_ataque_especial_01: 1960874484
+      caballero_ceniciento_ataque_especial_02: -1447715697
+      caballero_ceniciento_ataque_especial_03: -763240612
+      caballero_ceniciento_ataque_especial_04: -1660315944
+      caballero_ceniciento_ataque_especial_05: 544653483
+      caballero_ceniciento_ataque_especial_06: 1587156095
+      caballero_ceniciento_ataque_especial_07: -161339851
+      caballero_ceniciento_ataque_especial_08: 1408173858
+      caballero_ceniciento_ataque_especial_09: -1330046195
+      caballero_ceniciento_ataque_especial_10: -3338541915842876772
+      caballero_ceniciento_ataque_especial_11: 2397531361101321579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

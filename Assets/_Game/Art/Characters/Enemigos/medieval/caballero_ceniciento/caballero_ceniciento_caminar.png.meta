@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 00ece058287bb354c908a9bbf2625a34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7557790916292938470
+    second: caballero_ceniciento_caminar_0
+  - first:
+      213: 7616591058413150967
+    second: caballero_ceniciento_caminar_1
+  - first:
+      213: 175897863277244456
+    second: caballero_ceniciento_caminar_2
+  - first:
+      213: 2063299175535012772
+    second: caballero_ceniciento_caminar_3
+  - first:
+      213: -2830732597009640866
+    second: caballero_ceniciento_caminar_4
+  - first:
+      213: -3456632395968121079
+    second: caballero_ceniciento_caminar_5
+  - first:
+      213: -6103195214296729067
+    second: caballero_ceniciento_caminar_6
+  - first:
+      213: -7083797436924880682
+    second: caballero_ceniciento_caminar_7
+  - first:
+      213: -8668692631843235139
+    second: caballero_ceniciento_caminar_8
+  - first:
+      213: 4163371638605078240
+    second: caballero_ceniciento_caminar_9
+  - first:
+      213: -9101813835546534481
+    second: caballero_ceniciento_caminar_10
+  - first:
+      213: -1662846880659553069
+    second: caballero_ceniciento_caminar_11
+  - first:
+      213: -7292365624279299372
+    second: caballero_ceniciento_caminar_12
+  - first:
+      213: 2014179198350688180
+    second: caballero_ceniciento_caminar_13
+  - first:
+      213: -7821396313115127671
+    second: caballero_ceniciento_caminar_14
+  - first:
+      213: 7518776470517703285
+    second: caballero_ceniciento_caminar_15
+  - first:
+      213: 939436367568675456
+    second: caballero_ceniciento_caminar_16
+  - first:
+      213: 8913811462845714140
+    second: caballero_ceniciento_caminar_17
+  - first:
+      213: 3031347282424391904
+    second: caballero_ceniciento_caminar_18
+  - first:
+      213: 1504563974469330071
+    second: caballero_ceniciento_caminar_19
+  - first:
+      213: -7054106549408282904
+    second: caballero_ceniciento_caminar_20
+  - first:
+      213: -3999061027722144066
+    second: caballero_ceniciento_caminar_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4409ca4776b0954193143c40fbc2ac5
+      internalID: -665995927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_01
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66351dd66dcbbc4e9206eb827d49992
+      internalID: -1301876533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_02
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f61ca26258fa94bae6f41e17bbe157
+      internalID: -1372358089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_03
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477944aee8ac4a24c949c36dc94cc264
+      internalID: 408335488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_04
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21f1b617dd4d8e44a8d785f8a508fe4
+      internalID: 1556469487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_05
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f5589dd547c14d9be93f68d16c610
+      internalID: 1494768021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_06
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150bef96b164db44cbaea0305a0026c4
+      internalID: 1619258045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_caminar_07
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 0
+        width: 414
+        height: 344
+      alignment: 9
+      pivot: {x: 0.330918, y: 0.011628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b81e6d56fde20468a4b02b3a3469fc
+      internalID: 1344590277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ffa18ab9ed3a044194cc12734b3a509
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballero_ceniciento_caminar_00: -665995927
+      caballero_ceniciento_caminar_01: -1301876533
+      caballero_ceniciento_caminar_02: -1372358089
+      caballero_ceniciento_caminar_03: 408335488
+      caballero_ceniciento_caminar_04: 1556469487
+      caballero_ceniciento_caminar_05: 1494768021
+      caballero_ceniciento_caminar_06: 1619258045
+      caballero_ceniciento_caminar_07: 1344590277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
