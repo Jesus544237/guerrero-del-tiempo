@@ -1,0 +1,23 @@
+# GitHub rechaza archivos sueltos de mas de 100 MB. La compilacion de Windows
+# tiene dos que los pasan (sharedassets2 y sharedassets5, de 149 y 173 MB), asi
+# que los binarios grandes de distrib/ viajan por Git LFS.
+#
+# Cuota gratuita de LFS: 1 GB de almacenamiento y 1 GB de descarga al mes.
+# Con la build actual se usan unos 320 MB, que entra de sobra.
+
+distrib/**/*.resS   filter=lfs diff=lfs merge=lfs -text
+distrib/**/*.assets filter=lfs diff=lfs merge=lfs -text
+distrib/**/*.dll    filter=lfs diff=lfs merge=lfs -text
+distrib/**/*.mp4    filter=lfs diff=lfs merge=lfs -text
+distrib/**/*.pak    filter=lfs diff=lfs merge=lfs -text
+distrib/**/*.bin    filter=lfs diff=lfs merge=lfs -text
+
+# El video de la cinematica que si usa el juego, dentro de Assets
+Assets/StreamingAssets/*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Finales de linea: que Git no reescriba los binarios
+*.png  binary
+*.jpg  binary
+*.wav  binary
+*.mp4  binary
+*.ttf  binary
