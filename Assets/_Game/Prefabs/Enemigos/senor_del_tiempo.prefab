@@ -1,0 +1,360 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4064636787225603906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7819360630449068877}
+  - component: {fileID: 8640239197240267077}
+  - component: {fileID: 7962903571248875829}
+  m_Layer: 0
+  m_Name: Sprite
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7819360630449068877
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4064636787225603906}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2122396974360812229}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &8640239197240267077
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4064636787225603906}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 50
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 1866838611, guid: f1854fe5037dd1d47b9b3cc76574b59b, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 6.4805593, y: 3.6200001}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
+--- !u!95 &7962903571248875829
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4064636787225603906}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f8d0afc2f31ceb645adcad13544fef77, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &5484291597726185140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2122396974360812229}
+  - component: {fileID: 1000377362243641271}
+  - component: {fileID: 1887753631776158108}
+  - component: {fileID: 3980097175429104945}
+  - component: {fileID: 8396464485477681990}
+  - component: {fileID: 4923826589358060228}
+  - component: {fileID: 5752119205435231735}
+  - component: {fileID: 1877426631050882373}
+  - component: {fileID: 9142127824590291035}
+  m_Layer: 0
+  m_Name: senor_del_tiempo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2122396974360812229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7819360630449068877}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &1000377362243641271
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!70 &1887753631776158108
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.15, y: 2.765331}
+  m_Size: {x: 2.8154843, y: 4.646333}
+  m_Direction: 0
+--- !u!114 &3980097175429104945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da7f00fd8492bd741aeae4cb1f5fd167, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ekkar.Gameplay.Damageable
+  bando: 1
+  vidaMaxima: 24
+  invulnerable: 0.35
+  animator: {fileID: 7962903571248875829}
+  estadoDano: dano
+  estadoMuerte: muerte
+  parpadeo: {fileID: 8640239197240267077}
+  sonidoDano: {fileID: 8300000, guid: 85ceafea2c537b94fab1660562105b03, type: 3}
+  sonidoMuerte: {fileID: 8300000, guid: f9baa31c6757e214bbae76bd420ee6d4, type: 3}
+--- !u!114 &8396464485477681990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a5412bfc771e6449ab4e0304b8e78f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ekkar.Gameplay.EnemyBrain
+  velocidad: 1.6
+  radioPatrulla: 0
+  vuela: 1
+  radioVision: 14
+  alcance: 3.6
+  cadencia: 3.4
+  dano: 2
+  retardoImpacto: 0.35
+  duracionAtaque: 0.8
+  aDistancia: 0
+  alcanceHabilidades: 9
+  alturaGolpe: 2.3231666
+  cajaArriba: 2.5554833
+  cajaAbajo: 2.5554833
+  animator: {fileID: 7962903571248875829}
+  sprite: {fileID: 8640239197240267077}
+  estadoIdle: idle_fase1
+  estadoAndar: idle_fase1
+  estadoAtaque: ataque_pendulo
+  ataques:
+  - ataque_pendulo
+  - ataque_agujas
+  - ataque_eco
+  tardaEnIrse: 3.5
+  sueltaReliquia: 1
+  cuantasReliquias: 3
+--- !u!114 &4923826589358060228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da4b3554cd1bf4a42a914db947454572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ekkar.UI.NameTag
+  nombre: EL SENOR DEL TIEMPO
+  fuente: {fileID: 11400000, guid: 4250a5965e860704ca8014af16782388, type: 2}
+  siempreVisible: 0
+  segundosAlMorir: 2.2
+  altura: 0.4
+  tamano: 7
+  color: {r: 0.886, g: 0.906, b: 0.922, a: 1}
+  conBarra: 0
+  colorBarra: {r: 0.86, g: 0.15, b: 0.15, a: 1}
+--- !u!114 &5752119205435231735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a284d90e03f993478e123a4c063e6c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ekkar.Gameplay.BossDefeat
+  esJefeFinal: 1
+  esperaAntesDeAvisar: 1.8
+  rotulo: EL GRAN RELOJ VUELVE A GIRAR
+--- !u!114 &1877426631050882373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b65e9cb08b40c641bad3b83674b3e8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ekkar.Gameplay.BossEncounter
+  nombre: EL SENOR DEL TIEMPO
+  subtitulo: El fin de todas las eras
+  radioEntrada: 15
+  fases: 2
+  dirigeElEscenario: 1
+  animTransformacion: transformacion_fase2
+  duracionTransformacion: 1.1428572
+  idleSiguienteFase: idle_fase2
+  ataquesSiguienteFase:
+  - fase2_ataque_grieta
+  - fase2_ataque_reloj
+  - fase2_ataque_enjambre_opcion_1
+  - ataque_final
+  cadenciaSiguienteFase: 2.6
+  velocidadSiguienteFase: 2.1
+  musicaPropia: 1
+  agachaAmbiente: 0.15
+--- !u!114 &9142127824590291035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484291597726185140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e2eba993a65bb498ece41da1d7bb0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ekkar.Gameplay.BossAttackPatterns
+  danoProyectil: 1
+  danoGrieta: 2
+  alturaBoca: 1.6

@@ -1,0 +1,9 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: the distant horizon layer of a side-scrolling platformer. A besieged medieval kingdom seen from far away at night: jagged mountain ridges in flat purple silhouette, and on them the skyline of a walled city with gothic towers, spires and a cathedral. Thin columns of smoke rise from the city and stop dead halfway up, frozen in the air. Siege fires glow faint gold along the walls. Low mist pools between the ridges, tinted cyan.
+
+COMPOSITION: read as flat layered silhouettes with two or three depth planes, darkest at the bottom. The whole upper half must be EMPTY, transparent-looking flat void colour #0A0515, because a sky layer goes behind it. Horizontal composition, tileable feel.
+
+Hard requirements: no characters, no creatures, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9.

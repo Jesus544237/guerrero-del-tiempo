@@ -1,0 +1,28 @@
+{
+  "enemy": "el_gran_yunque",
+  "era": "industrial",
+  "targetHeight": 340,
+  "anchor": "pies",
+  "scale": 0.567613,
+  "animations": [
+    {
+      "name": "ataque",
+      "file": "el_gran_yunque_ataque.png",
+      "frames": 10,
+      "cols": 8,
+      "rows": 2,
+      "cellWidth": 498,
+      "cellHeight": 350,
+      "pivotX": 0.447791,
+      "pivotY": 0.011429,
+      "fps": 14,
+      "loop": false,
+      "clipStart": 0.792,
+      "clipEnd": 3.0,
+      "sound": "el_gran_yunque_ataque.wav",
+      "soundLevel": 0.2228,
+      "cutBy": "mano",
+      "sourceClip": "03_ataque.mp4"
+    }
+  ]
+}

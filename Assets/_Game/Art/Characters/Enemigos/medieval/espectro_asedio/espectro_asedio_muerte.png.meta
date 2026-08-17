@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 9f025ad1293544b47a049a5f9165da85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3282858581144903631
+    second: espectro_asedio_muerte_0
+  - first:
+      213: -2690669761861497803
+    second: espectro_asedio_muerte_1
+  - first:
+      213: 7743250106291422832
+    second: espectro_asedio_muerte_2
+  - first:
+      213: 5099041815796701372
+    second: espectro_asedio_muerte_3
+  - first:
+      213: -8545930387028284456
+    second: espectro_asedio_muerte_4
+  - first:
+      213: -432305841450634694
+    second: espectro_asedio_muerte_5
+  - first:
+      213: -8247913802005663341
+    second: espectro_asedio_muerte_6
+  - first:
+      213: -1555493698098130955
+    second: espectro_asedio_muerte_7
+  - first:
+      213: -8621643005646227744
+    second: espectro_asedio_muerte_8
+  - first:
+      213: 1041024204176011127
+    second: espectro_asedio_muerte_9
+  - first:
+      213: 6928379373356662190
+    second: espectro_asedio_muerte_10
+  - first:
+      213: -7496864919888171700
+    second: espectro_asedio_muerte_11
+  - first:
+      213: 4418168896086730927
+    second: espectro_asedio_muerte_12
+  - first:
+      213: 8417894101987008526
+    second: espectro_asedio_muerte_13
+  - first:
+      213: 3234284481348715380
+    second: espectro_asedio_muerte_14
+  - first:
+      213: 795893340704119970
+    second: espectro_asedio_muerte_15
+  - first:
+      213: 7975225741563842661
+    second: espectro_asedio_muerte_16
+  - first:
+      213: -2231426215694331801
+    second: espectro_asedio_muerte_17
+  - first:
+      213: 7880675798489260578
+    second: espectro_asedio_muerte_18
+  - first:
+      213: -5919813846647763317
+    second: espectro_asedio_muerte_19
+  - first:
+      213: 7711508890995690821
+    second: espectro_asedio_muerte_20
+  - first:
+      213: -1647790344511228823
+    second: espectro_asedio_muerte_21
+  - first:
+      213: -3991942126027878457
+    second: espectro_asedio_muerte_22
+  - first:
+      213: -7882946303721676085
+    second: espectro_asedio_muerte_23
+  - first:
+      213: -1119328866134920960
+    second: espectro_asedio_muerte_24
+  - first:
+      213: 274744554250373557
+    second: espectro_asedio_muerte_25
+  - first:
+      213: 7498309040554630605
+    second: espectro_asedio_muerte_26
+  - first:
+      213: -312872318363483797
+    second: espectro_asedio_muerte_27
+  - first:
+      213: -1079682167653930045
+    second: espectro_asedio_muerte_28
+  - first:
+      213: 8634841227201032624
+    second: espectro_asedio_muerte_29
+  - first:
+      213: 7070826495233065790
+    second: espectro_asedio_muerte_30
+  - first:
+      213: 3660747303178894128
+    second: espectro_asedio_muerte_31
+  - first:
+      213: 1613945346491483352
+    second: espectro_asedio_muerte_32
+  - first:
+      213: 4709312838772271262
+    second: espectro_asedio_muerte_33
+  - first:
+      213: 2807780376636002283
+    second: espectro_asedio_muerte_34
+  - first:
+      213: 8544405302378592140
+    second: espectro_asedio_muerte_35
+  - first:
+      213: 5912096104149922929
+    second: espectro_asedio_muerte_36
+  - first:
+      213: -1196813416310488910
+    second: espectro_asedio_muerte_37
+  - first:
+      213: 7472022824595268384
+    second: espectro_asedio_muerte_38
+  - first:
+      213: -1708257452168993484
+    second: espectro_asedio_muerte_39
+  - first:
+      213: 2118073960675775165
+    second: espectro_asedio_muerte_40
+  - first:
+      213: -5745536843722312174
+    second: espectro_asedio_muerte_41
+  - first:
+      213: 3260943483983255824
+    second: espectro_asedio_muerte_42
+  - first:
+      213: -2706464862346861784
+    second: espectro_asedio_muerte_43
+  - first:
+      213: 3284206085694015648
+    second: espectro_asedio_muerte_44
+  - first:
+      213: -8210617881765189141
+    second: espectro_asedio_muerte_45
+  - first:
+      213: -2224739554337436188
+    second: espectro_asedio_muerte_46
+  - first:
+      213: 1630561626453426935
+    second: espectro_asedio_muerte_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdabaa307f84db9489c86b7d1be57811
+      internalID: -2033044205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d05a8c037e2c74794ac4979a881fa0
+      internalID: 1499084643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b65e7cd837abf4daaaa637829e1900
+      internalID: -276476340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053487066c9680549b112951d233bf39
+      internalID: -897400295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced784fd8cd17424c8fa7cadcd5e399c
+      internalID: 613943514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c94b6ed4e012c0429d4209d45722567
+      internalID: -1060976528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4472a9f64cb808c458e957ba78a79dce
+      internalID: -328001682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 252
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86dfb4c0cf850945b17c0bf015bd4d4
+      internalID: 1282778268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d96e01b4b20ed4db0271fe7487fc4d
+      internalID: -1636844043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243df8e84d4f2c418900d433a161f1d
+      internalID: -306479153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e56082aa99a614e9ba7241e9f51f31
+      internalID: 6928379373356662190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 444
+        height: 252
+      alignment: 9
+      pivot: {x: 0.603604, y: 0.015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedcd862fbfd06a48b5d2afc1c792cc8
+      internalID: -7496864919888171700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0063b9f739c2f0343953a2c5b080219d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      espectro_asedio_muerte_00: -2033044205
+      espectro_asedio_muerte_01: 1499084643
+      espectro_asedio_muerte_02: -276476340
+      espectro_asedio_muerte_03: -897400295
+      espectro_asedio_muerte_04: 613943514
+      espectro_asedio_muerte_05: -1060976528
+      espectro_asedio_muerte_06: -328001682
+      espectro_asedio_muerte_07: 1282778268
+      espectro_asedio_muerte_08: -1636844043
+      espectro_asedio_muerte_09: -306479153
+      espectro_asedio_muerte_10: 6928379373356662190
+      espectro_asedio_muerte_11: -7496864919888171700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

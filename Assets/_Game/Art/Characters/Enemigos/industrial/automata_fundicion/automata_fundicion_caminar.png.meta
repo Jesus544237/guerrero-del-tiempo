@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: f5866ea868a83d6459e967e8fa7734ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -81411251648140974
+    second: automata_fundicion_caminar_0
+  - first:
+      213: -7492680396319966347
+    second: automata_fundicion_caminar_1
+  - first:
+      213: 6670894469753744420
+    second: automata_fundicion_caminar_2
+  - first:
+      213: -4625650626094925939
+    second: automata_fundicion_caminar_3
+  - first:
+      213: -3863248839540950655
+    second: automata_fundicion_caminar_4
+  - first:
+      213: 5358001140220120060
+    second: automata_fundicion_caminar_5
+  - first:
+      213: -3521763697737649539
+    second: automata_fundicion_caminar_6
+  - first:
+      213: 2620311406754241352
+    second: automata_fundicion_caminar_7
+  - first:
+      213: -2222160016110589938
+    second: automata_fundicion_caminar_8
+  - first:
+      213: -7487749762865317713
+    second: automata_fundicion_caminar_9
+  - first:
+      213: -55956267189732497
+    second: automata_fundicion_caminar_10
+  - first:
+      213: 5882368664983929594
+    second: automata_fundicion_caminar_11
+  - first:
+      213: -9213048032154992286
+    second: automata_fundicion_caminar_12
+  - first:
+      213: 8986124650650054893
+    second: automata_fundicion_caminar_13
+  - first:
+      213: -6288149194708812955
+    second: automata_fundicion_caminar_14
+  - first:
+      213: 2646455549087981493
+    second: automata_fundicion_caminar_15
+  - first:
+      213: 2221349634619932294
+    second: automata_fundicion_caminar_16
+  - first:
+      213: -8580905870729376726
+    second: automata_fundicion_caminar_17
+  - first:
+      213: 7770062481616298608
+    second: automata_fundicion_caminar_18
+  - first:
+      213: -7711019227210669000
+    second: automata_fundicion_caminar_19
+  - first:
+      213: -5453516648350468063
+    second: automata_fundicion_caminar_20
+  - first:
+      213: -5173066811782786139
+    second: automata_fundicion_caminar_21
+  - first:
+      213: 5484247438834787548
+    second: automata_fundicion_caminar_22
+  - first:
+      213: 5594532706447697018
+    second: automata_fundicion_caminar_23
+  - first:
+      213: -2521987671458796076
+    second: automata_fundicion_caminar_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508c25e897d646f4090501e6b60daba5
+      internalID: -1491252849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_01
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53f1e0272014043b336195859013bf
+      internalID: -1937190869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_02
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce64aee35f132e42be2df29480d70f7
+      internalID: -1322208810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_03
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e93981b1df6084f9885c4525fac661
+      internalID: -823337979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_04
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8183b6d716fa524e86e586236c8e97a
+      internalID: 1204339820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_05
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f95d31a6d47d344aa5a2fd555b3776
+      internalID: -785327745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_06
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15856970eb9d9f241b48e71c0166a88f
+      internalID: 1464101924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: automata_fundicion_caminar_07
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 0
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.69837, y: 0.018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90570bef0622054eb7c5f23b4541158
+      internalID: 363387906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dac9ca9a4b849da4785945c06007dce5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      automata_fundicion_caminar_00: -1491252849
+      automata_fundicion_caminar_01: -1937190869
+      automata_fundicion_caminar_02: -1322208810
+      automata_fundicion_caminar_03: -823337979
+      automata_fundicion_caminar_04: 1204339820
+      automata_fundicion_caminar_05: -785327745
+      automata_fundicion_caminar_06: 1464101924
+      automata_fundicion_caminar_07: 363387906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

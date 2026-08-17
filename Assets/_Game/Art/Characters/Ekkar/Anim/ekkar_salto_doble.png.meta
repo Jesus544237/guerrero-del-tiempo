@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: 5b77e2f1feb5b174e949ec07c969abc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1721791937398818635
+    second: ekkar_salto_doble_0
+  - first:
+      213: 5391894326080536457
+    second: ekkar_salto_doble_1
+  - first:
+      213: 3833093632945429866
+    second: ekkar_salto_doble_2
+  - first:
+      213: 4611176889471713179
+    second: ekkar_salto_doble_3
+  - first:
+      213: -2993974964333787172
+    second: ekkar_salto_doble_4
+  - first:
+      213: 8956518902301224163
+    second: ekkar_salto_doble_5
+  - first:
+      213: -868398570073044435
+    second: ekkar_salto_doble_6
+  - first:
+      213: 1229913411199038101
+    second: ekkar_salto_doble_7
+  - first:
+      213: -3431647196431728270
+    second: ekkar_salto_doble_8
+  - first:
+      213: 9217247703642665935
+    second: ekkar_salto_doble_9
+  - first:
+      213: -4691020694908765538
+    second: ekkar_salto_doble_10
+  - first:
+      213: 5802100711326304490
+    second: ekkar_salto_doble_11
+  - first:
+      213: 274482028618551037
+    second: ekkar_salto_doble_12
+  - first:
+      213: 29639176973988113
+    second: ekkar_salto_doble_13
+  - first:
+      213: -1877702144676841392
+    second: ekkar_salto_doble_14
+  - first:
+      213: 1724705993866539332
+    second: ekkar_salto_doble_15
+  - first:
+      213: 7269910180425973275
+    second: ekkar_salto_doble_16
+  - first:
+      213: 1515871491253516935
+    second: ekkar_salto_doble_17
+  - first:
+      213: 7252918320738030156
+    second: ekkar_salto_doble_18
+  - first:
+      213: -1624713500205275228
+    second: ekkar_salto_doble_19
+  - first:
+      213: 8295066647055902938
+    second: ekkar_salto_doble_20
+  - first:
+      213: 8649843447949769876
+    second: ekkar_salto_doble_21
+  - first:
+      213: 590277146386822225
+    second: ekkar_salto_doble_22
+  - first:
+      213: -7529152611722158643
+    second: ekkar_salto_doble_23
+  - first:
+      213: 4220215266620832060
+    second: ekkar_salto_doble_24
+  - first:
+      213: 3545455422633831590
+    second: ekkar_salto_doble_25
+  - first:
+      213: -1704982812681097307
+    second: ekkar_salto_doble_26
+  - first:
+      213: -5531699542526358222
+    second: ekkar_salto_doble_27
+  - first:
+      213: 3568880260654739084
+    second: ekkar_salto_doble_28
+  - first:
+      213: 2887972558917100994
+    second: ekkar_salto_doble_29
+  - first:
+      213: -2484957374753207724
+    second: ekkar_salto_doble_30
+  - first:
+      213: -8957647541665178947
+    second: ekkar_salto_doble_31
+  - first:
+      213: -4353509189340961997
+    second: ekkar_salto_doble_32
+  - first:
+      213: -1809173034910984397
+    second: ekkar_salto_doble_33
+  - first:
+      213: 8378026524612824367
+    second: ekkar_salto_doble_34
+  - first:
+      213: 2391267439407873482
+    second: ekkar_salto_doble_35
+  - first:
+      213: 4092183077008063187
+    second: ekkar_salto_doble_36
+  - first:
+      213: -317597744214125020
+    second: ekkar_salto_doble_37
+  - first:
+      213: -2665355273124293951
+    second: ekkar_salto_doble_38
+  - first:
+      213: 7780315061493460135
+    second: ekkar_salto_doble_39
+  - first:
+      213: -5009349092852891080
+    second: ekkar_salto_doble_40
+  - first:
+      213: 4450368415139892970
+    second: ekkar_salto_doble_41
+  - first:
+      213: -3658656986791598989
+    second: ekkar_salto_doble_42
+  - first:
+      213: -4339318689530395408
+    second: ekkar_salto_doble_43
+  - first:
+      213: 4090565761743429433
+    second: ekkar_salto_doble_44
+  - first:
+      213: 8210443268395476874
+    second: ekkar_salto_doble_45
+  - first:
+      213: -5482844720277606422
+    second: ekkar_salto_doble_46
+  - first:
+      213: -6660791528267308756
+    second: ekkar_salto_doble_47
+  - first:
+      213: 207396917230226122
+    second: ekkar_salto_doble_48
+  - first:
+      213: 6235779809204557535
+    second: ekkar_salto_doble_49
+  - first:
+      213: -5179134356334255646
+    second: ekkar_salto_doble_50
+  - first:
+      213: -1496464028292520178
+    second: ekkar_salto_doble_51
+  - first:
+      213: 5047219534171264040
+    second: ekkar_salto_doble_52
+  - first:
+      213: 2196839825391847449
+    second: ekkar_salto_doble_53
+  - first:
+      213: 15004217410015164
+    second: ekkar_salto_doble_54
+  - first:
+      213: 4895786212842884148
+    second: ekkar_salto_doble_55
+  - first:
+      213: 4310849650859318701
+    second: ekkar_salto_doble_56
+  - first:
+      213: 7108581895114583739
+    second: ekkar_salto_doble_57
+  - first:
+      213: -8609635910176518566
+    second: ekkar_salto_doble_58
+  - first:
+      213: 2278069057798502533
+    second: ekkar_salto_doble_59
+  - first:
+      213: -3580922037925439646
+    second: ekkar_salto_doble_60
+  - first:
+      213: -2557605581682122282
+    second: ekkar_salto_doble_61
+  - first:
+      213: -1442191378255306053
+    second: ekkar_salto_doble_62
+  - first:
+      213: 2717786220810620235
+    second: ekkar_salto_doble_63
+  - first:
+      213: -6139027843001265406
+    second: ekkar_salto_doble_64
+  - first:
+      213: 2698518113834661652
+    second: ekkar_salto_doble_65
+  - first:
+      213: -7133710490081163646
+    second: ekkar_salto_doble_66
+  - first:
+      213: -5777735794965231771
+    second: ekkar_salto_doble_67
+  - first:
+      213: -2264193046435897296
+    second: ekkar_salto_doble_68
+  - first:
+      213: -1137553330066289595
+    second: ekkar_salto_doble_69
+  - first:
+      213: 4465323784475252167
+    second: ekkar_salto_doble_70
+  - first:
+      213: 8767636658190846977
+    second: ekkar_salto_doble_71
+  - first:
+      213: -2120717040574243401
+    second: ekkar_salto_doble_72
+  - first:
+      213: 1854242659351943984
+    second: ekkar_salto_doble_73
+  - first:
+      213: -3313212814117648348
+    second: ekkar_salto_doble_74
+  - first:
+      213: 8350572365777949161
+    second: ekkar_salto_doble_75
+  - first:
+      213: 2596957969225362300
+    second: ekkar_salto_doble_76
+  - first:
+      213: 7644028918333264190
+    second: ekkar_salto_doble_77
+  - first:
+      213: -8965255941452130476
+    second: ekkar_salto_doble_78
+  - first:
+      213: 4425184253988471022
+    second: ekkar_salto_doble_79
+  - first:
+      213: 6567110220197625291
+    second: ekkar_salto_doble_80
+  - first:
+      213: -7385498842619029744
+    second: ekkar_salto_doble_81
+  - first:
+      213: -6360825635969730752
+    second: ekkar_salto_doble_82
+  - first:
+      213: 3158662733481316175
+    second: ekkar_salto_doble_83
+  - first:
+      213: -7349470840842329034
+    second: ekkar_salto_doble_84
+  - first:
+      213: -2336857312235871158
+    second: ekkar_salto_doble_85
+  - first:
+      213: -3977091000954955221
+    second: ekkar_salto_doble_86
+  - first:
+      213: -4456380299548532854
+    second: ekkar_salto_doble_87
+  - first:
+      213: 6708166086924558545
+    second: ekkar_salto_doble_88
+  - first:
+      213: 176868773231504040
+    second: ekkar_salto_doble_89
+  - first:
+      213: 3318241063893150765
+    second: ekkar_salto_doble_90
+  - first:
+      213: 8538377524014364804
+    second: ekkar_salto_doble_91
+  - first:
+      213: 442646173127248060
+    second: ekkar_salto_doble_92
+  - first:
+      213: 8773358963238413532
+    second: ekkar_salto_doble_93
+  - first:
+      213: 4479013295398634701
+    second: ekkar_salto_doble_94
+  - first:
+      213: 6990950707795057205
+    second: ekkar_salto_doble_95
+  - first:
+      213: -8082810084576774809
+    second: ekkar_salto_doble_96
+  - first:
+      213: 7529206367958330675
+    second: ekkar_salto_doble_97
+  - first:
+      213: -2510183554268331098
+    second: ekkar_salto_doble_98
+  - first:
+      213: -60562799112747453
+    second: ekkar_salto_doble_99
+  - first:
+      213: 484412186021769336
+    second: ekkar_salto_doble_100
+  - first:
+      213: -3571622228432754920
+    second: ekkar_salto_doble_101
+  - first:
+      213: 785269588529755429
+    second: ekkar_salto_doble_102
+  - first:
+      213: -4441576501373373291
+    second: ekkar_salto_doble_103
+  - first:
+      213: -4354525143536758560
+    second: ekkar_salto_doble_104
+  - first:
+      213: -4634674028663603777
+    second: ekkar_salto_doble_105
+  - first:
+      213: 5869796820458056532
+    second: ekkar_salto_doble_106
+  - first:
+      213: 5957954809645300908
+    second: ekkar_salto_doble_107
+  - first:
+      213: 4897721376239029450
+    second: ekkar_salto_doble_108
+  - first:
+      213: -6500429625612506339
+    second: ekkar_salto_doble_109
+  - first:
+      213: 3549615745286394082
+    second: ekkar_salto_doble_110
+  - first:
+      213: -8378617413706482536
+    second: ekkar_salto_doble_111
+  - first:
+      213: 1825507807435553807
+    second: ekkar_salto_doble_112
+  - first:
+      213: 5006156729187061020
+    second: ekkar_salto_doble_113
+  - first:
+      213: -8309518163019647234
+    second: ekkar_salto_doble_114
+  - first:
+      213: -2416108365395604981
+    second: ekkar_salto_doble_115
+  - first:
+      213: 2738363036033143978
+    second: ekkar_salto_doble_116
+  - first:
+      213: -5501263553214941779
+    second: ekkar_salto_doble_117
+  - first:
+      213: 5358822760247622481
+    second: ekkar_salto_doble_118
+  - first:
+      213: -735928998965189451
+    second: ekkar_salto_doble_119
+  - first:
+      213: 3819136113148256114
+    second: ekkar_salto_doble_120
+  - first:
+      213: 131990736568585636
+    second: ekkar_salto_doble_121
+  - first:
+      213: 5429491193168816465
+    second: ekkar_salto_doble_122
+  - first:
+      213: -263306731904551417
+    second: ekkar_salto_doble_123
+  - first:
+      213: -1851316217454878699
+    second: ekkar_salto_doble_124
+  - first:
+      213: -3791704440510046359
+    second: ekkar_salto_doble_125
+  - first:
+      213: -6737188946429599951
+    second: ekkar_salto_doble_126
+  - first:
+      213: 1430333126440171111
+    second: ekkar_salto_doble_127
+  - first:
+      213: 3526603802786224585
+    second: ekkar_salto_doble_128
+  - first:
+      213: -7488595664585197676
+    second: ekkar_salto_doble_129
+  - first:
+      213: -8238372456962190325
+    second: ekkar_salto_doble_130
+  - first:
+      213: -5252536391545615417
+    second: ekkar_salto_doble_131
+  - first:
+      213: -3385703372214277864
+    second: ekkar_salto_doble_132
+  - first:
+      213: 2830070789785233463
+    second: ekkar_salto_doble_133
+  - first:
+      213: -8612679926100371809
+    second: ekkar_salto_doble_134
+  - first:
+      213: 9218377513783984035
+    second: ekkar_salto_doble_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_salto_doble_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03af6eaf49c5644852aa5248cf0b08
+      internalID: 380894048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_01
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1602b6b7376c5304dafaf36d00b0d8cd
+      internalID: -560334802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_02
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9372fab75bc639446b7a4d61eb7f709c
+      internalID: 235243297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_03
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162080b71719c87498eb6f545694829d
+      internalID: 542895301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_04
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac3b53b293e8f94890dfd757091f248
+      internalID: 1864258687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_05
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf268cffcf0d4446b7f8081f3dcd737
+      internalID: 1442190699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_06
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380f2dc9304e0b4ca3e05a09b1f86b3
+      internalID: 40845852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_07
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 218
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58be06814b499d34ebb298cd55633a5c
+      internalID: -1648758102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51085eded714df143903dc60d9992830
+      internalID: -1490450201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_09
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a8e9b16755fd40bbdf3e0aa450c65
+      internalID: -2077883131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d1480e7445827488b8aa7db7bd97d1
+      internalID: -4691020694908765538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb9dd7245253f042bf42cc99b8ad3da
+      internalID: 5802100711326304490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_12
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb026edd67182f4caaea51277d69713
+      internalID: 274482028618551037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_13
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc62f325da4ea4ba89ac6034d008df
+      internalID: 29639176973988113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_14
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3f586e931401b4ebf341ef6d575a7a
+      internalID: -1877702144676841392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_salto_doble_15
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 226
+        height: 218
+      alignment: 9
+      pivot: {x: 0.469027, y: 0.018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c5bc0d49a7d842bcca9b2cae17bbc
+      internalID: 1724705993866539332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1e4078af3a75d14b8504e9af41280ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_salto_doble_00: 380894048
+      ekkar_salto_doble_01: -560334802
+      ekkar_salto_doble_02: 235243297
+      ekkar_salto_doble_03: 542895301
+      ekkar_salto_doble_04: 1864258687
+      ekkar_salto_doble_05: 1442190699
+      ekkar_salto_doble_06: 40845852
+      ekkar_salto_doble_07: -1648758102
+      ekkar_salto_doble_08: -1490450201
+      ekkar_salto_doble_09: -2077883131
+      ekkar_salto_doble_10: -4691020694908765538
+      ekkar_salto_doble_11: 5802100711326304490
+      ekkar_salto_doble_12: 274482028618551037
+      ekkar_salto_doble_13: 29639176973988113
+      ekkar_salto_doble_14: -1877702144676841392
+      ekkar_salto_doble_15: 1724705993866539332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: f22bb14d79c01f844b354d1ab3c4d082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2676819886098986357
+    second: ekkar_autoataque_carga_mana_forma_1_0
+  - first:
+      213: 5427653496177262341
+    second: ekkar_autoataque_carga_mana_forma_1_1
+  - first:
+      213: -930565200536885202
+    second: ekkar_autoataque_carga_mana_forma_1_2
+  - first:
+      213: 4415409501850448865
+    second: ekkar_autoataque_carga_mana_forma_1_3
+  - first:
+      213: -1217829860313006830
+    second: ekkar_autoataque_carga_mana_forma_1_4
+  - first:
+      213: 3677158224053651226
+    second: ekkar_autoataque_carga_mana_forma_1_5
+  - first:
+      213: -3248222126318397421
+    second: ekkar_autoataque_carga_mana_forma_1_6
+  - first:
+      213: -1074796134239746174
+    second: ekkar_autoataque_carga_mana_forma_1_7
+  - first:
+      213: -4570637629163358313
+    second: ekkar_autoataque_carga_mana_forma_1_8
+  - first:
+      213: -722751459039630799
+    second: ekkar_autoataque_carga_mana_forma_1_9
+  - first:
+      213: -1938755694965920838
+    second: ekkar_autoataque_carga_mana_forma_1_10
+  - first:
+      213: -6436694328406040363
+    second: ekkar_autoataque_carga_mana_forma_1_11
+  - first:
+      213: -8898192126914468879
+    second: ekkar_autoataque_carga_mana_forma_1_12
+  - first:
+      213: -2247958452139205230
+    second: ekkar_autoataque_carga_mana_forma_1_13
+  - first:
+      213: 4068199490705151543
+    second: ekkar_autoataque_carga_mana_forma_1_14
+  - first:
+      213: 5065943824480550500
+    second: ekkar_autoataque_carga_mana_forma_1_15
+  - first:
+      213: 6740600539863801584
+    second: ekkar_autoataque_carga_mana_forma_1_16
+  - first:
+      213: -879213824637540774
+    second: ekkar_autoataque_carga_mana_forma_1_17
+  - first:
+      213: 5759482600904783917
+    second: ekkar_autoataque_carga_mana_forma_1_18
+  - first:
+      213: 4480659854183027810
+    second: ekkar_autoataque_carga_mana_forma_1_19
+  - first:
+      213: -2662061912854414695
+    second: ekkar_autoataque_carga_mana_forma_1_20
+  - first:
+      213: 4005256989575591377
+    second: ekkar_autoataque_carga_mana_forma_1_21
+  - first:
+      213: 7469370155790143692
+    second: ekkar_autoataque_carga_mana_forma_1_22
+  - first:
+      213: -6655611029883508264
+    second: ekkar_autoataque_carga_mana_forma_1_23
+  - first:
+      213: -2931241556746491310
+    second: ekkar_autoataque_carga_mana_forma_1_24
+  - first:
+      213: 5083194901842493104
+    second: ekkar_autoataque_carga_mana_forma_1_25
+  - first:
+      213: -3706779041739723338
+    second: ekkar_autoataque_carga_mana_forma_1_26
+  - first:
+      213: -2491249593276509815
+    second: ekkar_autoataque_carga_mana_forma_1_27
+  - first:
+      213: -1207241087264811512
+    second: ekkar_autoataque_carga_mana_forma_1_28
+  - first:
+      213: -5723187074425798803
+    second: ekkar_autoataque_carga_mana_forma_1_29
+  - first:
+      213: 879132513047957330
+    second: ekkar_autoataque_carga_mana_forma_1_30
+  - first:
+      213: 1836497444622226604
+    second: ekkar_autoataque_carga_mana_forma_1_31
+  - first:
+      213: 4639849514401887855
+    second: ekkar_autoataque_carga_mana_forma_1_32
+  - first:
+      213: -7004908394563828575
+    second: ekkar_autoataque_carga_mana_forma_1_33
+  - first:
+      213: -4096372341514226190
+    second: ekkar_autoataque_carga_mana_forma_1_34
+  - first:
+      213: -8088022779905237716
+    second: ekkar_autoataque_carga_mana_forma_1_35
+  - first:
+      213: -1618104199303240913
+    second: ekkar_autoataque_carga_mana_forma_1_36
+  - first:
+      213: 8168211844211107489
+    second: ekkar_autoataque_carga_mana_forma_1_37
+  - first:
+      213: -4501516269394677087
+    second: ekkar_autoataque_carga_mana_forma_1_38
+  - first:
+      213: -6690916115099606325
+    second: ekkar_autoataque_carga_mana_forma_1_39
+  - first:
+      213: 5237996615655284044
+    second: ekkar_autoataque_carga_mana_forma_1_40
+  - first:
+      213: 7940817746041986507
+    second: ekkar_autoataque_carga_mana_forma_1_41
+  - first:
+      213: 3440104268238465099
+    second: ekkar_autoataque_carga_mana_forma_1_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5043aeeadb3d41b911473b70375ab
+      internalID: 1585681319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_01
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56055ca42067702418af39d8b91ae01c
+      internalID: 818896729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_02
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4d4cc20b565f438b3ffddb1c6c364
+      internalID: -520042852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_03
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86da6f81507125459574c226a0dcbe3
+      internalID: 605828264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_04
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cacfaf919e058a448ed04c2c5ff5596
+      internalID: 1447659395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_05
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0769a89d6f83914ea35359b7cc48f05
+      internalID: -976071893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_06
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee210f0d2432af4e822389ab0370cc7
+      internalID: 2017479178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_07
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 230
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d820e37aa2f94c96a24ce1f628503
+      internalID: -347918244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d3a1f11e9a7249a514b1519164332
+      internalID: -716544275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_09
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67d3b8193bab6340adc06878c2f8e1e
+      internalID: -999704215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363458ecad3aa4949bec9f949ec7467d
+      internalID: -1938755694965920838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_11
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7716df80b7c9a24ba4dd8cf3f4eee11
+      internalID: -6436694328406040363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_12
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b95d929384dd498cf0cf8e21e66ab
+      internalID: -8898192126914468879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_13
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06246a06016fc604dafb3ddd102d5abb
+      internalID: -2247958452139205230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_14
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec7fbb85dc1f34699abe32d807ddbf
+      internalID: 4068199490705151543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_autoataque_carga_mana_forma_1_15
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 0
+        width: 344
+        height: 230
+      alignment: 9
+      pivot: {x: 0.494186, y: 0.017391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3453f227d91162a48b074b02764b328b
+      internalID: 5065943824480550500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f573fd46ae8cc7445ae83c23326e0f2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_autoataque_carga_mana_forma_1_00: 1585681319
+      ekkar_autoataque_carga_mana_forma_1_01: 818896729
+      ekkar_autoataque_carga_mana_forma_1_02: -520042852
+      ekkar_autoataque_carga_mana_forma_1_03: 605828264
+      ekkar_autoataque_carga_mana_forma_1_04: 1447659395
+      ekkar_autoataque_carga_mana_forma_1_05: -976071893
+      ekkar_autoataque_carga_mana_forma_1_06: 2017479178
+      ekkar_autoataque_carga_mana_forma_1_07: -347918244
+      ekkar_autoataque_carga_mana_forma_1_08: -716544275
+      ekkar_autoataque_carga_mana_forma_1_09: -999704215
+      ekkar_autoataque_carga_mana_forma_1_10: -1938755694965920838
+      ekkar_autoataque_carga_mana_forma_1_11: -6436694328406040363
+      ekkar_autoataque_carga_mana_forma_1_12: -8898192126914468879
+      ekkar_autoataque_carga_mana_forma_1_13: -2247958452139205230
+      ekkar_autoataque_carga_mana_forma_1_14: 4068199490705151543
+      ekkar_autoataque_carga_mana_forma_1_15: 5065943824480550500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

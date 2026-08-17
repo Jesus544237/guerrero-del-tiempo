@@ -1,0 +1,41 @@
+IMAGE TO VIDEO. The attached image 'senor_del_tiempo_fase2_ASPECTO_fondo_verde_1.jpg' is the FIRST FRAME of this clip, and the character in it is final and correct. Animate exactly that image. Do not redraw him, do not redesign him, do not restyle him, do not clean him up, do not change his proportions, his armour, his helm, his face, his colours or the number of his limbs. Where a detail is unclear, copy it from the image instead of inventing it.
+
+THE CHARACTER, so that he is not reinvented: one single humanoid figure in heavy dark blue-steel plate armour with gold trim, floating upright and facing the camera. He has TWO ARMS and TWO LEGS and nothing else: two long segmented armoured arms ending in clawed gauntlets, and two armoured legs hanging slightly bent, because he never touches the ground. Horned helm, and under it a bone-pale grinning face with a wide fanged mouth and two burning cyan eyes. Huge shoulder plates. Cyan light burns in the seams of his armour and across his chest.
+
+Two things move around him and NEITHER of them is a limb:
+  - thin dark tendrils of his own stretched flesh, growing out of his head, his shoulders, his back and his legs. They pull out longer and curl back on themselves, as if he were slowly being drawn out of shape. He is coming apart in time, and this is how it shows.
+  - wide flat golden ribbons with a pale cyan edge, looping around him through the air, together with gold clock gears of several sizes turning in orbit.
+
+THE TENDRILS ARE ALREADY DRAWN IN THE ATTACHED IMAGE AND THEY ARE ALL THE TENDRILS HE HAS. Move them, curl them, let them stretch and shorten, but never add a single new one. Do not multiply them, do not branch them, do not grow them out of new places, do not let them fill the frame, do not turn them into a mass, a nest or a swarm. Count them in the attached image: there must be the same number in every frame of the clip.
+
+He never grows extra arms. The tendrils and the ribbons never become arms, wings, hair or creatures with a life of their own.
+
+PHASE 2 LOOK: the same body, the same silhouette, the same two arms and two legs, the same tendrils and the same golden ribbons. What changes is this: his armour has turned charcoal black with glowing gold engraving in every plate, his eyes and his mouth burn ORANGE instead of cyan, a wide band of orange and white fire burns across his chest, and a ball of violet lightning crackles around each of his hands. Keep the fire exactly where it is in the attached image: it must never grow big enough to cover his armour, his face or his body.
+
+ANIMATION: THE LAST SECOND, his finisher, in four clear beats and nothing else.
+
+1. He plants himself and throws both arms out wide, head back. Everything around him is pulled towards him: the golden ribbons whip inward and wind around his arms, and every floating gear swings in and locks into a single ring of gold turning slowly behind his shoulders.
+
+2. The band of fire on his chest is sucked inward and compresses into ONE small white point burning in the middle of his chest, so bright it is almost pure white. For a beat everything goes still and dark except that point and his orange eyes: the tendrils hang frozen, the ribbons stop, the ring stops.
+
+3. He brings both fists together in front of that point and drives them down. The white point detonates into a single expanding ring of white and gold light that sweeps outward across the whole frame and off the edges, and behind it a second slower ring of orange fire.
+
+4. He holds the follow-through: crouched forward over his fists, fire pouring back out of his chest, the gold ring behind him cracked and turning again, his tendrils drifting back down. Hold that pose completely still for the last frames.
+
+RENDERING: keep the exact pixel art of the attached image: same pixel size, same hard edges, same outlines, same palette. NO motion blur, NO smearing, NO anti-aliasing wash, NO depth of field, NO film grain, NO relighting, NO cinematic colour grading, NO change of art style. Every single frame must look like a hand-drawn sprite frame that could be cut straight out of a sprite sheet.
+
+CAMERA: absolutely locked off. No panning, no zooming, no tilting, no camera shake, no parallax. The camera does not move for a single frame of the clip.
+
+SUBJECT PLACEMENT: exactly one character, seen from the FRONT, floating in the middle of the frame at the same size and in the same place as in the attached image. He animates in place: he must never drift across the frame, never change scale, never turn around and never leave the frame.
+
+The BOTTOM-RIGHT CORNER of the frame must stay completely empty green, with no part of the character, no tendril, no ribbon, no gear and no glow reaching into it.
+
+BACKGROUND: the flat chroma green #00FF00 of the attached image stays exactly as it is, filling the whole frame behind him, absolutely uniform and the exact same shade in every frame. No gradient, no shadow, no vignette, no light spill onto the green, no ground, no floor, no scenery, no props. Chroma green must never appear on the character himself, on his tendrils, on his ribbons or in his effects.
+
+TIMING: this is a one-shot cinematic action, not a loop. It plays through exactly ONCE over the whole clip, at a steady even speed with no speed ramps and no repetition. Hold the final pose completely still for the last few frames so the end of the animation can be read cleanly.
+
+This is the finisher, so it has to read big, but do NOT add anything that is not listed: no new tendrils, no new limbs, no summoned creatures, no clones of himself, no clock faces, no portals, no weapons, no lightning storm. The power comes from everything stopping in beat 2 and then one single ring in beat 3, not from filling the frame.
+
+Even at the brightest moment of the detonation, the background stays flat chroma green #00FF00 and the light never spills onto it or tints it. His body must stay readable the whole time: the fire and the light never cover his armour, his face or his silhouette.
+
+Hard requirements: only this one character, never a second copy of him, no extra arms, no extra legs, NO EXTRA TENDRILS AND NO NEW TENDRILS OF ANY KIND, no other creatures, no redesign, no text, no letters, no numbers, no user interface, no health bars, no logos, no frame, no border, no background elements of any kind.

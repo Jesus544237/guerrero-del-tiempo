@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: ddf2e28378a49d2448b3538ab2f5a40c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6433611581031876490
+    second: ballestero_ceniciento_ataque_0
+  - first:
+      213: 465140565118911111
+    second: ballestero_ceniciento_ataque_1
+  - first:
+      213: 2241023195886463594
+    second: ballestero_ceniciento_ataque_2
+  - first:
+      213: 7553247751223317506
+    second: ballestero_ceniciento_ataque_3
+  - first:
+      213: 3693785836003250819
+    second: ballestero_ceniciento_ataque_4
+  - first:
+      213: -2157615977536549779
+    second: ballestero_ceniciento_ataque_5
+  - first:
+      213: -4488265383898378653
+    second: ballestero_ceniciento_ataque_6
+  - first:
+      213: 9171661185035027557
+    second: ballestero_ceniciento_ataque_7
+  - first:
+      213: 4570833925882412569
+    second: ballestero_ceniciento_ataque_8
+  - first:
+      213: 8338002479335709859
+    second: ballestero_ceniciento_ataque_9
+  - first:
+      213: -5970381890973604356
+    second: ballestero_ceniciento_ataque_10
+  - first:
+      213: 5654013309359307669
+    second: ballestero_ceniciento_ataque_11
+  - first:
+      213: -2961843619633991354
+    second: ballestero_ceniciento_ataque_12
+  - first:
+      213: 7077472317822573380
+    second: ballestero_ceniciento_ataque_13
+  - first:
+      213: 5248601061952044845
+    second: ballestero_ceniciento_ataque_14
+  - first:
+      213: -1694852159071533410
+    second: ballestero_ceniciento_ataque_15
+  - first:
+      213: 9069253800044828206
+    second: ballestero_ceniciento_ataque_16
+  - first:
+      213: -7223839503269272924
+    second: ballestero_ceniciento_ataque_17
+  - first:
+      213: -2200637681221804702
+    second: ballestero_ceniciento_ataque_18
+  - first:
+      213: 8448806625061720731
+    second: ballestero_ceniciento_ataque_19
+  - first:
+      213: -4782994340468321756
+    second: ballestero_ceniciento_ataque_20
+  - first:
+      213: -8030117385277654111
+    second: ballestero_ceniciento_ataque_21
+  - first:
+      213: -2063179961974966493
+    second: ballestero_ceniciento_ataque_22
+  - first:
+      213: -5975285937927942506
+    second: ballestero_ceniciento_ataque_23
+  - first:
+      213: -5871211151549098679
+    second: ballestero_ceniciento_ataque_24
+  - first:
+      213: 3357406239360117756
+    second: ballestero_ceniciento_ataque_25
+  - first:
+      213: 7683448947672878495
+    second: ballestero_ceniciento_ataque_26
+  - first:
+      213: -5887581880131872601
+    second: ballestero_ceniciento_ataque_27
+  - first:
+      213: 3188632637340337318
+    second: ballestero_ceniciento_ataque_28
+  - first:
+      213: -8039317716854474349
+    second: ballestero_ceniciento_ataque_29
+  - first:
+      213: 4155330794883115101
+    second: ballestero_ceniciento_ataque_30
+  - first:
+      213: 8352772326800565515
+    second: ballestero_ceniciento_ataque_31
+  - first:
+      213: -4269127936071083506
+    second: ballestero_ceniciento_ataque_32
+  - first:
+      213: 972136539687136582
+    second: ballestero_ceniciento_ataque_33
+  - first:
+      213: -7299383894444249679
+    second: ballestero_ceniciento_ataque_34
+  - first:
+      213: -8306489278438901809
+    second: ballestero_ceniciento_ataque_35
+  - first:
+      213: -3035794715495621464
+    second: ballestero_ceniciento_ataque_36
+  - first:
+      213: 7380531562188764643
+    second: ballestero_ceniciento_ataque_37
+  - first:
+      213: -7111820230846630409
+    second: ballestero_ceniciento_ataque_38
+  - first:
+      213: 4649971862096100108
+    second: ballestero_ceniciento_ataque_39
+  - first:
+      213: 5617820878596547962
+    second: ballestero_ceniciento_ataque_40
+  - first:
+      213: 4889930340379987682
+    second: ballestero_ceniciento_ataque_41
+  - first:
+      213: 4364195483110171898
+    second: ballestero_ceniciento_ataque_42
+  - first:
+      213: 3995375935637683089
+    second: ballestero_ceniciento_ataque_43
+  - first:
+      213: -8929938961151982813
+    second: ballestero_ceniciento_ataque_44
+  - first:
+      213: -5650470102083361120
+    second: ballestero_ceniciento_ataque_45
+  - first:
+      213: 4608574054414097259
+    second: ballestero_ceniciento_ataque_46
+  - first:
+      213: -2120582296206671915
+    second: ballestero_ceniciento_ataque_47
+  - first:
+      213: -7328053796079185978
+    second: ballestero_ceniciento_ataque_48
+  - first:
+      213: 6859939527569925333
+    second: ballestero_ceniciento_ataque_49
+  - first:
+      213: -927253658032272749
+    second: ballestero_ceniciento_ataque_50
+  - first:
+      213: 5818939828300920348
+    second: ballestero_ceniciento_ataque_51
+  - first:
+      213: 9103194607313211508
+    second: ballestero_ceniciento_ataque_52
+  - first:
+      213: -3181079860830882147
+    second: ballestero_ceniciento_ataque_53
+  - first:
+      213: -8275469232245378166
+    second: ballestero_ceniciento_ataque_54
+  - first:
+      213: -1453191646603086951
+    second: ballestero_ceniciento_ataque_55
+  - first:
+      213: 4552986469644768664
+    second: ballestero_ceniciento_ataque_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add77144fb130ad42b0152aa8bd7f544
+      internalID: -97613597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8485280c4ae49b4cb5d67b9b5b224c0
+      internalID: 713705316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bcd6ea352a35e4699d9fdb5a8e6199
+      internalID: 1144980031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6da512d2cdc824ea4414eb7a66c08a
+      internalID: -1578165245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8956bdd5e5257142b21799285c804ac
+      internalID: -1245714025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57648bba2a9ff54a95ca564e6392a29
+      internalID: -1837693908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037607bb805606c4285c8cde3f66c207
+      internalID: -207291681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 224
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c853ed311a43d04ca6128b95e6a2c8c
+      internalID: -782707192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa34c2eb699e934083b1431da5698c4
+      internalID: -1211333138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.732044, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd26725b942d7144bc48df20326eafc
+      internalID: -1927932454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 106e19008e994454ca7779ba02fa932e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ballestero_ceniciento_ataque_00: -97613597
+      ballestero_ceniciento_ataque_01: 713705316
+      ballestero_ceniciento_ataque_02: 1144980031
+      ballestero_ceniciento_ataque_03: -1578165245
+      ballestero_ceniciento_ataque_04: -1245714025
+      ballestero_ceniciento_ataque_05: -1837693908
+      ballestero_ceniciento_ataque_06: -207291681
+      ballestero_ceniciento_ataque_07: -782707192
+      ballestero_ceniciento_ataque_08: -1211333138
+      ballestero_ceniciento_ataque_09: -1927932454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

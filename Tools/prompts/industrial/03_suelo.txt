@@ -1,0 +1,14 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+Time is broken here: cyan light and floating golden clock gears leak into the scene, and small objects hang frozen in mid-air as if a moment had been paused.
+
+LEVEL: "La Fundicion de las Horas".
+
+SUBJECT: a horizontal floor strip seen straight from the side, flat orthographic view with NO perspective. Riveted steel walkway plates over cracked concrete, rail tracks, scattered bolts, spilled coal and a spent gear half sunk in the floor. Thin cyan light seeps from between the plates.
+COMPOSITION: fills the image from left to right. The TOP EDGE OF THE FLOOR MUST BE FLAT, STRAIGHT AND UNBROKEN across the entire width so the player can walk on it, sitting about one third of the way down the image. Everything below that line is solid material, fully painted down to the bottom edge with no holes. The left and right edges must match so the strip repeats seamlessly.
+
+BACKGROUND: fully painted and opaque across the whole image. No transparency and no chroma green anywhere.
+
+Hard requirements: no characters, no creatures, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9, 2752x1536.

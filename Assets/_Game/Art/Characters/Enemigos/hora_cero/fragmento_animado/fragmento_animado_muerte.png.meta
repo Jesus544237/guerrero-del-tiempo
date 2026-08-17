@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 3a9a7dc2647b51943ba1c0f7844c9e32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3936872608801168188
+    second: fragmento_animado_muerte_0
+  - first:
+      213: 691988467406463584
+    second: fragmento_animado_muerte_1
+  - first:
+      213: -3128950338681707668
+    second: fragmento_animado_muerte_2
+  - first:
+      213: -3897231444060132137
+    second: fragmento_animado_muerte_3
+  - first:
+      213: 7177410557789908858
+    second: fragmento_animado_muerte_4
+  - first:
+      213: -3260037048711368365
+    second: fragmento_animado_muerte_5
+  - first:
+      213: -2335253858659795254
+    second: fragmento_animado_muerte_6
+  - first:
+      213: -7467596725469138170
+    second: fragmento_animado_muerte_7
+  - first:
+      213: 1804264190389281361
+    second: fragmento_animado_muerte_8
+  - first:
+      213: -4733015575483474266
+    second: fragmento_animado_muerte_9
+  - first:
+      213: 4796392271934037542
+    second: fragmento_animado_muerte_10
+  - first:
+      213: -905203956674064352
+    second: fragmento_animado_muerte_11
+  - first:
+      213: 5456049160262095957
+    second: fragmento_animado_muerte_12
+  - first:
+      213: -4599778406179485504
+    second: fragmento_animado_muerte_13
+  - first:
+      213: -2077061769745858588
+    second: fragmento_animado_muerte_14
+  - first:
+      213: 1158237200500576752
+    second: fragmento_animado_muerte_15
+  - first:
+      213: 799902500385719542
+    second: fragmento_animado_muerte_16
+  - first:
+      213: 4407160737436024933
+    second: fragmento_animado_muerte_17
+  - first:
+      213: -7201176598150412103
+    second: fragmento_animado_muerte_18
+  - first:
+      213: 1596659644081375135
+    second: fragmento_animado_muerte_19
+  - first:
+      213: 888269650837698189
+    second: fragmento_animado_muerte_20
+  - first:
+      213: 7265731301779092859
+    second: fragmento_animado_muerte_21
+  - first:
+      213: -1086724563724338587
+    second: fragmento_animado_muerte_22
+  - first:
+      213: 5034689321084365605
+    second: fragmento_animado_muerte_23
+  - first:
+      213: -5743752672077940660
+    second: fragmento_animado_muerte_24
+  - first:
+      213: -7888285925668610317
+    second: fragmento_animado_muerte_25
+  - first:
+      213: -7689142228513268507
+    second: fragmento_animado_muerte_26
+  - first:
+      213: 2292684745236180954
+    second: fragmento_animado_muerte_27
+  - first:
+      213: 6342838832576719321
+    second: fragmento_animado_muerte_28
+  - first:
+      213: -5176776380825095691
+    second: fragmento_animado_muerte_29
+  - first:
+      213: 4234193475721192136
+    second: fragmento_animado_muerte_30
+  - first:
+      213: 2004291571938671514
+    second: fragmento_animado_muerte_31
+  - first:
+      213: 7930310519611511003
+    second: fragmento_animado_muerte_32
+  - first:
+      213: 8455591508292092478
+    second: fragmento_animado_muerte_33
+  - first:
+      213: -4248551826157892620
+    second: fragmento_animado_muerte_34
+  - first:
+      213: -70600645660483014
+    second: fragmento_animado_muerte_35
+  - first:
+      213: 1359697379924016831
+    second: fragmento_animado_muerte_36
+  - first:
+      213: -8324202052087130891
+    second: fragmento_animado_muerte_37
+  - first:
+      213: 4865109910373103767
+    second: fragmento_animado_muerte_38
+  - first:
+      213: -417827120992419231
+    second: fragmento_animado_muerte_39
+  - first:
+      213: 7977936495442244592
+    second: fragmento_animado_muerte_40
+  - first:
+      213: 3800732383866515417
+    second: fragmento_animado_muerte_41
+  - first:
+      213: 3678320545171260301
+    second: fragmento_animado_muerte_42
+  - first:
+      213: -7596106809878690502
+    second: fragmento_animado_muerte_43
+  - first:
+      213: 371733118547718697
+    second: fragmento_animado_muerte_44
+  - first:
+      213: -5903417819853675384
+    second: fragmento_animado_muerte_45
+  - first:
+      213: -2969996058522390044
+    second: fragmento_animado_muerte_46
+  - first:
+      213: -2877993939997564848
+    second: fragmento_animado_muerte_47
+  - first:
+      213: -2412504528891179214
+    second: fragmento_animado_muerte_48
+  - first:
+      213: -2303391448107845547
+    second: fragmento_animado_muerte_49
+  - first:
+      213: -7967427209737378109
+    second: fragmento_animado_muerte_50
+  - first:
+      213: -9211638610743655702
+    second: fragmento_animado_muerte_51
+  - first:
+      213: -8006965573960326395
+    second: fragmento_animado_muerte_52
+  - first:
+      213: -989487077850782501
+    second: fragmento_animado_muerte_53
+  - first:
+      213: 2208507157365298647
+    second: fragmento_animado_muerte_54
+  - first:
+      213: 1418833793960830740
+    second: fragmento_animado_muerte_55
+  - first:
+      213: -6631140544016795199
+    second: fragmento_animado_muerte_56
+  - first:
+      213: -5933426341369357981
+    second: fragmento_animado_muerte_57
+  - first:
+      213: 1016873503782858042
+    second: fragmento_animado_muerte_58
+  - first:
+      213: -5226329052900818493
+    second: fragmento_animado_muerte_59
+  - first:
+      213: -5390028585340341701
+    second: fragmento_animado_muerte_60
+  - first:
+      213: 7504353060919434016
+    second: fragmento_animado_muerte_61
+  - first:
+      213: 4237427063725544321
+    second: fragmento_animado_muerte_62
+  - first:
+      213: -5067994403901426673
+    second: fragmento_animado_muerte_63
+  - first:
+      213: -5963472282405318022
+    second: fragmento_animado_muerte_64
+  - first:
+      213: 8931692853000718875
+    second: fragmento_animado_muerte_65
+  - first:
+      213: 1219769598038280635
+    second: fragmento_animado_muerte_66
+  - first:
+      213: -2113026787468234351
+    second: fragmento_animado_muerte_67
+  - first:
+      213: 993065507149177612
+    second: fragmento_animado_muerte_68
+  - first:
+      213: -5640346044522025975
+    second: fragmento_animado_muerte_69
+  - first:
+      213: 5817592704964685126
+    second: fragmento_animado_muerte_70
+  - first:
+      213: -2493801807606254213
+    second: fragmento_animado_muerte_71
+  - first:
+      213: 3764095407483850889
+    second: fragmento_animado_muerte_72
+  - first:
+      213: -3360816147097142624
+    second: fragmento_animado_muerte_73
+  - first:
+      213: 3570333073464848835
+    second: fragmento_animado_muerte_74
+  - first:
+      213: 8080086036574994344
+    second: fragmento_animado_muerte_75
+  - first:
+      213: 8125030202008527573
+    second: fragmento_animado_muerte_76
+  - first:
+      213: 3369857449719142510
+    second: fragmento_animado_muerte_77
+  - first:
+      213: -1610034544286536507
+    second: fragmento_animado_muerte_78
+  - first:
+      213: 7604456868930875063
+    second: fragmento_animado_muerte_79
+  - first:
+      213: 1897706165430246310
+    second: fragmento_animado_muerte_80
+  - first:
+      213: -2131598659017983222
+    second: fragmento_animado_muerte_81
+  - first:
+      213: 9214547356259192124
+    second: fragmento_animado_muerte_82
+  - first:
+      213: -7768616750812708689
+    second: fragmento_animado_muerte_83
+  - first:
+      213: 8886684311603538515
+    second: fragmento_animado_muerte_84
+  - first:
+      213: 7348991457752488405
+    second: fragmento_animado_muerte_85
+  - first:
+      213: 1223130254670966148
+    second: fragmento_animado_muerte_86
+  - first:
+      213: 5524519305935402703
+    second: fragmento_animado_muerte_87
+  - first:
+      213: -3073053970261648682
+    second: fragmento_animado_muerte_88
+  - first:
+      213: 6612295151868194627
+    second: fragmento_animado_muerte_89
+  - first:
+      213: -8601051937328072475
+    second: fragmento_animado_muerte_90
+  - first:
+      213: -8176747661637910977
+    second: fragmento_animado_muerte_91
+  - first:
+      213: -732106165929621443
+    second: fragmento_animado_muerte_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02116d413c97b40b95da4d2a71d27c
+      internalID: -454090419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55fd4a375b395644b62d855bf13e9b9
+      internalID: -1587219829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b371513511bc943a87c244c6358af2
+      internalID: -1242400892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ee27b23ac8f245b35d02259f00bec
+      internalID: -587028160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ae46fa876b6cd47a767a816d50474b
+      internalID: -1594685803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00de7cbbfc3e3341b2efe415f7ce8a3
+      internalID: -1757321580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985aa3e7b15d2c448161d76e588d088
+      internalID: 1552430326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 168
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08742a16c3f6f4ebaa6f0db0324bab
+      internalID: -1395931289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bfbb191ca159340871013a7567c02c
+      internalID: -982623630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc036f364dde354381f1158e09637e5
+      internalID: -657768133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399efb9ec0b62b4abeb7d4361e8d4c5
+      internalID: 4796392271934037542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 280
+        height: 168
+      alignment: 9
+      pivot: {x: 0.642857, y: 0.02381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0efccc56b2cd346ad9fe050ae53e28
+      internalID: -905203956674064352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0937a4bfd1a1cca4694596a5c24966e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fragmento_animado_muerte_00: -454090419
+      fragmento_animado_muerte_01: -1587219829
+      fragmento_animado_muerte_02: -1242400892
+      fragmento_animado_muerte_03: -587028160
+      fragmento_animado_muerte_04: -1594685803
+      fragmento_animado_muerte_05: -1757321580
+      fragmento_animado_muerte_06: 1552430326
+      fragmento_animado_muerte_07: -1395931289
+      fragmento_animado_muerte_08: -982623630
+      fragmento_animado_muerte_09: -657768133
+      fragmento_animado_muerte_10: 4796392271934037542
+      fragmento_animado_muerte_11: -905203956674064352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

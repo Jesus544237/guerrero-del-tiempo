@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 2544db36286acbb49b249b44c7901c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5658759469203791061
+    second: caballero_ceniciento_ataque_0
+  - first:
+      213: -1939929863759519381
+    second: caballero_ceniciento_ataque_1
+  - first:
+      213: 7153683491701398066
+    second: caballero_ceniciento_ataque_2
+  - first:
+      213: 3458560255318912276
+    second: caballero_ceniciento_ataque_3
+  - first:
+      213: 8242778795196684578
+    second: caballero_ceniciento_ataque_4
+  - first:
+      213: 6177665492320388849
+    second: caballero_ceniciento_ataque_5
+  - first:
+      213: 6879386027905863662
+    second: caballero_ceniciento_ataque_6
+  - first:
+      213: 254358684969526762
+    second: caballero_ceniciento_ataque_7
+  - first:
+      213: 388135594345975576
+    second: caballero_ceniciento_ataque_8
+  - first:
+      213: 8051795847882814731
+    second: caballero_ceniciento_ataque_9
+  - first:
+      213: 1191231639719737467
+    second: caballero_ceniciento_ataque_10
+  - first:
+      213: 9185455533668101303
+    second: caballero_ceniciento_ataque_11
+  - first:
+      213: -5664264493898965098
+    second: caballero_ceniciento_ataque_12
+  - first:
+      213: -2259773798740725105
+    second: caballero_ceniciento_ataque_13
+  - first:
+      213: -8446423075032141890
+    second: caballero_ceniciento_ataque_14
+  - first:
+      213: -6275593085388290849
+    second: caballero_ceniciento_ataque_15
+  - first:
+      213: 6584399350567712725
+    second: caballero_ceniciento_ataque_16
+  - first:
+      213: -5160715835764583504
+    second: caballero_ceniciento_ataque_17
+  - first:
+      213: 4334794635540856275
+    second: caballero_ceniciento_ataque_18
+  - first:
+      213: -5030990916228387403
+    second: caballero_ceniciento_ataque_19
+  - first:
+      213: -8171706896329051422
+    second: caballero_ceniciento_ataque_20
+  - first:
+      213: 2731853540380626090
+    second: caballero_ceniciento_ataque_21
+  - first:
+      213: 2232856780559639198
+    second: caballero_ceniciento_ataque_22
+  - first:
+      213: -6645130734682297228
+    second: caballero_ceniciento_ataque_23
+  - first:
+      213: -6455798305709469900
+    second: caballero_ceniciento_ataque_24
+  - first:
+      213: 6928560697569986396
+    second: caballero_ceniciento_ataque_25
+  - first:
+      213: -4088484187184757049
+    second: caballero_ceniciento_ataque_26
+  - first:
+      213: 4045521391185337912
+    second: caballero_ceniciento_ataque_27
+  - first:
+      213: 5068123090212996190
+    second: caballero_ceniciento_ataque_28
+  - first:
+      213: -1915085143878812035
+    second: caballero_ceniciento_ataque_29
+  - first:
+      213: 5327192892590660478
+    second: caballero_ceniciento_ataque_30
+  - first:
+      213: 6425399468291682239
+    second: caballero_ceniciento_ataque_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e6727f46c85848af59e8b8017f034
+      internalID: -8762340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3edd25ef635fe45aa5a3b9d97c0350
+      internalID: -876465541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11da1c52eab1e48876b532030be773
+      internalID: 1981590184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ce9e01b054c804c8ffa1eeae0ef138
+      internalID: -685522416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c7e327c76dee84fae30cad4fdb1b48
+      internalID: -1984994911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc811f856fcd84cb8942e35aeb72f4
+      internalID: -1714243178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dacb089bfa9488488a253f51ad66e81
+      internalID: -589813538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 392
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed730dd5cbb1444817cc4cc2dfceae
+      internalID: 988807868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5520f1c5305a9c448169a5b28e33a3f
+      internalID: -168583488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_ceniciento_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 484
+        height: 392
+      alignment: 9
+      pivot: {x: 0.369835, y: 0.010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d7aadc18940e945a526af890c678ee
+      internalID: 397320141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5bf36e9641209f24cb50a02f8c85669d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballero_ceniciento_ataque_00: -8762340
+      caballero_ceniciento_ataque_01: -876465541
+      caballero_ceniciento_ataque_02: 1981590184
+      caballero_ceniciento_ataque_03: -685522416
+      caballero_ceniciento_ataque_04: -1984994911
+      caballero_ceniciento_ataque_05: -1714243178
+      caballero_ceniciento_ataque_06: -589813538
+      caballero_ceniciento_ataque_07: 988807868
+      caballero_ceniciento_ataque_08: -168583488
+      caballero_ceniciento_ataque_09: 397320141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

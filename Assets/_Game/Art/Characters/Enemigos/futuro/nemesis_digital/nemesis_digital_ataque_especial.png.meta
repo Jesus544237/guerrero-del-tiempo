@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 9ade25f7d922bc3478caf73a417e5bb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6459489976633978636
+    second: nemesis_digital_ataque_especial_0
+  - first:
+      213: -464188589387461446
+    second: nemesis_digital_ataque_especial_1
+  - first:
+      213: -8010287366021605487
+    second: nemesis_digital_ataque_especial_2
+  - first:
+      213: 2060935731768219861
+    second: nemesis_digital_ataque_especial_3
+  - first:
+      213: 8464094023845859901
+    second: nemesis_digital_ataque_especial_4
+  - first:
+      213: 8805505430876130562
+    second: nemesis_digital_ataque_especial_5
+  - first:
+      213: 7209028363583503451
+    second: nemesis_digital_ataque_especial_6
+  - first:
+      213: 4625139689142544018
+    second: nemesis_digital_ataque_especial_7
+  - first:
+      213: 7303670309375258529
+    second: nemesis_digital_ataque_especial_8
+  - first:
+      213: -3172227930527315319
+    second: nemesis_digital_ataque_especial_9
+  - first:
+      213: -648107909806538127
+    second: nemesis_digital_ataque_especial_10
+  - first:
+      213: 1940026120620782963
+    second: nemesis_digital_ataque_especial_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd5e1e1e5223a4489c53fc5c29863e0
+      internalID: 525606903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_01
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e9e475b341a5b4f838ad8a4a78dff4
+      internalID: -1151504988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_02
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20dc45076e2af14ca972e8642e49ffc
+      internalID: -1274548889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_03
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d0e42d9e4905a40926effa407674fa
+      internalID: -118971899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_04
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b601ee64b4fdb1440a221e654aeba523
+      internalID: 1872681403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_05
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c93b1ea3514a1449823212428cf4e93
+      internalID: 1813130254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_06
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad64be428ee22804baad072294e0adba
+      internalID: 1455972208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_07
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 164
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e392f01856bcaba4085a2c98a0b2f23b
+      internalID: -2090013339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e89859cdabe6458fa906935ab47fb
+      internalID: -1940515326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_09
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7151e1870efc8ab4fb4810f647830166
+      internalID: 160148702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ce3c2a11f6554faaea6b446c79d4a
+      internalID: -648107909806538127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nemesis_digital_ataque_especial_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 296
+        height: 164
+      alignment: 9
+      pivot: {x: 0.25, y: 0.02439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0f04fe18f865458752630d9c875f6
+      internalID: 1940026120620782963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f0c198ff2013f2419bad85a4ec223dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nemesis_digital_ataque_especial_00: 525606903
+      nemesis_digital_ataque_especial_01: -1151504988
+      nemesis_digital_ataque_especial_02: -1274548889
+      nemesis_digital_ataque_especial_03: -118971899
+      nemesis_digital_ataque_especial_04: 1872681403
+      nemesis_digital_ataque_especial_05: 1813130254
+      nemesis_digital_ataque_especial_06: 1455972208
+      nemesis_digital_ataque_especial_07: -2090013339
+      nemesis_digital_ataque_especial_08: -1940515326
+      nemesis_digital_ataque_especial_09: 160148702
+      nemesis_digital_ataque_especial_10: -648107909806538127
+      nemesis_digital_ataque_especial_11: 1940026120620782963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

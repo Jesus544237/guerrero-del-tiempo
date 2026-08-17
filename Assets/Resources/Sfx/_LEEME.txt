@@ -1,0 +1,37 @@
+EFECTOS DE SONIDO
+=================
+
+Deja aqui los archivos .wav o .ogg con EXACTAMENTE estos nombres y el juego
+los usa solos, sin tocar codigo ni arrastrar nada:
+
+    salto.wav          al saltar (el doble salto usa el mismo, mas agudo)
+    aterrizar.wav      al tocar suelo
+    paso.wav           al correr, uno cada 0.29 s
+    espada.wav         espadazo de Ekkar y de los enemigos
+    impacto.wav        cuando un golpe entra
+    dano.wav           al recibir dano
+    muerte.wav         al caer
+    dash.wav           el dash
+    detener.wav        detener el tiempo (E)
+    chrono.wav         chronobreak (R)
+    espada_out.wav     envainar y desenvainar
+    mana.wav           golpe cargado con mana
+
+Lo que no pongas sigue sonando con el efecto generado por codigo, asi que
+puedes ir sustituyendolos de uno en uno y probar cual queda mejor.
+
+DE DONDE SACARLOS, GRATIS Y SIN PROBLEMAS DE LICENCIA
+-----------------------------------------------------
+  kenney.nl/assets        -> busca "Impact Sounds", "Sci-Fi Sounds",
+                             "RPG Audio". Todo dominio publico (CC0),
+                             sin atribucion obligatoria.
+  freesound.org           -> filtra por licencia "Creative Commons 0"
+  opengameart.org         -> filtra por CC0
+
+NO uses sonidos de juegos comerciales ni de librerias de pago: es un proyecto
+con tu nombre y te lo pueden tumbar en la evaluacion.
+
+FORMATO
+-------
+Cualquier wav u ogg vale. Cortos (menos de un segundo) para golpes y pasos;
+detener.wav y chrono.wav pueden durar uno o dos segundos.

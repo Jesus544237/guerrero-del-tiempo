@@ -1,0 +1,341 @@
+{
+  "_leeme": [
+    "Cortes revisados a mano, en segundos: [desde, hasta] o [desde, hasta, fotogramas].",
+    "Mandan sobre la deteccion automatica de build_enemy_sheets.py.",
+    "Los clips traen la accion 2 veces seguidas; aqui se anota la repeticion buena.",
+    "Para revisar un clip:  python Tools/timeline_clip.py <era> <enemigo> <anim>"
+  ],
+  "soldado_hueso": {
+    "ataque": [
+      1.0,
+      3.0
+    ],
+    "dano": [
+      1.1,
+      2.6
+    ],
+    "muerte": [
+      0.9,
+      3.4
+    ]
+  },
+  "ballestero_ceniciento": {
+    "ataque": [
+      1.4,
+      3.6
+    ],
+    "dano": [
+      0.7,
+      2.6
+    ],
+    "muerte": [
+      0.9,
+      3.2
+    ],
+    "idle": [
+      1.5,
+      3.0
+    ],
+    "caminar": [
+      1.0,
+      2.4
+    ],
+    "_nota": "este personaje cambia de arma y de mano segun el tramo; todo se coge de los primeros 4s, que es donde se mantiene"
+  },
+  "caballero_ceniciento": {
+    "ataque": [
+      1.9,
+      4.0
+    ],
+    "ataque_especial": [
+      2.2,
+      4.3
+    ],
+    "dano": [
+      1.0,
+      2.6
+    ],
+    "muerte": [
+      1.5,
+      4.2
+    ],
+    "idle": [
+      1.0,
+      2.5
+    ],
+    "_nota": "a partir de 7.8s sujeta el mandoble cruzado en horizontal y con otra empunadura; todo se coge de antes"
+  },
+  "espectro_asedio": {
+    "ataque": [
+      1.4,
+      3.1
+    ],
+    "dano": [
+      1.1,
+      2.7
+    ],
+    "muerte": [
+      1.2,
+      3.25
+    ],
+    "idle": {
+      "video": "02_caminar",
+      "desde": 5.0,
+      "hasta": 8.0,
+      "_nota": "flota en el sitio, sirve mejor de idle que su propio clip"
+    },
+    "caminar": [
+      1.5,
+      2.9
+    ],
+    "caminar_nota": "el tramo con mas movimiento del clip; el 5-8s se lo queda el idle"
+  },
+  "automata_fundicion": {
+    "idle": [
+      1.0,
+      2.6
+    ],
+    "caminar": [
+      1.6,
+      3.0
+    ],
+    "ataque": [
+      1.2,
+      3.6
+    ],
+    "dano": [
+      0.7,
+      2.6
+    ],
+    "muerte": [
+      1.4,
+      4.4
+    ],
+    "_nota": "segunda repeticion a partir de 6s; todo se coge de la primera"
+  },
+  "capataz_oxidado": {
+    "idle": [
+      2.8,
+      4.2
+    ],
+    "ataque": [
+      1.5,
+      3.5
+    ],
+    "dano": [
+      2.0,
+      3.7
+    ],
+    "muerte": [
+      1.0,
+      4.2
+    ]
+  },
+  "dron_vapor": {
+    "caminar": [
+      1.6,
+      3.4
+    ],
+    "ataque": [
+      1.2,
+      3.6
+    ],
+    "dano": [
+      1.2,
+      2.9
+    ],
+    "muerte": [
+      2.6,
+      4.4
+    ],
+    "idle": [
+      1.6,
+      3.0
+    ]
+  },
+  "el_gran_yunque": {
+    "ataque": {
+      "desde": 0.8,
+      "hasta": 3.0,
+      "tinte": [
+        0.92,
+        1.17,
+        1.02
+      ],
+      "_nota": "el clip salio morado; se corrige el tinte hacia el gris acero del idle"
+    },
+    "ataque_especial": [
+      1.5,
+      3.3
+    ],
+    "dano": [
+      0.9,
+      3.0
+    ],
+    "muerte": [
+      2.8,
+      5.2
+    ],
+    "idle": [
+      1.2,
+      2.6
+    ],
+    "caminar": [
+      1.0,
+      2.6
+    ]
+  },
+  "corredor_datos": {
+    "ataque": [
+      1.48,
+      3.33
+    ],
+    "dano": [
+      0.77,
+      2.42
+    ],
+    "muerte": [
+      0.68,
+      2.21
+    ],
+    "_nota": "cortes calculados sobre el perfil de movimiento: primera repeticion"
+  },
+  "dron_centinela": {
+    "ataque": [
+      1.1,
+      3.04
+    ],
+    "dano": [
+      0.52,
+      2.71
+    ],
+    "muerte": [
+      0.56,
+      3.42
+    ],
+    "_nota": "cortes calculados sobre el perfil de movimiento: primera repeticion"
+  },
+  "torreta_holografica": {
+    "ataque": [
+      1.6,
+      3.58
+    ],
+    "dano": [
+      0.64,
+      4.38
+    ],
+    "muerte": [
+      1.64,
+      3.12
+    ],
+    "_nota": "cortes calculados sobre el perfil de movimiento: primera repeticion"
+  },
+  "nemesis_digital": {
+    "idle": [
+      1.0,
+      2.6
+    ],
+    "ataque_especial": [
+      1.2,
+      3.4
+    ],
+    "dano": [
+      6.0,
+      7.8
+    ],
+    "muerte": [
+      1.0,
+      4.2
+    ],
+    "_nota": "sus tomas estan en subcarpetas; duraciones puestas a mano porque el detector daba tramos de 0.2s"
+  },
+  "eco_de_ekkar": {
+    "ataque": [
+      0.81,
+      3.88
+    ],
+    "dano": [
+      1.14,
+      2.46
+    ],
+    "muerte": [
+      1.02,
+      2.42
+    ],
+    "_nota": "cortes calculados sobre el perfil de movimiento"
+  },
+  "fragmento_animado": {
+    "dano": [
+      1.85,
+      3.96
+    ],
+    "muerte": [
+      1.73,
+      4.33
+    ],
+    "ataque": [
+      1.23,
+      3.58
+    ],
+    "_nota": "cortes calculados sobre el perfil de movimiento"
+  },
+  "senor_del_tiempo": {
+    "idle_fase1": [
+      1.0,
+      4.0
+    ],
+    "idle_fase2": [
+      1.0,
+      4.0
+    ],
+    "portal_aparicion": [
+      0.5,
+      6.0
+    ],
+    "ataque_pendulo": [
+      0.8,
+      4.5
+    ],
+    "ataque_agujas": [
+      0.8,
+      4.0
+    ],
+    "ataque_detener_tiempo": [
+      0.8,
+      5.0
+    ],
+    "ataque_eco": [
+      0.8,
+      5.0
+    ],
+    "dano": [
+      0.5,
+      3.0
+    ],
+    "transformacion_fase2": [
+      0.5,
+      7.0
+    ],
+    "fase2_ataque_grieta": [
+      0.8,
+      4.0
+    ],
+    "fase2_ataque_reloj": [
+      0.8,
+      4.5
+    ],
+    "fase2_ataque_enjambre_opcion_1": [
+      0.8,
+      4.5
+    ],
+    "ataque_final": [
+      0.5,
+      7.5
+    ],
+    "muerte": [
+      0.5,
+      7.0
+    ],
+    "_nota": "sus clips son escenas de una sola vez, no repeticiones: se cogen enteros"
+  }
+}

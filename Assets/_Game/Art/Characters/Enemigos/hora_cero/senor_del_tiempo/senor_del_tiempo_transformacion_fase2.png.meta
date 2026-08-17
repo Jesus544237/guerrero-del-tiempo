@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 44c63acbd61acd44fb093bad2cc24ef8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3391006980440517546
+    second: senor_del_tiempo_transformacion_fase2_0
+  - first:
+      213: -2357014696383529749
+    second: senor_del_tiempo_transformacion_fase2_1
+  - first:
+      213: 8545179216479321073
+    second: senor_del_tiempo_transformacion_fase2_2
+  - first:
+      213: 7660410360279648485
+    second: senor_del_tiempo_transformacion_fase2_3
+  - first:
+      213: 4801043519373637971
+    second: senor_del_tiempo_transformacion_fase2_4
+  - first:
+      213: -8198421185332598795
+    second: senor_del_tiempo_transformacion_fase2_5
+  - first:
+      213: 8508354872510445858
+    second: senor_del_tiempo_transformacion_fase2_6
+  - first:
+      213: -5333712466641381100
+    second: senor_del_tiempo_transformacion_fase2_7
+  - first:
+      213: -6567765153567152480
+    second: senor_del_tiempo_transformacion_fase2_8
+  - first:
+      213: -1801016127872350539
+    second: senor_del_tiempo_transformacion_fase2_9
+  - first:
+      213: -1778635348352970413
+    second: senor_del_tiempo_transformacion_fase2_10
+  - first:
+      213: 4380907454459222060
+    second: senor_del_tiempo_transformacion_fase2_11
+  - first:
+      213: 7463944564404954619
+    second: senor_del_tiempo_transformacion_fase2_12
+  - first:
+      213: -6253984104245261482
+    second: senor_del_tiempo_transformacion_fase2_13
+  - first:
+      213: 5240693324007300650
+    second: senor_del_tiempo_transformacion_fase2_14
+  - first:
+      213: 8409235840154236194
+    second: senor_del_tiempo_transformacion_fase2_15
+  - first:
+      213: 421500613279525202
+    second: senor_del_tiempo_transformacion_fase2_16
+  - first:
+      213: 5488679418122290758
+    second: senor_del_tiempo_transformacion_fase2_17
+  - first:
+      213: -2343178617974254039
+    second: senor_del_tiempo_transformacion_fase2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8974fccea3f8084c9aaa242c4d8446f
+      internalID: -1065836193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_01
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4017359441d86945804596cd751d722
+      internalID: 1578167009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_02
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab28c27c2cf534c8cdc20787b4725d
+      internalID: -1256382504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_03
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b55184ee4b4bd448c3b8be82ebfcab
+      internalID: 968424742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_04
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1042af4404ede49b127be87d1784c6
+      internalID: 1036111188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_05
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13342f4f12832ff4ab06d1bcde67bce0
+      internalID: 285628256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_06
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795bae8efaebdd14881a6e3bb6996f58
+      internalID: -636132960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_07
+      rect:
+        serializedVersion: 2
+        x: 6762
+        y: 542
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab38a0b2688e049a7856a9a024bcc2
+      internalID: -1269441050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280210abfc785841a334647b681baae
+      internalID: -1593168508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_09
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c5888686cb0d46ba18f7af5b55913
+      internalID: 449502086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_10
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61153fd8cd894fd44aa7e1f52b794683
+      internalID: -1778635348352970413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_11
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169054b5bcd79841ad5d866d28ad723
+      internalID: 4380907454459222060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_12
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7a5d42c46bbe4a95c7c986877fc48
+      internalID: 7463944564404954619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_13
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8db35a37230f469f73ec18f7e0dc2
+      internalID: -6253984104245261482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_14
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60929b7d0f06548b0152b8189a0836
+      internalID: 5240693324007300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_transformacion_fase2_15
+      rect:
+        serializedVersion: 2
+        x: 6762
+        y: 0
+        width: 966
+        height: 542
+      alignment: 9
+      pivot: {x: 0.492754, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070fb54b2438834fb57a2a203de15d4
+      internalID: 8409235840154236194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d34b627a00314f6489f42d0d2062fbdd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_transformacion_fase2_00: -1065836193
+      senor_del_tiempo_transformacion_fase2_01: 1578167009
+      senor_del_tiempo_transformacion_fase2_02: -1256382504
+      senor_del_tiempo_transformacion_fase2_03: 968424742
+      senor_del_tiempo_transformacion_fase2_04: 1036111188
+      senor_del_tiempo_transformacion_fase2_05: 285628256
+      senor_del_tiempo_transformacion_fase2_06: -636132960
+      senor_del_tiempo_transformacion_fase2_07: -1269441050
+      senor_del_tiempo_transformacion_fase2_08: -1593168508
+      senor_del_tiempo_transformacion_fase2_09: 449502086
+      senor_del_tiempo_transformacion_fase2_10: -1778635348352970413
+      senor_del_tiempo_transformacion_fase2_11: 4380907454459222060
+      senor_del_tiempo_transformacion_fase2_12: 7463944564404954619
+      senor_del_tiempo_transformacion_fase2_13: -6253984104245261482
+      senor_del_tiempo_transformacion_fase2_14: 5240693324007300650
+      senor_del_tiempo_transformacion_fase2_15: 8409235840154236194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 36e930e5c13e1764ab6c29937f6a30ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 776538095997713358
+    second: eco_de_ekkar_idle_0
+  - first:
+      213: 4835186867039555263
+    second: eco_de_ekkar_idle_1
+  - first:
+      213: -6962268401027683782
+    second: eco_de_ekkar_idle_2
+  - first:
+      213: 5011039120123564440
+    second: eco_de_ekkar_idle_3
+  - first:
+      213: -8621510688702114999
+    second: eco_de_ekkar_idle_4
+  - first:
+      213: -8670050108329055865
+    second: eco_de_ekkar_idle_5
+  - first:
+      213: -529462376105140628
+    second: eco_de_ekkar_idle_6
+  - first:
+      213: 8994331062478344807
+    second: eco_de_ekkar_idle_7
+  - first:
+      213: 4550159859806983874
+    second: eco_de_ekkar_idle_8
+  - first:
+      213: 1825965132329085030
+    second: eco_de_ekkar_idle_9
+  - first:
+      213: 6480462394523142067
+    second: eco_de_ekkar_idle_10
+  - first:
+      213: -5718495484279333209
+    second: eco_de_ekkar_idle_11
+  - first:
+      213: 916826843938990287
+    second: eco_de_ekkar_idle_12
+  - first:
+      213: -6271175791036436385
+    second: eco_de_ekkar_idle_13
+  - first:
+      213: -6585171516127597673
+    second: eco_de_ekkar_idle_14
+  - first:
+      213: -3392508162390065084
+    second: eco_de_ekkar_idle_15
+  - first:
+      213: -2389144902095709797
+    second: eco_de_ekkar_idle_16
+  - first:
+      213: -3253362138160709225
+    second: eco_de_ekkar_idle_17
+  - first:
+      213: 373305348122946076
+    second: eco_de_ekkar_idle_18
+  - first:
+      213: 8555782017783532985
+    second: eco_de_ekkar_idle_19
+  - first:
+      213: -2651310619097936562
+    second: eco_de_ekkar_idle_20
+  - first:
+      213: -8737016608115564471
+    second: eco_de_ekkar_idle_21
+  - first:
+      213: 7965227916999863577
+    second: eco_de_ekkar_idle_22
+  - first:
+      213: 4294165715511752467
+    second: eco_de_ekkar_idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b992b942b744409f7cebf9a013a2b
+      internalID: -2093824031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_01
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391ffd68a2c98849824356fbbdba51b
+      internalID: -319074545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_02
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de7eea2a0c60d746bc4f5c5a83233f5
+      internalID: -1958029352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_03
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ba33dec48e0f4ea33e687b0833278
+      internalID: -173601306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_04
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1194131e257c74181a9020ab870ff3
+      internalID: -1442880140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_05
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0bc652a6dc4540adc8b94caa36a55
+      internalID: 1223204433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_06
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2796b35e7e1e478cfe827b31a6a04
+      internalID: 881257356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_idle_07
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 0
+        width: 388
+        height: 248
+      alignment: 9
+      pivot: {x: 0.760309, y: 0.016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4894822ef6a90d7498b37fcc3db44b9a
+      internalID: 1777869311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e419e1e558934c34a8c8b1f19fed7244
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eco_de_ekkar_idle_00: -2093824031
+      eco_de_ekkar_idle_01: -319074545
+      eco_de_ekkar_idle_02: -1958029352
+      eco_de_ekkar_idle_03: -173601306
+      eco_de_ekkar_idle_04: -1442880140
+      eco_de_ekkar_idle_05: 1223204433
+      eco_de_ekkar_idle_06: 881257356
+      eco_de_ekkar_idle_07: 1777869311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

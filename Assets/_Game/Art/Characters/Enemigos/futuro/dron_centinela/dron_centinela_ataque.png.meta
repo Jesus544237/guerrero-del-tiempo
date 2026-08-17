@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: a276826c1aced9549bf82b9b523b7371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5330686947966194638
+    second: dron_centinela_ataque_0
+  - first:
+      213: -130012097653172703
+    second: dron_centinela_ataque_1
+  - first:
+      213: 6913797827456898468
+    second: dron_centinela_ataque_2
+  - first:
+      213: 5410900582686094567
+    second: dron_centinela_ataque_3
+  - first:
+      213: -731823278485717326
+    second: dron_centinela_ataque_4
+  - first:
+      213: 54549563000832147
+    second: dron_centinela_ataque_5
+  - first:
+      213: 2388784457441709852
+    second: dron_centinela_ataque_6
+  - first:
+      213: 8574016579325961942
+    second: dron_centinela_ataque_7
+  - first:
+      213: 8858086081817173382
+    second: dron_centinela_ataque_8
+  - first:
+      213: -9104403835564241463
+    second: dron_centinela_ataque_9
+  - first:
+      213: -6704809504311912668
+    second: dron_centinela_ataque_10
+  - first:
+      213: 1961317751215309317
+    second: dron_centinela_ataque_11
+  - first:
+      213: 6459737330646087432
+    second: dron_centinela_ataque_12
+  - first:
+      213: -399074669270622795
+    second: dron_centinela_ataque_13
+  - first:
+      213: -8172032858242682757
+    second: dron_centinela_ataque_14
+  - first:
+      213: 2017454462341216359
+    second: dron_centinela_ataque_15
+  - first:
+      213: -3191432680450211931
+    second: dron_centinela_ataque_16
+  - first:
+      213: 4513471170295020297
+    second: dron_centinela_ataque_17
+  - first:
+      213: -7833674555944226376
+    second: dron_centinela_ataque_18
+  - first:
+      213: -8475555447993646426
+    second: dron_centinela_ataque_19
+  - first:
+      213: 7563880699062978275
+    second: dron_centinela_ataque_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_centinela_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347b1089338a5bb45a6198c2cae5dc9a
+      internalID: 1600494748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474f68f2780a704080931cf8cb346a9
+      internalID: 643526175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a32425d8e121643a96f9fabd553375
+      internalID: -1643038993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c18699dd31c044090719b4e7a92540
+      internalID: 504367719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b22338a24fc24a449e8663b00563c7f
+      internalID: 1863730961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d98719680536e44952cc7f35748699
+      internalID: -829039012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8050852cd60a46a8e0f80e39877c9
+      internalID: 1216638640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 128
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e555e41b8c9744bbb6ffb4f1597837
+      internalID: -994158821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb4c889ddf1b94ca41ee9bd3a5ed6c
+      internalID: -1985276123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 362
+        height: 128
+      alignment: 9
+      pivot: {x: 0.729282, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f22b1a86e967143a6e7c16f7b327f2
+      internalID: 655842381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c39e97aa9d519c6418ae8cd313503fb3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dron_centinela_ataque_00: 1600494748
+      dron_centinela_ataque_01: 643526175
+      dron_centinela_ataque_02: -1643038993
+      dron_centinela_ataque_03: 504367719
+      dron_centinela_ataque_04: 1863730961
+      dron_centinela_ataque_05: -829039012
+      dron_centinela_ataque_06: 1216638640
+      dron_centinela_ataque_07: -994158821
+      dron_centinela_ataque_08: -1985276123
+      dron_centinela_ataque_09: 655842381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,82 @@
+EL SENOR DEL TIEMPO SE HACE DISTINTO A LOS DEMAS
+================================================
+
+A los demas enemigos se les describe con palabras y Gemini los dibuja. Con el
+jefe eso no funciona: cada clip salia con un diseno distinto porque el prompt
+de texto le dejaba sitio para reinventarlo. Aqui ya tenemos su arte pintado, y
+lo que se le pide al modelo es SOLO el movimiento.
+
+LAS IMAGENES QUE SE ADJUNTAN (estan en esta misma carpeta, en videos/)
+----------------------------------------------------------------------
+  senor_del_tiempo_de_pie_verde_sin_portal.jpg      de pie, fase 1, en verde
+  senor_del_tiempo_fase2_ASPECTO_fondo_verde_1.jpg  de pie, fase 2, en verde
+  senor_del_tiempo_de_pie_verde_portal.jpg          la del portal: falta, ver
+                                                    el PASO 0
+
+La forma valida es la de PIE, entera, no la agachada. Las agachadas
+(senor_del_tiempo_verde_fondo.png y senor_del_tiempo_fondo_verde_sin_portal.png)
+se quedan solo como historial: no se usan, para que no cambie de postura de un
+clip a otro.
+
+De la fase 2 hay dos versiones. Se usa la _1, donde el fuego es una banda en el
+pecho y se le ve bien el diseno. La _2 tiene mas resolucion pero el fuego le
+tapa medio cuerpo; esta ahi por si hace falta.
+
+PASO 0: FALTA LA DEL PORTAL, Y SOLO HACE FALTA PARA EL CLIP 00
+--------------------------------------------------------------
+No hay ninguna imagen de pie CON el portal detras, y el portal no se puede
+pegar por programa sin que se note. Los clips 01 al 12 no la necesitan, asi que
+esto se puede dejar para el final.
+
+Cuando toque, se genera en la app de Gemini adjuntando
+senor_del_tiempo_de_pie_verde_sin_portal.jpg y pidiendo esto:
+
+    Keep this exact pixel art character exactly as he is: same pose, same
+    armour, same helm, same face, same colours, same two arms and two legs,
+    the same dark tendrils and the same golden ribbons and gears, same size
+    and same position in the frame. Add one single thing: a huge swirling
+    blue and cyan portal disc BEHIND him, filling the space behind his body
+    like a full moon, its swirl turning around his chest. Everything outside
+    the portal stays the same flat solid chroma green #00FF00. Do not redraw
+    him, do not restyle him, do not move him, do not cover him with the
+    portal, do not add or remove tendrils, do not add text or logos.
+
+Se guarda en videos/ como senor_del_tiempo_de_pie_verde_portal.jpg.
+
+EL ORDEN
+--------
+1. Del 01 al 06 se adjunta senor_del_tiempo_de_pie_verde_sin_portal.jpg.
+
+2. 07_transformacion_fase2 lleva las DOS: la de pie como primer fotograma y la
+   de la fase 2 como ultimo. Asi la fase 2 le sale igual que la imagen, que es
+   la misma que se usa despues del 08 al 12.
+
+3. Del 08 al 12 se adjunta senor_del_tiempo_fase2_ASPECTO_fondo_verde_1.jpg.
+
+4. 00_portal_aparicion va el ultimo, cuando exista la imagen del PASO 0: se
+   hace con las DOS, la del portal como primer fotograma y la de sin portal
+   como ultimo.
+
+En Flow, los clips de dos imagenes son "Frames to Video" (primer y ultimo
+fotograma). En la app de Gemini se adjuntan las dos y el prompt ya explica
+cual es cual.
+
+LO QUE SALIO MAL LA PRIMERA VEZ Y YA ESTA CORREGIDO EN LOS PROMPTS
+------------------------------------------------------------------
+  - Se inventaba decenas de tentaculos nuevos hasta llenar el encuadre. Ahora
+    cada prompt dice que los de la imagen son todos los que hay, que solo se
+    mueven, y que tiene que haber el mismo numero en cada fotograma.
+  - Intentaba sacarlo del portal y le deformaba las piernas. Ahora el prompt
+    dice que ya esta fuera, que no sale de ningun sitio, y que lo unico que
+    ocurre es que el portal se cierra solo detras de el.
+  - El portal reventaba en pedazos. Ahora se prohibe: se encoge y se apaga.
+
+SI AUN ASI SE LE DESHACE EL DISENO
+----------------------------------
+  - Que el clip sea corto. Cuanto mas largo, mas se aleja del original.
+  - Pedir menos cosas a la vez: es mejor un clip por movimiento.
+  - Si un clip sale bien hasta la mitad, vale igual: el extractor coge el
+    tramo bueno con --desde y --hasta.
+  - Y si un movimiento no hay manera, se hace en Unity con el sprite quieto
+    (los lazos dorados, los engranajes y el fuego se pueden animar por codigo,
+    que es como estan hechas las particulas de los niveles).

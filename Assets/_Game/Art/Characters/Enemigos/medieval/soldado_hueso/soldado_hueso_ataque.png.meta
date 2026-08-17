@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 29ec337310479a942951b09866f9089f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -547750171538199371
+    second: soldado_hueso_ataque_0
+  - first:
+      213: 3161561682932738103
+    second: soldado_hueso_ataque_1
+  - first:
+      213: -385712467612824853
+    second: soldado_hueso_ataque_2
+  - first:
+      213: -3269000892990594681
+    second: soldado_hueso_ataque_3
+  - first:
+      213: 424282801729347849
+    second: soldado_hueso_ataque_4
+  - first:
+      213: 5920832414761151286
+    second: soldado_hueso_ataque_5
+  - first:
+      213: 2351148212241002904
+    second: soldado_hueso_ataque_6
+  - first:
+      213: 3315895855468182448
+    second: soldado_hueso_ataque_7
+  - first:
+      213: 1595461479655767473
+    second: soldado_hueso_ataque_8
+  - first:
+      213: -6288809779673182591
+    second: soldado_hueso_ataque_9
+  - first:
+      213: 42546136239040084
+    second: soldado_hueso_ataque_10
+  - first:
+      213: 5216249981149667628
+    second: soldado_hueso_ataque_11
+  - first:
+      213: 4957143962790186615
+    second: soldado_hueso_ataque_12
+  - first:
+      213: 8295414367899620452
+    second: soldado_hueso_ataque_13
+  - first:
+      213: -4305024265438490619
+    second: soldado_hueso_ataque_14
+  - first:
+      213: -1621380146683657955
+    second: soldado_hueso_ataque_15
+  - first:
+      213: -2850813940727627549
+    second: soldado_hueso_ataque_16
+  - first:
+      213: 6256692976020454835
+    second: soldado_hueso_ataque_17
+  - first:
+      213: -9046784847199555474
+    second: soldado_hueso_ataque_18
+  - first:
+      213: -2110168212047391840
+    second: soldado_hueso_ataque_19
+  - first:
+      213: 7457437485988228867
+    second: soldado_hueso_ataque_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c08426a84f18ee4dae79ea6a2c53c5c
+      internalID: -1311994488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70b40e0d3081140b11e495f750d3d8
+      internalID: 1036743006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb847c33d17d34a8bf689da46354d6
+      internalID: 1794203060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efb991c42ea73459c21da7d39c9e0c
+      internalID: -654251528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe514d8995149f479209c8c86629027
+      internalID: 1217871569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb9ef72d02985b4b90349e5046a6fe1
+      internalID: -1963185167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb095cdfb2666a4ca44ec63973dc3c2
+      internalID: 958525756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 226
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a54580372eb3f4fa02c3be41a5f70e
+      internalID: -1198528305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc464cb1c572bec4e9a99f79f7f4fc5a
+      internalID: 1919832603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.732955, y: 0.017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbac295af4064d4a97f08dc0eb8fbb2
+      internalID: -774910904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10a68ea3b1a20ff4d952d6be9973049d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soldado_hueso_ataque_00: -1311994488
+      soldado_hueso_ataque_01: 1036743006
+      soldado_hueso_ataque_02: 1794203060
+      soldado_hueso_ataque_03: -654251528
+      soldado_hueso_ataque_04: 1217871569
+      soldado_hueso_ataque_05: -1963185167
+      soldado_hueso_ataque_06: 958525756
+      soldado_hueso_ataque_07: -1198528305
+      soldado_hueso_ataque_08: 1919832603
+      soldado_hueso_ataque_09: -774910904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: c835f76e32b1767498c9761309f4cbed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2821958936125197886
+    second: espectro_asedio_dano_0
+  - first:
+      213: -3587162901494142345
+    second: espectro_asedio_dano_1
+  - first:
+      213: -7235004891443679238
+    second: espectro_asedio_dano_2
+  - first:
+      213: -2562888690585787690
+    second: espectro_asedio_dano_3
+  - first:
+      213: 8220076858253765706
+    second: espectro_asedio_dano_4
+  - first:
+      213: -6848047626817957382
+    second: espectro_asedio_dano_5
+  - first:
+      213: -3783991038027915863
+    second: espectro_asedio_dano_6
+  - first:
+      213: 5095510398500895167
+    second: espectro_asedio_dano_7
+  - first:
+      213: 4788875127014883903
+    second: espectro_asedio_dano_8
+  - first:
+      213: 3667162387102900993
+    second: espectro_asedio_dano_9
+  - first:
+      213: -3921178590637222447
+    second: espectro_asedio_dano_10
+  - first:
+      213: 469634405291303988
+    second: espectro_asedio_dano_11
+  - first:
+      213: 5102683211195872886
+    second: espectro_asedio_dano_12
+  - first:
+      213: -6022540287375996284
+    second: espectro_asedio_dano_13
+  - first:
+      213: -5039652619819326353
+    second: espectro_asedio_dano_14
+  - first:
+      213: -7118094306527681067
+    second: espectro_asedio_dano_15
+  - first:
+      213: -2738480659393278690
+    second: espectro_asedio_dano_16
+  - first:
+      213: -2125567703117918627
+    second: espectro_asedio_dano_17
+  - first:
+      213: -489057715093710824
+    second: espectro_asedio_dano_18
+  - first:
+      213: -6727255697372687547
+    second: espectro_asedio_dano_19
+  - first:
+      213: 5739401657449912968
+    second: espectro_asedio_dano_20
+  - first:
+      213: 1731884874345141718
+    second: espectro_asedio_dano_21
+  - first:
+      213: -4935673697871553434
+    second: espectro_asedio_dano_22
+  - first:
+      213: -3258568529363857154
+    second: espectro_asedio_dano_23
+  - first:
+      213: 890056528097026820
+    second: espectro_asedio_dano_24
+  - first:
+      213: 2721789565104075222
+    second: espectro_asedio_dano_25
+  - first:
+      213: 6228051247276172299
+    second: espectro_asedio_dano_26
+  - first:
+      213: 4865371734193554896
+    second: espectro_asedio_dano_27
+  - first:
+      213: -5411125801776455902
+    second: espectro_asedio_dano_28
+  - first:
+      213: -2646481306303474424
+    second: espectro_asedio_dano_29
+  - first:
+      213: 1765835027861236220
+    second: espectro_asedio_dano_30
+  - first:
+      213: -3883618972031581092
+    second: espectro_asedio_dano_31
+  - first:
+      213: -4876501535192845554
+    second: espectro_asedio_dano_32
+  - first:
+      213: -6033907801822082054
+    second: espectro_asedio_dano_33
+  - first:
+      213: 2020775218172643529
+    second: espectro_asedio_dano_34
+  - first:
+      213: -1255777440563497979
+    second: espectro_asedio_dano_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: espectro_asedio_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 484
+        height: 270
+      alignment: 9
+      pivot: {x: 0.595041, y: 0.014815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec5075aabfbda47bdb5e1de8de366b
+      internalID: 111327793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_dano_01
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 484
+        height: 270
+      alignment: 9
+      pivot: {x: 0.595041, y: 0.014815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b384e0f0ce86c468746cda366cf6c6
+      internalID: -1012498487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_dano_02
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 484
+        height: 270
+      alignment: 9
+      pivot: {x: 0.595041, y: 0.014815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7067777d370e1409e8cf1e7cd724a5
+      internalID: -1381477115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_dano_03
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 484
+        height: 270
+      alignment: 9
+      pivot: {x: 0.595041, y: 0.014815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed5d18eab0be4438bff1009bd2fa7f
+      internalID: 1322915725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_dano_04
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 484
+        height: 270
+      alignment: 9
+      pivot: {x: 0.595041, y: 0.014815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ce1f86af941e48b0fb706c8d01516
+      internalID: -602992302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_dano_05
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 0
+        width: 484
+        height: 270
+      alignment: 9
+      pivot: {x: 0.595041, y: 0.014815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd81c0b7004dd8b40a0131ba0289013a
+      internalID: 1097906639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f59349c6f6451d409b31e7562984cf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      espectro_asedio_dano_00: 111327793
+      espectro_asedio_dano_01: -1012498487
+      espectro_asedio_dano_02: -1381477115
+      espectro_asedio_dano_03: 1322915725
+      espectro_asedio_dano_04: -602992302
+      espectro_asedio_dano_05: 1097906639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

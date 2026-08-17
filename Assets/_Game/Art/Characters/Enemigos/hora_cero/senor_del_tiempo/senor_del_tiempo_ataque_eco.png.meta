@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 91afcff20e3b6a248badd0a49ce22f4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1485685818854189525
+    second: senor_del_tiempo_ataque_eco_0
+  - first:
+      213: 8946165587810405719
+    second: senor_del_tiempo_ataque_eco_1
+  - first:
+      213: -7627379997294082130
+    second: senor_del_tiempo_ataque_eco_2
+  - first:
+      213: 8339489855790775105
+    second: senor_del_tiempo_ataque_eco_3
+  - first:
+      213: 4228282741264254472
+    second: senor_del_tiempo_ataque_eco_4
+  - first:
+      213: -229521723082219057
+    second: senor_del_tiempo_ataque_eco_5
+  - first:
+      213: 8625439678486982300
+    second: senor_del_tiempo_ataque_eco_6
+  - first:
+      213: 641655381159054780
+    second: senor_del_tiempo_ataque_eco_7
+  - first:
+      213: 283511439109528440
+    second: senor_del_tiempo_ataque_eco_8
+  - first:
+      213: -1298810672986980415
+    second: senor_del_tiempo_ataque_eco_9
+  - first:
+      213: -6734963689159297213
+    second: senor_del_tiempo_ataque_eco_10
+  - first:
+      213: 5269129212891166976
+    second: senor_del_tiempo_ataque_eco_11
+  - first:
+      213: 6577143944336835329
+    second: senor_del_tiempo_ataque_eco_12
+  - first:
+      213: 1133864633641748150
+    second: senor_del_tiempo_ataque_eco_13
+  - first:
+      213: 3157005122906509600
+    second: senor_del_tiempo_ataque_eco_14
+  - first:
+      213: -4595240759903352941
+    second: senor_del_tiempo_ataque_eco_15
+  - first:
+      213: -8347065479791028017
+    second: senor_del_tiempo_ataque_eco_16
+  - first:
+      213: -3178955118600681896
+    second: senor_del_tiempo_ataque_eco_17
+  - first:
+      213: 7049016674483281805
+    second: senor_del_tiempo_ataque_eco_18
+  - first:
+      213: 1185264495126364737
+    second: senor_del_tiempo_ataque_eco_19
+  - first:
+      213: 2354993445825526238
+    second: senor_del_tiempo_ataque_eco_20
+  - first:
+      213: 9061904839729735502
+    second: senor_del_tiempo_ataque_eco_21
+  - first:
+      213: -8375631924551377097
+    second: senor_del_tiempo_ataque_eco_22
+  - first:
+      213: -3477900698244466664
+    second: senor_del_tiempo_ataque_eco_23
+  - first:
+      213: -1450318679261949325
+    second: senor_del_tiempo_ataque_eco_24
+  - first:
+      213: 6071461004032311991
+    second: senor_del_tiempo_ataque_eco_25
+  - first:
+      213: -275678988175172562
+    second: senor_del_tiempo_ataque_eco_26
+  - first:
+      213: 7806914105336139335
+    second: senor_del_tiempo_ataque_eco_27
+  - first:
+      213: 1569640339881817113
+    second: senor_del_tiempo_ataque_eco_28
+  - first:
+      213: -7166240093504149138
+    second: senor_del_tiempo_ataque_eco_29
+  - first:
+      213: 6971727111324416823
+    second: senor_del_tiempo_ataque_eco_30
+  - first:
+      213: 1108212653035596563
+    second: senor_del_tiempo_ataque_eco_31
+  - first:
+      213: -8643369388520925636
+    second: senor_del_tiempo_ataque_eco_32
+  - first:
+      213: -2744422902831391883
+    second: senor_del_tiempo_ataque_eco_33
+  - first:
+      213: -888166708593525955
+    second: senor_del_tiempo_ataque_eco_34
+  - first:
+      213: 4291574378373542567
+    second: senor_del_tiempo_ataque_eco_35
+  - first:
+      213: -7612017881256630650
+    second: senor_del_tiempo_ataque_eco_36
+  - first:
+      213: 303480411411844308
+    second: senor_del_tiempo_ataque_eco_37
+  - first:
+      213: -4476890686564754797
+    second: senor_del_tiempo_ataque_eco_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c96e3049bcbcc47983774d2f932d21
+      internalID: 1804689158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_01
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8086e75e667c541afaf46c3f5b269b
+      internalID: -1208412554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_02
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79e9cdf81c5eab42a3b7d0c2f7d55ec
+      internalID: 1718959704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_03
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276755878453a3b48841a64dbb6f9ffa
+      internalID: 1289554467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_04
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67934d1f11cbb4f9714d017990e5d9
+      internalID: -1444892179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_05
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5d8cf374a03354cb20f5b0552c16a1
+      internalID: 341520848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_06
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47397a6b6a248f49a7a619c8992361d
+      internalID: 1732448674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_07
+      rect:
+        serializedVersion: 2
+        x: 6706
+        y: 540
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5c9413af2bc5146b683c8534ae5bcb
+      internalID: -8340952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95c0be52f75794aabe1508e4d5a856
+      internalID: -1315860249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_eco_09
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 958
+        height: 540
+      alignment: 9
+      pivot: {x: 0.461378, y: 0.007407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef1dde6e2e1474682e66479fb6cfef
+      internalID: 160622408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bdce3ca4a0f49db44aed3c120aaf0bc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_ataque_eco_00: 1804689158
+      senor_del_tiempo_ataque_eco_01: -1208412554
+      senor_del_tiempo_ataque_eco_02: 1718959704
+      senor_del_tiempo_ataque_eco_03: 1289554467
+      senor_del_tiempo_ataque_eco_04: -1444892179
+      senor_del_tiempo_ataque_eco_05: 341520848
+      senor_del_tiempo_ataque_eco_06: 1732448674
+      senor_del_tiempo_ataque_eco_07: -8340952
+      senor_del_tiempo_ataque_eco_08: -1315860249
+      senor_del_tiempo_ataque_eco_09: 160622408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 0439a223c727fe64594a76d7253624b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7795524547274224746
+    second: senor_del_tiempo_fase2_ataque_reloj_0
+  - first:
+      213: -4755767671297808360
+    second: senor_del_tiempo_fase2_ataque_reloj_1
+  - first:
+      213: -4746235857464252394
+    second: senor_del_tiempo_fase2_ataque_reloj_2
+  - first:
+      213: 1988282581292284936
+    second: senor_del_tiempo_fase2_ataque_reloj_3
+  - first:
+      213: 8937270937283513938
+    second: senor_del_tiempo_fase2_ataque_reloj_4
+  - first:
+      213: 8301090672422343965
+    second: senor_del_tiempo_fase2_ataque_reloj_5
+  - first:
+      213: 3188235449287466888
+    second: senor_del_tiempo_fase2_ataque_reloj_6
+  - first:
+      213: 4706941997625029048
+    second: senor_del_tiempo_fase2_ataque_reloj_7
+  - first:
+      213: 5978165487013844997
+    second: senor_del_tiempo_fase2_ataque_reloj_8
+  - first:
+      213: 1796041052261915779
+    second: senor_del_tiempo_fase2_ataque_reloj_9
+  - first:
+      213: 8615912444717887458
+    second: senor_del_tiempo_fase2_ataque_reloj_10
+  - first:
+      213: -1786922099651362406
+    second: senor_del_tiempo_fase2_ataque_reloj_11
+  - first:
+      213: -3182023350405387285
+    second: senor_del_tiempo_fase2_ataque_reloj_12
+  - first:
+      213: -6642972936945887702
+    second: senor_del_tiempo_fase2_ataque_reloj_13
+  - first:
+      213: -1104589929526970601
+    second: senor_del_tiempo_fase2_ataque_reloj_14
+  - first:
+      213: -2025193022664430854
+    second: senor_del_tiempo_fase2_ataque_reloj_15
+  - first:
+      213: 4772205884639810142
+    second: senor_del_tiempo_fase2_ataque_reloj_16
+  - first:
+      213: 2009230961460986036
+    second: senor_del_tiempo_fase2_ataque_reloj_17
+  - first:
+      213: -800550158508594050
+    second: senor_del_tiempo_fase2_ataque_reloj_18
+  - first:
+      213: -8995594090567078394
+    second: senor_del_tiempo_fase2_ataque_reloj_19
+  - first:
+      213: 5931511906063812351
+    second: senor_del_tiempo_fase2_ataque_reloj_20
+  - first:
+      213: -7926212485875409733
+    second: senor_del_tiempo_fase2_ataque_reloj_21
+  - first:
+      213: 7195292960538429244
+    second: senor_del_tiempo_fase2_ataque_reloj_22
+  - first:
+      213: -8370925416664210711
+    second: senor_del_tiempo_fase2_ataque_reloj_23
+  - first:
+      213: -6543583845693757999
+    second: senor_del_tiempo_fase2_ataque_reloj_24
+  - first:
+      213: 2726976062817378895
+    second: senor_del_tiempo_fase2_ataque_reloj_25
+  - first:
+      213: 6279392056751537395
+    second: senor_del_tiempo_fase2_ataque_reloj_26
+  - first:
+      213: -6766297537747536905
+    second: senor_del_tiempo_fase2_ataque_reloj_27
+  - first:
+      213: -7925959244034910348
+    second: senor_del_tiempo_fase2_ataque_reloj_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6ee03b37d3c0439e9141ab3d1f9e4
+      internalID: 593510293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_01
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea973f8c470150d4599a0ccf6df7c6e0
+      internalID: -510134599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_02
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c35ec074b20fe4782d1f8ddc75e0b9
+      internalID: -636515493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_03
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018f37643dff5148ba7db116ac93f52
+      internalID: -1105755218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_04
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1324c95e3bc1d4995357f1dec143a9
+      internalID: -1417992960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_05
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a387a35f778764cac859fd7e3f1823
+      internalID: -850340512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_06
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f82f883ae8609439ac5767d7cdc403
+      internalID: 1884623407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_07
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 362
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59006ccbac59c5f4da3a6429ab3ccc5e
+      internalID: 249489958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da99d0e7ce37894790a9ed42148f2a5
+      internalID: -1057789541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_reloj_09
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 648
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49537, y: 0.01105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df25d94106b95cf438636dd6a5cbbb41
+      internalID: 2031565736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae7417bd46564ac46b0b7c48d19d4b00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_fase2_ataque_reloj_00: 593510293
+      senor_del_tiempo_fase2_ataque_reloj_01: -510134599
+      senor_del_tiempo_fase2_ataque_reloj_02: -636515493
+      senor_del_tiempo_fase2_ataque_reloj_03: -1105755218
+      senor_del_tiempo_fase2_ataque_reloj_04: -1417992960
+      senor_del_tiempo_fase2_ataque_reloj_05: -850340512
+      senor_del_tiempo_fase2_ataque_reloj_06: 1884623407
+      senor_del_tiempo_fase2_ataque_reloj_07: 249489958
+      senor_del_tiempo_fase2_ataque_reloj_08: -1057789541
+      senor_del_tiempo_fase2_ataque_reloj_09: 2031565736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

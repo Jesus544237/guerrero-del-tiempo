@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: ad1af54189326f84c9fb4cf6d06ca7b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4616646331642111438
+    second: ballestero_ceniciento_muerte_0
+  - first:
+      213: -6270530102632188460
+    second: ballestero_ceniciento_muerte_1
+  - first:
+      213: 3664413385268599987
+    second: ballestero_ceniciento_muerte_2
+  - first:
+      213: 625832046714321816
+    second: ballestero_ceniciento_muerte_3
+  - first:
+      213: -998189026182072311
+    second: ballestero_ceniciento_muerte_4
+  - first:
+      213: -3022574804841471394
+    second: ballestero_ceniciento_muerte_5
+  - first:
+      213: 660611552248570275
+    second: ballestero_ceniciento_muerte_6
+  - first:
+      213: 5113131788813407735
+    second: ballestero_ceniciento_muerte_7
+  - first:
+      213: 6124041890573655063
+    second: ballestero_ceniciento_muerte_8
+  - first:
+      213: -7403860198839704478
+    second: ballestero_ceniciento_muerte_9
+  - first:
+      213: 4454615973912842145
+    second: ballestero_ceniciento_muerte_10
+  - first:
+      213: 4738821364449924307
+    second: ballestero_ceniciento_muerte_11
+  - first:
+      213: 7054277156802057272
+    second: ballestero_ceniciento_muerte_12
+  - first:
+      213: -4326510759394515868
+    second: ballestero_ceniciento_muerte_13
+  - first:
+      213: 2804549041986787341
+    second: ballestero_ceniciento_muerte_14
+  - first:
+      213: 6237855912872168530
+    second: ballestero_ceniciento_muerte_15
+  - first:
+      213: 485148450955024026
+    second: ballestero_ceniciento_muerte_16
+  - first:
+      213: -5956080291237745470
+    second: ballestero_ceniciento_muerte_17
+  - first:
+      213: 5070181033841681728
+    second: ballestero_ceniciento_muerte_18
+  - first:
+      213: -6874254748473626252
+    second: ballestero_ceniciento_muerte_19
+  - first:
+      213: -6530541132004222271
+    second: ballestero_ceniciento_muerte_20
+  - first:
+      213: -6281860309509296144
+    second: ballestero_ceniciento_muerte_21
+  - first:
+      213: -8713628263969995390
+    second: ballestero_ceniciento_muerte_22
+  - first:
+      213: -770469874069989683
+    second: ballestero_ceniciento_muerte_23
+  - first:
+      213: 7208546168199290384
+    second: ballestero_ceniciento_muerte_24
+  - first:
+      213: 8166521451373629803
+    second: ballestero_ceniciento_muerte_25
+  - first:
+      213: 4804758785051567766
+    second: ballestero_ceniciento_muerte_26
+  - first:
+      213: 5375485653702642104
+    second: ballestero_ceniciento_muerte_27
+  - first:
+      213: -3024777154347886486
+    second: ballestero_ceniciento_muerte_28
+  - first:
+      213: -898866116492811309
+    second: ballestero_ceniciento_muerte_29
+  - first:
+      213: 8842362117673833015
+    second: ballestero_ceniciento_muerte_30
+  - first:
+      213: -4052155576461133118
+    second: ballestero_ceniciento_muerte_31
+  - first:
+      213: -6632388914309141072
+    second: ballestero_ceniciento_muerte_32
+  - first:
+      213: -1531276666727559792
+    second: ballestero_ceniciento_muerte_33
+  - first:
+      213: -3828502384814143998
+    second: ballestero_ceniciento_muerte_34
+  - first:
+      213: 3139286238144456741
+    second: ballestero_ceniciento_muerte_35
+  - first:
+      213: 1276070428067316137
+    second: ballestero_ceniciento_muerte_36
+  - first:
+      213: -8897685377021052507
+    second: ballestero_ceniciento_muerte_37
+  - first:
+      213: 1200181344660161393
+    second: ballestero_ceniciento_muerte_38
+  - first:
+      213: 5769349888338802991
+    second: ballestero_ceniciento_muerte_39
+  - first:
+      213: -2754244038978285240
+    second: ballestero_ceniciento_muerte_40
+  - first:
+      213: -4477987313347084168
+    second: ballestero_ceniciento_muerte_41
+  - first:
+      213: 6266659967597790242
+    second: ballestero_ceniciento_muerte_42
+  - first:
+      213: 5372765477336987627
+    second: ballestero_ceniciento_muerte_43
+  - first:
+      213: -4558213163462625248
+    second: ballestero_ceniciento_muerte_44
+  - first:
+      213: 7829007232205615214
+    second: ballestero_ceniciento_muerte_45
+  - first:
+      213: 9067970098944290850
+    second: ballestero_ceniciento_muerte_46
+  - first:
+      213: -8341758311839924004
+    second: ballestero_ceniciento_muerte_47
+  - first:
+      213: 5767994161439735817
+    second: ballestero_ceniciento_muerte_48
+  - first:
+      213: 5856808279621596907
+    second: ballestero_ceniciento_muerte_49
+  - first:
+      213: 8785030021823220672
+    second: ballestero_ceniciento_muerte_50
+  - first:
+      213: 4299680826814657574
+    second: ballestero_ceniciento_muerte_51
+  - first:
+      213: 3357541814088920498
+    second: ballestero_ceniciento_muerte_52
+  - first:
+      213: 382753305613636321
+    second: ballestero_ceniciento_muerte_53
+  - first:
+      213: 1869836339565260484
+    second: ballestero_ceniciento_muerte_54
+  - first:
+      213: 4127039232755851609
+    second: ballestero_ceniciento_muerte_55
+  - first:
+      213: 5467205819540214581
+    second: ballestero_ceniciento_muerte_56
+  - first:
+      213: 4756616967266417064
+    second: ballestero_ceniciento_muerte_57
+  - first:
+      213: -6313073327254927979
+    second: ballestero_ceniciento_muerte_58
+  - first:
+      213: -4467438673785585295
+    second: ballestero_ceniciento_muerte_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d2dbef80b34d4ba6f07d3ba28fb83
+      internalID: 1151856659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f04c346ca31f9468b78941cc2ff533
+      internalID: 366841959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316b33c721c2bd4408200a4d46c18c00
+      internalID: -1977338833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ffaa40d3a0874686013f03e6dab56
+      internalID: 1725202090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f0c8a003acd148bdfff57cc8ef3c1
+      internalID: 1169264630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caae9bcb9e046a49bf0b40d9d6f5a7e
+      internalID: -1984384831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94146e03e7df5d428686db1c7fdb2d1
+      internalID: 171027191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 224
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3690145e7b2a024ea7a258c0e3ae933
+      internalID: 1349682907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7248011c6a29b994dbe3cad43daf3245
+      internalID: -799419332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66892b48531d3df4c92fec9a1944eb6c
+      internalID: -684985249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb18d006525d64046ac434043a0bd079
+      internalID: 4454615973912842145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballestero_ceniciento_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 0
+        width: 458
+        height: 224
+      alignment: 9
+      pivot: {x: 0.543668, y: 0.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96e38112df04a4b86fb0a3be03f8e9
+      internalID: 4738821364449924307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab1e0188ae2eb8048b91a665bc76c889
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ballestero_ceniciento_muerte_00: 1151856659
+      ballestero_ceniciento_muerte_01: 366841959
+      ballestero_ceniciento_muerte_02: -1977338833
+      ballestero_ceniciento_muerte_03: 1725202090
+      ballestero_ceniciento_muerte_04: 1169264630
+      ballestero_ceniciento_muerte_05: -1984384831
+      ballestero_ceniciento_muerte_06: 171027191
+      ballestero_ceniciento_muerte_07: 1349682907
+      ballestero_ceniciento_muerte_08: -799419332
+      ballestero_ceniciento_muerte_09: -684985249
+      ballestero_ceniciento_muerte_10: 4454615973912842145
+      ballestero_ceniciento_muerte_11: 4738821364449924307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

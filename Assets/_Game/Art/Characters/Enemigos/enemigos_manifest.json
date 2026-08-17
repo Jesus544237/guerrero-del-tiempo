@@ -1,0 +1,139 @@
+{
+  "enemies": [
+    {
+      "name": "automata_fundicion",
+      "era": "industrial",
+      "folder": "industrial/automata_fundicion",
+      "manifest": "industrial/automata_fundicion/automata_fundicion_anim_manifest.json",
+      "targetHeight": 210,
+      "anchor": "pies",
+      "animations": 5
+    },
+    {
+      "name": "ballestero_ceniciento",
+      "era": "medieval",
+      "folder": "medieval/ballestero_ceniciento",
+      "manifest": "medieval/ballestero_ceniciento/ballestero_ceniciento_anim_manifest.json",
+      "targetHeight": 220,
+      "anchor": "pies",
+      "animations": 5
+    },
+    {
+      "name": "caballero_ceniciento",
+      "era": "medieval",
+      "folder": "medieval/caballero_ceniciento",
+      "manifest": "medieval/caballero_ceniciento/caballero_ceniciento_anim_manifest.json",
+      "targetHeight": 340,
+      "anchor": "pies",
+      "animations": 6
+    },
+    {
+      "name": "capataz_oxidado",
+      "era": "industrial",
+      "folder": "industrial/capataz_oxidado",
+      "manifest": "industrial/capataz_oxidado/capataz_oxidado_anim_manifest.json",
+      "targetHeight": 265,
+      "anchor": "pies",
+      "animations": 5
+    },
+    {
+      "name": "corredor_datos",
+      "era": "futuro",
+      "folder": "futuro/corredor_datos",
+      "manifest": "futuro/corredor_datos/corredor_datos_anim_manifest.json",
+      "targetHeight": 240,
+      "anchor": "pies",
+      "animations": 5
+    },
+    {
+      "name": "dron_centinela",
+      "era": "futuro",
+      "folder": "futuro/dron_centinela",
+      "manifest": "futuro/dron_centinela/dron_centinela_anim_manifest.json",
+      "targetHeight": 120,
+      "anchor": "vuelo",
+      "animations": 5
+    },
+    {
+      "name": "dron_vapor",
+      "era": "industrial",
+      "folder": "industrial/dron_vapor",
+      "manifest": "industrial/dron_vapor/dron_vapor_anim_manifest.json",
+      "targetHeight": 160,
+      "anchor": "vuelo",
+      "animations": 5
+    },
+    {
+      "name": "eco_de_ekkar",
+      "era": "hora_cero",
+      "folder": "hora_cero/eco_de_ekkar",
+      "manifest": "hora_cero/eco_de_ekkar/eco_de_ekkar_anim_manifest.json",
+      "targetHeight": 240,
+      "anchor": "pies",
+      "animations": 5
+    },
+    {
+      "name": "el_gran_yunque",
+      "era": "industrial",
+      "folder": "industrial/el_gran_yunque",
+      "manifest": "industrial/el_gran_yunque/el_gran_yunque_anim_manifest.json",
+      "targetHeight": 340,
+      "anchor": "pies",
+      "animations": 1
+    },
+    {
+      "name": "espectro_asedio",
+      "era": "medieval",
+      "folder": "medieval/espectro_asedio",
+      "manifest": "medieval/espectro_asedio/espectro_asedio_anim_manifest.json",
+      "targetHeight": 235,
+      "anchor": "vuelo",
+      "animations": 5
+    },
+    {
+      "name": "fragmento_animado",
+      "era": "hora_cero",
+      "folder": "hora_cero/fragmento_animado",
+      "manifest": "hora_cero/fragmento_animado/fragmento_animado_anim_manifest.json",
+      "targetHeight": 120,
+      "anchor": "vuelo",
+      "animations": 5
+    },
+    {
+      "name": "nemesis_digital",
+      "era": "futuro",
+      "folder": "futuro/nemesis_digital",
+      "manifest": "futuro/nemesis_digital/nemesis_digital_anim_manifest.json",
+      "targetHeight": 240,
+      "anchor": "pies",
+      "animations": 6
+    },
+    {
+      "name": "senor_del_tiempo",
+      "era": "hora_cero",
+      "folder": "hora_cero/senor_del_tiempo",
+      "manifest": "hora_cero/senor_del_tiempo/senor_del_tiempo_anim_manifest.json",
+      "targetHeight": 520,
+      "anchor": "vuelo",
+      "animations": 15
+    },
+    {
+      "name": "soldado_hueso",
+      "era": "medieval",
+      "folder": "medieval/soldado_hueso",
+      "manifest": "medieval/soldado_hueso/soldado_hueso_anim_manifest.json",
+      "targetHeight": 215,
+      "anchor": "pies",
+      "animations": 5
+    },
+    {
+      "name": "torreta_holografica",
+      "era": "futuro",
+      "folder": "futuro/torreta_holografica",
+      "manifest": "futuro/torreta_holografica/torreta_holografica_anim_manifest.json",
+      "targetHeight": 165,
+      "anchor": "pies",
+      "animations": 5
+    }
+  ]
+}

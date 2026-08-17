@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: c8cfbc040ccb858469cd7bb2211be4c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2883337989052959217
+    second: bg_cielo_0
+  - first:
+      213: -2662072813750069398
+    second: bg_cielo_1
+  - first:
+      213: 8631196919537616157
+    second: bg_cielo_2
+  - first:
+      213: 8782138514153831452
+    second: bg_cielo_3
+  - first:
+      213: -2550617198213592375
+    second: bg_cielo_4
+  - first:
+      213: 2171773097218425200
+    second: bg_cielo_5
+  - first:
+      213: -786677632441349978
+    second: bg_cielo_6
+  - first:
+      213: 6940070116224506779
+    second: bg_cielo_7
+  - first:
+      213: -5066846934621998321
+    second: bg_cielo_8
+  - first:
+      213: -7615286988596288550
+    second: bg_cielo_9
+  - first:
+      213: 1480835882638029542
+    second: bg_cielo_10
+  - first:
+      213: 352807839923167503
+    second: bg_cielo_11
+  - first:
+      213: -1778193660292415365
+    second: bg_cielo_12
+  - first:
+      213: 2810372225845870797
+    second: bg_cielo_13
+  - first:
+      213: 3541728935804931677
+    second: bg_cielo_14
+  - first:
+      213: -6503483565076579596
+    second: bg_cielo_15
+  - first:
+      213: -7307299644154388524
+    second: bg_cielo_16
+  - first:
+      213: 2984647039101668626
+    second: bg_cielo_17
+  - first:
+      213: 8696187829820931042
+    second: bg_cielo_18
+  - first:
+      213: 1468039605476442676
+    second: bg_cielo_19
+  - first:
+      213: 7012293884745050566
+    second: bg_cielo_20
+  - first:
+      213: 8265239023855765530
+    second: bg_cielo_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_cielo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1926
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06fb1320635cf7d0800000000000000
+      internalID: -2883337989052959217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 263
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d33251ea6e0bd0800000000000000
+      internalID: -2662072813750069398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 264
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d154c774edb28c770800000000000000
+      internalID: 8631196919537616157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 264
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c7a68e27c60e970800000000000000
+      internalID: 8782138514153831452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 262
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0a760c236a9cd0800000000000000
+      internalID: -2550617198213592375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 264
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07144781020b32e10800000000000000
+      internalID: 2171773097218425200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8869d7cd82515f0800000000000000
+      internalID: -786677632441349978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b9dd92005105060800000000000000
+      internalID: 6940070116224506779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 264
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03349aee81fea9b0800000000000000
+      internalID: -5066846934621998321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 264
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad36016d4d0115690800000000000000
+      internalID: -7615286988596288550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2ba43b36cfc8410800000000000000
+      internalID: 1480835882638029542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_11
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01e7947cdc65e400800000000000000
+      internalID: 352807839923167503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_12
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 266
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b704b6889469257e0800000000000000
+      internalID: -1778193660292415365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_13
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 268
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ca2046a2700720800000000000000
+      internalID: 2810372225845870797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_14
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 267
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0065c3bfb62130800000000000000
+      internalID: 3541728935804931677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_15
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faf40d872cfeb5a0800000000000000
+      internalID: -6503483565076579596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_16
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd6da70b1479a90800000000000000
+      internalID: -7307299644154388524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_17
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d83913ba89b6920800000000000000
+      internalID: 2984647039101668626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_18
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb3d80c1c01fa870800000000000000
+      internalID: 8696187829820931042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_19
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 262
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432c0a04e368f5410800000000000000
+      internalID: 1468039605476442676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_20
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c96fdca22ca05160800000000000000
+      internalID: 7012293884745050566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cielo_21
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 267
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a188e90e91704b270800000000000000
+      internalID: 8265239023855765530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_cielo_0: -2883337989052959217
+      bg_cielo_1: -2662072813750069398
+      bg_cielo_10: 1480835882638029542
+      bg_cielo_11: 352807839923167503
+      bg_cielo_12: -1778193660292415365
+      bg_cielo_13: 2810372225845870797
+      bg_cielo_14: 3541728935804931677
+      bg_cielo_15: -6503483565076579596
+      bg_cielo_16: -7307299644154388524
+      bg_cielo_17: 2984647039101668626
+      bg_cielo_18: 8696187829820931042
+      bg_cielo_19: 1468039605476442676
+      bg_cielo_2: 8631196919537616157
+      bg_cielo_20: 7012293884745050566
+      bg_cielo_21: 8265239023855765530
+      bg_cielo_3: 8782138514153831452
+      bg_cielo_4: -2550617198213592375
+      bg_cielo_5: 2171773097218425200
+      bg_cielo_6: -786677632441349978
+      bg_cielo_7: 6940070116224506779
+      bg_cielo_8: -5066846934621998321
+      bg_cielo_9: -7615286988596288550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

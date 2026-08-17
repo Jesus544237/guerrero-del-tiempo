@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 8e6a4a7d5eed88d4093cb57bbe57571b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -661304860038160761
+    second: soldado_hueso_muerte_0
+  - first:
+      213: -6180586007712036176
+    second: soldado_hueso_muerte_1
+  - first:
+      213: 3280611722273354159
+    second: soldado_hueso_muerte_2
+  - first:
+      213: 111434624811268353
+    second: soldado_hueso_muerte_3
+  - first:
+      213: -299894451179973574
+    second: soldado_hueso_muerte_4
+  - first:
+      213: 6954569481511835390
+    second: soldado_hueso_muerte_5
+  - first:
+      213: -4714222117699190626
+    second: soldado_hueso_muerte_6
+  - first:
+      213: 1485454444964750363
+    second: soldado_hueso_muerte_7
+  - first:
+      213: 5715988981810809599
+    second: soldado_hueso_muerte_8
+  - first:
+      213: 6283605227807577013
+    second: soldado_hueso_muerte_9
+  - first:
+      213: 1264618042733570936
+    second: soldado_hueso_muerte_10
+  - first:
+      213: -8731805578307827523
+    second: soldado_hueso_muerte_11
+  - first:
+      213: 1792526810973836113
+    second: soldado_hueso_muerte_12
+  - first:
+      213: 8670361218204976167
+    second: soldado_hueso_muerte_13
+  - first:
+      213: 2703327027051937267
+    second: soldado_hueso_muerte_14
+  - first:
+      213: -7998739016196500786
+    second: soldado_hueso_muerte_15
+  - first:
+      213: -2664349853963400339
+    second: soldado_hueso_muerte_16
+  - first:
+      213: 8152108249040107079
+    second: soldado_hueso_muerte_17
+  - first:
+      213: 7421032291395903008
+    second: soldado_hueso_muerte_18
+  - first:
+      213: -7477660357396664525
+    second: soldado_hueso_muerte_19
+  - first:
+      213: -8966647976472303901
+    second: soldado_hueso_muerte_20
+  - first:
+      213: 8465709083423649063
+    second: soldado_hueso_muerte_21
+  - first:
+      213: -8885384064086898382
+    second: soldado_hueso_muerte_22
+  - first:
+      213: 6460865138203850281
+    second: soldado_hueso_muerte_23
+  - first:
+      213: -8170996521804573811
+    second: soldado_hueso_muerte_24
+  - first:
+      213: -6566669367003787440
+    second: soldado_hueso_muerte_25
+  - first:
+      213: 5884587273884970225
+    second: soldado_hueso_muerte_26
+  - first:
+      213: 520401799995636887
+    second: soldado_hueso_muerte_27
+  - first:
+      213: 5972343870549533868
+    second: soldado_hueso_muerte_28
+  - first:
+      213: 8984091391141736074
+    second: soldado_hueso_muerte_29
+  - first:
+      213: 7193861470505866339
+    second: soldado_hueso_muerte_30
+  - first:
+      213: 3573742780103373041
+    second: soldado_hueso_muerte_31
+  - first:
+      213: -2624147449889341892
+    second: soldado_hueso_muerte_32
+  - first:
+      213: -6216001769241675328
+    second: soldado_hueso_muerte_33
+  - first:
+      213: 2495925626676171225
+    second: soldado_hueso_muerte_34
+  - first:
+      213: -8739482930142644533
+    second: soldado_hueso_muerte_35
+  - first:
+      213: -3145739925802836042
+    second: soldado_hueso_muerte_36
+  - first:
+      213: 4094901441139356201
+    second: soldado_hueso_muerte_37
+  - first:
+      213: -5131251139388321894
+    second: soldado_hueso_muerte_38
+  - first:
+      213: 9031563760567381926
+    second: soldado_hueso_muerte_39
+  - first:
+      213: -4068690830436908776
+    second: soldado_hueso_muerte_40
+  - first:
+      213: -4881481651455806396
+    second: soldado_hueso_muerte_41
+  - first:
+      213: 5938490607738390608
+    second: soldado_hueso_muerte_42
+  - first:
+      213: -225461265380373427
+    second: soldado_hueso_muerte_43
+  - first:
+      213: 1071138721744969353
+    second: soldado_hueso_muerte_44
+  - first:
+      213: 1450470855814330328
+    second: soldado_hueso_muerte_45
+  - first:
+      213: -6258945434080687359
+    second: soldado_hueso_muerte_46
+  - first:
+      213: -7171570159083319925
+    second: soldado_hueso_muerte_47
+  - first:
+      213: -2598798918860068389
+    second: soldado_hueso_muerte_48
+  - first:
+      213: 3471453724858910665
+    second: soldado_hueso_muerte_49
+  - first:
+      213: -6426239299552719533
+    second: soldado_hueso_muerte_50
+  - first:
+      213: -2807084458494366114
+    second: soldado_hueso_muerte_51
+  - first:
+      213: -6016989183164018804
+    second: soldado_hueso_muerte_52
+  - first:
+      213: 7181127384674659122
+    second: soldado_hueso_muerte_53
+  - first:
+      213: 3135097483267843729
+    second: soldado_hueso_muerte_54
+  - first:
+      213: 4470202425485502231
+    second: soldado_hueso_muerte_55
+  - first:
+      213: -4534132454261993256
+    second: soldado_hueso_muerte_56
+  - first:
+      213: 8024448118750853732
+    second: soldado_hueso_muerte_57
+  - first:
+      213: -7870510619801058382
+    second: soldado_hueso_muerte_58
+  - first:
+      213: -4674976306529449374
+    second: soldado_hueso_muerte_59
+  - first:
+      213: -3845581764029521443
+    second: soldado_hueso_muerte_60
+  - first:
+      213: 4717823417643718094
+    second: soldado_hueso_muerte_61
+  - first:
+      213: -8217556750625811576
+    second: soldado_hueso_muerte_62
+  - first:
+      213: -973273260654963178
+    second: soldado_hueso_muerte_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759253398773f84b8196bebac6fb39d
+      internalID: 281508685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed88412999e0b41b3f74b410159aec
+      internalID: -2065677793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92bdbff40a2bb946a6c00d5a9e9262e
+      internalID: 845752573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739886811860ce84abffeb689e549f9f
+      internalID: -1951099716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307b8c3cd4b0454ca14f0577e945cf0
+      internalID: -1370646217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03123eaeb2aebed488ea595b71032d62
+      internalID: 1978619254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ce196ea4bdb704890de92244016e1c
+      internalID: -1651524104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 222
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b414b9dbf91c21b429cb84eab9fd7a0c
+      internalID: -1251979916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b96558515b999499f76f59ca0e83ca
+      internalID: 1862809915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7be831b9331a42931006557497139
+      internalID: -1230638931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7fec8fd151194cb6ce645038dc2ec
+      internalID: 1264618042733570936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado_hueso_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 438
+        height: 222
+      alignment: 9
+      pivot: {x: 0.618721, y: 0.018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75095c49836d34dae7795161216611
+      internalID: -8731805578307827523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a43c6e2b94a6b2468b5d5ee7a115404
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soldado_hueso_muerte_00: 281508685
+      soldado_hueso_muerte_01: -2065677793
+      soldado_hueso_muerte_02: 845752573
+      soldado_hueso_muerte_03: -1951099716
+      soldado_hueso_muerte_04: -1370646217
+      soldado_hueso_muerte_05: 1978619254
+      soldado_hueso_muerte_06: -1651524104
+      soldado_hueso_muerte_07: -1251979916
+      soldado_hueso_muerte_08: 1862809915
+      soldado_hueso_muerte_09: -1230638931
+      soldado_hueso_muerte_10: 1264618042733570936
+      soldado_hueso_muerte_11: -8731805578307827523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

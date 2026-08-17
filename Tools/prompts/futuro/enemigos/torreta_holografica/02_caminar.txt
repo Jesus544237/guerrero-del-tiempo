@@ -1,0 +1,19 @@
+RENDERING: 2D pixel art, 16-bit era style, crisp hard pixel edges and subtle dithering. NO motion blur, NO anti-aliasing smear, NO film grain, NO lens flare, NO depth of field, NO cinematic colour grading. Every single frame must look like a hand-drawn sprite frame that could be cut straight out of a sprite sheet.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+SUBJECT: Look carefully at the attached reference image of the hero Ekkar and match its art style, pixel density, outline treatment, shading and body proportions exactly, so this character looks like it belongs in the same game. A holographic turret: a heavy hexagonal base bolted to the ground with a floating projector head hovering just above it, ringed by three rotating gold gear-plates. The head is a cracked cyan hologram of an eye. Magenta warning lights on the base. Two thirds the hero's height, wide and squat.
+
+ANIMATION: it does not walk. Instead the projector head rises higher off the base and settles back down in a slow hovering pulse, gear-plates spinning up and slowing again.
+
+CAMERA: absolutely locked off. No panning, no zooming, no tilting, no camera shake, no parallax. The camera does not move for a single frame of the clip.
+
+SUBJECT PLACEMENT: one single character, seen from a strict SIDE VIEW facing right, standing on an invisible ground line. It stays centred in the LEFT TWO THIRDS of the frame at a constant size for the whole clip. It animates in place, like on a treadmill: it must never drift across the frame, never change scale, never leave the frame and never turn to face the camera.
+
+The BOTTOM-RIGHT CORNER of the frame must stay completely empty green, with no part of the character, no effect and no glow reaching into it.
+
+BACKGROUND: pure flat solid chroma green #00FF00 filling the entire frame for the entire duration, absolutely uniform, no gradient, no shadow, no vignette, no light spill onto it, no ground, no floor, no scenery, no props. The green must be the exact same shade in every frame. Chroma green must never appear anywhere on the character itself or in its effects.
+
+TIMING: the animation is a seamless loop. The last frame must match the first frame exactly. Play the complete cycle 3 times over the clip, at a steady even speed, with no pauses and no speed ramps.
+
+Hard requirements: only one character, no other creatures, no text, no letters, no numbers, no user interface, no health bars, no logos, no frame, no border, no background elements of any kind.

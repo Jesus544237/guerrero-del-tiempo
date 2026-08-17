@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 42de8007ad714e649b262152465f05c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1146969023676775182
+    second: senor_del_tiempo_portal_aparicion_0
+  - first:
+      213: 2592593931247498351
+    second: senor_del_tiempo_portal_aparicion_1
+  - first:
+      213: -5041487900707506242
+    second: senor_del_tiempo_portal_aparicion_2
+  - first:
+      213: 6141314392390901552
+    second: senor_del_tiempo_portal_aparicion_3
+  - first:
+      213: -7519154068333508438
+    second: senor_del_tiempo_portal_aparicion_4
+  - first:
+      213: -1368680188930418239
+    second: senor_del_tiempo_portal_aparicion_5
+  - first:
+      213: -958061965250790175
+    second: senor_del_tiempo_portal_aparicion_6
+  - first:
+      213: 578875439481868156
+    second: senor_del_tiempo_portal_aparicion_7
+  - first:
+      213: 7695809100136021681
+    second: senor_del_tiempo_portal_aparicion_8
+  - first:
+      213: -4681975540655441874
+    second: senor_del_tiempo_portal_aparicion_9
+  - first:
+      213: 3031817295874269880
+    second: senor_del_tiempo_portal_aparicion_10
+  - first:
+      213: -9012340471069806800
+    second: senor_del_tiempo_portal_aparicion_11
+  - first:
+      213: -2858835144043626489
+    second: senor_del_tiempo_portal_aparicion_12
+  - first:
+      213: 7772783236336925116
+    second: senor_del_tiempo_portal_aparicion_13
+  - first:
+      213: -8769582913644208451
+    second: senor_del_tiempo_portal_aparicion_14
+  - first:
+      213: -919088278055127724
+    second: senor_del_tiempo_portal_aparicion_15
+  - first:
+      213: -2547492496074359064
+    second: senor_del_tiempo_portal_aparicion_16
+  - first:
+      213: -6669016717027962246
+    second: senor_del_tiempo_portal_aparicion_17
+  - first:
+      213: -7205308264296557300
+    second: senor_del_tiempo_portal_aparicion_18
+  - first:
+      213: -6355191288368435313
+    second: senor_del_tiempo_portal_aparicion_19
+  - first:
+      213: 1012816741392141119
+    second: senor_del_tiempo_portal_aparicion_20
+  - first:
+      213: -9171684752169938577
+    second: senor_del_tiempo_portal_aparicion_21
+  - first:
+      213: -5531332760469696441
+    second: senor_del_tiempo_portal_aparicion_22
+  - first:
+      213: 1263765188960139905
+    second: senor_del_tiempo_portal_aparicion_23
+  - first:
+      213: 5204013024507106950
+    second: senor_del_tiempo_portal_aparicion_24
+  - first:
+      213: -6538531510058908991
+    second: senor_del_tiempo_portal_aparicion_25
+  - first:
+      213: 1962967571007427170
+    second: senor_del_tiempo_portal_aparicion_26
+  - first:
+      213: -4076542461068149176
+    second: senor_del_tiempo_portal_aparicion_27
+  - first:
+      213: 5448849708322412813
+    second: senor_del_tiempo_portal_aparicion_28
+  - first:
+      213: 5708231743598051103
+    second: senor_del_tiempo_portal_aparicion_29
+  - first:
+      213: 6344172695367454841
+    second: senor_del_tiempo_portal_aparicion_30
+  - first:
+      213: 7276100577703953851
+    second: senor_del_tiempo_portal_aparicion_31
+  - first:
+      213: -318003796500535824
+    second: senor_del_tiempo_portal_aparicion_32
+  - first:
+      213: -4987395356534912242
+    second: senor_del_tiempo_portal_aparicion_33
+  - first:
+      213: -6343603793271049839
+    second: senor_del_tiempo_portal_aparicion_34
+  - first:
+      213: 8472451356868463617
+    second: senor_del_tiempo_portal_aparicion_35
+  - first:
+      213: -6669578677854306603
+    second: senor_del_tiempo_portal_aparicion_36
+  - first:
+      213: -5160853753154002820
+    second: senor_del_tiempo_portal_aparicion_37
+  - first:
+      213: -6187668238757513418
+    second: senor_del_tiempo_portal_aparicion_38
+  - first:
+      213: 6218763243282524119
+    second: senor_del_tiempo_portal_aparicion_39
+  - first:
+      213: -4886226408063958181
+    second: senor_del_tiempo_portal_aparicion_40
+  - first:
+      213: 3962435072083508461
+    second: senor_del_tiempo_portal_aparicion_41
+  - first:
+      213: 3499952318960553862
+    second: senor_del_tiempo_portal_aparicion_42
+  - first:
+      213: 2307962327661493695
+    second: senor_del_tiempo_portal_aparicion_43
+  - first:
+      213: 893748377593419061
+    second: senor_del_tiempo_portal_aparicion_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6892f27ace9e44547ab677fb6c26fc2f
+      internalID: 839942691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_01
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e65959b7c2111145be0b95bcfe24893
+      internalID: -173065261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_02
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be112f54ca030d4dbde38719b3f8f08
+      internalID: 1482765150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_03
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53394cad50651b4abcf8a4dab9d109f
+      internalID: -1301828147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_04
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c3afe1cbc98f49bb9b12550a33418
+      internalID: 346583757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_05
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00812c438fe9e74f98ba8ffef679599
+      internalID: -1364391700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_06
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4372e3ece4b5ff45b07daae0ba4413b
+      internalID: 1766432532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_07
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 542
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2667964addf9542b618608d992c5a0
+      internalID: -2024956555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0227ea1894c734cb8f7f8f5803927a
+      internalID: -1380281810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_09
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c542278efb760824aafb3e093d01c0fe
+      internalID: -1933507519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_10
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 0
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0841bf422c6124d4094108e9874656c5
+      internalID: 3031817295874269880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_11
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 0
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039dadcb12aa5d24ab8e1113eae6ed69
+      internalID: -9012340471069806800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_12
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 0
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da3bb2b142d331499ca6c808896957a
+      internalID: -2858835144043626489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_portal_aparicion_13
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 0
+        width: 808
+        height: 542
+      alignment: 9
+      pivot: {x: 0.498762, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389da3330273b244e9137ae876420f6f
+      internalID: 7772783236336925116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d22aa8c428ca58546a9fa6c67fe64c62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_portal_aparicion_00: 839942691
+      senor_del_tiempo_portal_aparicion_01: -173065261
+      senor_del_tiempo_portal_aparicion_02: 1482765150
+      senor_del_tiempo_portal_aparicion_03: -1301828147
+      senor_del_tiempo_portal_aparicion_04: 346583757
+      senor_del_tiempo_portal_aparicion_05: -1364391700
+      senor_del_tiempo_portal_aparicion_06: 1766432532
+      senor_del_tiempo_portal_aparicion_07: -2024956555
+      senor_del_tiempo_portal_aparicion_08: -1380281810
+      senor_del_tiempo_portal_aparicion_09: -1933507519
+      senor_del_tiempo_portal_aparicion_10: 3031817295874269880
+      senor_del_tiempo_portal_aparicion_11: -9012340471069806800
+      senor_del_tiempo_portal_aparicion_12: -2858835144043626489
+      senor_del_tiempo_portal_aparicion_13: 7772783236336925116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

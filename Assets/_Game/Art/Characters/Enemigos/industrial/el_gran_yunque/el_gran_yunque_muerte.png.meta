@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: f5a0e6d3dfdd28a4ea45405af26307ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1623531362705879315
+    second: el_gran_yunque_muerte_0
+  - first:
+      213: -6689345285855022600
+    second: el_gran_yunque_muerte_1
+  - first:
+      213: -590785800934616720
+    second: el_gran_yunque_muerte_2
+  - first:
+      213: 1820528713228816719
+    second: el_gran_yunque_muerte_3
+  - first:
+      213: 6950906411373406481
+    second: el_gran_yunque_muerte_4
+  - first:
+      213: 7822274321930073965
+    second: el_gran_yunque_muerte_5
+  - first:
+      213: 7300986819430887015
+    second: el_gran_yunque_muerte_6
+  - first:
+      213: -6135351159671607314
+    second: el_gran_yunque_muerte_7
+  - first:
+      213: 9157967028611990659
+    second: el_gran_yunque_muerte_8
+  - first:
+      213: 8606439409402710204
+    second: el_gran_yunque_muerte_9
+  - first:
+      213: -3222828738778276112
+    second: el_gran_yunque_muerte_10
+  - first:
+      213: -5229184262163118190
+    second: el_gran_yunque_muerte_11
+  - first:
+      213: -572316467191621909
+    second: el_gran_yunque_muerte_12
+  - first:
+      213: 6164725931910150705
+    second: el_gran_yunque_muerte_13
+  - first:
+      213: 790891698140301594
+    second: el_gran_yunque_muerte_14
+  - first:
+      213: 5822693048785209388
+    second: el_gran_yunque_muerte_15
+  - first:
+      213: -7411761251625424754
+    second: el_gran_yunque_muerte_16
+  - first:
+      213: -1240540035698474578
+    second: el_gran_yunque_muerte_17
+  - first:
+      213: -9156547729630606272
+    second: el_gran_yunque_muerte_18
+  - first:
+      213: 4690825926697796471
+    second: el_gran_yunque_muerte_19
+  - first:
+      213: -7640253248157451415
+    second: el_gran_yunque_muerte_20
+  - first:
+      213: 7097894776190132964
+    second: el_gran_yunque_muerte_21
+  - first:
+      213: 1645586205332970821
+    second: el_gran_yunque_muerte_22
+  - first:
+      213: -7652975246377058031
+    second: el_gran_yunque_muerte_23
+  - first:
+      213: 4947130073409244884
+    second: el_gran_yunque_muerte_24
+  - first:
+      213: -1231582021920597215
+    second: el_gran_yunque_muerte_25
+  - first:
+      213: -8423203059348186724
+    second: el_gran_yunque_muerte_26
+  - first:
+      213: -2856030983796364598
+    second: el_gran_yunque_muerte_27
+  - first:
+      213: 5131201438284049015
+    second: el_gran_yunque_muerte_28
+  - first:
+      213: -4741070879126469529
+    second: el_gran_yunque_muerte_29
+  - first:
+      213: -8166369998834941999
+    second: el_gran_yunque_muerte_30
+  - first:
+      213: -2651257520351611358
+    second: el_gran_yunque_muerte_31
+  - first:
+      213: -3802203336428180838
+    second: el_gran_yunque_muerte_32
+  - first:
+      213: 5348022209280136307
+    second: el_gran_yunque_muerte_33
+  - first:
+      213: 3050832464579680373
+    second: el_gran_yunque_muerte_34
+  - first:
+      213: 4040015359933458677
+    second: el_gran_yunque_muerte_35
+  - first:
+      213: 1290693527328393048
+    second: el_gran_yunque_muerte_36
+  - first:
+      213: -5864906718278234284
+    second: el_gran_yunque_muerte_37
+  - first:
+      213: -3724949190777293414
+    second: el_gran_yunque_muerte_38
+  - first:
+      213: 1412599815930450105
+    second: el_gran_yunque_muerte_39
+  - first:
+      213: 7668662252312111788
+    second: el_gran_yunque_muerte_40
+  - first:
+      213: -7119228019562875091
+    second: el_gran_yunque_muerte_41
+  - first:
+      213: 5717406909965761552
+    second: el_gran_yunque_muerte_42
+  - first:
+      213: 3061526448172509741
+    second: el_gran_yunque_muerte_43
+  - first:
+      213: -845986858411233903
+    second: el_gran_yunque_muerte_44
+  - first:
+      213: 6865657572323875445
+    second: el_gran_yunque_muerte_45
+  - first:
+      213: 1844978617800333084
+    second: el_gran_yunque_muerte_46
+  - first:
+      213: 6813748676985679263
+    second: el_gran_yunque_muerte_47
+  - first:
+      213: -7238773565075116187
+    second: el_gran_yunque_muerte_48
+  - first:
+      213: -4912279711342262565
+    second: el_gran_yunque_muerte_49
+  - first:
+      213: 5961438729767421656
+    second: el_gran_yunque_muerte_50
+  - first:
+      213: 4325041378991242168
+    second: el_gran_yunque_muerte_51
+  - first:
+      213: -6012204571248926967
+    second: el_gran_yunque_muerte_52
+  - first:
+      213: -2585962655420564587
+    second: el_gran_yunque_muerte_53
+  - first:
+      213: -4666258572659749620
+    second: el_gran_yunque_muerte_54
+  - first:
+      213: -549715892154546420
+    second: el_gran_yunque_muerte_55
+  - first:
+      213: -1722465661841899318
+    second: el_gran_yunque_muerte_56
+  - first:
+      213: 3799822396441320982
+    second: el_gran_yunque_muerte_57
+  - first:
+      213: -9134428701210302471
+    second: el_gran_yunque_muerte_58
+  - first:
+      213: 8390426535651502601
+    second: el_gran_yunque_muerte_59
+  - first:
+      213: -7088484669846214646
+    second: el_gran_yunque_muerte_60
+  - first:
+      213: -6955382655203328162
+    second: el_gran_yunque_muerte_61
+  - first:
+      213: 7970534191401500764
+    second: el_gran_yunque_muerte_62
+  - first:
+      213: 3287355601851302983
+    second: el_gran_yunque_muerte_63
+  - first:
+      213: 2520042550759865248
+    second: el_gran_yunque_muerte_64
+  - first:
+      213: -7616086239561339591
+    second: el_gran_yunque_muerte_65
+  - first:
+      213: 1667564580792552165
+    second: el_gran_yunque_muerte_66
+  - first:
+      213: 1634813630339552926
+    second: el_gran_yunque_muerte_67
+  - first:
+      213: -719357455349391936
+    second: el_gran_yunque_muerte_68
+  - first:
+      213: -738019759402428577
+    second: el_gran_yunque_muerte_69
+  - first:
+      213: 289902793306123351
+    second: el_gran_yunque_muerte_70
+  - first:
+      213: 7757184351173490274
+    second: el_gran_yunque_muerte_71
+  - first:
+      213: 3856842709864115465
+    second: el_gran_yunque_muerte_72
+  - first:
+      213: -4153941512971223946
+    second: el_gran_yunque_muerte_73
+  - first:
+      213: 7752987182241453077
+    second: el_gran_yunque_muerte_74
+  - first:
+      213: 2056232381887081465
+    second: el_gran_yunque_muerte_75
+  - first:
+      213: -1445427708094297431
+    second: el_gran_yunque_muerte_76
+  - first:
+      213: 1365229058590208678
+    second: el_gran_yunque_muerte_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a555c63485e041ad124b23f661198
+      internalID: -2006410130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c5c23ed0c14de4eb40b78fd83509ee
+      internalID: 1425866198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29120afea1c2e3140929ff3503c86d52
+      internalID: 2070788339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29af04d71055e894b889b7ce2a01aaf1
+      internalID: -1961951279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0df6cdac7a904fb2c118a42e4c2df
+      internalID: -1806173701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de207f06ca73e45a9f387e8bdddf11
+      internalID: 582686859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f69566aed265e4590e572a9cb86d4d
+      internalID: -650679700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 370
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c35341ccf3c0b74cb36c50d623043a1
+      internalID: -613101466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9207765056d7e64393f69612e34653c
+      internalID: 1730691257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d39d4c129acaa4aa3b3da7c940de0a
+      internalID: 1307575096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 0
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee47441e7e6adb4f998af7cdb514ed0
+      internalID: -3222828738778276112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 0
+        width: 626
+        height: 370
+      alignment: 9
+      pivot: {x: 0.447284, y: 0.010811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf61a7cbb5c71f24db34f8c1ba634b24
+      internalID: -5229184262163118190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 85ccee83eba85a340ab11187611b2038
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      el_gran_yunque_muerte_00: -2006410130
+      el_gran_yunque_muerte_01: 1425866198
+      el_gran_yunque_muerte_02: 2070788339
+      el_gran_yunque_muerte_03: -1961951279
+      el_gran_yunque_muerte_04: -1806173701
+      el_gran_yunque_muerte_05: 582686859
+      el_gran_yunque_muerte_06: -650679700
+      el_gran_yunque_muerte_07: -613101466
+      el_gran_yunque_muerte_08: 1730691257
+      el_gran_yunque_muerte_09: 1307575096
+      el_gran_yunque_muerte_10: -3222828738778276112
+      el_gran_yunque_muerte_11: -5229184262163118190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 5cdb599d4029973429ec76c69eaab9f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1408365739313328582
+    second: senor_del_tiempo_ataque_detener_tiempo_0
+  - first:
+      213: 7780087720537473203
+    second: senor_del_tiempo_ataque_detener_tiempo_1
+  - first:
+      213: -8034273332822898928
+    second: senor_del_tiempo_ataque_detener_tiempo_2
+  - first:
+      213: 8514530075040889749
+    second: senor_del_tiempo_ataque_detener_tiempo_3
+  - first:
+      213: 9211564871757097754
+    second: senor_del_tiempo_ataque_detener_tiempo_4
+  - first:
+      213: -24586375250176616
+    second: senor_del_tiempo_ataque_detener_tiempo_5
+  - first:
+      213: 2476018434407625847
+    second: senor_del_tiempo_ataque_detener_tiempo_6
+  - first:
+      213: -1212547498834535758
+    second: senor_del_tiempo_ataque_detener_tiempo_7
+  - first:
+      213: -4977393760015974719
+    second: senor_del_tiempo_ataque_detener_tiempo_8
+  - first:
+      213: 3961856187108540829
+    second: senor_del_tiempo_ataque_detener_tiempo_9
+  - first:
+      213: -8911197067393206542
+    second: senor_del_tiempo_ataque_detener_tiempo_10
+  - first:
+      213: -6928117545536932433
+    second: senor_del_tiempo_ataque_detener_tiempo_11
+  - first:
+      213: 8947734700341236528
+    second: senor_del_tiempo_ataque_detener_tiempo_12
+  - first:
+      213: 471959555334374832
+    second: senor_del_tiempo_ataque_detener_tiempo_13
+  - first:
+      213: -2971298534930571443
+    second: senor_del_tiempo_ataque_detener_tiempo_14
+  - first:
+      213: 1060678823548577613
+    second: senor_del_tiempo_ataque_detener_tiempo_15
+  - first:
+      213: 4455557604004857553
+    second: senor_del_tiempo_ataque_detener_tiempo_16
+  - first:
+      213: -1085482918587415959
+    second: senor_del_tiempo_ataque_detener_tiempo_17
+  - first:
+      213: 3367641823837474506
+    second: senor_del_tiempo_ataque_detener_tiempo_18
+  - first:
+      213: 3586398320749827180
+    second: senor_del_tiempo_ataque_detener_tiempo_19
+  - first:
+      213: -4747910761534721622
+    second: senor_del_tiempo_ataque_detener_tiempo_20
+  - first:
+      213: -9099194146981324392
+    second: senor_del_tiempo_ataque_detener_tiempo_21
+  - first:
+      213: -3746746812924654542
+    second: senor_del_tiempo_ataque_detener_tiempo_22
+  - first:
+      213: -4028112281131760033
+    second: senor_del_tiempo_ataque_detener_tiempo_23
+  - first:
+      213: 5983384202404058680
+    second: senor_del_tiempo_ataque_detener_tiempo_24
+  - first:
+      213: -7872857580066865004
+    second: senor_del_tiempo_ataque_detener_tiempo_25
+  - first:
+      213: -633481114492870416
+    second: senor_del_tiempo_ataque_detener_tiempo_26
+  - first:
+      213: 4311637211085375850
+    second: senor_del_tiempo_ataque_detener_tiempo_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1622f396ad99bf0469006f371d5604e7
+      internalID: -476558682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_01
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e81d1b5f3d434bbcc22a3c222abf9
+      internalID: -1233595600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_02
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98078b6448d2824f93ca6aea264d5ef
+      internalID: 1389132030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_03
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30956a807bc83242884f9cb91823af4
+      internalID: 1975435007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_04
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b9feb72deedd4cb1edaa0cdde4fa2
+      internalID: -1019364840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_05
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5363b207be5ad5241b988affe625b522
+      internalID: 992433565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_06
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6293db07342fa7b43a3fc3993096c0b1
+      internalID: -2116098837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_07
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 542
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add90e0340111c4b91d8a06c0e53594
+      internalID: -1022243351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cac9280e068247b586131745d9cc3
+      internalID: -1344528350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_ataque_detener_tiempo_09
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 810
+        height: 542
+      alignment: 9
+      pivot: {x: 0.490123, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c28a1aa2110b499ebb48fc6e9a710
+      internalID: -343715797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 521991cb9ab1a8f4db3caf3c69703724
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_ataque_detener_tiempo_00: -476558682
+      senor_del_tiempo_ataque_detener_tiempo_01: -1233595600
+      senor_del_tiempo_ataque_detener_tiempo_02: 1389132030
+      senor_del_tiempo_ataque_detener_tiempo_03: 1975435007
+      senor_del_tiempo_ataque_detener_tiempo_04: -1019364840
+      senor_del_tiempo_ataque_detener_tiempo_05: 992433565
+      senor_del_tiempo_ataque_detener_tiempo_06: -2116098837
+      senor_del_tiempo_ataque_detener_tiempo_07: -1022243351
+      senor_del_tiempo_ataque_detener_tiempo_08: -1344528350
+      senor_del_tiempo_ataque_detener_tiempo_09: -343715797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

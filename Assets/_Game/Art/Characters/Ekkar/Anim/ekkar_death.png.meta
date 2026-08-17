@@ -1,0 +1,1485 @@
+fileFormatVersion: 2
+guid: e4a3138d2d5591c4c939b41b14734402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -61611544217359337
+    second: ekkar_death_0
+  - first:
+      213: -6462343706241889935
+    second: ekkar_death_1
+  - first:
+      213: 7253016554276980171
+    second: ekkar_death_2
+  - first:
+      213: 5191808004534908728
+    second: ekkar_death_3
+  - first:
+      213: -3308921460640211161
+    second: ekkar_death_4
+  - first:
+      213: 5758131814933784279
+    second: ekkar_death_5
+  - first:
+      213: 95700813649838870
+    second: ekkar_death_6
+  - first:
+      213: -5366980913453941278
+    second: ekkar_death_7
+  - first:
+      213: -4935713125687852758
+    second: ekkar_death_8
+  - first:
+      213: 3141473581213714775
+    second: ekkar_death_9
+  - first:
+      213: 7426696367458919698
+    second: ekkar_death_10
+  - first:
+      213: -6762762919967983597
+    second: ekkar_death_11
+  - first:
+      213: 8708385418247710734
+    second: ekkar_death_12
+  - first:
+      213: 4977020087794187880
+    second: ekkar_death_13
+  - first:
+      213: -5761835724368556061
+    second: ekkar_death_14
+  - first:
+      213: 7825069785383745365
+    second: ekkar_death_15
+  - first:
+      213: 4473880235826971383
+    second: ekkar_death_16
+  - first:
+      213: -2561872852734952398
+    second: ekkar_death_17
+  - first:
+      213: -7769382538383472555
+    second: ekkar_death_18
+  - first:
+      213: 1541409291120045614
+    second: ekkar_death_19
+  - first:
+      213: -3362094050336370623
+    second: ekkar_death_20
+  - first:
+      213: -2940540085731740403
+    second: ekkar_death_21
+  - first:
+      213: 1266747039948719100
+    second: ekkar_death_22
+  - first:
+      213: 8639548634102347068
+    second: ekkar_death_23
+  - first:
+      213: -7675981232947179980
+    second: ekkar_death_24
+  - first:
+      213: 5059793159421757486
+    second: ekkar_death_25
+  - first:
+      213: -6107233884413720784
+    second: ekkar_death_26
+  - first:
+      213: -5130641285928881479
+    second: ekkar_death_27
+  - first:
+      213: 2262476443081232688
+    second: ekkar_death_28
+  - first:
+      213: 5155646941238539057
+    second: ekkar_death_29
+  - first:
+      213: 5558127946862351302
+    second: ekkar_death_30
+  - first:
+      213: 8177645313256315160
+    second: ekkar_death_31
+  - first:
+      213: -4369606598729303312
+    second: ekkar_death_32
+  - first:
+      213: -2863776425419185867
+    second: ekkar_death_33
+  - first:
+      213: 3176169154440528111
+    second: ekkar_death_34
+  - first:
+      213: -9020365513445188011
+    second: ekkar_death_35
+  - first:
+      213: 1915109392997103216
+    second: ekkar_death_36
+  - first:
+      213: 851860137465861499
+    second: ekkar_death_37
+  - first:
+      213: -684111825951825238
+    second: ekkar_death_38
+  - first:
+      213: -4807471986964079988
+    second: ekkar_death_39
+  - first:
+      213: 4170378822008968620
+    second: ekkar_death_40
+  - first:
+      213: 7410387753125169521
+    second: ekkar_death_41
+  - first:
+      213: -1310115243399316829
+    second: ekkar_death_42
+  - first:
+      213: -3490956760264196205
+    second: ekkar_death_43
+  - first:
+      213: -3970241088952096444
+    second: ekkar_death_44
+  - first:
+      213: 8294307739476822230
+    second: ekkar_death_45
+  - first:
+      213: 4226302868788939961
+    second: ekkar_death_46
+  - first:
+      213: 1832948174369366507
+    second: ekkar_death_47
+  - first:
+      213: -4602285531565561983
+    second: ekkar_death_48
+  - first:
+      213: 6942263148380039940
+    second: ekkar_death_49
+  - first:
+      213: -6188689237360326771
+    second: ekkar_death_50
+  - first:
+      213: 778170014759163623
+    second: ekkar_death_51
+  - first:
+      213: -8947619093114151602
+    second: ekkar_death_52
+  - first:
+      213: -5904182746178877515
+    second: ekkar_death_53
+  - first:
+      213: 4733045610357886776
+    second: ekkar_death_54
+  - first:
+      213: -5463670484474024312
+    second: ekkar_death_55
+  - first:
+      213: -8137831383071425411
+    second: ekkar_death_56
+  - first:
+      213: 3388468429402919223
+    second: ekkar_death_57
+  - first:
+      213: 2231108618140366848
+    second: ekkar_death_58
+  - first:
+      213: 5543364598370759654
+    second: ekkar_death_59
+  - first:
+      213: 2876490241939124898
+    second: ekkar_death_60
+  - first:
+      213: -2072124427213791304
+    second: ekkar_death_61
+  - first:
+      213: -7057707615674392372
+    second: ekkar_death_62
+  - first:
+      213: -3298465961596004693
+    second: ekkar_death_63
+  - first:
+      213: -6864447707813566506
+    second: ekkar_death_64
+  - first:
+      213: 410775672618832446
+    second: ekkar_death_65
+  - first:
+      213: -5684400821005883953
+    second: ekkar_death_66
+  - first:
+      213: 8231733717960623353
+    second: ekkar_death_67
+  - first:
+      213: 1500691341413514260
+    second: ekkar_death_68
+  - first:
+      213: -651496466250505219
+    second: ekkar_death_69
+  - first:
+      213: 5524964813436698238
+    second: ekkar_death_70
+  - first:
+      213: -7852218962067441225
+    second: ekkar_death_71
+  - first:
+      213: 1646596679398533340
+    second: ekkar_death_72
+  - first:
+      213: 2002738259873791548
+    second: ekkar_death_73
+  - first:
+      213: 7027020682365093133
+    second: ekkar_death_74
+  - first:
+      213: -2920060453629701133
+    second: ekkar_death_75
+  - first:
+      213: 7223879103739119089
+    second: ekkar_death_76
+  - first:
+      213: -564934241295955650
+    second: ekkar_death_77
+  - first:
+      213: 4335913370848337222
+    second: ekkar_death_78
+  - first:
+      213: 1714957032764339644
+    second: ekkar_death_79
+  - first:
+      213: -8248375964079164951
+    second: ekkar_death_80
+  - first:
+      213: 4111185825707012534
+    second: ekkar_death_81
+  - first:
+      213: -4054880915334983518
+    second: ekkar_death_82
+  - first:
+      213: 8748096798639150836
+    second: ekkar_death_83
+  - first:
+      213: 2595504916921618174
+    second: ekkar_death_84
+  - first:
+      213: 1852713310254096304
+    second: ekkar_death_85
+  - first:
+      213: 2907310206442505433
+    second: ekkar_death_86
+  - first:
+      213: -2918648230567517046
+    second: ekkar_death_87
+  - first:
+      213: 4803848374710258717
+    second: ekkar_death_88
+  - first:
+      213: 809274945754438980
+    second: ekkar_death_89
+  - first:
+      213: 3669170752998869530
+    second: ekkar_death_90
+  - first:
+      213: -5092379164684467339
+    second: ekkar_death_91
+  - first:
+      213: -1605123058776786168
+    second: ekkar_death_92
+  - first:
+      213: -1200013369752220289
+    second: ekkar_death_93
+  - first:
+      213: -7175234521525870349
+    second: ekkar_death_94
+  - first:
+      213: 2272571821638508576
+    second: ekkar_death_95
+  - first:
+      213: -217007056676603855
+    second: ekkar_death_96
+  - first:
+      213: -541376555835555465
+    second: ekkar_death_97
+  - first:
+      213: 7073570912555124637
+    second: ekkar_death_98
+  - first:
+      213: -1681976101509926908
+    second: ekkar_death_99
+  - first:
+      213: -1266749983059658945
+    second: ekkar_death_100
+  - first:
+      213: -7854634490498099961
+    second: ekkar_death_101
+  - first:
+      213: 6359731855065729589
+    second: ekkar_death_102
+  - first:
+      213: 9059536163089377918
+    second: ekkar_death_103
+  - first:
+      213: 1932558275656002510
+    second: ekkar_death_104
+  - first:
+      213: 6369133106218065949
+    second: ekkar_death_105
+  - first:
+      213: 7819375372395567965
+    second: ekkar_death_106
+  - first:
+      213: 692927442917488535
+    second: ekkar_death_107
+  - first:
+      213: 4133094410475132185
+    second: ekkar_death_108
+  - first:
+      213: -4898376166690126471
+    second: ekkar_death_109
+  - first:
+      213: -2454228945652153566
+    second: ekkar_death_110
+  - first:
+      213: -220042646879979409
+    second: ekkar_death_111
+  - first:
+      213: -5655330310116672219
+    second: ekkar_death_112
+  - first:
+      213: -2762895531641334538
+    second: ekkar_death_113
+  - first:
+      213: 2598599728109209091
+    second: ekkar_death_114
+  - first:
+      213: -2428811933435258821
+    second: ekkar_death_115
+  - first:
+      213: -7905696937691453906
+    second: ekkar_death_116
+  - first:
+      213: -5728833770324620583
+    second: ekkar_death_117
+  - first:
+      213: 7553704175461559639
+    second: ekkar_death_118
+  - first:
+      213: 1133981156420964177
+    second: ekkar_death_119
+  - first:
+      213: 3410347289542140918
+    second: ekkar_death_120
+  - first:
+      213: 36598902039855510
+    second: ekkar_death_121
+  - first:
+      213: -3720102807556487672
+    second: ekkar_death_122
+  - first:
+      213: -526033019955810553
+    second: ekkar_death_123
+  - first:
+      213: 4329073722231352215
+    second: ekkar_death_124
+  - first:
+      213: -5754536421696536857
+    second: ekkar_death_125
+  - first:
+      213: -8814489934029790190
+    second: ekkar_death_126
+  - first:
+      213: 7809776660377910956
+    second: ekkar_death_127
+  - first:
+      213: -8808759868834353141
+    second: ekkar_death_128
+  - first:
+      213: -2139563559627384771
+    second: ekkar_death_129
+  - first:
+      213: -2750217530663424977
+    second: ekkar_death_130
+  - first:
+      213: 5808175321080356466
+    second: ekkar_death_131
+  - first:
+      213: -9006778267173370139
+    second: ekkar_death_132
+  - first:
+      213: -2051006837670788076
+    second: ekkar_death_133
+  - first:
+      213: 7709620162681367294
+    second: ekkar_death_134
+  - first:
+      213: -205783072836167312
+    second: ekkar_death_135
+  - first:
+      213: 5808236557204177062
+    second: ekkar_death_136
+  - first:
+      213: -895829532079824822
+    second: ekkar_death_137
+  - first:
+      213: -5745630433187965202
+    second: ekkar_death_138
+  - first:
+      213: 6446775046171897336
+    second: ekkar_death_139
+  - first:
+      213: 1309796887928593058
+    second: ekkar_death_140
+  - first:
+      213: 8850616348086122356
+    second: ekkar_death_141
+  - first:
+      213: 8074032543867467037
+    second: ekkar_death_142
+  - first:
+      213: -2019064375999318720
+    second: ekkar_death_143
+  - first:
+      213: -8093231226600031740
+    second: ekkar_death_144
+  - first:
+      213: -4977964657032502802
+    second: ekkar_death_145
+  - first:
+      213: -8667324698819826812
+    second: ekkar_death_146
+  - first:
+      213: -8094330269264835135
+    second: ekkar_death_147
+  - first:
+      213: -1160303261315524711
+    second: ekkar_death_148
+  - first:
+      213: -6850875064087871833
+    second: ekkar_death_149
+  - first:
+      213: -8309678473896944943
+    second: ekkar_death_150
+  - first:
+      213: 3891449366654310587
+    second: ekkar_death_151
+  - first:
+      213: 2209143824547810791
+    second: ekkar_death_152
+  - first:
+      213: -5566296404102572658
+    second: ekkar_death_153
+  - first:
+      213: -8006382712474859713
+    second: ekkar_death_154
+  - first:
+      213: -5638049203959388586
+    second: ekkar_death_155
+  - first:
+      213: 6478477776392649819
+    second: ekkar_death_156
+  - first:
+      213: -940656718047925966
+    second: ekkar_death_157
+  - first:
+      213: -4800138366400716923
+    second: ekkar_death_158
+  - first:
+      213: -2298898478941912313
+    second: ekkar_death_159
+  - first:
+      213: -7237278071351576151
+    second: ekkar_death_160
+  - first:
+      213: 1410584556937068661
+    second: ekkar_death_161
+  - first:
+      213: -7467622276623447737
+    second: ekkar_death_162
+  - first:
+      213: 1891044384880106999
+    second: ekkar_death_163
+  - first:
+      213: 1281291137599068752
+    second: ekkar_death_164
+  - first:
+      213: -8390354733470313517
+    second: ekkar_death_165
+  - first:
+      213: -1873622044531255932
+    second: ekkar_death_166
+  - first:
+      213: -8703443720067045279
+    second: ekkar_death_167
+  - first:
+      213: -5501944099968727643
+    second: ekkar_death_168
+  - first:
+      213: 8616473065300082290
+    second: ekkar_death_169
+  - first:
+      213: 1307885025787891981
+    second: ekkar_death_170
+  - first:
+      213: 7429232150652800646
+    second: ekkar_death_171
+  - first:
+      213: 5582397816298623616
+    second: ekkar_death_172
+  - first:
+      213: 7149956517688247022
+    second: ekkar_death_173
+  - first:
+      213: -2209029662137651292
+    second: ekkar_death_174
+  - first:
+      213: -1800584222863417535
+    second: ekkar_death_175
+  - first:
+      213: 6848344304197864510
+    second: ekkar_death_176
+  - first:
+      213: 5554794307638990286
+    second: ekkar_death_177
+  - first:
+      213: 1222068039739083287
+    second: ekkar_death_178
+  - first:
+      213: -3631910466907301458
+    second: ekkar_death_179
+  - first:
+      213: 2835330574174011850
+    second: ekkar_death_180
+  - first:
+      213: -4458222993662919986
+    second: ekkar_death_181
+  - first:
+      213: -5222096361748041189
+    second: ekkar_death_182
+  - first:
+      213: -9182799042698639530
+    second: ekkar_death_183
+  - first:
+      213: 8636630065219690762
+    second: ekkar_death_184
+  - first:
+      213: 5371861532835150625
+    second: ekkar_death_185
+  - first:
+      213: 6946233234276957664
+    second: ekkar_death_186
+  - first:
+      213: 297428750638716745
+    second: ekkar_death_187
+  - first:
+      213: -3189538588700068626
+    second: ekkar_death_188
+  - first:
+      213: -4131118483193597581
+    second: ekkar_death_189
+  - first:
+      213: -3011841603511791245
+    second: ekkar_death_190
+  - first:
+      213: 3592403616935912527
+    second: ekkar_death_191
+  - first:
+      213: -7304603812297215798
+    second: ekkar_death_192
+  - first:
+      213: -5743333553026826327
+    second: ekkar_death_193
+  - first:
+      213: -7261346434818490428
+    second: ekkar_death_194
+  - first:
+      213: 7089777208451868919
+    second: ekkar_death_195
+  - first:
+      213: -1569295536635015229
+    second: ekkar_death_196
+  - first:
+      213: 8961901443829113638
+    second: ekkar_death_197
+  - first:
+      213: 1184598187049093924
+    second: ekkar_death_198
+  - first:
+      213: -5548253815148653001
+    second: ekkar_death_199
+  - first:
+      213: 3678944825878790374
+    second: ekkar_death_200
+  - first:
+      213: -3323760395224473595
+    second: ekkar_death_201
+  - first:
+      213: 3504639625546282387
+    second: ekkar_death_202
+  - first:
+      213: -9084663258982545930
+    second: ekkar_death_203
+  - first:
+      213: 8238779979054094619
+    second: ekkar_death_204
+  - first:
+      213: 8487347944019054855
+    second: ekkar_death_205
+  - first:
+      213: -7193076472134425358
+    second: ekkar_death_206
+  - first:
+      213: 6586345698098569101
+    second: ekkar_death_207
+  - first:
+      213: -2551642207079980277
+    second: ekkar_death_208
+  - first:
+      213: -8049765498118880645
+    second: ekkar_death_209
+  - first:
+      213: -6885629074379771300
+    second: ekkar_death_210
+  - first:
+      213: -2705091064151720430
+    second: ekkar_death_211
+  - first:
+      213: -2172657543129415546
+    second: ekkar_death_212
+  - first:
+      213: -128257072580215284
+    second: ekkar_death_213
+  - first:
+      213: -562383617609374759
+    second: ekkar_death_214
+  - first:
+      213: 4951947081660788076
+    second: ekkar_death_215
+  - first:
+      213: 3413342865501464415
+    second: ekkar_death_216
+  - first:
+      213: 2289810653737596247
+    second: ekkar_death_217
+  - first:
+      213: 8457326535482770276
+    second: ekkar_death_218
+  - first:
+      213: 2987850672509651264
+    second: ekkar_death_219
+  - first:
+      213: -8774081492108343164
+    second: ekkar_death_220
+  - first:
+      213: 2012679418645030931
+    second: ekkar_death_221
+  - first:
+      213: -181597579204901972
+    second: ekkar_death_222
+  - first:
+      213: -5493496463242471762
+    second: ekkar_death_223
+  - first:
+      213: -8793221105517059431
+    second: ekkar_death_224
+  - first:
+      213: 786574384828878944
+    second: ekkar_death_225
+  - first:
+      213: 7104648829397239139
+    second: ekkar_death_226
+  - first:
+      213: 1322504870785567557
+    second: ekkar_death_227
+  - first:
+      213: 8432188255707205650
+    second: ekkar_death_228
+  - first:
+      213: -2896973722375724997
+    second: ekkar_death_229
+  - first:
+      213: -5828888339851462051
+    second: ekkar_death_230
+  - first:
+      213: 2559570558379920986
+    second: ekkar_death_231
+  - first:
+      213: 8771076022283441290
+    second: ekkar_death_232
+  - first:
+      213: -5009564422880470409
+    second: ekkar_death_233
+  - first:
+      213: -6917907694342069961
+    second: ekkar_death_234
+  - first:
+      213: 269221937806694595
+    second: ekkar_death_235
+  - first:
+      213: -4348705981996255232
+    second: ekkar_death_236
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekkar_death_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0c8dbf99936d64883409f40f8c5a5c
+      internalID: 1590296681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_01
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d70fd847172d1a4abf35c2877ae7ce4
+      internalID: 228911651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_02
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c87bad48cc55b498041e3fb5b2a0ea
+      internalID: 1538056687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_03
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724efa9935c7c404bb436973a77e3e12
+      internalID: -1146551160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_04
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb7df529b82524daee97c5569c5611
+      internalID: -313863110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_05
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3773db99f7c9c34490c1f2c2946764c
+      internalID: -657578606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_06
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00697b316a84f9549b6b65f004f95dda
+      internalID: -165954120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_07
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 720
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613fa27ec674733409e50777060ecec6
+      internalID: -1400970181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeafd05f81e0fe479568add6e9f7c41
+      internalID: 1010951355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_09
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855373c425adca740bd199925bdf5547
+      internalID: -398109684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_10
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8acff523b2d40142a7a740d7dfd4194
+      internalID: 7426696367458919698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_11
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3348fc0579089449e0d12afc88b37c
+      internalID: -6762762919967983597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_12
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80381fb83aada164da9925c82d73bad9
+      internalID: 8708385418247710734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_13
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0cda95ee2ca1d4789fd6ad74eeb458
+      internalID: 4977020087794187880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_14
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b2e400c531034fa67c528d4eaefe6
+      internalID: -5761835724368556061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_15
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 480
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6defe6a24d0367245b550ad2f8e77657
+      internalID: 7825069785383745365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dbed092866f6c4d8e8fa0af253891e
+      internalID: 4473880235826971383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76bad0fd8c1e2f4eb5c6a2081b392f8
+      internalID: -2561872852734952398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_18
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dcdc27300781548a9e086df25af2a0
+      internalID: -7769382538383472555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_19
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf428a0a3056644a34afb21f852e40
+      internalID: 1541409291120045614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_20
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba6a93cce89bf46b068028fbc1b13f
+      internalID: -3362094050336370623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_21
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a826192b4f18974e801a02b29bc3c9b
+      internalID: -2940540085731740403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_22
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce24b2e84bdaf148aeb19852d154a87
+      internalID: 1266747039948719100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_23
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 240
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22884387e829d2c4c89f61109c7d0543
+      internalID: 8639548634102347068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca86972a895144db43368965926c7a
+      internalID: -7675981232947179980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_25
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb513047b90c6ee4e9436a901fca059a
+      internalID: 5059793159421757486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_26
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6530ca0469da353439de4b8ca12733cb
+      internalID: -6107233884413720784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekkar_death_27
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 474
+        height: 240
+      alignment: 9
+      pivot: {x: 0.472574, y: 0.016667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da1ef30514c1c4784ec80345c4be45
+      internalID: -5130641285928881479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cafd3aea5fab384c9da669ce9871582
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekkar_death_00: 1590296681
+      ekkar_death_01: 228911651
+      ekkar_death_02: 1538056687
+      ekkar_death_03: -1146551160
+      ekkar_death_04: -313863110
+      ekkar_death_05: -657578606
+      ekkar_death_06: -165954120
+      ekkar_death_07: -1400970181
+      ekkar_death_08: 1010951355
+      ekkar_death_09: -398109684
+      ekkar_death_10: 7426696367458919698
+      ekkar_death_11: -6762762919967983597
+      ekkar_death_12: 8708385418247710734
+      ekkar_death_13: 4977020087794187880
+      ekkar_death_14: -5761835724368556061
+      ekkar_death_15: 7825069785383745365
+      ekkar_death_16: 4473880235826971383
+      ekkar_death_17: -2561872852734952398
+      ekkar_death_18: -7769382538383472555
+      ekkar_death_19: 1541409291120045614
+      ekkar_death_20: -3362094050336370623
+      ekkar_death_21: -2940540085731740403
+      ekkar_death_22: 1266747039948719100
+      ekkar_death_23: 8639548634102347068
+      ekkar_death_24: -7675981232947179980
+      ekkar_death_25: 5059793159421757486
+      ekkar_death_26: -6107233884413720784
+      ekkar_death_27: -5130641285928881479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

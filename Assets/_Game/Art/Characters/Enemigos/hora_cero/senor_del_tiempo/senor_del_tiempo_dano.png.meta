@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 5941e4c94c6d99f4f85397ebdc4f488d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3738176332089070690
+    second: senor_del_tiempo_dano_0
+  - first:
+      213: -1238563370324398533
+    second: senor_del_tiempo_dano_1
+  - first:
+      213: 3013251706327409373
+    second: senor_del_tiempo_dano_2
+  - first:
+      213: 7206399728612320040
+    second: senor_del_tiempo_dano_3
+  - first:
+      213: -1589238116745978694
+    second: senor_del_tiempo_dano_4
+  - first:
+      213: -7141227026619661642
+    second: senor_del_tiempo_dano_5
+  - first:
+      213: -160556151627320655
+    second: senor_del_tiempo_dano_6
+  - first:
+      213: -3058304082219988241
+    second: senor_del_tiempo_dano_7
+  - first:
+      213: 549798613721106301
+    second: senor_del_tiempo_dano_8
+  - first:
+      213: 211836372272352102
+    second: senor_del_tiempo_dano_9
+  - first:
+      213: -7298714695931875409
+    second: senor_del_tiempo_dano_10
+  - first:
+      213: 5465366000855835454
+    second: senor_del_tiempo_dano_11
+  - first:
+      213: 5672921482472275450
+    second: senor_del_tiempo_dano_12
+  - first:
+      213: 6619416782061110535
+    second: senor_del_tiempo_dano_13
+  - first:
+      213: -4576829141904939675
+    second: senor_del_tiempo_dano_14
+  - first:
+      213: -1689415885282672433
+    second: senor_del_tiempo_dano_15
+  - first:
+      213: -2723689668354935586
+    second: senor_del_tiempo_dano_16
+  - first:
+      213: 3995526561359697793
+    second: senor_del_tiempo_dano_17
+  - first:
+      213: -738372882488885059
+    second: senor_del_tiempo_dano_18
+  - first:
+      213: 394886081062474730
+    second: senor_del_tiempo_dano_19
+  - first:
+      213: 4525057310681282525
+    second: senor_del_tiempo_dano_20
+  - first:
+      213: -2258521676524192197
+    second: senor_del_tiempo_dano_21
+  - first:
+      213: -5305481525275376268
+    second: senor_del_tiempo_dano_22
+  - first:
+      213: -6753424997425384360
+    second: senor_del_tiempo_dano_23
+  - first:
+      213: -7148706622385041535
+    second: senor_del_tiempo_dano_24
+  - first:
+      213: 7845348643103153072
+    second: senor_del_tiempo_dano_25
+  - first:
+      213: 3254447994575676337
+    second: senor_del_tiempo_dano_26
+  - first:
+      213: 3012202572814552218
+    second: senor_del_tiempo_dano_27
+  - first:
+      213: -5637117282791390119
+    second: senor_del_tiempo_dano_28
+  - first:
+      213: -2165705036359714064
+    second: senor_del_tiempo_dano_29
+  - first:
+      213: 7146942793060191339
+    second: senor_del_tiempo_dano_30
+  - first:
+      213: 2779281132675110685
+    second: senor_del_tiempo_dano_31
+  - first:
+      213: 1952431000752786851
+    second: senor_del_tiempo_dano_32
+  - first:
+      213: -1100943850492300751
+    second: senor_del_tiempo_dano_33
+  - first:
+      213: 3425169471125288698
+    second: senor_del_tiempo_dano_34
+  - first:
+      213: -1138915323631166180
+    second: senor_del_tiempo_dano_35
+  - first:
+      213: 386835729085212531
+    second: senor_del_tiempo_dano_36
+  - first:
+      213: 6536675106550134775
+    second: senor_del_tiempo_dano_37
+  - first:
+      213: 4123029722923981139
+    second: senor_del_tiempo_dano_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_dano_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 854
+        height: 534
+      alignment: 9
+      pivot: {x: 0.487119, y: 0.007491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640283be9a9f99b4583f3b17f6ee76d9
+      internalID: 732904255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_dano_01
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 854
+        height: 534
+      alignment: 9
+      pivot: {x: 0.487119, y: 0.007491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cb8f12346cf5c4790d7474ea698fa8
+      internalID: 1586618976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_dano_02
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 854
+        height: 534
+      alignment: 9
+      pivot: {x: 0.487119, y: 0.007491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0125eceae67b2d48b7da38ce598c6cf
+      internalID: 1091792630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_dano_03
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 0
+        width: 854
+        height: 534
+      alignment: 9
+      pivot: {x: 0.487119, y: 0.007491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784591626d8221e45b7a968407256d78
+      internalID: 1445480995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_dano_04
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 0
+        width: 854
+        height: 534
+      alignment: 9
+      pivot: {x: 0.487119, y: 0.007491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a06d357c69a948afa6b2b40fd6443
+      internalID: 977471040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_dano_05
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 0
+        width: 854
+        height: 534
+      alignment: 9
+      pivot: {x: 0.487119, y: 0.007491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb32d5109ca9f64d8232e54850f4fb8
+      internalID: 1384136838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f7d59f922b2e1d48abc205a50f813b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_dano_00: 732904255
+      senor_del_tiempo_dano_01: 1586618976
+      senor_del_tiempo_dano_02: 1091792630
+      senor_del_tiempo_dano_03: 1445480995
+      senor_del_tiempo_dano_04: 977471040
+      senor_del_tiempo_dano_05: 1384136838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

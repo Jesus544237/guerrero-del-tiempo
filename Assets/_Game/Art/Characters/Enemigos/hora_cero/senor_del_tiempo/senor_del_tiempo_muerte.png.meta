@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 386503a74a4f59b45a85c9ae954df8ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -779334756733016074
+    second: senor_del_tiempo_muerte_0
+  - first:
+      213: -5522708687584817548
+    second: senor_del_tiempo_muerte_1
+  - first:
+      213: -6343428530779605605
+    second: senor_del_tiempo_muerte_2
+  - first:
+      213: 989460818597613273
+    second: senor_del_tiempo_muerte_3
+  - first:
+      213: -6833351556552096078
+    second: senor_del_tiempo_muerte_4
+  - first:
+      213: 7532539275699376193
+    second: senor_del_tiempo_muerte_5
+  - first:
+      213: 3865942765183458664
+    second: senor_del_tiempo_muerte_6
+  - first:
+      213: -6783439477252094668
+    second: senor_del_tiempo_muerte_7
+  - first:
+      213: -5524264688635721124
+    second: senor_del_tiempo_muerte_8
+  - first:
+      213: 4912897410506631371
+    second: senor_del_tiempo_muerte_9
+  - first:
+      213: -4709167603384813674
+    second: senor_del_tiempo_muerte_10
+  - first:
+      213: 2117802223854879424
+    second: senor_del_tiempo_muerte_11
+  - first:
+      213: -7556591751876605172
+    second: senor_del_tiempo_muerte_12
+  - first:
+      213: 1414391850735126974
+    second: senor_del_tiempo_muerte_13
+  - first:
+      213: -1588029861940538392
+    second: senor_del_tiempo_muerte_14
+  - first:
+      213: -5789584736039779096
+    second: senor_del_tiempo_muerte_15
+  - first:
+      213: -1580324111519570199
+    second: senor_del_tiempo_muerte_16
+  - first:
+      213: 4955961897734727453
+    second: senor_del_tiempo_muerte_17
+  - first:
+      213: -7062430527606874114
+    second: senor_del_tiempo_muerte_18
+  - first:
+      213: 7055347388294143705
+    second: senor_del_tiempo_muerte_19
+  - first:
+      213: 4031522742769990597
+    second: senor_del_tiempo_muerte_20
+  - first:
+      213: 8183473131550661187
+    second: senor_del_tiempo_muerte_21
+  - first:
+      213: 1710884733911391871
+    second: senor_del_tiempo_muerte_22
+  - first:
+      213: 6796701934401600096
+    second: senor_del_tiempo_muerte_23
+  - first:
+      213: -2501975456641202479
+    second: senor_del_tiempo_muerte_24
+  - first:
+      213: -4354498004109636456
+    second: senor_del_tiempo_muerte_25
+  - first:
+      213: -6389653399529614050
+    second: senor_del_tiempo_muerte_26
+  - first:
+      213: 7469946269132234532
+    second: senor_del_tiempo_muerte_27
+  - first:
+      213: 6404527117361561535
+    second: senor_del_tiempo_muerte_28
+  - first:
+      213: -7316240699179342053
+    second: senor_del_tiempo_muerte_29
+  - first:
+      213: 7404633341861056578
+    second: senor_del_tiempo_muerte_30
+  - first:
+      213: 4552825813048348257
+    second: senor_del_tiempo_muerte_31
+  - first:
+      213: -3471368490690710942
+    second: senor_del_tiempo_muerte_32
+  - first:
+      213: 554557593048251963
+    second: senor_del_tiempo_muerte_33
+  - first:
+      213: 3188654871808001704
+    second: senor_del_tiempo_muerte_34
+  - first:
+      213: -2832615003815822576
+    second: senor_del_tiempo_muerte_35
+  - first:
+      213: -3941408624029896387
+    second: senor_del_tiempo_muerte_36
+  - first:
+      213: 8539115337727982203
+    second: senor_del_tiempo_muerte_37
+  - first:
+      213: 3398700723382133461
+    second: senor_del_tiempo_muerte_38
+  - first:
+      213: -6149326511529831647
+    second: senor_del_tiempo_muerte_39
+  - first:
+      213: -5871973827580607482
+    second: senor_del_tiempo_muerte_40
+  - first:
+      213: 332160752532301471
+    second: senor_del_tiempo_muerte_41
+  - first:
+      213: 9043044155282089722
+    second: senor_del_tiempo_muerte_42
+  - first:
+      213: -6500465380112758454
+    second: senor_del_tiempo_muerte_43
+  - first:
+      213: 2121286955581970166
+    second: senor_del_tiempo_muerte_44
+  - first:
+      213: 4000969624418982466
+    second: senor_del_tiempo_muerte_45
+  - first:
+      213: 4463220984011923615
+    second: senor_del_tiempo_muerte_46
+  - first:
+      213: -5001852630132721493
+    second: senor_del_tiempo_muerte_47
+  - first:
+      213: 6919284337356509169
+    second: senor_del_tiempo_muerte_48
+  - first:
+      213: -8687236421738855811
+    second: senor_del_tiempo_muerte_49
+  - first:
+      213: -2019154003352242265
+    second: senor_del_tiempo_muerte_50
+  - first:
+      213: -8772151371022514546
+    second: senor_del_tiempo_muerte_51
+  - first:
+      213: -8127604206666998224
+    second: senor_del_tiempo_muerte_52
+  - first:
+      213: 7133487056084323084
+    second: senor_del_tiempo_muerte_53
+  - first:
+      213: 7029444820317413800
+    second: senor_del_tiempo_muerte_54
+  - first:
+      213: 2319309336737994212
+    second: senor_del_tiempo_muerte_55
+  - first:
+      213: -693053544540832902
+    second: senor_del_tiempo_muerte_56
+  - first:
+      213: 478169281120324080
+    second: senor_del_tiempo_muerte_57
+  - first:
+      213: 8693908095347808131
+    second: senor_del_tiempo_muerte_58
+  - first:
+      213: -1076709363254372375
+    second: senor_del_tiempo_muerte_59
+  - first:
+      213: -7911419686649959283
+    second: senor_del_tiempo_muerte_60
+  - first:
+      213: 971418506209137809
+    second: senor_del_tiempo_muerte_61
+  - first:
+      213: -2061479459368444602
+    second: senor_del_tiempo_muerte_62
+  - first:
+      213: 5455923481979177042
+    second: senor_del_tiempo_muerte_63
+  - first:
+      213: -3108522514070472726
+    second: senor_del_tiempo_muerte_64
+  - first:
+      213: -4297901272205990858
+    second: senor_del_tiempo_muerte_65
+  - first:
+      213: -6424890956777102762
+    second: senor_del_tiempo_muerte_66
+  - first:
+      213: -6763646182146793189
+    second: senor_del_tiempo_muerte_67
+  - first:
+      213: -6100520881449882530
+    second: senor_del_tiempo_muerte_68
+  - first:
+      213: -6588214397385324774
+    second: senor_del_tiempo_muerte_69
+  - first:
+      213: -7217301330668053135
+    second: senor_del_tiempo_muerte_70
+  - first:
+      213: -1200886725455203695
+    second: senor_del_tiempo_muerte_71
+  - first:
+      213: -3965046578314736620
+    second: senor_del_tiempo_muerte_72
+  - first:
+      213: -8222983277861820408
+    second: senor_del_tiempo_muerte_73
+  - first:
+      213: -2053216047791048315
+    second: senor_del_tiempo_muerte_74
+  - first:
+      213: -8187875710123582226
+    second: senor_del_tiempo_muerte_75
+  - first:
+      213: 223250990118636784
+    second: senor_del_tiempo_muerte_76
+  - first:
+      213: 6654851001422459600
+    second: senor_del_tiempo_muerte_77
+  - first:
+      213: -3346144301954350731
+    second: senor_del_tiempo_muerte_78
+  - first:
+      213: 4647912941107201839
+    second: senor_del_tiempo_muerte_79
+  - first:
+      213: 7099288529302189526
+    second: senor_del_tiempo_muerte_80
+  - first:
+      213: -2304718299297717187
+    second: senor_del_tiempo_muerte_81
+  - first:
+      213: 2808093096675362165
+    second: senor_del_tiempo_muerte_82
+  - first:
+      213: 5546959294728202997
+    second: senor_del_tiempo_muerte_83
+  - first:
+      213: -1096900941085181463
+    second: senor_del_tiempo_muerte_84
+  - first:
+      213: -2213423518018783514
+    second: senor_del_tiempo_muerte_85
+  - first:
+      213: 7946534951754280966
+    second: senor_del_tiempo_muerte_86
+  - first:
+      213: -3835538910594361522
+    second: senor_del_tiempo_muerte_87
+  - first:
+      213: -1262765139958236931
+    second: senor_del_tiempo_muerte_88
+  - first:
+      213: 7563097709584330840
+    second: senor_del_tiempo_muerte_89
+  - first:
+      213: 2273946516614528027
+    second: senor_del_tiempo_muerte_90
+  - first:
+      213: 155554937742981674
+    second: senor_del_tiempo_muerte_91
+  - first:
+      213: 4586060308781100688
+    second: senor_del_tiempo_muerte_92
+  - first:
+      213: -6723372638360044760
+    second: senor_del_tiempo_muerte_93
+  - first:
+      213: 5659412800053048913
+    second: senor_del_tiempo_muerte_94
+  - first:
+      213: -6466952546609349231
+    second: senor_del_tiempo_muerte_95
+  - first:
+      213: -530461459794017172
+    second: senor_del_tiempo_muerte_96
+  - first:
+      213: 3478490630419216714
+    second: senor_del_tiempo_muerte_97
+  - first:
+      213: 3466594004384094618
+    second: senor_del_tiempo_muerte_98
+  - first:
+      213: -6771224356427314498
+    second: senor_del_tiempo_muerte_99
+  - first:
+      213: 2704266378269777305
+    second: senor_del_tiempo_muerte_100
+  - first:
+      213: 130706411359443403
+    second: senor_del_tiempo_muerte_101
+  - first:
+      213: -1399063883321982430
+    second: senor_del_tiempo_muerte_102
+  - first:
+      213: -5027511829944663409
+    second: senor_del_tiempo_muerte_103
+  - first:
+      213: 4000122198631247041
+    second: senor_del_tiempo_muerte_104
+  - first:
+      213: 455277957302455537
+    second: senor_del_tiempo_muerte_105
+  - first:
+      213: 5502556317650930148
+    second: senor_del_tiempo_muerte_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75577a6c56e25c947b6b26bc689c3a23
+      internalID: 1755232713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0133b59331c54a95fa570a65af39e
+      internalID: 870435629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaa034b2512303469e02359528cadce
+      internalID: -1050834793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9972fb45a2199d6469c680337a615a56
+      internalID: -353139045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe6e366d609bca4884137465181f1ed
+      internalID: 1291730252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 4840
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147c150973e644a41b8501eaa45d9845
+      internalID: -1049630555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f645f00048a0684ba6523bec16e03fc
+      internalID: -1039274165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 542
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884db89bb503dfa4f9752bec83e66f7d
+      internalID: 102496022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e51f447f8c074db405f329350b543
+      internalID: -1119721610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc55b35f40c28642bf7f6b985372322
+      internalID: -255624330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d841c9beaffb1044a20ce06a87c03ec
+      internalID: -4709167603384813674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 0
+        width: 968
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ca01f8d45ddc46a47749fe62410c8
+      internalID: 2117802223854879424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d198be9fe60c0304b983e8c8d79ebaa2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_muerte_00: 1755232713
+      senor_del_tiempo_muerte_01: 870435629
+      senor_del_tiempo_muerte_02: -1050834793
+      senor_del_tiempo_muerte_03: -353139045
+      senor_del_tiempo_muerte_04: 1291730252
+      senor_del_tiempo_muerte_05: -1049630555
+      senor_del_tiempo_muerte_06: -1039274165
+      senor_del_tiempo_muerte_07: 102496022
+      senor_del_tiempo_muerte_08: -1119721610
+      senor_del_tiempo_muerte_09: -255624330
+      senor_del_tiempo_muerte_10: -4709167603384813674
+      senor_del_tiempo_muerte_11: 2117802223854879424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

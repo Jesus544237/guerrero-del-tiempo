@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 1e477fb0c96e50c4bb4bae0e7a20a061
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1368295017591890890
+    second: dron_vapor_muerte_0
+  - first:
+      213: 5934902012250833295
+    second: dron_vapor_muerte_1
+  - first:
+      213: -6673364253486998579
+    second: dron_vapor_muerte_2
+  - first:
+      213: 7369646146910265655
+    second: dron_vapor_muerte_3
+  - first:
+      213: -3176913656639925609
+    second: dron_vapor_muerte_4
+  - first:
+      213: 5459205921692671658
+    second: dron_vapor_muerte_5
+  - first:
+      213: -6329703557318960761
+    second: dron_vapor_muerte_6
+  - first:
+      213: -3492176568536585626
+    second: dron_vapor_muerte_7
+  - first:
+      213: 2617710442151062983
+    second: dron_vapor_muerte_8
+  - first:
+      213: 3418714505493680766
+    second: dron_vapor_muerte_9
+  - first:
+      213: 2463881153104538439
+    second: dron_vapor_muerte_10
+  - first:
+      213: -3862803189996854162
+    second: dron_vapor_muerte_11
+  - first:
+      213: 941293830839711636
+    second: dron_vapor_muerte_12
+  - first:
+      213: -7768508171542726557
+    second: dron_vapor_muerte_13
+  - first:
+      213: -199615418626556884
+    second: dron_vapor_muerte_14
+  - first:
+      213: 8496644943578593358
+    second: dron_vapor_muerte_15
+  - first:
+      213: 5350805702013504407
+    second: dron_vapor_muerte_16
+  - first:
+      213: -5297558668601064525
+    second: dron_vapor_muerte_17
+  - first:
+      213: 791201966544225895
+    second: dron_vapor_muerte_18
+  - first:
+      213: 8397126814461130278
+    second: dron_vapor_muerte_19
+  - first:
+      213: 8190386639453763392
+    second: dron_vapor_muerte_20
+  - first:
+      213: 6118290018280368237
+    second: dron_vapor_muerte_21
+  - first:
+      213: 3660377354600320917
+    second: dron_vapor_muerte_22
+  - first:
+      213: -6955767750027456812
+    second: dron_vapor_muerte_23
+  - first:
+      213: 2894018408258230290
+    second: dron_vapor_muerte_24
+  - first:
+      213: 2221900589011622333
+    second: dron_vapor_muerte_25
+  - first:
+      213: -5251333286658719796
+    second: dron_vapor_muerte_26
+  - first:
+      213: 7248088910653112964
+    second: dron_vapor_muerte_27
+  - first:
+      213: 8048046198972083026
+    second: dron_vapor_muerte_28
+  - first:
+      213: 8671534484395310541
+    second: dron_vapor_muerte_29
+  - first:
+      213: 4377986458256838199
+    second: dron_vapor_muerte_30
+  - first:
+      213: 2730499369278971513
+    second: dron_vapor_muerte_31
+  - first:
+      213: 4262081426327004819
+    second: dron_vapor_muerte_32
+  - first:
+      213: -6855446182808141405
+    second: dron_vapor_muerte_33
+  - first:
+      213: -3331982144278025562
+    second: dron_vapor_muerte_34
+  - first:
+      213: 2717752852465701731
+    second: dron_vapor_muerte_35
+  - first:
+      213: 250014157153048699
+    second: dron_vapor_muerte_36
+  - first:
+      213: -7151463753699228684
+    second: dron_vapor_muerte_37
+  - first:
+      213: 5482421359558905130
+    second: dron_vapor_muerte_38
+  - first:
+      213: -2486285916496708941
+    second: dron_vapor_muerte_39
+  - first:
+      213: -8317690185483795481
+    second: dron_vapor_muerte_40
+  - first:
+      213: 7921148893904324597
+    second: dron_vapor_muerte_41
+  - first:
+      213: 199542031141577034
+    second: dron_vapor_muerte_42
+  - first:
+      213: 971024526859122063
+    second: dron_vapor_muerte_43
+  - first:
+      213: -7101275639971520315
+    second: dron_vapor_muerte_44
+  - first:
+      213: -7158663064114402280
+    second: dron_vapor_muerte_45
+  - first:
+      213: 2361674837087150245
+    second: dron_vapor_muerte_46
+  - first:
+      213: 2806464942983048773
+    second: dron_vapor_muerte_47
+  - first:
+      213: 3691231416085843342
+    second: dron_vapor_muerte_48
+  - first:
+      213: -8954837514103379460
+    second: dron_vapor_muerte_49
+  - first:
+      213: 656862635449724708
+    second: dron_vapor_muerte_50
+  - first:
+      213: 4011744360041596057
+    second: dron_vapor_muerte_51
+  - first:
+      213: -593277720684103516
+    second: dron_vapor_muerte_52
+  - first:
+      213: 3502826957456482898
+    second: dron_vapor_muerte_53
+  - first:
+      213: 771864970520431419
+    second: dron_vapor_muerte_54
+  - first:
+      213: -1398005372511840152
+    second: dron_vapor_muerte_55
+  - first:
+      213: -4267621738188791922
+    second: dron_vapor_muerte_56
+  - first:
+      213: -5163443039772739204
+    second: dron_vapor_muerte_57
+  - first:
+      213: 8199432811863090046
+    second: dron_vapor_muerte_58
+  - first:
+      213: -1910322685051525369
+    second: dron_vapor_muerte_59
+  - first:
+      213: -4000292266834024157
+    second: dron_vapor_muerte_60
+  - first:
+      213: 9012488289448277768
+    second: dron_vapor_muerte_61
+  - first:
+      213: 4872989069672006121
+    second: dron_vapor_muerte_62
+  - first:
+      213: 1760062629371456830
+    second: dron_vapor_muerte_63
+  - first:
+      213: 8454333850658955754
+    second: dron_vapor_muerte_64
+  - first:
+      213: -4590079093715388285
+    second: dron_vapor_muerte_65
+  - first:
+      213: 1205167234692918018
+    second: dron_vapor_muerte_66
+  - first:
+      213: -2643591256832897832
+    second: dron_vapor_muerte_67
+  - first:
+      213: 7649328164482953983
+    second: dron_vapor_muerte_68
+  - first:
+      213: -6241602433207089946
+    second: dron_vapor_muerte_69
+  - first:
+      213: 978136248356837009
+    second: dron_vapor_muerte_70
+  - first:
+      213: 4431020397354387824
+    second: dron_vapor_muerte_71
+  - first:
+      213: 674554436468373646
+    second: dron_vapor_muerte_72
+  - first:
+      213: -5138807765791670954
+    second: dron_vapor_muerte_73
+  - first:
+      213: 5502487243187586234
+    second: dron_vapor_muerte_74
+  - first:
+      213: -654162022649784361
+    second: dron_vapor_muerte_75
+  - first:
+      213: 3695899400730067373
+    second: dron_vapor_muerte_76
+  - first:
+      213: -5091994915893168581
+    second: dron_vapor_muerte_77
+  - first:
+      213: 1224495200671157920
+    second: dron_vapor_muerte_78
+  - first:
+      213: 7619614275233810205
+    second: dron_vapor_muerte_79
+  - first:
+      213: -6570848672839675585
+    second: dron_vapor_muerte_80
+  - first:
+      213: 891231481048230013
+    second: dron_vapor_muerte_81
+  - first:
+      213: -8541695331248443671
+    second: dron_vapor_muerte_82
+  - first:
+      213: 359866771681288969
+    second: dron_vapor_muerte_83
+  - first:
+      213: 1263420678985279790
+    second: dron_vapor_muerte_84
+  - first:
+      213: -3341183368715150455
+    second: dron_vapor_muerte_85
+  - first:
+      213: -988455205283139989
+    second: dron_vapor_muerte_86
+  - first:
+      213: -8964259428946310891
+    second: dron_vapor_muerte_87
+  - first:
+      213: -76545636410490954
+    second: dron_vapor_muerte_88
+  - first:
+      213: -2281350751114276999
+    second: dron_vapor_muerte_89
+  - first:
+      213: -943723588999354747
+    second: dron_vapor_muerte_90
+  - first:
+      213: 6603771803279547199
+    second: dron_vapor_muerte_91
+  - first:
+      213: -1429015699043576961
+    second: dron_vapor_muerte_92
+  - first:
+      213: 7236011253599935027
+    second: dron_vapor_muerte_93
+  - first:
+      213: 181227228455817534
+    second: dron_vapor_muerte_94
+  - first:
+      213: -3908315897056455021
+    second: dron_vapor_muerte_95
+  - first:
+      213: -4516667388423715763
+    second: dron_vapor_muerte_96
+  - first:
+      213: 7578758504452489752
+    second: dron_vapor_muerte_97
+  - first:
+      213: -3231052083684263162
+    second: dron_vapor_muerte_98
+  - first:
+      213: -1875129399919698576
+    second: dron_vapor_muerte_99
+  - first:
+      213: -6535562419869689901
+    second: dron_vapor_muerte_100
+  - first:
+      213: -8059987460793575776
+    second: dron_vapor_muerte_101
+  - first:
+      213: -3270200402290541498
+    second: dron_vapor_muerte_102
+  - first:
+      213: 3268917195328302179
+    second: dron_vapor_muerte_103
+  - first:
+      213: -5252472391550536853
+    second: dron_vapor_muerte_104
+  - first:
+      213: 3634345005703793214
+    second: dron_vapor_muerte_105
+  - first:
+      213: -4697256416416351182
+    second: dron_vapor_muerte_106
+  - first:
+      213: 3315348806522534592
+    second: dron_vapor_muerte_107
+  - first:
+      213: -6815368991533331354
+    second: dron_vapor_muerte_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_vapor_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4162bb5438e514381f181d6102625d
+      internalID: -603204968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2046fd2a3bf2409e9ea8ade99fcdf
+      internalID: 892238038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ea9c01827a1541b8a1fbcb4ee248a
+      internalID: -2074716098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05065fb22b27aa34bac7d12220fb3446
+      internalID: 27951033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95989e10bed64f946bf81e511cfd84a4
+      internalID: 845643666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a688444f76a804146a4fc72ab989ba9a
+      internalID: -25386161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5fce13dd82db845860d4528b7eca25
+      internalID: -1553974964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 162
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda8c3d904c35584d88cee8a819ac0b3
+      internalID: -2106345607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9ae54634e29b46b5432c922017ca0
+      internalID: 805820580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b15f65ac961d6c4d9df622fef1e074e
+      internalID: -399065969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777a18d6eaa22f4b82295fb1f6a8a86
+      internalID: 2463881153104538439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 356
+        height: 162
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d166f29af7d230479bf6a7818d801d8
+      internalID: -3862803189996854162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 252c9bfd8b781a74eb8e60ec00b49a16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dron_vapor_muerte_00: -603204968
+      dron_vapor_muerte_01: 892238038
+      dron_vapor_muerte_02: -2074716098
+      dron_vapor_muerte_03: 27951033
+      dron_vapor_muerte_04: 845643666
+      dron_vapor_muerte_05: -25386161
+      dron_vapor_muerte_06: -1553974964
+      dron_vapor_muerte_07: -2106345607
+      dron_vapor_muerte_08: 805820580
+      dron_vapor_muerte_09: -399065969
+      dron_vapor_muerte_10: 2463881153104538439
+      dron_vapor_muerte_11: -3862803189996854162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

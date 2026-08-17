@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 44720e73e7380a04e9cd810f044d6017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1585497181692501159
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_0
+  - first:
+      213: 1418791419951829130
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_1
+  - first:
+      213: 8031067282878607978
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_2
+  - first:
+      213: 883771256595816238
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_3
+  - first:
+      213: 4715682279989288251
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_4
+  - first:
+      213: -5428999045414216020
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_5
+  - first:
+      213: -6442737688828642477
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_6
+  - first:
+      213: -7323046057868570084
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_7
+  - first:
+      213: 4778143252363301474
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_8
+  - first:
+      213: -1699250851885351364
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_9
+  - first:
+      213: 4630269863284061408
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_10
+  - first:
+      213: -23234953199667004
+    second: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd7b0643de1a74790b92c15bbc80a5
+      internalID: -625075099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_01
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e5943007e8b2845b7033372e2fcc18
+      internalID: 1107676767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_02
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16acba95af7a847bd5ca537eca58eb
+      internalID: -1660076615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_03
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac25dc736ee671f40960de4861b7aba8
+      internalID: 1878423521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_04
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd2b1626dc868a4d86d563076911102
+      internalID: 1691576990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_05
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977cd8142e0466f4481f64ec024e2c23
+      internalID: -1155977977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_06
+      rect:
+        serializedVersion: 2
+        x: 4824
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008ad45846bfc6d45855e1a82bbbd8e0
+      internalID: 1146519659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_07
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 542
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d17230f8d5e744384cb07def685687
+      internalID: 1299763136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86cd1d041d5ac8499d5b138a23eec49
+      internalID: -1368592468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_fase2_ataque_enjambre_opcion_1_09
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 804
+        height: 542
+      alignment: 9
+      pivot: {x: 0.506219, y: 0.00738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64356cc51cc2c014e96d69540b3fb1ea
+      internalID: 1214929681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e475a24ecad62349b583635934c5396
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_00: -625075099
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_01: 1107676767
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_02: -1660076615
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_03: 1878423521
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_04: 1691576990
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_05: -1155977977
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_06: 1146519659
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_07: 1299763136
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_08: -1368592468
+      senor_del_tiempo_fase2_ataque_enjambre_opcion_1_09: 1214929681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

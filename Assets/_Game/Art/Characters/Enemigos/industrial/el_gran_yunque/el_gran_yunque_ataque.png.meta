@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 7e23e62e97b7e9a4c980fb70aeaca4f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8802892575641483517
+    second: el_gran_yunque_ataque_0
+  - first:
+      213: -5370635040784698333
+    second: el_gran_yunque_ataque_1
+  - first:
+      213: 3798646361575360388
+    second: el_gran_yunque_ataque_2
+  - first:
+      213: -3977751461827836576
+    second: el_gran_yunque_ataque_3
+  - first:
+      213: -4434844632818054909
+    second: el_gran_yunque_ataque_4
+  - first:
+      213: 293849458234865617
+    second: el_gran_yunque_ataque_5
+  - first:
+      213: 7137057535189183800
+    second: el_gran_yunque_ataque_6
+  - first:
+      213: -2382995941620883506
+    second: el_gran_yunque_ataque_7
+  - first:
+      213: 4152632955331492576
+    second: el_gran_yunque_ataque_8
+  - first:
+      213: 7247191337710133722
+    second: el_gran_yunque_ataque_9
+  - first:
+      213: -616931939845931427
+    second: el_gran_yunque_ataque_10
+  - first:
+      213: 3507693281801854048
+    second: el_gran_yunque_ataque_11
+  - first:
+      213: -2705616632776375387
+    second: el_gran_yunque_ataque_12
+  - first:
+      213: 7785661958581981849
+    second: el_gran_yunque_ataque_13
+  - first:
+      213: -6219336819130791325
+    second: el_gran_yunque_ataque_14
+  - first:
+      213: -7704856181613650197
+    second: el_gran_yunque_ataque_15
+  - first:
+      213: -6088997671524072450
+    second: el_gran_yunque_ataque_16
+  - first:
+      213: -2044195572505360666
+    second: el_gran_yunque_ataque_17
+  - first:
+      213: -7341656137219141142
+    second: el_gran_yunque_ataque_18
+  - first:
+      213: 2944653169471717398
+    second: el_gran_yunque_ataque_19
+  - first:
+      213: -1681997471434148347
+    second: el_gran_yunque_ataque_20
+  - first:
+      213: -7294476407802157947
+    second: el_gran_yunque_ataque_21
+  - first:
+      213: -4885837784378783200
+    second: el_gran_yunque_ataque_22
+  - first:
+      213: 4441137002332986293
+    second: el_gran_yunque_ataque_23
+  - first:
+      213: -4639337606601385627
+    second: el_gran_yunque_ataque_24
+  - first:
+      213: 8632118773712184346
+    second: el_gran_yunque_ataque_25
+  - first:
+      213: -5116422411709813905
+    second: el_gran_yunque_ataque_26
+  - first:
+      213: 7962572487924091679
+    second: el_gran_yunque_ataque_27
+  - first:
+      213: -8600341260428146362
+    second: el_gran_yunque_ataque_28
+  - first:
+      213: 7935142855486513052
+    second: el_gran_yunque_ataque_29
+  - first:
+      213: -8848978995884993615
+    second: el_gran_yunque_ataque_30
+  - first:
+      213: 8116474827638811432
+    second: el_gran_yunque_ataque_31
+  - first:
+      213: -7331489387898033463
+    second: el_gran_yunque_ataque_32
+  - first:
+      213: 6915440785971182434
+    second: el_gran_yunque_ataque_33
+  - first:
+      213: 4755707342441697809
+    second: el_gran_yunque_ataque_34
+  - first:
+      213: -6039432868460319481
+    second: el_gran_yunque_ataque_35
+  - first:
+      213: -6718997604113293832
+    second: el_gran_yunque_ataque_36
+  - first:
+      213: -4734068720117834815
+    second: el_gran_yunque_ataque_37
+  - first:
+      213: -6614437383998111336
+    second: el_gran_yunque_ataque_38
+  - first:
+      213: 2188118764524554847
+    second: el_gran_yunque_ataque_39
+  - first:
+      213: -2160480971330196780
+    second: el_gran_yunque_ataque_40
+  - first:
+      213: -8066278506147087664
+    second: el_gran_yunque_ataque_41
+  - first:
+      213: -2691199248588412218
+    second: el_gran_yunque_ataque_42
+  - first:
+      213: 6292156330652861382
+    second: el_gran_yunque_ataque_43
+  - first:
+      213: 6523221483373731818
+    second: el_gran_yunque_ataque_44
+  - first:
+      213: -7907274239620299653
+    second: el_gran_yunque_ataque_45
+  - first:
+      213: -5570227054975036410
+    second: el_gran_yunque_ataque_46
+  - first:
+      213: -5576351568388816496
+    second: el_gran_yunque_ataque_47
+  - first:
+      213: 2402528453556590164
+    second: el_gran_yunque_ataque_48
+  - first:
+      213: -9152647913481509978
+    second: el_gran_yunque_ataque_49
+  - first:
+      213: -2294784312150625392
+    second: el_gran_yunque_ataque_50
+  - first:
+      213: 52011572344209535
+    second: el_gran_yunque_ataque_51
+  - first:
+      213: 2042901832950764901
+    second: el_gran_yunque_ataque_52
+  - first:
+      213: -370573121047900122
+    second: el_gran_yunque_ataque_53
+  - first:
+      213: -5591041721188818614
+    second: el_gran_yunque_ataque_54
+  - first:
+      213: -3145248034283000193
+    second: el_gran_yunque_ataque_55
+  - first:
+      213: -7578364005234251520
+    second: el_gran_yunque_ataque_56
+  - first:
+      213: 8053051033479755144
+    second: el_gran_yunque_ataque_57
+  - first:
+      213: -6790229841947794630
+    second: el_gran_yunque_ataque_58
+  - first:
+      213: 7314429866346783819
+    second: el_gran_yunque_ataque_59
+  - first:
+      213: 1041958609895969688
+    second: el_gran_yunque_ataque_60
+  - first:
+      213: -1090891472735070003
+    second: el_gran_yunque_ataque_61
+  - first:
+      213: 3181256515708974776
+    second: el_gran_yunque_ataque_62
+  - first:
+      213: -1163864064138390582
+    second: el_gran_yunque_ataque_63
+  - first:
+      213: 1153865359044541444
+    second: el_gran_yunque_ataque_64
+  - first:
+      213: 5608948174037936385
+    second: el_gran_yunque_ataque_65
+  - first:
+      213: -8025572933890383396
+    second: el_gran_yunque_ataque_66
+  - first:
+      213: 492268096939602436
+    second: el_gran_yunque_ataque_67
+  - first:
+      213: 5131453364437858841
+    second: el_gran_yunque_ataque_68
+  - first:
+      213: -737291544147510762
+    second: el_gran_yunque_ataque_69
+  - first:
+      213: -2913574558297765443
+    second: el_gran_yunque_ataque_70
+  - first:
+      213: -226370399758780752
+    second: el_gran_yunque_ataque_71
+  - first:
+      213: -2626863460595581831
+    second: el_gran_yunque_ataque_72
+  - first:
+      213: 7337697317184511040
+    second: el_gran_yunque_ataque_73
+  - first:
+      213: 2276651355226101342
+    second: el_gran_yunque_ataque_74
+  - first:
+      213: 5964140643827619789
+    second: el_gran_yunque_ataque_75
+  - first:
+      213: 6072394400406014617
+    second: el_gran_yunque_ataque_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223ffc84798f7dd469387a6874f433a2
+      internalID: -1483761905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b707786900c8147894d0607e6d0321
+      internalID: 1510568868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d32f41b2bd924482de53987a7f2a6
+      internalID: -954176487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86505739f6bc3204ba4b1dbdbe74e15d
+      internalID: -1410727234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0e918af1513349858d5bf6029d21f
+      internalID: 172453974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2423ad96ec0a8804fb55b2bfa4a18a2b
+      internalID: -834260198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c138a136e1aebf43803c83db330d6d4
+      internalID: 1293684552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 350
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f9e13bd68c0743b73e228395077a8
+      internalID: 613794438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ccf0c11093964ab51eba7f913a81a
+      internalID: 985424684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: el_gran_yunque_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 498
+        height: 350
+      alignment: 9
+      pivot: {x: 0.447791, y: 0.011429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15124ab0ad4d9b843835fbd2638e7aed
+      internalID: 1804707020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 914e816088b647648a23ceca6b5e9bb6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      el_gran_yunque_ataque_00: -1483761905
+      el_gran_yunque_ataque_01: 1510568868
+      el_gran_yunque_ataque_02: -954176487
+      el_gran_yunque_ataque_03: -1410727234
+      el_gran_yunque_ataque_04: 172453974
+      el_gran_yunque_ataque_05: -834260198
+      el_gran_yunque_ataque_06: 1293684552
+      el_gran_yunque_ataque_07: 613794438
+      el_gran_yunque_ataque_08: 985424684
+      el_gran_yunque_ataque_09: 1804707020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

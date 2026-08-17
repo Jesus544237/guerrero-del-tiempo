@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 11605b5d737e7c740a8ca463cbd84323
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3101172896543049858
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_0
+  - first:
+      213: 9096085724466226800
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_1
+  - first:
+      213: 6595721418358032794
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_2
+  - first:
+      213: 3735161262411704231
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_3
+  - first:
+      213: -1296649138357164125
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_4
+  - first:
+      213: 5986879792361748379
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_5
+  - first:
+      213: 515094319584982355
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_6
+  - first:
+      213: -681180168702720470
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_7
+  - first:
+      213: 4467400805922352248
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_8
+  - first:
+      213: -6540430584620372388
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_9
+  - first:
+      213: 6432651341752856236
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_10
+  - first:
+      213: -6995170613459876160
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_11
+  - first:
+      213: 1898234445119994941
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_12
+  - first:
+      213: -8985759926297537544
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_13
+  - first:
+      213: -8067952256271837419
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_14
+  - first:
+      213: -7334910922120873802
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_15
+  - first:
+      213: -43173655655817730
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_16
+  - first:
+      213: -2098971629960370916
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_17
+  - first:
+      213: 8533522285521297340
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_18
+  - first:
+      213: -3083796010611304062
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_19
+  - first:
+      213: 3473311565335305411
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_20
+  - first:
+      213: -4651008462190475109
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_21
+  - first:
+      213: -8581749838258368583
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_22
+  - first:
+      213: -8628300735923283850
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_23
+  - first:
+      213: 2064601590112634503
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_24
+  - first:
+      213: 7718358475750557430
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_25
+  - first:
+      213: 1144844425227498478
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_26
+  - first:
+      213: 6138086231675816947
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_27
+  - first:
+      213: 4627831830690857852
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_28
+  - first:
+      213: 365279669477071869
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_29
+  - first:
+      213: 9153241588187609759
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_30
+  - first:
+      213: -2070851642463018174
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_31
+  - first:
+      213: 2637436672324343179
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_32
+  - first:
+      213: -4095304361115527524
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_33
+  - first:
+      213: -5484608880423229995
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_34
+  - first:
+      213: -7186572684068073628
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_35
+  - first:
+      213: 2003909467309467368
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_36
+  - first:
+      213: -6483016673174642984
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_37
+  - first:
+      213: -8304316711926226840
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_38
+  - first:
+      213: 5665219920166574270
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_39
+  - first:
+      213: -2126423929600640452
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_40
+  - first:
+      213: 824543242371753803
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_41
+  - first:
+      213: 9222860198756760786
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_42
+  - first:
+      213: -2105510922138532415
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_43
+  - first:
+      213: 4239069578568868752
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_44
+  - first:
+      213: -7021418043430930413
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_45
+  - first:
+      213: -8240767684119102038
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_46
+  - first:
+      213: -7389058162823959093
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_47
+  - first:
+      213: -4044611279810618209
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_48
+  - first:
+      213: 2823714141914269033
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_49
+  - first:
+      213: -9171940123875727675
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_50
+  - first:
+      213: -5564649092077183793
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_51
+  - first:
+      213: 688389692757101456
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_52
+  - first:
+      213: 689874195492015469
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_53
+  - first:
+      213: -7799608278671577736
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_54
+  - first:
+      213: 2351936524315103441
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_55
+  - first:
+      213: 6692084090598292447
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_56
+  - first:
+      213: -6101542342678765777
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_57
+  - first:
+      213: -5423996503464113979
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_58
+  - first:
+      213: 1762741394277628630
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_59
+  - first:
+      213: 6174997032456427474
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_60
+  - first:
+      213: -4391906483768698376
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_61
+  - first:
+      213: -9018954368358570469
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_62
+  - first:
+      213: 7774330482838605403
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_63
+  - first:
+      213: -2101953522097095744
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_64
+  - first:
+      213: -1974567314771634318
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_65
+  - first:
+      213: -143135945063100471
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_66
+  - first:
+      213: 5030098395176958524
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_67
+  - first:
+      213: 1435589351927600588
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_68
+  - first:
+      213: 6239599776909586961
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_69
+  - first:
+      213: -1306051981291380384
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_70
+  - first:
+      213: 5714881617708305971
+    second: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 544
+        width: 645
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28884859154990b20800000000000000
+      internalID: 3101172896543049858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1052
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076af45f5c9cb3e70800000000000000
+      internalID: 9096085724466226800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 544
+        width: 636
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a998aa23fa5b88b50800000000000000
+      internalID: 6595721418358032794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1049
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a769d0e065f5d330800000000000000
+      internalID: 3735161262411704231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1052
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7a7e58a70610ee0800000000000000
+      internalID: -1296649138357164125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_5
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 547
+        width: 633
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97bfa8837ba51350800000000000000
+      internalID: 5986879792361748379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_6
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1049
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3553fa8fd8bf52700800000000000000
+      internalID: 515094319584982355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_7
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1051
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a260f60ee36fb86f0800000000000000
+      internalID: -681180168702720470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_8
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 547
+        width: 639
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cab4a1d556ffd30800000000000000
+      internalID: 4467400805922352248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_9
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1049
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e2a953909bb35a0800000000000000
+      internalID: -6540430584620372388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_10
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1051
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae6e1d405e554950800000000000000
+      internalID: 6432651341752856236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_11
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 547
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6097993692cee90800000000000000
+      internalID: -6995170613459876160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_12
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 1049
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cb9c9ab22e75a10800000000000000
+      internalID: 1898234445119994941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_13
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 547
+        width: 650
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f35814a4fa2c4380800000000000000
+      internalID: -8985759926297537544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_14
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 1049
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5171b143b20e80090800000000000000
+      internalID: -8067952256271837419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_15
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1051
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b83adbd069253a90800000000000000
+      internalID: -7334910922120873802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_16
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 544
+        width: 642
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efddaf6f9cd966ff0800000000000000
+      internalID: -43173655655817730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_17
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 1049
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15e6926c64fed2e0800000000000000
+      internalID: -2098971629960370916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_18
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 543
+        width: 626
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf506f5e492d6670800000000000000
+      internalID: 8533522285521297340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_19
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 1049
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2891fb3fdd72435d0800000000000000
+      internalID: -3083796010611304062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_20
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 983
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc111e577ea33030800000000000000
+      internalID: 3473311565335305411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_21
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 990
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b980dcb127c447fb0800000000000000
+      internalID: -4651008462190475109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_22
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 984
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf085b7dff77e880800000000000000
+      internalID: -8581749838258368583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_23
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 984
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6781d04023e124880800000000000000
+      internalID: -8628300735923283850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_24
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 987
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786ce5d1530f6ac10800000000000000
+      internalID: 2064601590112634503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_25
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 981
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6cc3cd32e1d1b60800000000000000
+      internalID: 7718358475750557430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_26
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 976
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee375c860fd43ef00800000000000000
+      internalID: 1144844425227498478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_27
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 981
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc0cf18ecde2550800000000000000
+      internalID: 6138086231675816947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_28
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 981
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73039cd78c593040800000000000000
+      internalID: 4627831830690857852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_29
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 972
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5ade8cebb11500800000000000000
+      internalID: 365279669477071869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_30
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 974
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a314f7ab8d60f70800000000000000
+      internalID: 9153241588187609759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_31
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 975
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243257c276bd243e0800000000000000
+      internalID: -2070851642463018174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_32
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 971
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851b730eae0a9420800000000000000
+      internalID: 2637436672324343179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_33
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 952
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96d994a16e8a27c0800000000000000
+      internalID: -4095304361115527524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_34
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 960
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5ab6e2841c2e3b0800000000000000
+      internalID: -5484608880423229995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 949
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fc89d483a244c90800000000000000
+      internalID: -7186572684068073628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_36
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 950
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e5091b015fcb10800000000000000
+      internalID: 2003909467309467368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 886
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de9d7a2fa2b706a0800000000000000
+      internalID: -6483016673174642984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_38
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 885
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8602c4bd2f321cc80800000000000000
+      internalID: -8304316711926226840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 853
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8def37087ee9e40800000000000000
+      internalID: 5665219920166574270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 853
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a734ac3bc6d72e0800000000000000
+      internalID: -2126423929600640452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_41
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 853
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b476487d5bd517b00800000000000000
+      internalID: 824543242371753803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_42
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 853
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc3cf76c7e2eff70800000000000000
+      internalID: 9222860198756760786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_43
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 853
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c54a37c8f8b7c2e0800000000000000
+      internalID: -2105510922138532415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_44
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 853
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09323c8725334da30800000000000000
+      internalID: 4239069578568868752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_45
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 853
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f7c59d79ee8e90800000000000000
+      internalID: -7021418043430930413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_46
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 852
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadff87e379e2ad80800000000000000
+      internalID: -8240767684119102038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 718
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6d24ffbac47990800000000000000
+      internalID: -7389058162823959093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_48
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 718
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c99546877aed7c0800000000000000
+      internalID: -4044611279810618209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_49
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 718
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650c082d09df2720800000000000000
+      internalID: 2823714141914269033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_50
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 718
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c62c376d09b6b080800000000000000
+      internalID: -9171940123875727675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_51
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 718
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1a0f222566c2b0800000000000000
+      internalID: -5564649092077183793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_52
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 718
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc3df37c6ad8900800000000000000
+      internalID: 688389692757101456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_53
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 718
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d820afcece29900800000000000000
+      internalID: 689874195492015469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_54
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 718
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87da59a389932c390800000000000000
+      internalID: -7799608278671577736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 539
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0911acec1c3a020800000000000000
+      internalID: 2351936524315103441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_56
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 539
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb7723360f0fdc50800000000000000
+      internalID: 6692084090598292447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_57
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 539
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f90a21197f25ba0800000000000000
+      internalID: -6101542342678765777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_58
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 544
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c88f0ceae71ab4b0800000000000000
+      internalID: -5423996503464113979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_59
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 539
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da7bcc65f3867810800000000000000
+      internalID: 1762741394277628630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_60
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 544
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d718a0a51ff1b550800000000000000
+      internalID: 6174997032456427474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_61
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 543
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f95b348250dc03c0800000000000000
+      internalID: -4391906483768698376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_62
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 544
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16a78459cc36d280800000000000000
+      internalID: -9018954368358570469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_63
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 543
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e061c4268f3eb60800000000000000
+      internalID: 7774330482838605403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_64
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 544
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7505886c54d2e0800000000000000
+      internalID: -2101953522097095744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 631
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27790f92d7de894e0800000000000000
+      internalID: -1974567314771634318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_66
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 458
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf8ce7cd9a730ef0800000000000000
+      internalID: -143135945063100471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_67
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af8cdf6df7ec540800000000000000
+      internalID: 5030098395176958524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 427
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55af4d8ec3ce310800000000000000
+      internalID: 1435589351927600588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1127d4330f2879650800000000000000
+      internalID: 6239599776909586961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 316
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061aeec84a8ffdde0800000000000000
+      internalID: -1306051981291380384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senor_del_tiempo_armored_character_animation_from__1080p_202608150114_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 183
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ec9e47d865f4f40800000000000000
+      internalID: 5714881617708305971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_0: 3101172896543049858
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_1: 9096085724466226800
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_10: 6432651341752856236
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_11: -6995170613459876160
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_12: 1898234445119994941
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_13: -8985759926297537544
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_14: -8067952256271837419
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_15: -7334910922120873802
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_16: -43173655655817730
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_17: -2098971629960370916
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_18: 8533522285521297340
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_19: -3083796010611304062
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_2: 6595721418358032794
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_20: 3473311565335305411
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_21: -4651008462190475109
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_22: -8581749838258368583
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_23: -8628300735923283850
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_24: 2064601590112634503
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_25: 7718358475750557430
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_26: 1144844425227498478
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_27: 6138086231675816947
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_28: 4627831830690857852
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_29: 365279669477071869
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_3: 3735161262411704231
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_30: 9153241588187609759
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_31: -2070851642463018174
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_32: 2637436672324343179
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_33: -4095304361115527524
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_34: -5484608880423229995
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_35: -7186572684068073628
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_36: 2003909467309467368
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_37: -6483016673174642984
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_38: -8304316711926226840
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_39: 5665219920166574270
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_4: -1296649138357164125
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_40: -2126423929600640452
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_41: 824543242371753803
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_42: 9222860198756760786
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_43: -2105510922138532415
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_44: 4239069578568868752
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_45: -7021418043430930413
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_46: -8240767684119102038
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_47: -7389058162823959093
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_48: -4044611279810618209
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_49: 2823714141914269033
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_5: 5986879792361748379
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_50: -9171940123875727675
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_51: -5564649092077183793
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_52: 688389692757101456
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_53: 689874195492015469
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_54: -7799608278671577736
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_55: 2351936524315103441
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_56: 6692084090598292447
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_57: -6101542342678765777
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_58: -5423996503464113979
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_59: 1762741394277628630
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_6: 515094319584982355
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_60: 6174997032456427474
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_61: -4391906483768698376
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_62: -9018954368358570469
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_63: 7774330482838605403
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_64: -2101953522097095744
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_65: -1974567314771634318
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_66: -143135945063100471
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_67: 5030098395176958524
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_68: 1435589351927600588
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_69: 6239599776909586961
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_7: -681180168702720470
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_70: -1306051981291380384
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_71: 5714881617708305971
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_8: 4467400805922352248
+      senor_del_tiempo_armored_character_animation_from__1080p_202608150114_9: -6540430584620372388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,63 @@
+# Unity: lo que se regenera solo y no debe viajar en el repositorio
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# cache del importador y de las herramientas
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# salidas de compilacion
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# nuestro: Tools/out son revisiones y pruebas, se rehacen con los scripts
+Tools/out/
+Tools/__pycache__/
+Tools/node_modules/
+__pycache__/
+*.pyc
+
+# Tools/prompts es el material con el que se genero el arte: 395 MB de video y
+# 212 MB de png de referencia que el juego no usa para nada. Se queda solo el
+# texto de los prompts, que es lo que documenta como se hizo cada cosa. El arte
+# que si usa el juego vive en Assets y ese viaja entero.
+Tools/prompts/**
+!Tools/prompts/**/
+!Tools/prompts/**/*.txt
+!Tools/prompts/**/*.md
+!Tools/prompts/**/*.json
+Tools/refs/
+
+# la unica pieza de video que si viaja es la cinematica, porque el juego la
+# necesita para arrancar
+!Assets/StreamingAssets/cinematica_intro.mp4
+
+# la clave de la API de arte no va al repositorio
+Tools/gemini_key.txt

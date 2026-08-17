@@ -1,0 +1,37 @@
+QUE HACE CADA OBSTACULO EN EL JUEGO
+===================================
+
+plataforma = se puede pisar     obstaculo = bloquea el paso
+peligro    = hace dano al tocarlo
+
+
+MEDIEVAL
+  roca_catapulta            170x 170 px   plataforma
+  flechas_congeladas        280x 110 px   plataforma
+  escalera_asedio           150x 430 px   plataforma
+  rastrillo                 300x 380 px   obstaculo
+  pinchos_asedio            250x 100 px   peligro
+  brasero                   130x 180 px   peligro
+  muro_roto                 380x 220 px   plataforma
+
+INDUSTRIAL
+  piston                    190x 320 px   obstaculo
+  engranaje_plataforma      320x 320 px   plataforma
+  pasarela                  420x  90 px   plataforma
+  valvula_vapor             180x 140 px   peligro
+  crisol                    380x 140 px   peligro
+  prensa                    300x 380 px   obstaculo
+
+FUTURO
+  barrera_laser             140x 420 px   peligro
+  plataforma_holografica    320x  70 px   plataforma
+  torre_servidor            240x 440 px   obstaculo
+  suelo_glitch              260x  80 px   plataforma
+  cartel_neon               380x 240 px   plataforma
+  mina_datos                150x 150 px   peligro
+
+HORA_CERO
+  fragmento_reloj           280x 130 px   plataforma
+  aguja_reloj               520x  90 px   plataforma
+  esquirla_tiempo           140x 220 px   peligro
+  pilar_congelado           220x 440 px   obstaculo

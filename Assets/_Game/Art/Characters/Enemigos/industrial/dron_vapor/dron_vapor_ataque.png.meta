@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: ff7dcb037ce47cc458b64289cdad8227
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8304737443912556887
+    second: dron_vapor_ataque_0
+  - first:
+      213: 2228676516820459849
+    second: dron_vapor_ataque_1
+  - first:
+      213: 1446197017389895460
+    second: dron_vapor_ataque_2
+  - first:
+      213: 3074246544020817566
+    second: dron_vapor_ataque_3
+  - first:
+      213: 4877710959532440940
+    second: dron_vapor_ataque_4
+  - first:
+      213: 1356618100618980987
+    second: dron_vapor_ataque_5
+  - first:
+      213: -1222940399195348723
+    second: dron_vapor_ataque_6
+  - first:
+      213: 1914285680151603108
+    second: dron_vapor_ataque_7
+  - first:
+      213: 6482120277386638538
+    second: dron_vapor_ataque_8
+  - first:
+      213: -4077123482029040869
+    second: dron_vapor_ataque_9
+  - first:
+      213: 1175135070481280843
+    second: dron_vapor_ataque_10
+  - first:
+      213: 8453819373243661445
+    second: dron_vapor_ataque_11
+  - first:
+      213: 546413976157254962
+    second: dron_vapor_ataque_12
+  - first:
+      213: -8857732184014850651
+    second: dron_vapor_ataque_13
+  - first:
+      213: 5551186065265573714
+    second: dron_vapor_ataque_14
+  - first:
+      213: 1694978928590480254
+    second: dron_vapor_ataque_15
+  - first:
+      213: 1411647360574864745
+    second: dron_vapor_ataque_16
+  - first:
+      213: 4745546723490608898
+    second: dron_vapor_ataque_17
+  - first:
+      213: 6025925164960436632
+    second: dron_vapor_ataque_18
+  - first:
+      213: -2370591349338438867
+    second: dron_vapor_ataque_19
+  - first:
+      213: -3552533308884379355
+    second: dron_vapor_ataque_20
+  - first:
+      213: -6106520044712507986
+    second: dron_vapor_ataque_21
+  - first:
+      213: -2592563215946477265
+    second: dron_vapor_ataque_22
+  - first:
+      213: 659538049807859725
+    second: dron_vapor_ataque_23
+  - first:
+      213: 3623035518962836412
+    second: dron_vapor_ataque_24
+  - first:
+      213: -711237856344397205
+    second: dron_vapor_ataque_25
+  - first:
+      213: 2442605745948308140
+    second: dron_vapor_ataque_26
+  - first:
+      213: -4104614926871652431
+    second: dron_vapor_ataque_27
+  - first:
+      213: -6537454371867563477
+    second: dron_vapor_ataque_28
+  - first:
+      213: -1269514154872212981
+    second: dron_vapor_ataque_29
+  - first:
+      213: 1527923492615232909
+    second: dron_vapor_ataque_30
+  - first:
+      213: 8620572420640576922
+    second: dron_vapor_ataque_31
+  - first:
+      213: -1780439733041564630
+    second: dron_vapor_ataque_32
+  - first:
+      213: -6942943720484201373
+    second: dron_vapor_ataque_33
+  - first:
+      213: -5843549984201937505
+    second: dron_vapor_ataque_34
+  - first:
+      213: 4788603540842096143
+    second: dron_vapor_ataque_35
+  - first:
+      213: 25764410628754663
+    second: dron_vapor_ataque_36
+  - first:
+      213: 7731362683263595089
+    second: dron_vapor_ataque_37
+  - first:
+      213: -6624466255966409470
+    second: dron_vapor_ataque_38
+  - first:
+      213: -7707730963064872320
+    second: dron_vapor_ataque_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_vapor_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9534b0baf73a4d85b17fad72cd80e
+      internalID: 205795568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b8013a2e3f234cbf5fc7b48641890
+      internalID: -793996434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e239cbdbe8a3f645b7fa31a32f0400d
+      internalID: -777379575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f685720ddf8073742bdfb313ca4b8e78
+      internalID: -772733497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b0a09afd6eb9e4cab1c757f5cda8b9
+      internalID: -938946319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dce89570dbe8644a05d03c0d181174
+      internalID: 728768608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2ff9ba78d4234db8fad7926086c9c
+      internalID: -1462601170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 170
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee844dcf7772acc40be1a1bf8150a288
+      internalID: 1464933128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04592628e9921ea4f8e71bc3550657ef
+      internalID: 1175741589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 244
+        height: 170
+      alignment: 9
+      pivot: {x: 0.536885, y: 0.023529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56997357b4c194d83a5f1abd98d088
+      internalID: -48665291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 222a11776db8b0c438c2b24a6726f8bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dron_vapor_ataque_00: 205795568
+      dron_vapor_ataque_01: -793996434
+      dron_vapor_ataque_02: -777379575
+      dron_vapor_ataque_03: -772733497
+      dron_vapor_ataque_04: -938946319
+      dron_vapor_ataque_05: 728768608
+      dron_vapor_ataque_06: -1462601170
+      dron_vapor_ataque_07: 1464933128
+      dron_vapor_ataque_08: 1175741589
+      dron_vapor_ataque_09: -48665291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

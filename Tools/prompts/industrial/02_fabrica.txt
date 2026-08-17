@@ -1,0 +1,15 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+Time is broken here: cyan light and floating golden clock gears leak into the scene, and small objects hang frozen in mid-air as if a moment had been paused.
+
+LEVEL: "La Fundicion de las Horas".
+
+SUBJECT: the mid-ground, the great foundry caught mid-explosion and held there forever. A riveted iron hall with a broken roof, huge pressure pipes, catwalks, and a colossal escapement wheel embedded in its front wall. Sparks, bolts and shards of hot metal hang MOTIONLESS, each in a thin cyan halo. Molten metal pours from a ladle and freezes mid-fall like a golden ribbon.
+
+COMPOSITION: the structure occupies the middle band, its base simple and dark so a floor layer can overlap it.
+
+BACKGROUND: everything that is NOT the subject must be pure flat solid chroma green #00FF00, absolutely uniform, no gradient, no shadow, no glow spilling onto it. Chroma green must not appear anywhere on the subject itself, so it can be cut out cleanly.
+
+Hard requirements: no characters, no creatures, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9, 2752x1536.

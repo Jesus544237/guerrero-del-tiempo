@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: f578a664765a48248949dd16ba94830d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1095886291662312944
+    second: dron_centinela_muerte_0
+  - first:
+      213: -5010439232728386108
+    second: dron_centinela_muerte_1
+  - first:
+      213: -6392700041911178967
+    second: dron_centinela_muerte_2
+  - first:
+      213: -2743416944211816557
+    second: dron_centinela_muerte_3
+  - first:
+      213: 696965045152558625
+    second: dron_centinela_muerte_4
+  - first:
+      213: -4729701943993316644
+    second: dron_centinela_muerte_5
+  - first:
+      213: -8767745384452008909
+    second: dron_centinela_muerte_6
+  - first:
+      213: 2830838239189288836
+    second: dron_centinela_muerte_7
+  - first:
+      213: 8229906367790684766
+    second: dron_centinela_muerte_8
+  - first:
+      213: -7460055005034648853
+    second: dron_centinela_muerte_9
+  - first:
+      213: -8878636453451567081
+    second: dron_centinela_muerte_10
+  - first:
+      213: 8393448527712527446
+    second: dron_centinela_muerte_11
+  - first:
+      213: -8296219296277724266
+    second: dron_centinela_muerte_12
+  - first:
+      213: -1649029319025590161
+    second: dron_centinela_muerte_13
+  - first:
+      213: -7190586722916937009
+    second: dron_centinela_muerte_14
+  - first:
+      213: 1758958269561329963
+    second: dron_centinela_muerte_15
+  - first:
+      213: -8363421321812389329
+    second: dron_centinela_muerte_16
+  - first:
+      213: -6862715055258067472
+    second: dron_centinela_muerte_17
+  - first:
+      213: -5358491916807438258
+    second: dron_centinela_muerte_18
+  - first:
+      213: 492489655038854073
+    second: dron_centinela_muerte_19
+  - first:
+      213: 8401127962864485548
+    second: dron_centinela_muerte_20
+  - first:
+      213: -5055150709143253537
+    second: dron_centinela_muerte_21
+  - first:
+      213: 864220103663041434
+    second: dron_centinela_muerte_22
+  - first:
+      213: 5050842779428433911
+    second: dron_centinela_muerte_23
+  - first:
+      213: 8613736429852346037
+    second: dron_centinela_muerte_24
+  - first:
+      213: -4715924986059039328
+    second: dron_centinela_muerte_25
+  - first:
+      213: -7490509655537795346
+    second: dron_centinela_muerte_26
+  - first:
+      213: 6231580600022505286
+    second: dron_centinela_muerte_27
+  - first:
+      213: -5698512418771780576
+    second: dron_centinela_muerte_28
+  - first:
+      213: -3283730989001555503
+    second: dron_centinela_muerte_29
+  - first:
+      213: -8287776237118724533
+    second: dron_centinela_muerte_30
+  - first:
+      213: 1578663800995742207
+    second: dron_centinela_muerte_31
+  - first:
+      213: 391633031527868774
+    second: dron_centinela_muerte_32
+  - first:
+      213: -1725392184209359839
+    second: dron_centinela_muerte_33
+  - first:
+      213: 1144465679282363100
+    second: dron_centinela_muerte_34
+  - first:
+      213: -6505905404379898597
+    second: dron_centinela_muerte_35
+  - first:
+      213: 6550950366873165163
+    second: dron_centinela_muerte_36
+  - first:
+      213: -461262297990496279
+    second: dron_centinela_muerte_37
+  - first:
+      213: 8339345075525728299
+    second: dron_centinela_muerte_38
+  - first:
+      213: 1276097568267019186
+    second: dron_centinela_muerte_39
+  - first:
+      213: -4266192746280695077
+    second: dron_centinela_muerte_40
+  - first:
+      213: 6215873591322095886
+    second: dron_centinela_muerte_41
+  - first:
+      213: 4596759593521753932
+    second: dron_centinela_muerte_42
+  - first:
+      213: 6768128712907462892
+    second: dron_centinela_muerte_43
+  - first:
+      213: 2574017856588071872
+    second: dron_centinela_muerte_44
+  - first:
+      213: -6281807944085072302
+    second: dron_centinela_muerte_45
+  - first:
+      213: -2631242867938401781
+    second: dron_centinela_muerte_46
+  - first:
+      213: -4575423533748261906
+    second: dron_centinela_muerte_47
+  - first:
+      213: -2028779808343387451
+    second: dron_centinela_muerte_48
+  - first:
+      213: 5427406656143657990
+    second: dron_centinela_muerte_49
+  - first:
+      213: 5731482032236927906
+    second: dron_centinela_muerte_50
+  - first:
+      213: 606572739910150655
+    second: dron_centinela_muerte_51
+  - first:
+      213: 2249293105675918576
+    second: dron_centinela_muerte_52
+  - first:
+      213: -4793463838790164277
+    second: dron_centinela_muerte_53
+  - first:
+      213: -6943072358226216862
+    second: dron_centinela_muerte_54
+  - first:
+      213: 1643773290372338940
+    second: dron_centinela_muerte_55
+  - first:
+      213: -5592105170048566845
+    second: dron_centinela_muerte_56
+  - first:
+      213: 7547448588077989909
+    second: dron_centinela_muerte_57
+  - first:
+      213: -154098094822800230
+    second: dron_centinela_muerte_58
+  - first:
+      213: 8255419473048783076
+    second: dron_centinela_muerte_59
+  - first:
+      213: 5156894485656264394
+    second: dron_centinela_muerte_60
+  - first:
+      213: 2229147135388139998
+    second: dron_centinela_muerte_61
+  - first:
+      213: 8733175801305260754
+    second: dron_centinela_muerte_62
+  - first:
+      213: 348889388773713285
+    second: dron_centinela_muerte_63
+  - first:
+      213: 466101531123950711
+    second: dron_centinela_muerte_64
+  - first:
+      213: 3247926825603338690
+    second: dron_centinela_muerte_65
+  - first:
+      213: -8066204392083191930
+    second: dron_centinela_muerte_66
+  - first:
+      213: 624084549356624905
+    second: dron_centinela_muerte_67
+  - first:
+      213: 7668511536688810014
+    second: dron_centinela_muerte_68
+  - first:
+      213: -3659593452338765540
+    second: dron_centinela_muerte_69
+  - first:
+      213: -9188985809242572376
+    second: dron_centinela_muerte_70
+  - first:
+      213: 2097218838965380036
+    second: dron_centinela_muerte_71
+  - first:
+      213: 521365224350077707
+    second: dron_centinela_muerte_72
+  - first:
+      213: -6626842915680520532
+    second: dron_centinela_muerte_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_centinela_muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f5db9b11eab34fa48a298748e0c58
+      internalID: 1647744132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_01
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d96d74fa048cf40ab4e52d7e6d9e15
+      internalID: 457899292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_02
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea4d8c184797684b9d99bef7babe145
+      internalID: 801656785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_03
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0061696876fdb0746abc46592b48826f
+      internalID: -122126799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_04
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d4474c3001a34d87a8e54e82b937c
+      internalID: -1958981372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_05
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53233a88463f76b4d865370a2891c5a2
+      internalID: 1723031166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_06
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a054d5c7013a419c322ae4b845058
+      internalID: 478139239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_07
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 130
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8aa18ccf4ea61489a4f4d156550231
+      internalID: -459294831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe68ff833bb85a4e9a655d14e69baa1
+      internalID: 992394717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_09
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed624817454e38c4987efc1050caae10
+      internalID: -1781084137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dc68829a36430489ea51d70c73e758
+      internalID: -8878636453451567081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 218
+        height: 130
+      alignment: 9
+      pivot: {x: 0.486239, y: 0.030769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0292df52a79606c49b800848d808c001
+      internalID: 8393448527712527446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f96846c24f7c2a04b85e58e9708ba8e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dron_centinela_muerte_00: 1647744132
+      dron_centinela_muerte_01: 457899292
+      dron_centinela_muerte_02: 801656785
+      dron_centinela_muerte_03: -122126799
+      dron_centinela_muerte_04: -1958981372
+      dron_centinela_muerte_05: 1723031166
+      dron_centinela_muerte_06: 478139239
+      dron_centinela_muerte_07: -459294831
+      dron_centinela_muerte_08: 992394717
+      dron_centinela_muerte_09: -1781084137
+      dron_centinela_muerte_10: -8878636453451567081
+      dron_centinela_muerte_11: 8393448527712527446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

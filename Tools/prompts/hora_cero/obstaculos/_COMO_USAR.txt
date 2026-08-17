@@ -1,0 +1,31 @@
+OBSTACULOS: COMO USAR ESTOS PROMPTS
+==================================
+
+Son prompts de IMAGEN, uno por objeto. Se generan en la app de Gemini (o con
+Nano Banana / Imagen), y NO son video: son sprites sueltos.
+
+1. Genera la imagen con el prompt tal cual, sin adjuntar nada.
+
+2. Guardala en esta misma carpeta, en la subcarpeta 'salida', con el mismo
+   nombre que el prompt y en PNG:
+
+       <era>/obstaculos/salida/roca_catapulta.png
+
+3. El fondo verde se recorta despues por programa, igual que con los enemigos.
+   Por eso el prompt insiste tanto en que el verde sea plano y en que no haya
+   sombra proyectada sobre el fondo: una sombra se recorta como si fuese parte
+   del objeto.
+
+LOS TAMANOS NO SON DECORATIVOS
+------------------------------
+Cada prompt dice cuantos pixeles debe medir el objeto. La regla del proyecto es
+100 px = 1 unidad de Unity, y Ekkar mide 240 px. Si el generador devuelve la
+imagen mas grande o mas pequena no pasa nada, se reescala al montar; lo que
+importa es la PROPORCION entre el objeto y el heroe, porque eso ya no se puede
+arreglar despues.
+
+EL ESTADO CONGELADO NO SE DIBUJA
+--------------------------------
+Cuando Ekkar detiene el tiempo (E), lo que estaba cayendo se vuelve solido y se
+puede pisar. Eso NO hace falta dibujarlo: en Unity es el mismo sprite con un
+tinte cian y la animacion parada. Con una version de cada objeto basta.

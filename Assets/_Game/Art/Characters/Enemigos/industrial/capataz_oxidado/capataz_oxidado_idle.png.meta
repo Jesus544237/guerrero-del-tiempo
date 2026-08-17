@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 0d6a3c56d56eb6f4dbd1f54560a62eed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3127089438772504900
+    second: capataz_oxidado_idle_0
+  - first:
+      213: 372616229872799088
+    second: capataz_oxidado_idle_1
+  - first:
+      213: -1958493290248321150
+    second: capataz_oxidado_idle_2
+  - first:
+      213: -2549560427953143424
+    second: capataz_oxidado_idle_3
+  - first:
+      213: 1416322226796896430
+    second: capataz_oxidado_idle_4
+  - first:
+      213: -419472541860368125
+    second: capataz_oxidado_idle_5
+  - first:
+      213: 2438141898635131902
+    second: capataz_oxidado_idle_6
+  - first:
+      213: -8325700496866470909
+    second: capataz_oxidado_idle_7
+  - first:
+      213: -1883270504837396831
+    second: capataz_oxidado_idle_8
+  - first:
+      213: 1133426439353294023
+    second: capataz_oxidado_idle_9
+  - first:
+      213: 8158814622475958681
+    second: capataz_oxidado_idle_10
+  - first:
+      213: 6792425856385744378
+    second: capataz_oxidado_idle_11
+  - first:
+      213: 6974279968870002354
+    second: capataz_oxidado_idle_12
+  - first:
+      213: -7876252930747757241
+    second: capataz_oxidado_idle_13
+  - first:
+      213: -4632234558050775876
+    second: capataz_oxidado_idle_14
+  - first:
+      213: 7881533824386801391
+    second: capataz_oxidado_idle_15
+  - first:
+      213: 4842106909235845714
+    second: capataz_oxidado_idle_16
+  - first:
+      213: 5776056057812741522
+    second: capataz_oxidado_idle_17
+  - first:
+      213: -3472324611279737398
+    second: capataz_oxidado_idle_18
+  - first:
+      213: 5595073624700955807
+    second: capataz_oxidado_idle_19
+  - first:
+      213: 676053359898280780
+    second: capataz_oxidado_idle_20
+  - first:
+      213: -705851635453933510
+    second: capataz_oxidado_idle_21
+  - first:
+      213: -8732048741225968024
+    second: capataz_oxidado_idle_22
+  - first:
+      213: 4850512476225555428
+    second: capataz_oxidado_idle_23
+  - first:
+      213: -5221016274134902025
+    second: capataz_oxidado_idle_24
+  - first:
+      213: -4925750818416477164
+    second: capataz_oxidado_idle_25
+  - first:
+      213: -656362840273706651
+    second: capataz_oxidado_idle_26
+  - first:
+      213: -205021665427428302
+    second: capataz_oxidado_idle_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5c85fb5ad90a446893b3518e824ebe
+      internalID: 776002243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_01
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834809a7f83ee3d4395c09c8a36e0d42
+      internalID: -283620132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_02
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6d6ef94e1b4484dae9f144ce8bb862
+      internalID: -1307386660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_03
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71762496f899d54da08241115e290d4
+      internalID: -1325060966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_04
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c528a88c430b4a8af91864de10d81
+      internalID: -1940511715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_05
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c26c9bf687475449dbf901a831c6bd
+      internalID: -845895232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_06
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d312fb7dd3d54d97aadd3f38b881c
+      internalID: -225771581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capataz_oxidado_idle_07
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 0
+        width: 402
+        height: 272
+      alignment: 9
+      pivot: {x: 0.741294, y: 0.014706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a2c6cb7c1a6d4ba3bfc9f891640a6
+      internalID: 1003119955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 316d6c1e93304f144b4f3de91b308896
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capataz_oxidado_idle_00: 776002243
+      capataz_oxidado_idle_01: -283620132
+      capataz_oxidado_idle_02: -1307386660
+      capataz_oxidado_idle_03: -1325060966
+      capataz_oxidado_idle_04: -1940511715
+      capataz_oxidado_idle_05: -845895232
+      capataz_oxidado_idle_06: -225771581
+      capataz_oxidado_idle_07: 1003119955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

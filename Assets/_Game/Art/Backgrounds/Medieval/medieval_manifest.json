@@ -1,0 +1,78 @@
+{
+  "artScale": 0.7,
+  "groundTopPixel": 365,
+  "groundHeight": 1075,
+  "groundSolidBottom": 902,
+  "layers": [
+    {
+      "key": "cielo",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 0,
+      "contentBottom": 1075
+    },
+    {
+      "key": "horizonte",
+      "width": 963,
+      "height": 538,
+      "contentTop": 261,
+      "contentBottom": 538
+    },
+    {
+      "key": "castillo",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 0,
+      "contentBottom": 1075
+    },
+    {
+      "key": "suelo",
+      "width": 1926,
+      "height": 1075,
+      "contentTop": 242,
+      "contentBottom": 913
+    }
+  ],
+  "props": [
+    {
+      "file": "prop_00.png",
+      "width": 397,
+      "height": 758
+    },
+    {
+      "file": "prop_01.png",
+      "width": 299,
+      "height": 758
+    },
+    {
+      "file": "prop_02.png",
+      "width": 386,
+      "height": 284
+    },
+    {
+      "file": "prop_03.png",
+      "width": 287,
+      "height": 419
+    },
+    {
+      "file": "prop_04.png",
+      "width": 259,
+      "height": 303
+    },
+    {
+      "file": "prop_05.png",
+      "width": 406,
+      "height": 248
+    },
+    {
+      "file": "prop_06.png",
+      "width": 354,
+      "height": 518
+    },
+    {
+      "file": "prop_07.png",
+      "width": 312,
+      "height": 408
+    }
+  ]
+}

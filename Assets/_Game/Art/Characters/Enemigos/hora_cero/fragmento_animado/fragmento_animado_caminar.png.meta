@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 4e8b9693145525c4b9a44ddfbdede4d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3735118024940773992
+    second: fragmento_animado_caminar_0
+  - first:
+      213: -3204117055132327287
+    second: fragmento_animado_caminar_1
+  - first:
+      213: 3189297035249016524
+    second: fragmento_animado_caminar_2
+  - first:
+      213: -2861674604574045516
+    second: fragmento_animado_caminar_3
+  - first:
+      213: -121896396194772224
+    second: fragmento_animado_caminar_4
+  - first:
+      213: 6323776509091795899
+    second: fragmento_animado_caminar_5
+  - first:
+      213: 1999701600561741403
+    second: fragmento_animado_caminar_6
+  - first:
+      213: 286676733922024852
+    second: fragmento_animado_caminar_7
+  - first:
+      213: -4242715123673357944
+    second: fragmento_animado_caminar_8
+  - first:
+      213: 7485943022300156482
+    second: fragmento_animado_caminar_9
+  - first:
+      213: -1096117599045321950
+    second: fragmento_animado_caminar_10
+  - first:
+      213: 7049857014773698604
+    second: fragmento_animado_caminar_11
+  - first:
+      213: -5440993903679819266
+    second: fragmento_animado_caminar_12
+  - first:
+      213: 4569898540517254215
+    second: fragmento_animado_caminar_13
+  - first:
+      213: -5032508455112315300
+    second: fragmento_animado_caminar_14
+  - first:
+      213: -48917451027902075
+    second: fragmento_animado_caminar_15
+  - first:
+      213: -6664692558253477638
+    second: fragmento_animado_caminar_16
+  - first:
+      213: -6160628266624285661
+    second: fragmento_animado_caminar_17
+  - first:
+      213: -4548694332447719463
+    second: fragmento_animado_caminar_18
+  - first:
+      213: 3450202931304958576
+    second: fragmento_animado_caminar_19
+  - first:
+      213: -5353403577179902780
+    second: fragmento_animado_caminar_20
+  - first:
+      213: 56156012339805494
+    second: fragmento_animado_caminar_21
+  - first:
+      213: 4833097229424191917
+    second: fragmento_animado_caminar_22
+  - first:
+      213: 4017054231540893410
+    second: fragmento_animado_caminar_23
+  - first:
+      213: -5176197280407652108
+    second: fragmento_animado_caminar_24
+  - first:
+      213: 5534223167043231590
+    second: fragmento_animado_caminar_25
+  - first:
+      213: -6550825596048235994
+    second: fragmento_animado_caminar_26
+  - first:
+      213: 5384466316693817409
+    second: fragmento_animado_caminar_27
+  - first:
+      213: 6106841116685236359
+    second: fragmento_animado_caminar_28
+  - first:
+      213: 6012085709516130090
+    second: fragmento_animado_caminar_29
+  - first:
+      213: -7576059358576202390
+    second: fragmento_animado_caminar_30
+  - first:
+      213: -4171785414275900087
+    second: fragmento_animado_caminar_31
+  - first:
+      213: 7179440013733038145
+    second: fragmento_animado_caminar_32
+  - first:
+      213: 3738921557098351272
+    second: fragmento_animado_caminar_33
+  - first:
+      213: -5911247291801840694
+    second: fragmento_animado_caminar_34
+  - first:
+      213: 4325815713280962766
+    second: fragmento_animado_caminar_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e3aaa0a390e2f4d95af6b820718bdc
+      internalID: 951385893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_01
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548f9f65483a67428f64145473a2b57
+      internalID: -2121927381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_02
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc790db0d56b72498e035647c9a236a
+      internalID: -1268178309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_03
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae21cdacdea8ac4e958e1cc17b86484
+      internalID: 1031876543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_04
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b3df4ca3a17a47894a5ad000d5565
+      internalID: 1443275875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_05
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ef017cc5b5a240bdebac460a46577
+      internalID: -1482881905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_06
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee8d780b3d23447913253e98b24a34
+      internalID: -1022760491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragmento_animado_caminar_07
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 236
+        height: 128
+      alignment: 9
+      pivot: {x: 0.762712, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb4a3fbdec85e49b4d7839553f6fa9
+      internalID: 438759111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 290d6b4ee8b2479429f089370f044dfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fragmento_animado_caminar_00: 951385893
+      fragmento_animado_caminar_01: -2121927381
+      fragmento_animado_caminar_02: -1268178309
+      fragmento_animado_caminar_03: 1031876543
+      fragmento_animado_caminar_04: 1443275875
+      fragmento_animado_caminar_05: -1482881905
+      fragmento_animado_caminar_06: -1022760491
+      fragmento_animado_caminar_07: 438759111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

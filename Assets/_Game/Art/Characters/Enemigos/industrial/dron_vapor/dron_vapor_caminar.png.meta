@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: c4ced7a2ba934e042b617184ca669f62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2235776776915687826
+    second: dron_vapor_caminar_0
+  - first:
+      213: -1269083482564304497
+    second: dron_vapor_caminar_1
+  - first:
+      213: -8958592327094151619
+    second: dron_vapor_caminar_2
+  - first:
+      213: -2459986110262365193
+    second: dron_vapor_caminar_3
+  - first:
+      213: 1342153843233304757
+    second: dron_vapor_caminar_4
+  - first:
+      213: 5213570707713911779
+    second: dron_vapor_caminar_5
+  - first:
+      213: -5001707247469570868
+    second: dron_vapor_caminar_6
+  - first:
+      213: -618540497476433006
+    second: dron_vapor_caminar_7
+  - first:
+      213: 4838886713643199284
+    second: dron_vapor_caminar_8
+  - first:
+      213: -7182345380776015459
+    second: dron_vapor_caminar_9
+  - first:
+      213: 7084947829670535453
+    second: dron_vapor_caminar_10
+  - first:
+      213: -156477433108510386
+    second: dron_vapor_caminar_11
+  - first:
+      213: -1299451275434604728
+    second: dron_vapor_caminar_12
+  - first:
+      213: -7934672880485973495
+    second: dron_vapor_caminar_13
+  - first:
+      213: -1292563415201902309
+    second: dron_vapor_caminar_14
+  - first:
+      213: 2254419409252923493
+    second: dron_vapor_caminar_15
+  - first:
+      213: 7375186849581969164
+    second: dron_vapor_caminar_16
+  - first:
+      213: 3357209743414248153
+    second: dron_vapor_caminar_17
+  - first:
+      213: -5415332769312536537
+    second: dron_vapor_caminar_18
+  - first:
+      213: -400136847779383541
+    second: dron_vapor_caminar_19
+  - first:
+      213: -8901150227732405994
+    second: dron_vapor_caminar_20
+  - first:
+      213: -1501558656989728707
+    second: dron_vapor_caminar_21
+  - first:
+      213: -6826391944176126727
+    second: dron_vapor_caminar_22
+  - first:
+      213: -172149543542371880
+    second: dron_vapor_caminar_23
+  - first:
+      213: 3365057793251750913
+    second: dron_vapor_caminar_24
+  - first:
+      213: 5472249659516919507
+    second: dron_vapor_caminar_25
+  - first:
+      213: 3292204141345027299
+    second: dron_vapor_caminar_26
+  - first:
+      213: -2451536915182712531
+    second: dron_vapor_caminar_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_vapor_caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0897f7fa53387348ad2aa71912b4443
+      internalID: 1088707724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_caminar_01
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda9d4d0def69174f95f8d18117d34d3
+      internalID: 1400714895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_caminar_02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8961bd81dd1d649ae12e42648fadc8
+      internalID: 951580285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_caminar_03
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee2d4c3e27c22e4fbdee2472faf49ef
+      internalID: -1249900872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_caminar_04
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42d0654aacab84981a0b8aefa2cbbc
+      internalID: -232816582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_caminar_05
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ff9bd2c7c19254f890c1fe5bc6abac
+      internalID: 1858010458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_caminar_06
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d12af6ddac4d48b1eb96a13d27554
+      internalID: 1528301193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_vapor_caminar_07
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 0
+        width: 254
+        height: 160
+      alignment: 9
+      pivot: {x: 0.322835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af726778c26d01a468cefeb2e09a79c9
+      internalID: 450216145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 39e88f7156aca12479b8d518fde7a53b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dron_vapor_caminar_00: 1088707724
+      dron_vapor_caminar_01: 1400714895
+      dron_vapor_caminar_02: 951580285
+      dron_vapor_caminar_03: -1249900872
+      dron_vapor_caminar_04: -232816582
+      dron_vapor_caminar_05: 1858010458
+      dron_vapor_caminar_06: 1528301193
+      dron_vapor_caminar_07: 450216145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

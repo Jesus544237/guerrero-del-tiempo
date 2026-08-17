@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: c5e2bc6c406778949a0ea2f1a9eebb57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3656607966383894719
+    second: espectro_asedio_caminar_0
+  - first:
+      213: -4320161131778802193
+    second: espectro_asedio_caminar_1
+  - first:
+      213: -2261179374651267956
+    second: espectro_asedio_caminar_2
+  - first:
+      213: 6955538780635809593
+    second: espectro_asedio_caminar_3
+  - first:
+      213: -23390089888835539
+    second: espectro_asedio_caminar_4
+  - first:
+      213: 3163241155940212758
+    second: espectro_asedio_caminar_5
+  - first:
+      213: 6371550069623912469
+    second: espectro_asedio_caminar_6
+  - first:
+      213: 5651372516740513874
+    second: espectro_asedio_caminar_7
+  - first:
+      213: 6284322825385597919
+    second: espectro_asedio_caminar_8
+  - first:
+      213: 6964260215462139865
+    second: espectro_asedio_caminar_9
+  - first:
+      213: 2433548301858205277
+    second: espectro_asedio_caminar_10
+  - first:
+      213: -8118936007753573324
+    second: espectro_asedio_caminar_11
+  - first:
+      213: 1502509987425344060
+    second: espectro_asedio_caminar_12
+  - first:
+      213: -6754156150823214251
+    second: espectro_asedio_caminar_13
+  - first:
+      213: -8820476490676702428
+    second: espectro_asedio_caminar_14
+  - first:
+      213: 1539447485608719796
+    second: espectro_asedio_caminar_15
+  - first:
+      213: 2405899021268661462
+    second: espectro_asedio_caminar_16
+  - first:
+      213: -8245354078851141515
+    second: espectro_asedio_caminar_17
+  - first:
+      213: 6758415061483001062
+    second: espectro_asedio_caminar_18
+  - first:
+      213: -4177821311075132925
+    second: espectro_asedio_caminar_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c08d99ca6428e4db88d319f54ef69d
+      internalID: -384497512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_01
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d2e9d2be7f47047a145e34d70cb4e4
+      internalID: 1494591063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_02
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3183280b1ea39d4384891bbc9cf3d4f
+      internalID: -644174110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_03
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ca8cea569a204587273232893a329
+      internalID: 1968636934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_04
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d59e390578aca46b3b081ded1f21d6
+      internalID: -1150664675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_05
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eff0ebf97a28040bf43a0a232dbd7f
+      internalID: 661831801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_06
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703a1521b9489c64f91ac0e29ed5c3e8
+      internalID: -815254661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espectro_asedio_caminar_07
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 0
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.390244, y: 0.016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436066f1d38e0da44b1e0e9d42c42f9f
+      internalID: -249695344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 26c028bd75f8a5c43a89074e3ac4aa69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      espectro_asedio_caminar_00: -384497512
+      espectro_asedio_caminar_01: 1494591063
+      espectro_asedio_caminar_02: -644174110
+      espectro_asedio_caminar_03: 1968636934
+      espectro_asedio_caminar_04: -1150664675
+      espectro_asedio_caminar_05: 661831801
+      espectro_asedio_caminar_06: -815254661
+      espectro_asedio_caminar_07: -249695344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

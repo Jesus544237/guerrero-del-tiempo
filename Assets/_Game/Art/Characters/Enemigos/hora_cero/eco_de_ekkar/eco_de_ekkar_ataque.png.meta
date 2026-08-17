@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: a6aeb1e4c2e2b0346a998283ff3fadd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6853019681002793386
+    second: eco_de_ekkar_ataque_0
+  - first:
+      213: -397198022411459949
+    second: eco_de_ekkar_ataque_1
+  - first:
+      213: 6076194259596713744
+    second: eco_de_ekkar_ataque_2
+  - first:
+      213: -2130286768077800395
+    second: eco_de_ekkar_ataque_3
+  - first:
+      213: -2296352316153593145
+    second: eco_de_ekkar_ataque_4
+  - first:
+      213: 2047666038272811657
+    second: eco_de_ekkar_ataque_5
+  - first:
+      213: -8026901029480625093
+    second: eco_de_ekkar_ataque_6
+  - first:
+      213: -5050769122812127879
+    second: eco_de_ekkar_ataque_7
+  - first:
+      213: -213472136878372339
+    second: eco_de_ekkar_ataque_8
+  - first:
+      213: 1342762184358707418
+    second: eco_de_ekkar_ataque_9
+  - first:
+      213: 8884271652535193500
+    second: eco_de_ekkar_ataque_10
+  - first:
+      213: 3442003786508721281
+    second: eco_de_ekkar_ataque_11
+  - first:
+      213: -8562193714569220073
+    second: eco_de_ekkar_ataque_12
+  - first:
+      213: -3749685842077856989
+    second: eco_de_ekkar_ataque_13
+  - first:
+      213: 1616878459288018458
+    second: eco_de_ekkar_ataque_14
+  - first:
+      213: 7310675979708435168
+    second: eco_de_ekkar_ataque_15
+  - first:
+      213: -2488972279929149511
+    second: eco_de_ekkar_ataque_16
+  - first:
+      213: 6382951092612871417
+    second: eco_de_ekkar_ataque_17
+  - first:
+      213: 8900330205828642968
+    second: eco_de_ekkar_ataque_18
+  - first:
+      213: 4961665784830239472
+    second: eco_de_ekkar_ataque_19
+  - first:
+      213: -6647937979107257392
+    second: eco_de_ekkar_ataque_20
+  - first:
+      213: -6349026791592178577
+    second: eco_de_ekkar_ataque_21
+  - first:
+      213: 1987568919258233835
+    second: eco_de_ekkar_ataque_22
+  - first:
+      213: -884672172938692027
+    second: eco_de_ekkar_ataque_23
+  - first:
+      213: -5249333495291068979
+    second: eco_de_ekkar_ataque_24
+  - first:
+      213: 4012830857801432738
+    second: eco_de_ekkar_ataque_25
+  - first:
+      213: -4731542785254090823
+    second: eco_de_ekkar_ataque_26
+  - first:
+      213: 4408562579405752647
+    second: eco_de_ekkar_ataque_27
+  - first:
+      213: -6352244593405696668
+    second: eco_de_ekkar_ataque_28
+  - first:
+      213: -972263050620790104
+    second: eco_de_ekkar_ataque_29
+  - first:
+      213: 8472697051821932902
+    second: eco_de_ekkar_ataque_30
+  - first:
+      213: 6325279369193626341
+    second: eco_de_ekkar_ataque_31
+  - first:
+      213: 1717718108250317292
+    second: eco_de_ekkar_ataque_32
+  - first:
+      213: 626939945218288788
+    second: eco_de_ekkar_ataque_33
+  - first:
+      213: -46469097264842367
+    second: eco_de_ekkar_ataque_34
+  - first:
+      213: -6734514464748091903
+    second: eco_de_ekkar_ataque_35
+  - first:
+      213: -293292418084201455
+    second: eco_de_ekkar_ataque_36
+  - first:
+      213: 5632501119394577805
+    second: eco_de_ekkar_ataque_37
+  - first:
+      213: -9204625402895949276
+    second: eco_de_ekkar_ataque_38
+  - first:
+      213: 831674498615477619
+    second: eco_de_ekkar_ataque_39
+  - first:
+      213: -5383895543096680533
+    second: eco_de_ekkar_ataque_40
+  - first:
+      213: 4066333282823361166
+    second: eco_de_ekkar_ataque_41
+  - first:
+      213: -7399006253643225071
+    second: eco_de_ekkar_ataque_42
+  - first:
+      213: -1993248826303870000
+    second: eco_de_ekkar_ataque_43
+  - first:
+      213: 260644601695747990
+    second: eco_de_ekkar_ataque_44
+  - first:
+      213: 2798360692689782041
+    second: eco_de_ekkar_ataque_45
+  - first:
+      213: -4437087515111312181
+    second: eco_de_ekkar_ataque_46
+  - first:
+      213: -5471996356371535890
+    second: eco_de_ekkar_ataque_47
+  - first:
+      213: -7150771980949579506
+    second: eco_de_ekkar_ataque_48
+  - first:
+      213: 3814438116395932341
+    second: eco_de_ekkar_ataque_49
+  - first:
+      213: -3862940703015094585
+    second: eco_de_ekkar_ataque_50
+  - first:
+      213: -5536027995585979077
+    second: eco_de_ekkar_ataque_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726a93c113f2bfb40b9104435d7842ec
+      internalID: 524946027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_01
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ac5563949d954e9c4bee606e1b96a
+      internalID: 1844071799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_02
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6892b1e205da2a0418f5269dbc631a67
+      internalID: 2040752782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_03
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826f8bad70720743a0f22d51259363c
+      internalID: -718003191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_04
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de37ab9539fa714e81271cb0c015d11
+      internalID: -1747511727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_05
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a331f9f5834044b29ab46e13d9e28
+      internalID: -398027528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_06
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897d6c089c9b1b43aa1e4fdc6fa3b27
+      internalID: 442646691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_07
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 238
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bdd37190a0a2f4dbae1b36622b7882
+      internalID: -1888668235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf8954b0079b8418f02077125caed5
+      internalID: 1313305635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_ataque_09
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: 0.734513, y: 0.016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e872afc7e2bb5b4093ca11dbfa6edeb
+      internalID: -2031306179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c2ba16ec358fb5849aef608fa66c366a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eco_de_ekkar_ataque_00: 524946027
+      eco_de_ekkar_ataque_01: 1844071799
+      eco_de_ekkar_ataque_02: 2040752782
+      eco_de_ekkar_ataque_03: -718003191
+      eco_de_ekkar_ataque_04: -1747511727
+      eco_de_ekkar_ataque_05: -398027528
+      eco_de_ekkar_ataque_06: 442646691
+      eco_de_ekkar_ataque_07: -1888668235
+      eco_de_ekkar_ataque_08: 1313305635
+      eco_de_ekkar_ataque_09: -2031306179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

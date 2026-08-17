@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: a8d71446ccda4414ea5474e0dfc87886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6371680613564218447
+    second: dron_centinela_idle_0
+  - first:
+      213: -6491483984104331074
+    second: dron_centinela_idle_1
+  - first:
+      213: 3148795675595397570
+    second: dron_centinela_idle_2
+  - first:
+      213: 2889049086340591602
+    second: dron_centinela_idle_3
+  - first:
+      213: -3012480191465427852
+    second: dron_centinela_idle_4
+  - first:
+      213: -3530538792888576886
+    second: dron_centinela_idle_5
+  - first:
+      213: -4751269510328856151
+    second: dron_centinela_idle_6
+  - first:
+      213: -6211470358808752769
+    second: dron_centinela_idle_7
+  - first:
+      213: 1857142774636035612
+    second: dron_centinela_idle_8
+  - first:
+      213: 5336722569403929472
+    second: dron_centinela_idle_9
+  - first:
+      213: -4558889032984384733
+    second: dron_centinela_idle_10
+  - first:
+      213: -2460536672050556131
+    second: dron_centinela_idle_11
+  - first:
+      213: 5249978511792979135
+    second: dron_centinela_idle_12
+  - first:
+      213: 6563149827969547749
+    second: dron_centinela_idle_13
+  - first:
+      213: -1445275086471503759
+    second: dron_centinela_idle_14
+  - first:
+      213: 7697109562805796060
+    second: dron_centinela_idle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_centinela_idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3987bb5fa4a548a9df5ab76d1975a
+      internalID: -673196029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_idle_01
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b6c10e34e734a4e95583d90ec61cfc
+      internalID: -980730834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_idle_02
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81942a2205ce9144fafbcda053a1f349
+      internalID: 1606153274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_idle_03
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035452ccca434f845af9928609828897
+      internalID: -1392906643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_idle_04
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e056a372c595f741bd6b1c97578fc19
+      internalID: -1519518447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_idle_05
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9070fad3fa134ed4b99ae6f9d6aae2ec
+      internalID: 2142013647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_idle_06
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbca1072d2b9f6349ba6af965320c062
+      internalID: 1218743424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_centinela_idle_07
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 304
+        height: 128
+      alignment: 9
+      pivot: {x: 0.740132, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c45d144d5663c842aa71fa354513605
+      internalID: 8387945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ad721728c9ebc245a92dbb0bfff6e08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dron_centinela_idle_00: -673196029
+      dron_centinela_idle_01: -980730834
+      dron_centinela_idle_02: 1606153274
+      dron_centinela_idle_03: -1392906643
+      dron_centinela_idle_04: -1519518447
+      dron_centinela_idle_05: 2142013647
+      dron_centinela_idle_06: 1218743424
+      dron_centinela_idle_07: 8387945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

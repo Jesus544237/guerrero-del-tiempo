@@ -1,0 +1,24 @@
+PARTICULAS: COMO USAR ESTE PROMPT
+=================================
+
+Una sola imagen por era, con las motas sueltas y bien separadas. De ahi se
+recortan una a una y se le dan al sistema de particulas, que ya existe en el
+juego (EmberFall, SuspendedAsh, ParticleField) y es el que las mueve, las
+inclina y las apaga.
+
+1. Genera la imagen con el prompt tal cual.
+2. Guardala como <era>/particulas/salida/particulas.png
+3. Avisame y monto el recortador: separa cada mota, la deja como sprite suelto
+   y las mete en la escena.
+
+POR QUE NO ES UN VIDEO
+----------------------
+Porque las particulas no se repiten: cada mota cae a su ritmo, con su tamano y
+su desfase, y eso lo decide el juego en tiempo real. Un video seria siempre el
+mismo bucle y se notaria enseguida. Ademas asi cuestan cero creditos.
+
+POR QUE NO ES UNA REJILLA
+-------------------------
+Porque los generadores de imagen hacen fatal las rejillas exactas. Un reguero
+de manchas sueltas se recorta por programa sin problema, siempre que no se
+toquen entre ellas. Por eso el prompt es tan pesado con la separacion.

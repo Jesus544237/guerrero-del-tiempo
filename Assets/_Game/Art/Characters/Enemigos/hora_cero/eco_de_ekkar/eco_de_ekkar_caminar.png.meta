@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 3b2d5dea810edc14fb9da15e85c0f817
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1254714756173056262
+    second: eco_de_ekkar_caminar_0
+  - first:
+      213: -5422689756289490376
+    second: eco_de_ekkar_caminar_1
+  - first:
+      213: -5402926653036057263
+    second: eco_de_ekkar_caminar_2
+  - first:
+      213: 3531470021269587222
+    second: eco_de_ekkar_caminar_3
+  - first:
+      213: -3860874901247162539
+    second: eco_de_ekkar_caminar_4
+  - first:
+      213: 7560876676363156169
+    second: eco_de_ekkar_caminar_5
+  - first:
+      213: 938699620128895675
+    second: eco_de_ekkar_caminar_6
+  - first:
+      213: 8433013108127243586
+    second: eco_de_ekkar_caminar_7
+  - first:
+      213: -6517287016794530774
+    second: eco_de_ekkar_caminar_8
+  - first:
+      213: -4570838403038253505
+    second: eco_de_ekkar_caminar_9
+  - first:
+      213: -7921596775988472596
+    second: eco_de_ekkar_caminar_10
+  - first:
+      213: -6458517148802306572
+    second: eco_de_ekkar_caminar_11
+  - first:
+      213: -7280062960286639819
+    second: eco_de_ekkar_caminar_12
+  - first:
+      213: 2114437924788022522
+    second: eco_de_ekkar_caminar_13
+  - first:
+      213: -2905457854395921746
+    second: eco_de_ekkar_caminar_14
+  - first:
+      213: 8079730975724052531
+    second: eco_de_ekkar_caminar_15
+  - first:
+      213: 4858494762766377160
+    second: eco_de_ekkar_caminar_16
+  - first:
+      213: 2268976217539736065
+    second: eco_de_ekkar_caminar_17
+  - first:
+      213: -3648081466333610635
+    second: eco_de_ekkar_caminar_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448bb1766ebf4843af03dfdec5a3098
+      internalID: -230731522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_01
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331ada6636f6bc45b7fb1d38b582a93
+      internalID: -185867951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_02
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e62ea76fa53d6f45a80cb271c56649b
+      internalID: -1445589841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_03
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a3cf0e208793409dd407f98d4454f
+      internalID: 780104501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_04
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9ca6af956be8468993717a0fa6054
+      internalID: 296561213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_05
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e98654ed8f906439a0b8b23137d367
+      internalID: -1829956102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_06
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737565b5a6d7fa54a9ec922f4ce2e0cc
+      internalID: -1056339260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eco_de_ekkar_caminar_07
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 380
+        height: 246
+      alignment: 9
+      pivot: {x: 0.755263, y: 0.01626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6432a4622036d7641b8dab4ad8f06ed8
+      internalID: 1488217258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 52675f786e57ed34d9ceeb02812d4171
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eco_de_ekkar_caminar_00: -230731522
+      eco_de_ekkar_caminar_01: -185867951
+      eco_de_ekkar_caminar_02: -1445589841
+      eco_de_ekkar_caminar_03: 780104501
+      eco_de_ekkar_caminar_04: 296561213
+      eco_de_ekkar_caminar_05: -1829956102
+      eco_de_ekkar_caminar_06: -1056339260
+      eco_de_ekkar_caminar_07: 1488217258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+Detailed 2D pixel art, 16-bit era style, hand-crafted look with crisp pixel edges and subtle dithering in the gradients. Cinematic dramatic lighting with strong readable silhouettes and clear depth separation between planes.
+
+Colour palette, strictly: void #0A0515, deep purple #1A0A2E, mid purple #2D1B69, violet #7C3AED, cyan glow #06B6D4, bright cyan #22D3EE, gold #F59E0B, light gold #FBBF24, blood red #DC2626, cold white #E2E8F0.
+
+Time is broken here: cyan light and floating golden clock gears leak into the scene, and small objects hang frozen in mid-air as if a moment had been paused.
+
+LEVEL: "La Hora Cero".
+
+SUBJECT: a sheet of separate foreground props in a single row with clear empty space between them: a giant cracked hourglass, a broken sword frozen mid-fall, a toppled column of gear teeth, a hanging chain of pocket watches, a shard of mirror showing another era, a ring of suspended gears, a banner turned to ash, a stopped pendulum. Every prop very dark, almost a silhouette, with a thin cyan rim light down its left side.
+
+BACKGROUND: everything that is NOT the subject must be pure flat solid chroma green #00FF00, absolutely uniform, no gradient, no shadow, no glow spilling onto it. Chroma green must not appear anywhere on the subject itself, so it can be cut out cleanly.
+
+Hard requirements: no characters, no creatures, no text, no letters, no numbers, no watermark, no signature, no user interface, no frame or border. Landscape 16:9, 2752x1536.
