@@ -203,14 +203,14 @@ El fondo no es un cuadro: es un mundo atascado. Cada efecto refuerza eso.
 
 ### Lo que NO encaja y por qué
 
-**Gothicvania Cemetery** está dibujado a otra escala. Sus enemigos miden 44×52 px
-y sus tiles 32 px; Ekkar mide 400×618. Puestos juntos, o Ekkar parece un gigante
-o los esqueletos parecen bloques de LEGO. No es un problema de gusto: es una
-diferencia de densidad de píxel de casi 10×.
+**Los packs de enemigos de terceros que se evaluaron** están dibujados a otra
+escala. Sus enemigos miden 44×52 px y sus tiles 32 px; Ekkar mide 400×618.
+Puestos juntos, o Ekkar parece un gigante o los esqueletos parecen bloques de
+LEGO. No es un problema de gusto: es una diferencia de densidad de píxel de
+casi 10×.
 
-→ **Decisión:** generar los enemigos medievales al tamaño y estilo de Ekkar.
-Gothicvania se reserva para siluetas de fondo lejano, donde la diferencia de
-resolución se lee como profundidad y no como error.
+→ **Decisión:** descartarlos por completo y generar los enemigos de cada era al
+tamaño y al estilo de Ekkar. Ningún recurso de terceros entra en el proyecto.
 
 **`escenario_edad_media/*.png`** es pintura digital, no pixel art. Precioso, pero
 de otro juego. Se sustituye.
