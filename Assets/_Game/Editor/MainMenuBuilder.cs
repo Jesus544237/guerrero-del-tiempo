@@ -1160,15 +1160,11 @@ namespace Ekkar.EditorTools
             Detail("Sprite sheets y animaciones originales");
             Sep();
 
-            Role("ARTE DE ESCENARIOS");
-            Name("Gothicvania Cemetery Pack");
-            Detail("Edad Media — enemigos y tileset");
-            Name("Free Industrial Zone Tileset");
-            Detail("Era Industrial — tileset y objetos");
-            Name("Cyberpunk City 2");
-            Detail("Futuro Digital — tileset, enemigos y música");
-            Name("Free Drones Pack Pixel Art");
-            Detail("Drones industriales");
+            // Los cuatro packs de terceros que figuraban aqui nunca llegaron a
+            // entrar en el proyecto: ningun archivo suyo esta en Assets. El arte
+            // de fondos, props y enemigos se genero para este juego.
+            Role("ARTE DE ESCENARIOS Y ENEMIGOS");
+            Name("Arte generado por IA");
             Sep();
 
             Role("TIPOGRAFIA");

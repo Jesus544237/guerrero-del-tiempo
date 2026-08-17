@@ -27,7 +27,11 @@ import sys
 
 from PIL import Image
 
-SRC_ROOT = r"C:\Users\usuario\Documents\SENA\programacion de video juegos\ekkar"
+# La biblioteca de arte original vive fuera del repositorio. Se localiza con la
+# variable de entorno EKKAR_ARTE; si no esta definida, se busca en la ruta
+# habitual dentro de la carpeta del usuario que ejecuta el script.
+SRC_ROOT = os.environ.get("EKKAR_ARTE") or os.path.join(
+    os.path.expanduser("~"), "Documents", "SENA", "programacion de video juegos", "ekkar")
 PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(PROJ, "Assets", "_Game", "Art", "Characters", "Ekkar", "Anim")
 PREVIEW_DIR = os.path.join(PROJ, "Tools", "out", "preview_anim")

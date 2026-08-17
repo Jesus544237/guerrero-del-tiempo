@@ -46,7 +46,8 @@ SR = 44100
 
 PROY = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REFS = os.path.join(PROY, "Docs", "Referencias")
-SENA = r"C:\Users\usuario\Documents\SENA\programacion de video juegos\ekkar"
+SENA = os.environ.get("EKKAR_ARTE") or os.path.join(
+    os.path.expanduser("~"), "Documents", "SENA", "programacion de video juegos", "ekkar")
 ANIM = os.path.join(PROY, "Assets", "_Game", "Art", "Characters", "Ekkar", "Anim")
 FUENTE = os.path.join(PROY, "Assets", "_Game", "Art", "Fonts", "PerfectDOSVGA437.ttf")
 

@@ -61,3 +61,12 @@ Tools/refs/
 
 # la clave de la API de arte no va al repositorio
 Tools/gemini_key.txt
+
+# ajustes locales de Claude Code: llevan rutas absolutas de esta maquina
+.claude/settings.local.json
+
+# notas de trabajo y material del proyecto formativo. No son parte del juego y
+# llevan datos personales (correo, instructor, enlaces privados). Se quedan en
+# el disco, fuera del repositorio.
+Docs/ESTADO DEL PROYECTO.md
+Docs/PLAN ENTREGAS SENA.md

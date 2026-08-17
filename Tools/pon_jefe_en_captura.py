@@ -28,7 +28,8 @@ from PIL import Image, ImageFilter
 
 PROY = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMAGENES = os.path.join(
-    r"C:\Users\usuario\Documents\SENA\programacion de video juegos",
+    os.environ.get("EKKAR_SENA") or os.path.join(
+        os.path.expanduser("~"), "Documents", "SENA", "programacion de video juegos"),
     "Fase 2 - Planeacion",
     "GA2-220501127-AA1-EV01 - Documento tecnico requerimientos de desarrollo",
     "fuente editable", "imagenes")
