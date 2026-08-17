@@ -514,7 +514,8 @@ namespace Ekkar.UI
                 "",
                 "El salto doble suelta una tormenta de rayos",
                 "que muerde a todo lo que tengas alrededor.",
-                "Cuesta mana: sin el, el salto sale seco.",
+                "Solo sale si hay alguien cerca, y entonces",
+                "cuesta mana. Saltar por saltar es gratis.",
             });
 
             Bloque(padre, der, mitad - 470f, anchoCol, "LAS HABILIDADES", new[]

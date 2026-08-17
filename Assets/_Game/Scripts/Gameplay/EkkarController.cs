@@ -335,10 +335,18 @@ namespace Ekkar.Gameplay
             Audio.Sfx.Play("salto", 0.7f, _saltos > 1 ? 1.25f : 1f);
 
             // El salto doble se lleva consigo un tornado de rayos que muerde a
-            // lo que tenga alrededor. Es una habilidad por derecho propio, asi
-            // que se paga: sin mana el salto sigue saliendo, pero seco. El Paga
-            // va el ultimo a proposito, que gasta mana al llamarlo.
+            // lo que tenga alrededor. Es una habilidad por derecho propio y se
+            // paga, pero SOLO si hay a quien morder.
+            //
+            // Cobrarla en cada salto doble vaciaba la barra sola: el salto doble
+            // se usa para moverse todo el rato, y el mana solo entra acertando
+            // golpes, asi que Ekkar pagaba por recorrer el nivel. Ahora en campo
+            // abierto el salto doble es gratis y no sale la tormenta; al lado de
+            // un enemigo sale y se cobra. El Paga va el ultimo a proposito, que
+            // gasta mana al llamarlo.
             if (_saltos > 1 && Time.time >= _tormentaCd &&
+                Damageable.HayObjetivo(transform.position + Vector3.up, radioTormenta,
+                                       Damageable.Bando.Jugador) &&
                 _combate != null && _combate.Paga(manaTormenta))
             {
                 _tormentaCd = Time.time + enfriamientoTormenta;

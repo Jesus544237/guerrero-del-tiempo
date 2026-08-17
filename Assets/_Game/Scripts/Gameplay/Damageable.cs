@@ -219,6 +219,23 @@ namespace Ekkar.Gameplay
         }
 
         /// <summary>
+        /// Si hay algo del bando contrario dentro del radio, sin tocarlo.
+        ///
+        /// Sirve para no cobrar una habilidad que no va a hacer nada: la
+        /// tormenta del salto doble se paga, y cobrarla por saltar en campo
+        /// abierto vaciaba la barra solo por moverse.
+        /// </summary>
+        public static bool HayObjetivo(Vector2 centro, float radio, Bando atacante)
+        {
+            foreach (var col in Physics2D.OverlapCircleAll(centro, radio))
+            {
+                var d = col.GetComponentInParent<Damageable>();
+                if (d != null && !d.Muerto && d.Lado != atacante) return true;
+            }
+            return false;
+        }
+
+        /// <summary>
         /// El chronobreak: no mata, deshuesa.
         ///
         /// A todo lo que pilla alrededor le arranca la vida hasta dejarlo en los
