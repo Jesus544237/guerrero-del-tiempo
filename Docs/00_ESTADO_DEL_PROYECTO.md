@@ -130,7 +130,8 @@ música por era y partículas propias que **se revelan gradualmente**.
 
 1. **Enemigos.** Hay 86 prompts en `Tools/prompts/<era>/enemigos/`. Falta
    generarlos y montar el extractor de vídeo → fotogramas → hoja de sprites.
-   Gothicvania (itch.io) **no sirve**: 44×52 px y sin animaciones de ataque ni daño.
+   Los packs de terceros evaluados **no sirven**: 44×52 px y sin animaciones de
+   ataque ni daño. Se descartan y se genera el arte propio de cada era.
 2. **Combate.** No hay daño, ni vida, ni IA. Nada llama a `PlayerRespawn.Die()`
    ni a `LevelFlow.BossDefeated()` todavía.
 3. **Botón CONTINUAR en el menú** (los métodos existen; falta el botón).
