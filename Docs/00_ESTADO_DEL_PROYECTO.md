@@ -7,9 +7,9 @@
 Juego de plataformas y acción 2D pixel art para PC (1920×1080, 16:9).
 Proyecto de Jesús Alexander Zabala Torres — SENA, Programación de Videojuegos.
 
-- **Proyecto Unity:** `C:\Users\usuario\Documents\proyectos_unity\ekkar_juego_del_tiempo`
 - **Unity 6.5 (6000.5.5f1)**, URP 2D, Input System nuevo (`activeInputHandler: 1`)
-- **Assets originales del SENA:** `C:\Users\usuario\Documents\SENA\programacion de video juegos`
+- **Biblioteca de arte original:** vive fuera del repositorio. Los scripts de
+  `Tools/` la localizan con la variable de entorno `EKKAR_ARTE`.
 - Hay un **MCP de Unity** conectado: se puede compilar, ejecutar menús y leer la escena desde el chat.
 
 ## 2. Historia

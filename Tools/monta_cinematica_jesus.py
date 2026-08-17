@@ -45,8 +45,12 @@ SR = 44100
 
 PROY = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FUENTE = os.path.join(PROY, "Assets", "_Game", "Art", "Fonts", "PerfectDOSVGA437.ttf")
-KEYART = r"C:\Users\usuario\Documents\SENA\programacion de video juegos\ekkar\scene_prologue.png"
-ENTRADA = r"C:\Users\usuario\Videos\jesuss .mp4"
+ARTE = os.environ.get("EKKAR_ARTE") or os.path.join(
+    os.path.expanduser("~"), "Documents", "SENA", "programacion de video juegos", "ekkar")
+KEYART = os.path.join(ARTE, "scene_prologue.png")
+# El video con la narracion grabada. Se pasa por EKKAR_NARRACION.
+ENTRADA = os.environ.get("EKKAR_NARRACION") or os.path.join(
+    os.path.expanduser("~"), "Videos", "narracion.mp4")
 SALIDA = os.path.join(PROY, "Tools", "out", "guerrero_del_tiempo_cinematica.mp4")
 PISTA = os.path.join(PROY, "Tools", "out", "pista_completa_33s.wav")
 

@@ -13,7 +13,7 @@ mirarlas a mano.
 Uso:
     python Tools/ordena_descargas.py                 # solo dice que haria
     python Tools/ordena_descargas.py --aplicar
-    python Tools/ordena_descargas.py --desde "C:/Users/usuario/Downloads"
+    python Tools/ordena_descargas.py --desde "~/Downloads"
 """
 
 import argparse
